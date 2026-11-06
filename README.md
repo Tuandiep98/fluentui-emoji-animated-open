@@ -6,7 +6,9 @@ This independent community collection is based on the visual language and expres
 
 The emoji here are original AI-generated illustrations with locally authored motion recipes. No Microsoft binary assets were copied into this release. This project is maintained by Tuấn Điệp and is not an official Microsoft release.
 
-![Showcase preview](docs/showcase-preview.png)
+[![Showcase preview](docs/showcase-preview.png)](https://tuandiep98.github.io/fluentui-emoji-animated-open/)
+
+**[Open the live showcase →](https://tuandiep98.github.io/fluentui-emoji-animated-open/)**
 
 ## Explore
 
@@ -141,6 +143,16 @@ out/review/           # local review artifacts (ignored by Git)
 ## Performance
 
 The showcase uses plain HTML, CSS, and JavaScript. It starts with 24 cards, lazy-loads still WebP, reveals 24 more on request, and limits gallery playback to three visible icons. Leaving the viewport or hiding the tab stops playback; opening details stops gallery motion. No animation file is requested during initial rendering. The compact search index covers the full collection without fetching the full metadata catalog. See [performance notes](docs/PERFORMANCE.md).
+
+## GitHub Pages deployment
+
+The live showcase is deployed by [GitHub Actions](https://github.com/Tuandiep98/fluentui-emoji-animated-open/actions/workflows/pages.yml) on every push to `main`. You can also run the workflow manually from the Actions tab. Repository Settings → Pages must use **GitHub Actions** as the source.
+
+```sh
+npm run build:pages
+```
+
+This refreshes the catalogs and README counts, then assembles `_site/` using Node built-ins. No dependency installation or image re-encoding is needed. The artifact includes the showcase, downloadable emoji, documentation, catalog, and license. Git history, dependencies, local review output, and authoring scripts are excluded. All site links use relative paths so the repository subpath works on Pages.
 
 ## License & attribution
 

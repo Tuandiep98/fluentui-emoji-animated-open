@@ -5,7 +5,9 @@
   "type": "module",
   "license": "MIT",
   "description": "230 original 3D emoji, tiny transparent animations and a local generation toolkit.",
-  "engines": { "node": ">=22" },
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
     "new": "node scripts/emoji.mjs new",
     "stills": "node scripts/emoji.mjs prepare",
@@ -14,7 +16,10 @@
     "approve": "node scripts/emoji.mjs approve",
     "catalog": "node scripts/catalog.mjs",
     "check": "node scripts/check.mjs",
-    "dev": "node scripts/serve.mjs"
+    "dev": "node scripts/serve.mjs",
+    "build:pages": "node scripts/build-pages.mjs"
   },
-  "dependencies": { "sharp": "0.35.5" }
+  "dependencies": {
+    "sharp": "0.35.5"
+  }
 }
