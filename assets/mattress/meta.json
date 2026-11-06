@@ -1,0 +1,45 @@
+{
+  "id": "mattress",
+  "name": "mattress",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "mattress"
+    },
+    "vi": {
+      "text": "nệm"
+    },
+    "zh-Hans": {
+      "text": "床垫",
+      "reading": "chuángdiàn"
+    },
+    "ja": {
+      "text": "マットレス",
+      "reading": "mattoresu"
+    },
+    "ko": {
+      "text": "매트리스",
+      "reading": "maeteuriseu"
+    },
+    "es": {
+      "text": "el colchón"
+    },
+    "fr": {
+      "text": "le matelas"
+    },
+    "de": {
+      "text": "die Matratze"
+    },
+    "id": {
+      "text": "kasur"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

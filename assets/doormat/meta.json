@@ -1,0 +1,45 @@
+{
+  "id": "doormat",
+  "name": "doormat",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "doormat"
+    },
+    "vi": {
+      "text": "thảm chùi chân"
+    },
+    "zh-Hans": {
+      "text": "门垫",
+      "reading": "méndiàn"
+    },
+    "ja": {
+      "text": "げんかんマット",
+      "reading": "genkan matto"
+    },
+    "ko": {
+      "text": "현관 매트",
+      "reading": "hyeongwan maeteu"
+    },
+    "es": {
+      "text": "el felpudo"
+    },
+    "fr": {
+      "text": "le paillasson"
+    },
+    "de": {
+      "text": "die Fußmatte"
+    },
+    "id": {
+      "text": "keset"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

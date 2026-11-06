@@ -1,0 +1,12 @@
+{
+  "method": "imported hash-bound still and decoded contact-sheet review",
+  "notes": "Checked nine terms/readings, 256px still and eight decoded AVIF frames on light/dark. Rigid utensil motions or small tong tip movement; no edge artifacts observed. Contact-sheet review, not real-time playback.",
+  "hashes": {
+    "source.png": "4cac9169678f6edfc9855a88a6c5669706cfed8f0d51f2cb8f771a582e4b2db8",
+    "still.png": "43dfdcd16a33017914bce4abb1ec6592c72dd933185d0d0a68351882a92d1d1d",
+    "still.webp": "598fdfb47426658c38493a7f9de5598e8bdcfe190dbdc0ca597a8ed850d8a918",
+    "animated.avif": "fe72878b7628224c82190608a98b513d5b0a1e135893a7f93dd3b761e6db528a",
+    "motion.json": "eef51673edb36f37454b45dc48d4cd09c93dd270f027dd883788c5e72a566cd7",
+    "meta.json": "eb07542239e658a59f1c0d4be5db501f1a3e83cab6aba95db9fa4d1b7e4598d6"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "stairs",
+  "name": "stairs",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "stairs"
+    },
+    "vi": {
+      "text": "cầu thang"
+    },
+    "zh-Hans": {
+      "text": "楼梯",
+      "reading": "lóutī"
+    },
+    "ja": {
+      "text": "かいだん",
+      "reading": "kaidan"
+    },
+    "ko": {
+      "text": "계단",
+      "reading": "gyedan"
+    },
+    "es": {
+      "text": "las escaleras"
+    },
+    "fr": {
+      "text": "l'escalier"
+    },
+    "de": {
+      "text": "die Treppe"
+    },
+    "id": {
+      "text": "tangga rumah"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

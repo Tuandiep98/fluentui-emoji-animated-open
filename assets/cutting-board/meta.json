@@ -1,0 +1,45 @@
+{
+  "id": "cutting-board",
+  "name": "cutting board",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "cutting board"
+    },
+    "vi": {
+      "text": "thớt"
+    },
+    "zh-Hans": {
+      "text": "砧板",
+      "reading": "zhēnbǎn"
+    },
+    "ja": {
+      "text": "まないた",
+      "reading": "manaita"
+    },
+    "ko": {
+      "text": "도마",
+      "reading": "doma"
+    },
+    "es": {
+      "text": "la tabla de cortar"
+    },
+    "fr": {
+      "text": "la planche à découper"
+    },
+    "de": {
+      "text": "das Schneidebrett"
+    },
+    "id": {
+      "text": "talenan"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "watering-can",
+  "name": "watering can",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "watering can"
+    },
+    "vi": {
+      "text": "bình tưới cây"
+    },
+    "zh-Hans": {
+      "text": "洒水壶",
+      "reading": "sǎ shuǐ hú"
+    },
+    "ja": {
+      "text": "じょうろ",
+      "reading": "jōro"
+    },
+    "ko": {
+      "text": "물뿌리개",
+      "reading": "mulppurigae"
+    },
+    "es": {
+      "text": "la regadera"
+    },
+    "fr": {
+      "text": "l'arrosoir"
+    },
+    "de": {
+      "text": "die Gießkanne"
+    },
+    "id": {
+      "text": "gembor"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "soursop",
+  "name": "soursop",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "soursop"
+    },
+    "vi": {
+      "text": "quả mãng cầu xiêm"
+    },
+    "zh-Hans": {
+      "text": "刺果番荔枝",
+      "reading": "cìguǒfānlìzhī"
+    },
+    "ja": {
+      "text": "グアナバナ",
+      "reading": "guanabana"
+    },
+    "ko": {
+      "text": "가시여지",
+      "reading": "gasiyeoji"
+    },
+    "es": {
+      "text": "la guanábana"
+    },
+    "fr": {
+      "text": "le corossol"
+    },
+    "de": {
+      "text": "die Stachelannone"
+    },
+    "id": {
+      "text": "sirsak"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

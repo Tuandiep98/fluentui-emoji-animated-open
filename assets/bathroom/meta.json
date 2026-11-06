@@ -1,0 +1,45 @@
+{
+  "id": "bathroom",
+  "name": "bathroom",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bathroom"
+    },
+    "vi": {
+      "text": "phòng tắm"
+    },
+    "zh-Hans": {
+      "text": "浴室",
+      "reading": "yùshì"
+    },
+    "ja": {
+      "text": "おふろば",
+      "reading": "ofuroba"
+    },
+    "ko": {
+      "text": "욕실",
+      "reading": "yoksil"
+    },
+    "es": {
+      "text": "el cuarto de baño"
+    },
+    "fr": {
+      "text": "la salle de bains"
+    },
+    "de": {
+      "text": "das Badezimmer"
+    },
+    "id": {
+      "text": "kamar mandi"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "flower-bulb",
+  "name": "flower bulb",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "flower bulb"
+    },
+    "vi": {
+      "text": "củ hoa"
+    },
+    "zh-Hans": {
+      "text": "鳞茎",
+      "reading": "línjīng"
+    },
+    "ja": {
+      "text": "きゅうこん",
+      "reading": "kyūkon"
+    },
+    "ko": {
+      "text": "구근",
+      "reading": "gugeun"
+    },
+    "es": {
+      "text": "el bulbo"
+    },
+    "fr": {
+      "text": "le bulbe"
+    },
+    "de": {
+      "text": "die Blumenzwiebel"
+    },
+    "id": {
+      "text": "umbi bunga"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

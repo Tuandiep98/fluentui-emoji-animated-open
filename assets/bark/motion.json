@@ -1,0 +1,7 @@
+{
+  "preset": "tool",
+  "pivot": "center",
+  "amp": 0.15,
+  "fps": 12,
+  "fx": []
+}

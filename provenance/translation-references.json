@@ -1,0 +1,60 @@
+{
+  "flower-bulb": [
+    {
+      "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=64683&la=1&powerMode=0",
+      "supports": "Chinese 鳞茎 for a layered true bulb, matching the planned tulip-like icon."
+    },
+    {
+      "url": "https://www.rhs.org.uk/plants/types/bulbs/growing-guide",
+      "supports": "True bulbs and corms differ; use layered true-bulb anatomy for this concept."
+    }
+  ],
+  "marigold": [
+    {
+      "url": "https://www.snhf.org/fiche-plante/rose-dinde/",
+      "supports": "French rose d'Inde identifies Tagetes erecta, matching Chinese 万寿菊 and Korean 천수국."
+    }
+  ],
+  "cream": [
+    {
+      "url": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=107860&la=0&powerMode=0",
+      "supports": "Fresh dairy cream is distinct from whipped cream; use 鲜奶油 for cream and 打发奶油 for the whipped preparation."
+    }
+  ],
+  "coconut-milk": [
+    {
+      "url": "https://www.hunan.gov.cn/zqt/zcsd/202412/33540408/files/d76e352d537c4e15b7960e8d64c922b7.pdf",
+      "supports": "椰浆 is a white emulsion pressed from coconut flesh, matching Vietnamese nước cốt dừa and the cooking-ingredient icon."
+    }
+  ],
+  "rambutan": [
+    {
+      "url": "https://www.duden.de/rechtschreibung/Rambutan",
+      "supports": "German fruit noun is feminine: die Rambutan."
+    }
+  ],
+  "mangosteen": [
+    {
+      "url": "https://www.edeka.de/static/media/EDEKA-Zentrale/Unsere-Marken/Exotenkarten/WDR_Exotenkarten_Mangostane_2021_105x148.pdf",
+      "supports": "Mangostane and Mangostan are accepted names for the fruit."
+    }
+  ],
+  "taro": [
+    {
+      "url": "https://www.duden.de/rechtschreibung/Taro_Frucht",
+      "supports": "The edible taro corm is masculine in German: der Taro."
+    }
+  ],
+  "poached-egg": [
+    {
+      "url": "https://badanbahasa.kemendikdasmen.go.id/resource/doc/files/Kamus_Tata_Boga.pdf",
+      "supports": "Indonesian culinary dictionary defines telur poser as poached egg, with soft yolk and set white."
+    }
+  ],
+  "omelet": [
+    {
+      "url": "https://www.madrid.es/UnidadesDescentralizadas/Salud/PrevencionYPromocion/ProgramaComidaSaludable/ficheros/menusemanal1.pdf",
+      "supports": "Tortilla francesa names the plain folded egg omelet shown in the icon, avoiding the broader tortilla ambiguity."
+    }
+  ]
+}

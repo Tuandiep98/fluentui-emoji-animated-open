@@ -1,0 +1,45 @@
+{
+  "id": "handrail",
+  "name": "handrail",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "handrail"
+    },
+    "vi": {
+      "text": "tay vịn"
+    },
+    "zh-Hans": {
+      "text": "扶手",
+      "reading": "fúshǒu"
+    },
+    "ja": {
+      "text": "てすり",
+      "reading": "tesuri"
+    },
+    "ko": {
+      "text": "난간",
+      "reading": "nangan"
+    },
+    "es": {
+      "text": "la barandilla"
+    },
+    "fr": {
+      "text": "la rampe"
+    },
+    "de": {
+      "text": "das Treppengeländer"
+    },
+    "id": {
+      "text": "pegangan tangga"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

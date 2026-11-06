@@ -1,0 +1,45 @@
+{
+  "id": "snapdragon",
+  "name": "snapdragon",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "snapdragon"
+    },
+    "vi": {
+      "text": "hoa mõm sói"
+    },
+    "zh-Hans": {
+      "text": "金鱼草",
+      "reading": "jīnyúcǎo"
+    },
+    "ja": {
+      "text": "キンギョソウ",
+      "reading": "kingyosō"
+    },
+    "ko": {
+      "text": "금어초",
+      "reading": "geumeocho"
+    },
+    "es": {
+      "text": "la boca de dragón"
+    },
+    "fr": {
+      "text": "le muflier"
+    },
+    "de": {
+      "text": "das Löwenmäulchen"
+    },
+    "id": {
+      "text": "bunga snapdragon"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

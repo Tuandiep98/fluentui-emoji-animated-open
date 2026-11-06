@@ -1,0 +1,45 @@
+{
+  "id": "asparagus",
+  "name": "asparagus",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "asparagus"
+    },
+    "vi": {
+      "text": "măng tây"
+    },
+    "zh-Hans": {
+      "text": "芦笋",
+      "reading": "lúsǔn"
+    },
+    "ja": {
+      "text": "アスパラガス",
+      "reading": "asuparagasu"
+    },
+    "ko": {
+      "text": "아스파라거스",
+      "reading": "aseuparageoseu"
+    },
+    "es": {
+      "text": "el espárrago"
+    },
+    "fr": {
+      "text": "l'asperge"
+    },
+    "de": {
+      "text": "der Spargel"
+    },
+    "id": {
+      "text": "asparagus"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

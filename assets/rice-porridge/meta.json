@@ -1,0 +1,45 @@
+{
+  "id": "rice-porridge",
+  "name": "rice porridge",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "rice porridge"
+    },
+    "vi": {
+      "text": "cháo"
+    },
+    "zh-Hans": {
+      "text": "白粥",
+      "reading": "báizhōu"
+    },
+    "ja": {
+      "text": "おかゆ",
+      "reading": "okayu"
+    },
+    "ko": {
+      "text": "쌀죽",
+      "reading": "ssaljuk"
+    },
+    "es": {
+      "text": "las gachas de arroz"
+    },
+    "fr": {
+      "text": "la bouillie de riz"
+    },
+    "de": {
+      "text": "der Reisbrei"
+    },
+    "id": {
+      "text": "bubur nasi"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

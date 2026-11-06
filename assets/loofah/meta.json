@@ -1,0 +1,45 @@
+{
+  "id": "loofah",
+  "name": "loofah",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "loofah"
+    },
+    "vi": {
+      "text": "quả mướp"
+    },
+    "zh-Hans": {
+      "text": "丝瓜",
+      "reading": "sīguā"
+    },
+    "ja": {
+      "text": "ヘチマ",
+      "reading": "hechima"
+    },
+    "ko": {
+      "text": "수세미",
+      "reading": "susemi"
+    },
+    "es": {
+      "text": "la lufa"
+    },
+    "fr": {
+      "text": "la luffa"
+    },
+    "de": {
+      "text": "der Schwammkürbis"
+    },
+    "id": {
+      "text": "oyong"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

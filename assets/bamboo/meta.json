@@ -1,0 +1,45 @@
+{
+  "id": "bamboo",
+  "name": "bamboo",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "bamboo"
+    },
+    "vi": {
+      "text": "cây tre"
+    },
+    "zh-Hans": {
+      "text": "竹子",
+      "reading": "zhúzi"
+    },
+    "ja": {
+      "text": "たけ",
+      "reading": "take"
+    },
+    "ko": {
+      "text": "대나무",
+      "reading": "daenamu"
+    },
+    "es": {
+      "text": "el bambú"
+    },
+    "fr": {
+      "text": "le bambou"
+    },
+    "de": {
+      "text": "der Bambus"
+    },
+    "id": {
+      "text": "bambu"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

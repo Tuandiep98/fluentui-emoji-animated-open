@@ -1,0 +1,12 @@
+{
+  "method": "imported hash-bound still and decoded contact-sheet review",
+  "notes": "Reviewed identifying anatomy and nine-language meaning, normalized still and eight decoded AVIF frames on light/dark backgrounds; contact-sheet review, not real-time playback.",
+  "hashes": {
+    "source.png": "3f50daecf732445744ae4877d428321a1c19554056c5eab1a80bdf4c81e54305",
+    "still.png": "303c384f045040cdf1cd4bfd4e5759f8e48e195266a3f51f0b3d6b6648387f1e",
+    "still.webp": "b33bb1c6b9fc17f077ea989018e6d9add6182562c17d1dafac008a4c974d8784",
+    "animated.avif": "5639ecd12985ee49224ad532ab15cb547bf93c6d61de34b17769f67723024162",
+    "motion.json": "0e3118bd9b0d5c7a708920ee8c6f45b8dd610da460ded5327c066dea83171402",
+    "meta.json": "323970e253c7ad6742ddc9ccb0990c33434c4f63f62d3dce4b30b2fd1a4284f3"
+  }
+}

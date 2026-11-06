@@ -1,0 +1,45 @@
+{
+  "id": "dishwasher",
+  "name": "dishwasher",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "dishwasher"
+    },
+    "vi": {
+      "text": "máy rửa bát"
+    },
+    "zh-Hans": {
+      "text": "洗碗机",
+      "reading": "xǐwǎnjī"
+    },
+    "ja": {
+      "text": "しょっきあらいき",
+      "reading": "shokki araiki"
+    },
+    "ko": {
+      "text": "식기세척기",
+      "reading": "sikgi secheokgi"
+    },
+    "es": {
+      "text": "el lavavajillas"
+    },
+    "fr": {
+      "text": "le lave-vaisselle"
+    },
+    "de": {
+      "text": "die Spülmaschine"
+    },
+    "id": {
+      "text": "mesin pencuci piring"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

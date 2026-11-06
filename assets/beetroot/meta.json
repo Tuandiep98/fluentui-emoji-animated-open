@@ -1,0 +1,45 @@
+{
+  "id": "beetroot",
+  "name": "beetroot",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "beetroot"
+    },
+    "vi": {
+      "text": "củ dền"
+    },
+    "zh-Hans": {
+      "text": "甜菜根",
+      "reading": "tiáncàigēn"
+    },
+    "ja": {
+      "text": "ビーツ",
+      "reading": "bītsu"
+    },
+    "ko": {
+      "text": "비트",
+      "reading": "biteu"
+    },
+    "es": {
+      "text": "la remolacha"
+    },
+    "fr": {
+      "text": "la betterave"
+    },
+    "de": {
+      "text": "die Rote Bete"
+    },
+    "id": {
+      "text": "bit"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

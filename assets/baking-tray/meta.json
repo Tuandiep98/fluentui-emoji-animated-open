@@ -1,0 +1,45 @@
+{
+  "id": "baking-tray",
+  "name": "baking tray",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "baking tray"
+    },
+    "vi": {
+      "text": "khay nướng"
+    },
+    "zh-Hans": {
+      "text": "烤盘",
+      "reading": "kǎopán"
+    },
+    "ja": {
+      "text": "てんばん",
+      "reading": "tenban"
+    },
+    "ko": {
+      "text": "오븐 쟁반",
+      "reading": "obeun jaengban"
+    },
+    "es": {
+      "text": "la bandeja de horno"
+    },
+    "fr": {
+      "text": "la plaque de cuisson"
+    },
+    "de": {
+      "text": "das Backblech"
+    },
+    "id": {
+      "text": "loyang"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

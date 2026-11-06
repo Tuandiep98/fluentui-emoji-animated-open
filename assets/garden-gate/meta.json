@@ -1,0 +1,45 @@
+{
+  "id": "garden-gate",
+  "name": "garden gate",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "garden gate"
+    },
+    "vi": {
+      "text": "cổng vườn"
+    },
+    "zh-Hans": {
+      "text": "花园门",
+      "reading": "huāyuánmén"
+    },
+    "ja": {
+      "text": "にわのもん",
+      "reading": "niwa no mon"
+    },
+    "ko": {
+      "text": "정원 문",
+      "reading": "jeongwon mun"
+    },
+    "es": {
+      "text": "la puerta del jardín"
+    },
+    "fr": {
+      "text": "le portillon"
+    },
+    "de": {
+      "text": "das Gartentor"
+    },
+    "id": {
+      "text": "gerbang taman"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

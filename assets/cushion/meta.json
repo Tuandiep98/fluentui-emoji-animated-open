@@ -1,0 +1,45 @@
+{
+  "id": "cushion",
+  "name": "cushion",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "cushion"
+    },
+    "vi": {
+      "text": "gối tựa"
+    },
+    "zh-Hans": {
+      "text": "靠垫",
+      "reading": "kàodiàn"
+    },
+    "ja": {
+      "text": "クッション",
+      "reading": "kusshon"
+    },
+    "ko": {
+      "text": "쿠션",
+      "reading": "kusyeon"
+    },
+    "es": {
+      "text": "el cojín"
+    },
+    "fr": {
+      "text": "le coussin"
+    },
+    "de": {
+      "text": "das Sofakissen"
+    },
+    "id": {
+      "text": "bantal sofa"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

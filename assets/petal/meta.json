@@ -1,0 +1,45 @@
+{
+  "id": "petal",
+  "name": "petal",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "petal"
+    },
+    "vi": {
+      "text": "cánh hoa"
+    },
+    "zh-Hans": {
+      "text": "花瓣",
+      "reading": "huābàn"
+    },
+    "ja": {
+      "text": "はなびら",
+      "reading": "hanabira"
+    },
+    "ko": {
+      "text": "꽃잎",
+      "reading": "kkonnip"
+    },
+    "es": {
+      "text": "el pétalo"
+    },
+    "fr": {
+      "text": "le pétale"
+    },
+    "de": {
+      "text": "das Blütenblatt"
+    },
+    "id": {
+      "text": "daun mahkota bunga"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "rambutan",
+  "name": "rambutan",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "rambutan"
+    },
+    "vi": {
+      "text": "quả chôm chôm"
+    },
+    "zh-Hans": {
+      "text": "红毛丹",
+      "reading": "hóngmáodān"
+    },
+    "ja": {
+      "text": "ランブータン",
+      "reading": "ranbūtan"
+    },
+    "ko": {
+      "text": "람부탄",
+      "reading": "rambutan"
+    },
+    "es": {
+      "text": "el rambután"
+    },
+    "fr": {
+      "text": "le ramboutan"
+    },
+    "de": {
+      "text": "die Rambutan"
+    },
+    "id": {
+      "text": "rambutan"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

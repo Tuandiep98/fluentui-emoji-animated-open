@@ -1,0 +1,45 @@
+{
+  "id": "hallway",
+  "name": "hallway",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "hallway"
+    },
+    "vi": {
+      "text": "hành lang"
+    },
+    "zh-Hans": {
+      "text": "走廊",
+      "reading": "zǒuláng"
+    },
+    "ja": {
+      "text": "ろうか",
+      "reading": "rōka"
+    },
+    "ko": {
+      "text": "복도",
+      "reading": "bokdo"
+    },
+    "es": {
+      "text": "el pasillo"
+    },
+    "fr": {
+      "text": "le couloir"
+    },
+    "de": {
+      "text": "der Flur"
+    },
+    "id": {
+      "text": "lorong"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

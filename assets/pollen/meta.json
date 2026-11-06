@@ -1,0 +1,45 @@
+{
+  "id": "pollen",
+  "name": "pollen",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "pollen"
+    },
+    "vi": {
+      "text": "phấn hoa"
+    },
+    "zh-Hans": {
+      "text": "花粉",
+      "reading": "huāfěn"
+    },
+    "ja": {
+      "text": "かふん",
+      "reading": "kafun"
+    },
+    "ko": {
+      "text": "꽃가루",
+      "reading": "kkotgaru"
+    },
+    "es": {
+      "text": "el polen"
+    },
+    "fr": {
+      "text": "le pollen"
+    },
+    "de": {
+      "text": "der Blütenstaub"
+    },
+    "id": {
+      "text": "serbuk sari"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

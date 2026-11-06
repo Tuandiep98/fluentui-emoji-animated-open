@@ -1,0 +1,45 @@
+{
+  "id": "yogurt",
+  "name": "yogurt",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "yogurt"
+    },
+    "vi": {
+      "text": "sữa chua"
+    },
+    "zh-Hans": {
+      "text": "酸奶",
+      "reading": "suānnǎi"
+    },
+    "ja": {
+      "text": "ヨーグルト",
+      "reading": "yōguruto"
+    },
+    "ko": {
+      "text": "요구르트",
+      "reading": "yogureuteu"
+    },
+    "es": {
+      "text": "el yogur"
+    },
+    "fr": {
+      "text": "le yaourt"
+    },
+    "de": {
+      "text": "der Joghurt"
+    },
+    "id": {
+      "text": "yoghurt"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "oven-mitt",
+  "name": "oven mitt",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "oven mitt"
+    },
+    "vi": {
+      "text": "găng tay nhấc nồi"
+    },
+    "zh-Hans": {
+      "text": "隔热手套",
+      "reading": "gérè shǒutào"
+    },
+    "ja": {
+      "text": "ミトン",
+      "reading": "miton"
+    },
+    "ko": {
+      "text": "오븐 장갑",
+      "reading": "obeun janggap"
+    },
+    "es": {
+      "text": "el guante de horno"
+    },
+    "fr": {
+      "text": "le gant de cuisine"
+    },
+    "de": {
+      "text": "der Ofenhandschuh"
+    },
+    "id": {
+      "text": "sarung tangan oven"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

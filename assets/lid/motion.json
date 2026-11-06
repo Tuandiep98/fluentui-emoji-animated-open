@@ -1,0 +1,8 @@
+{
+  "preset": "rock",
+  "pivot": "center",
+  "amp": 0.3,
+  "fps": 12,
+  "fx": ["glint"],
+  "glintAlpha": 0.2
+}

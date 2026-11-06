@@ -1,0 +1,45 @@
+{
+  "id": "oak-tree",
+  "name": "oak tree",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "oak tree"
+    },
+    "vi": {
+      "text": "cây sồi"
+    },
+    "zh-Hans": {
+      "text": "橡树",
+      "reading": "xiàngshù"
+    },
+    "ja": {
+      "text": "オーク",
+      "reading": "ōku"
+    },
+    "ko": {
+      "text": "참나무",
+      "reading": "chamnamu"
+    },
+    "es": {
+      "text": "el roble"
+    },
+    "fr": {
+      "text": "le chêne"
+    },
+    "de": {
+      "text": "die Eiche"
+    },
+    "id": {
+      "text": "pohon ek"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

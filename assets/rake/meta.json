@@ -1,0 +1,45 @@
+{
+  "id": "rake",
+  "name": "rake",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "rake"
+    },
+    "vi": {
+      "text": "cái cào"
+    },
+    "zh-Hans": {
+      "text": "耙子",
+      "reading": "pázi"
+    },
+    "ja": {
+      "text": "くまで",
+      "reading": "kumade"
+    },
+    "ko": {
+      "text": "갈퀴",
+      "reading": "galkwi"
+    },
+    "es": {
+      "text": "el rastrillo"
+    },
+    "fr": {
+      "text": "le râteau"
+    },
+    "de": {
+      "text": "der Rechen"
+    },
+    "id": {
+      "text": "garu"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

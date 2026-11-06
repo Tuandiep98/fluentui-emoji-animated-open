@@ -1,0 +1,45 @@
+{
+  "id": "kitchen",
+  "name": "kitchen",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "kitchen"
+    },
+    "vi": {
+      "text": "nhà bếp"
+    },
+    "zh-Hans": {
+      "text": "厨房",
+      "reading": "chúfáng"
+    },
+    "ja": {
+      "text": "だいどころ",
+      "reading": "daidokoro"
+    },
+    "ko": {
+      "text": "부엌",
+      "reading": "bueok"
+    },
+    "es": {
+      "text": "la cocina"
+    },
+    "fr": {
+      "text": "la cuisine"
+    },
+    "de": {
+      "text": "die Küche"
+    },
+    "id": {
+      "text": "dapur"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

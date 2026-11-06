@@ -1,0 +1,45 @@
+{
+  "id": "roof",
+  "name": "roof",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "roof"
+    },
+    "vi": {
+      "text": "mái nhà"
+    },
+    "zh-Hans": {
+      "text": "屋顶",
+      "reading": "wūdǐng"
+    },
+    "ja": {
+      "text": "やね",
+      "reading": "yane"
+    },
+    "ko": {
+      "text": "지붕",
+      "reading": "jibung"
+    },
+    "es": {
+      "text": "el tejado"
+    },
+    "fr": {
+      "text": "le toit"
+    },
+    "de": {
+      "text": "das Dach"
+    },
+    "id": {
+      "text": "atap"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

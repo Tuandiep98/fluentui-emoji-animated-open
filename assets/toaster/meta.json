@@ -1,0 +1,45 @@
+{
+  "id": "toaster",
+  "name": "toaster",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "toaster"
+    },
+    "vi": {
+      "text": "máy nướng bánh mì"
+    },
+    "zh-Hans": {
+      "text": "烤面包机",
+      "reading": "kǎo miànbāo jī"
+    },
+    "ja": {
+      "text": "トースター",
+      "reading": "tōsutā"
+    },
+    "ko": {
+      "text": "토스터",
+      "reading": "toseuteo"
+    },
+    "es": {
+      "text": "la tostadora"
+    },
+    "fr": {
+      "text": "le grille-pain"
+    },
+    "de": {
+      "text": "der Toaster"
+    },
+    "id": {
+      "text": "pemanggang roti"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

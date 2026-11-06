@@ -1,0 +1,45 @@
+{
+  "id": "chimney",
+  "name": "chimney",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "chimney"
+    },
+    "vi": {
+      "text": "ống khói"
+    },
+    "zh-Hans": {
+      "text": "烟囱",
+      "reading": "yāncōng"
+    },
+    "ja": {
+      "text": "えんとつ",
+      "reading": "entotsu"
+    },
+    "ko": {
+      "text": "굴뚝",
+      "reading": "gulttuk"
+    },
+    "es": {
+      "text": "la chimenea"
+    },
+    "fr": {
+      "text": "la cheminée"
+    },
+    "de": {
+      "text": "der Schornstein"
+    },
+    "id": {
+      "text": "cerobong asap"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

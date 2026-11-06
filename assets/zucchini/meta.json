@@ -1,0 +1,45 @@
+{
+  "id": "zucchini",
+  "name": "zucchini",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "zucchini"
+    },
+    "vi": {
+      "text": "quả bí ngòi"
+    },
+    "zh-Hans": {
+      "text": "西葫芦",
+      "reading": "xīhúlu"
+    },
+    "ja": {
+      "text": "ズッキーニ",
+      "reading": "zukkinī"
+    },
+    "ko": {
+      "text": "주키니",
+      "reading": "jukini"
+    },
+    "es": {
+      "text": "el calabacín"
+    },
+    "fr": {
+      "text": "la courgette"
+    },
+    "de": {
+      "text": "die Zucchini"
+    },
+    "id": {
+      "text": "zukini"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

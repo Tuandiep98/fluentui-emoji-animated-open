@@ -1,0 +1,45 @@
+{
+  "id": "durian",
+  "name": "durian",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "durian"
+    },
+    "vi": {
+      "text": "quả sầu riêng"
+    },
+    "zh-Hans": {
+      "text": "榴莲",
+      "reading": "liúlián"
+    },
+    "ja": {
+      "text": "ドリアン",
+      "reading": "dorian"
+    },
+    "ko": {
+      "text": "두리안",
+      "reading": "durian"
+    },
+    "es": {
+      "text": "el durián"
+    },
+    "fr": {
+      "text": "le durian"
+    },
+    "de": {
+      "text": "die Durian"
+    },
+    "id": {
+      "text": "durian"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

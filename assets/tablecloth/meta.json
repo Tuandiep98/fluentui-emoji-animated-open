@@ -1,0 +1,45 @@
+{
+  "id": "tablecloth",
+  "name": "tablecloth",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "tablecloth"
+    },
+    "vi": {
+      "text": "khăn trải bàn"
+    },
+    "zh-Hans": {
+      "text": "桌布",
+      "reading": "zhuōbù"
+    },
+    "ja": {
+      "text": "テーブルクロス",
+      "reading": "tēburu kurosu"
+    },
+    "ko": {
+      "text": "식탁보",
+      "reading": "siktakbo"
+    },
+    "es": {
+      "text": "el mantel"
+    },
+    "fr": {
+      "text": "la nappe"
+    },
+    "de": {
+      "text": "die Tischdecke"
+    },
+    "id": {
+      "text": "taplak meja"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

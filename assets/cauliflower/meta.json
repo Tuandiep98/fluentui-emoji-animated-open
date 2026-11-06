@@ -1,0 +1,45 @@
+{
+  "id": "cauliflower",
+  "name": "cauliflower",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "cauliflower"
+    },
+    "vi": {
+      "text": "súp lơ trắng"
+    },
+    "zh-Hans": {
+      "text": "花椰菜",
+      "reading": "huāyēcài"
+    },
+    "ja": {
+      "text": "カリフラワー",
+      "reading": "karifurawā"
+    },
+    "ko": {
+      "text": "콜리플라워",
+      "reading": "kollipeullawo"
+    },
+    "es": {
+      "text": "la coliflor"
+    },
+    "fr": {
+      "text": "le chou-fleur"
+    },
+    "de": {
+      "text": "der Blumenkohl"
+    },
+    "id": {
+      "text": "kembang kol"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

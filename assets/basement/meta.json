@@ -1,0 +1,45 @@
+{
+  "id": "basement",
+  "name": "basement",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "basement"
+    },
+    "vi": {
+      "text": "tầng hầm"
+    },
+    "zh-Hans": {
+      "text": "地下室",
+      "reading": "dìxiàshì"
+    },
+    "ja": {
+      "text": "ちかしつ",
+      "reading": "chikashitsu"
+    },
+    "ko": {
+      "text": "지하실",
+      "reading": "jihasil"
+    },
+    "es": {
+      "text": "el sótano"
+    },
+    "fr": {
+      "text": "le sous-sol"
+    },
+    "de": {
+      "text": "der Keller"
+    },
+    "id": {
+      "text": "ruang bawah tanah"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

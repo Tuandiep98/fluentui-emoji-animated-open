@@ -1,0 +1,45 @@
+{
+  "id": "peanut-butter",
+  "name": "peanut butter",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "peanut butter"
+    },
+    "vi": {
+      "text": "bơ đậu phộng"
+    },
+    "zh-Hans": {
+      "text": "花生酱",
+      "reading": "huāshēngjiàng"
+    },
+    "ja": {
+      "text": "ピーナッツバター",
+      "reading": "pīnattsu batā"
+    },
+    "ko": {
+      "text": "땅콩버터",
+      "reading": "ttangkongbeoteo"
+    },
+    "es": {
+      "text": "la crema de cacahuete"
+    },
+    "fr": {
+      "text": "le beurre de cacahuète"
+    },
+    "de": {
+      "text": "die Erdnussbutter"
+    },
+    "id": {
+      "text": "selai kacang"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

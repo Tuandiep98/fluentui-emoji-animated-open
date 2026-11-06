@@ -1,0 +1,45 @@
+{
+  "id": "sugar-apple",
+  "name": "sugar apple",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "sugar apple"
+    },
+    "vi": {
+      "text": "quả na"
+    },
+    "zh-Hans": {
+      "text": "番荔枝",
+      "reading": "fānlìzhī"
+    },
+    "ja": {
+      "text": "バンレイシ",
+      "reading": "banreishi"
+    },
+    "ko": {
+      "text": "슈가애플",
+      "reading": "syuga aepeul"
+    },
+    "es": {
+      "text": "el anón"
+    },
+    "fr": {
+      "text": "la pomme cannelle"
+    },
+    "de": {
+      "text": "der Zimtapfel"
+    },
+    "id": {
+      "text": "srikaya"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "gardening-gloves",
+  "name": "gardening gloves",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "gardening gloves"
+    },
+    "vi": {
+      "text": "găng tay làm vườn"
+    },
+    "zh-Hans": {
+      "text": "园艺手套",
+      "reading": "yuányì shǒutào"
+    },
+    "ja": {
+      "text": "えんげいようてぶくろ",
+      "reading": "engeiyō tebukuro"
+    },
+    "ko": {
+      "text": "원예 장갑",
+      "reading": "wonye janggap"
+    },
+    "es": {
+      "text": "los guantes de jardín"
+    },
+    "fr": {
+      "text": "les gants de jardinage"
+    },
+    "de": {
+      "text": "die Gartenhandschuhe"
+    },
+    "id": {
+      "text": "sarung tangan kebun"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

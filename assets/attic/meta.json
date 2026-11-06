@@ -1,0 +1,45 @@
+{
+  "id": "attic",
+  "name": "attic",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "attic"
+    },
+    "vi": {
+      "text": "gác mái"
+    },
+    "zh-Hans": {
+      "text": "阁楼",
+      "reading": "gélóu"
+    },
+    "ja": {
+      "text": "やねうら",
+      "reading": "yaneura"
+    },
+    "ko": {
+      "text": "다락방",
+      "reading": "darakbang"
+    },
+    "es": {
+      "text": "el desván"
+    },
+    "fr": {
+      "text": "le grenier"
+    },
+    "de": {
+      "text": "der Dachboden"
+    },
+    "id": {
+      "text": "loteng"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

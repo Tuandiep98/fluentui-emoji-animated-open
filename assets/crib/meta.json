@@ -1,0 +1,45 @@
+{
+  "id": "crib",
+  "name": "crib",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "crib"
+    },
+    "vi": {
+      "text": "cũi em bé"
+    },
+    "zh-Hans": {
+      "text": "婴儿床",
+      "reading": "yīng'érchuáng"
+    },
+    "ja": {
+      "text": "ベビーベッド",
+      "reading": "bebī beddo"
+    },
+    "ko": {
+      "text": "아기 침대",
+      "reading": "agi chimdae"
+    },
+    "es": {
+      "text": "la cuna"
+    },
+    "fr": {
+      "text": "le lit à barreaux"
+    },
+    "de": {
+      "text": "das Gitterbett"
+    },
+    "id": {
+      "text": "ranjang bayi"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

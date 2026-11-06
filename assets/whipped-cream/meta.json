@@ -1,0 +1,45 @@
+{
+  "id": "whipped-cream",
+  "name": "whipped cream",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "whipped cream"
+    },
+    "vi": {
+      "text": "kem đánh bông"
+    },
+    "zh-Hans": {
+      "text": "打发奶油",
+      "reading": "dǎfā nǎiyóu"
+    },
+    "ja": {
+      "text": "ホイップクリーム",
+      "reading": "hoippu kurīmu"
+    },
+    "ko": {
+      "text": "휘핑크림",
+      "reading": "hwipingkeurim"
+    },
+    "es": {
+      "text": "la nata montada"
+    },
+    "fr": {
+      "text": "la crème fouettée"
+    },
+    "de": {
+      "text": "die Schlagsahne"
+    },
+    "id": {
+      "text": "krim kocok"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

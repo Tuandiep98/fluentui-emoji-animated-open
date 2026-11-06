@@ -1,0 +1,45 @@
+{
+  "id": "laundry-room",
+  "name": "laundry room",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "laundry room"
+    },
+    "vi": {
+      "text": "phòng giặt"
+    },
+    "zh-Hans": {
+      "text": "洗衣房",
+      "reading": "xǐyīfáng"
+    },
+    "ja": {
+      "text": "せんたくしつ",
+      "reading": "sentakushitsu"
+    },
+    "ko": {
+      "text": "세탁실",
+      "reading": "setaksil"
+    },
+    "es": {
+      "text": "el lavadero"
+    },
+    "fr": {
+      "text": "la buanderie"
+    },
+    "de": {
+      "text": "die Waschküche"
+    },
+    "id": {
+      "text": "ruang cuci"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

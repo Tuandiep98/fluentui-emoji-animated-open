@@ -1,0 +1,45 @@
+{
+  "id": "apple-tree",
+  "name": "apple tree",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "apple tree"
+    },
+    "vi": {
+      "text": "cây táo"
+    },
+    "zh-Hans": {
+      "text": "苹果树",
+      "reading": "píngguǒshù"
+    },
+    "ja": {
+      "text": "りんごのき",
+      "reading": "ringo no ki"
+    },
+    "ko": {
+      "text": "사과나무",
+      "reading": "sagwanamu"
+    },
+    "es": {
+      "text": "el manzano"
+    },
+    "fr": {
+      "text": "le pommier"
+    },
+    "de": {
+      "text": "der Apfelbaum"
+    },
+    "id": {
+      "text": "pohon apel"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

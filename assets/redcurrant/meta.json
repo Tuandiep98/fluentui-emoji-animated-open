@@ -1,0 +1,45 @@
+{
+  "id": "redcurrant",
+  "name": "redcurrant",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "redcurrant"
+    },
+    "vi": {
+      "text": "quả lý chua đỏ"
+    },
+    "zh-Hans": {
+      "text": "红醋栗",
+      "reading": "hóngcùlì"
+    },
+    "ja": {
+      "text": "アカスグリ",
+      "reading": "akasuguri"
+    },
+    "ko": {
+      "text": "레드커런트",
+      "reading": "redeukeoreonteu"
+    },
+    "es": {
+      "text": "la grosella roja"
+    },
+    "fr": {
+      "text": "la groseille rouge"
+    },
+    "de": {
+      "text": "die Rote Johannisbeere"
+    },
+    "id": {
+      "text": "redcurrant"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

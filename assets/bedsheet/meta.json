@@ -1,0 +1,45 @@
+{
+  "id": "bedsheet",
+  "name": "bedsheet",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bedsheet"
+    },
+    "vi": {
+      "text": "ga trải giường"
+    },
+    "zh-Hans": {
+      "text": "床单",
+      "reading": "chuángdān"
+    },
+    "ja": {
+      "text": "シーツ",
+      "reading": "shītsu"
+    },
+    "ko": {
+      "text": "침대 시트",
+      "reading": "chimdae siteu"
+    },
+    "es": {
+      "text": "la sábana"
+    },
+    "fr": {
+      "text": "le drap"
+    },
+    "de": {
+      "text": "das Bettlaken"
+    },
+    "id": {
+      "text": "seprai"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

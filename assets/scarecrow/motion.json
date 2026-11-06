@@ -1,0 +1,47 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        61,
+        130
+      ],
+      "radius": [
+        44,
+        32
+      ],
+      "amp": 4,
+      "cycles": 1
+    },
+    {
+      "kind": "wave",
+      "center": [
+        196,
+        130
+      ],
+      "radius": [
+        44,
+        32
+      ],
+      "amp": -4,
+      "cycles": 1
+    },
+    {
+      "kind": "wave",
+      "center": [
+        128,
+        57
+      ],
+      "radius": [
+        55,
+        32
+      ],
+      "amp": 2,
+      "cycles": 1
+    }
+  ],
+  "note": "The straw sleeves and hat flutter in a light breeze; the support remains planted."
+}

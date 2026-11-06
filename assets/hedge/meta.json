@@ -1,0 +1,45 @@
+{
+  "id": "hedge",
+  "name": "hedge",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "hedge"
+    },
+    "vi": {
+      "text": "hàng cây bụi"
+    },
+    "zh-Hans": {
+      "text": "树篱",
+      "reading": "shùlí"
+    },
+    "ja": {
+      "text": "いけがき",
+      "reading": "ikegaki"
+    },
+    "ko": {
+      "text": "산울타리",
+      "reading": "sanultari"
+    },
+    "es": {
+      "text": "el seto"
+    },
+    "fr": {
+      "text": "la haie"
+    },
+    "de": {
+      "text": "die Hecke"
+    },
+    "id": {
+      "text": "pagar tanaman"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

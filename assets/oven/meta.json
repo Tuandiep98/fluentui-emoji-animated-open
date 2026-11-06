@@ -1,0 +1,45 @@
+{
+  "id": "oven",
+  "name": "oven",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "oven"
+    },
+    "vi": {
+      "text": "lò nướng"
+    },
+    "zh-Hans": {
+      "text": "烤箱",
+      "reading": "kǎoxiāng"
+    },
+    "ja": {
+      "text": "オーブン",
+      "reading": "ōbun"
+    },
+    "ko": {
+      "text": "오븐",
+      "reading": "obeun"
+    },
+    "es": {
+      "text": "el horno"
+    },
+    "fr": {
+      "text": "le four"
+    },
+    "de": {
+      "text": "der Backofen"
+    },
+    "id": {
+      "text": "oven"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

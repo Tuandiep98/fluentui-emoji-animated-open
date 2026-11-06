@@ -1,0 +1,45 @@
+{
+  "id": "seed-packet",
+  "name": "seed packet",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "seed packet"
+    },
+    "vi": {
+      "text": "gói hạt giống"
+    },
+    "zh-Hans": {
+      "text": "种子袋",
+      "reading": "zhǒngzidài"
+    },
+    "ja": {
+      "text": "たねのふくろ",
+      "reading": "tane no fukuro"
+    },
+    "ko": {
+      "text": "씨앗 봉투",
+      "reading": "ssiat bongtu"
+    },
+    "es": {
+      "text": "el sobre de semillas"
+    },
+    "fr": {
+      "text": "le sachet de graines"
+    },
+    "de": {
+      "text": "die Samentüte"
+    },
+    "id": {
+      "text": "kantong benih"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "trowel",
+  "name": "trowel",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "trowel"
+    },
+    "vi": {
+      "text": "xẻng làm vườn nhỏ"
+    },
+    "zh-Hans": {
+      "text": "移植铲",
+      "reading": "yízhíchǎn"
+    },
+    "ja": {
+      "text": "いしょくごて",
+      "reading": "ishoku gote"
+    },
+    "ko": {
+      "text": "모종삽",
+      "reading": "mojongsap"
+    },
+    "es": {
+      "text": "la paleta de jardinería"
+    },
+    "fr": {
+      "text": "le transplantoir"
+    },
+    "de": {
+      "text": "die Pflanzkelle"
+    },
+    "id": {
+      "text": "sekop kecil"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "jam",
+  "name": "jam",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "jam"
+    },
+    "vi": {
+      "text": "mứt"
+    },
+    "zh-Hans": {
+      "text": "果酱",
+      "reading": "guǒjiàng"
+    },
+    "ja": {
+      "text": "ジャム",
+      "reading": "jamu"
+    },
+    "ko": {
+      "text": "잼",
+      "reading": "jaem"
+    },
+    "es": {
+      "text": "la mermelada"
+    },
+    "fr": {
+      "text": "la confiture"
+    },
+    "de": {
+      "text": "die Konfitüre"
+    },
+    "id": {
+      "text": "selai"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

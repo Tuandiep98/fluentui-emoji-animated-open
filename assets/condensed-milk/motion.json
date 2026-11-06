@@ -1,0 +1,23 @@
+{
+  "fps": 16,
+  "fx": [
+    "glint"
+  ],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        95
+      ],
+      "radius": [
+        75,
+        43
+      ],
+      "amp": 3
+    }
+  ],
+  "glintAlpha": 0.16,
+  "note": "The thick condensed-milk surface settles inside its stationary open can."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "pansy",
+  "name": "pansy",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "pansy"
+    },
+    "vi": {
+      "text": "hoa păng xê"
+    },
+    "zh-Hans": {
+      "text": "三色堇",
+      "reading": "sānsèjǐn"
+    },
+    "ja": {
+      "text": "パンジー",
+      "reading": "panjī"
+    },
+    "ko": {
+      "text": "팬지",
+      "reading": "paenji"
+    },
+    "es": {
+      "text": "el pensamiento"
+    },
+    "fr": {
+      "text": "la pensée"
+    },
+    "de": {
+      "text": "das Stiefmütterchen"
+    },
+    "id": {
+      "text": "bunga pansy"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

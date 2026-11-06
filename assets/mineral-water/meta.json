@@ -1,0 +1,45 @@
+{
+  "id": "mineral-water",
+  "name": "mineral water",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "mineral water"
+    },
+    "vi": {
+      "text": "nước khoáng"
+    },
+    "zh-Hans": {
+      "text": "矿泉水",
+      "reading": "kuàngquánshuǐ"
+    },
+    "ja": {
+      "text": "ミネラルウォーター",
+      "reading": "mineraru wōtā"
+    },
+    "ko": {
+      "text": "생수",
+      "reading": "saengsu"
+    },
+    "es": {
+      "text": "el agua mineral"
+    },
+    "fr": {
+      "text": "l'eau minérale"
+    },
+    "de": {
+      "text": "das Mineralwasser"
+    },
+    "id": {
+      "text": "air mineral"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

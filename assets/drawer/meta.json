@@ -1,0 +1,45 @@
+{
+  "id": "drawer",
+  "name": "drawer",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "drawer"
+    },
+    "vi": {
+      "text": "ngăn kéo"
+    },
+    "zh-Hans": {
+      "text": "抽屉",
+      "reading": "chōuti"
+    },
+    "ja": {
+      "text": "ひきだし",
+      "reading": "hikidashi"
+    },
+    "ko": {
+      "text": "서랍",
+      "reading": "seorap"
+    },
+    "es": {
+      "text": "el cajón"
+    },
+    "fr": {
+      "text": "le tiroir"
+    },
+    "de": {
+      "text": "die Schublade"
+    },
+    "id": {
+      "text": "laci"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

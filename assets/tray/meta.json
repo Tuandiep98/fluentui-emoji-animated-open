@@ -1,0 +1,45 @@
+{
+  "id": "tray",
+  "name": "tray",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "tray"
+    },
+    "vi": {
+      "text": "cái khay"
+    },
+    "zh-Hans": {
+      "text": "托盘",
+      "reading": "tuōpán"
+    },
+    "ja": {
+      "text": "おぼん",
+      "reading": "obon"
+    },
+    "ko": {
+      "text": "쟁반",
+      "reading": "jaengban"
+    },
+    "es": {
+      "text": "la bandeja"
+    },
+    "fr": {
+      "text": "le plateau"
+    },
+    "de": {
+      "text": "das Tablett"
+    },
+    "id": {
+      "text": "baki"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

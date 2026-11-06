@@ -1,0 +1,45 @@
+{
+  "id": "spinach",
+  "name": "spinach",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "spinach"
+    },
+    "vi": {
+      "text": "rau chân vịt"
+    },
+    "zh-Hans": {
+      "text": "菠菜",
+      "reading": "bōcài"
+    },
+    "ja": {
+      "text": "ホウレンソウ",
+      "reading": "hōrensō"
+    },
+    "ko": {
+      "text": "시금치",
+      "reading": "sigeumchi"
+    },
+    "es": {
+      "text": "la espinaca"
+    },
+    "fr": {
+      "text": "les épinards"
+    },
+    "de": {
+      "text": "der Spinat"
+    },
+    "id": {
+      "text": "bayam eropa"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "coconut-milk",
+  "name": "coconut milk",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "coconut milk"
+    },
+    "vi": {
+      "text": "nước cốt dừa"
+    },
+    "zh-Hans": {
+      "text": "椰浆",
+      "reading": "yējiāng"
+    },
+    "ja": {
+      "text": "ココナッツミルク",
+      "reading": "kokonattsu miruku"
+    },
+    "ko": {
+      "text": "코코넛밀크",
+      "reading": "kokoneotmilkeu"
+    },
+    "es": {
+      "text": "la leche de coco"
+    },
+    "fr": {
+      "text": "le lait de coco"
+    },
+    "de": {
+      "text": "die Kokosmilch"
+    },
+    "id": {
+      "text": "santan"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

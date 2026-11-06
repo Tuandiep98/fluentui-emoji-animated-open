@@ -1,0 +1,45 @@
+{
+  "id": "coat-rack",
+  "name": "coat rack",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "coat rack"
+    },
+    "vi": {
+      "text": "giá treo áo"
+    },
+    "zh-Hans": {
+      "text": "衣帽架",
+      "reading": "yīmàojià"
+    },
+    "ja": {
+      "text": "コートかけ",
+      "reading": "kōto kake"
+    },
+    "ko": {
+      "text": "옷걸이대",
+      "reading": "otgeoridae"
+    },
+    "es": {
+      "text": "el perchero"
+    },
+    "fr": {
+      "text": "le portemanteau"
+    },
+    "de": {
+      "text": "die Garderobe"
+    },
+    "id": {
+      "text": "rak gantungan baju"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "water-spinach",
+  "name": "water spinach",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "water spinach"
+    },
+    "vi": {
+      "text": "rau muống"
+    },
+    "zh-Hans": {
+      "text": "空心菜",
+      "reading": "kōngxīncài"
+    },
+    "ja": {
+      "text": "クウシンサイ",
+      "reading": "kūshinsai"
+    },
+    "ko": {
+      "text": "공심채",
+      "reading": "gongsimchae"
+    },
+    "es": {
+      "text": "la espinaca de agua"
+    },
+    "fr": {
+      "text": "le liseron d'eau"
+    },
+    "de": {
+      "text": "der Wasserspinat"
+    },
+    "id": {
+      "text": "kangkung"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

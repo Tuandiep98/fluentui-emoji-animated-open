@@ -1,0 +1,45 @@
+{
+  "id": "oatmeal",
+  "name": "oatmeal",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "oatmeal"
+    },
+    "vi": {
+      "text": "cháo yến mạch"
+    },
+    "zh-Hans": {
+      "text": "燕麦粥",
+      "reading": "yànmàizhōu"
+    },
+    "ja": {
+      "text": "オートミール",
+      "reading": "ōtomīru"
+    },
+    "ko": {
+      "text": "오트밀",
+      "reading": "oteumil"
+    },
+    "es": {
+      "text": "la avena cocida"
+    },
+    "fr": {
+      "text": "le porridge d'avoine"
+    },
+    "de": {
+      "text": "der Haferbrei"
+    },
+    "id": {
+      "text": "bubur oat"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

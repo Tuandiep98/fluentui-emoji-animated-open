@@ -1,0 +1,33 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        101
+      ],
+      "radius": [
+        83,
+        43
+      ],
+      "amp": 2.5
+    },
+    {
+      "kind": "wave",
+      "center": [
+        103,
+        83
+      ],
+      "radius": [
+        37,
+        29
+      ],
+      "amp": 1.8,
+      "cycles": 1
+    }
+  ],
+  "note": "The cut fruit pieces settle gently inside the fixed bowl."
+}

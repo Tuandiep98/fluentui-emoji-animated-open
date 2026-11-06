@@ -1,0 +1,7 @@
+{
+  "preset": "jelly",
+  "pivot": "bottom",
+  "amp": 0.65,
+  "fps": 16,
+  "fx": []
+}

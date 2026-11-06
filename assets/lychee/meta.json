@@ -1,0 +1,45 @@
+{
+  "id": "lychee",
+  "name": "lychee",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "lychee"
+    },
+    "vi": {
+      "text": "quả vải"
+    },
+    "zh-Hans": {
+      "text": "荔枝",
+      "reading": "lìzhī"
+    },
+    "ja": {
+      "text": "ライチ",
+      "reading": "raichi"
+    },
+    "ko": {
+      "text": "리치",
+      "reading": "richi"
+    },
+    "es": {
+      "text": "el lichi"
+    },
+    "fr": {
+      "text": "le litchi"
+    },
+    "de": {
+      "text": "die Litschi"
+    },
+    "id": {
+      "text": "leci"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,14 @@
+{
+  "fps": 16,
+  "fx": [
+    "liquid-ripple"
+  ],
+  "preset": "still",
+  "surface": {
+    "x": 0.5,
+    "y": 0.18,
+    "rx": 0.34,
+    "ry": 0.065
+  },
+  "note": "Two soft concentric ripples travel over the water while the stone pedestal stays fixed."
+}

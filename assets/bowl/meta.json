@@ -1,0 +1,45 @@
+{
+  "id": "bowl",
+  "name": "bowl",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "bowl"
+    },
+    "vi": {
+      "text": "cái bát"
+    },
+    "zh-Hans": {
+      "text": "碗",
+      "reading": "wǎn"
+    },
+    "ja": {
+      "text": "おわん",
+      "reading": "owan"
+    },
+    "ko": {
+      "text": "그릇",
+      "reading": "geureut"
+    },
+    "es": {
+      "text": "el cuenco"
+    },
+    "fr": {
+      "text": "le bol"
+    },
+    "de": {
+      "text": "die Schüssel"
+    },
+    "id": {
+      "text": "mangkuk"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

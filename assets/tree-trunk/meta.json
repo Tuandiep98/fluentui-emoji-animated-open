@@ -1,0 +1,45 @@
+{
+  "id": "tree-trunk",
+  "name": "tree trunk",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "tree trunk"
+    },
+    "vi": {
+      "text": "thân cây gỗ"
+    },
+    "zh-Hans": {
+      "text": "树干",
+      "reading": "shùgàn"
+    },
+    "ja": {
+      "text": "みき",
+      "reading": "miki"
+    },
+    "ko": {
+      "text": "나무줄기",
+      "reading": "namujulgi"
+    },
+    "es": {
+      "text": "el tronco del árbol"
+    },
+    "fr": {
+      "text": "le tronc"
+    },
+    "de": {
+      "text": "der Baumstamm"
+    },
+    "id": {
+      "text": "batang pohon"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

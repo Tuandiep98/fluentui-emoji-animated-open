@@ -1,0 +1,14 @@
+{
+  "fps": 16,
+  "fx": [
+    "glass-glint",
+    "bubbles-rise"
+  ],
+  "preset": "still",
+  "emit": {
+    "x": 0.53,
+    "y": 0.45
+  },
+  "glowRadius": 35,
+  "note": "Tiny bubbles rise through the water with a light sweep across the bottle."
+}

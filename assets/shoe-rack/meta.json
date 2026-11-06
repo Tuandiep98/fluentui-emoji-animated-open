@@ -1,0 +1,45 @@
+{
+  "id": "shoe-rack",
+  "name": "shoe rack",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "shoe rack"
+    },
+    "vi": {
+      "text": "kệ giày"
+    },
+    "zh-Hans": {
+      "text": "鞋架",
+      "reading": "xiéjià"
+    },
+    "ja": {
+      "text": "くつだな",
+      "reading": "kutsudana"
+    },
+    "ko": {
+      "text": "신발장",
+      "reading": "sinbaljang"
+    },
+    "es": {
+      "text": "el zapatero"
+    },
+    "fr": {
+      "text": "le meuble à chaussures"
+    },
+    "de": {
+      "text": "das Schuhregal"
+    },
+    "id": {
+      "text": "rak sepatu"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

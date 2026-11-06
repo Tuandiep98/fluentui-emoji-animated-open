@@ -1,0 +1,45 @@
+{
+  "id": "passion-fruit",
+  "name": "passion fruit",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "passion fruit"
+    },
+    "vi": {
+      "text": "quả chanh dây"
+    },
+    "zh-Hans": {
+      "text": "百香果",
+      "reading": "bǎixiāngguǒ"
+    },
+    "ja": {
+      "text": "パッションフルーツ",
+      "reading": "passhon furūtsu"
+    },
+    "ko": {
+      "text": "패션프루트",
+      "reading": "paesyeonpeuruteu"
+    },
+    "es": {
+      "text": "la fruta de la pasión"
+    },
+    "fr": {
+      "text": "le fruit de la passion"
+    },
+    "de": {
+      "text": "die Passionsfrucht"
+    },
+    "id": {
+      "text": "markisa"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

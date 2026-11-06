@@ -1,0 +1,45 @@
+{
+  "id": "whisk",
+  "name": "whisk",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "whisk"
+    },
+    "vi": {
+      "text": "phới đánh trứng"
+    },
+    "zh-Hans": {
+      "text": "打蛋器",
+      "reading": "dǎdànqì"
+    },
+    "ja": {
+      "text": "あわだてき",
+      "reading": "awadateki"
+    },
+    "ko": {
+      "text": "거품기",
+      "reading": "geopumgi"
+    },
+    "es": {
+      "text": "las varillas"
+    },
+    "fr": {
+      "text": "le fouet"
+    },
+    "de": {
+      "text": "der Schneebesen"
+    },
+    "id": {
+      "text": "pengocok telur"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

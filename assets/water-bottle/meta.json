@@ -1,0 +1,45 @@
+{
+  "id": "water-bottle",
+  "name": "water bottle",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "water bottle"
+    },
+    "vi": {
+      "text": "bình nước"
+    },
+    "zh-Hans": {
+      "text": "水瓶",
+      "reading": "shuǐpíng"
+    },
+    "ja": {
+      "text": "すいとう",
+      "reading": "suitō"
+    },
+    "ko": {
+      "text": "물통",
+      "reading": "multong"
+    },
+    "es": {
+      "text": "la botella de agua"
+    },
+    "fr": {
+      "text": "la gourde"
+    },
+    "de": {
+      "text": "die Trinkflasche"
+    },
+    "id": {
+      "text": "botol air"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

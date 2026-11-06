@@ -1,0 +1,45 @@
+{
+  "id": "napkin",
+  "name": "napkin",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "napkin"
+    },
+    "vi": {
+      "text": "khăn ăn"
+    },
+    "zh-Hans": {
+      "text": "餐巾",
+      "reading": "cānjīn"
+    },
+    "ja": {
+      "text": "ナプキン",
+      "reading": "napukin"
+    },
+    "ko": {
+      "text": "냅킨",
+      "reading": "naepkin"
+    },
+    "es": {
+      "text": "la servilleta"
+    },
+    "fr": {
+      "text": "la serviette de table"
+    },
+    "de": {
+      "text": "die Serviette"
+    },
+    "id": {
+      "text": "serbet"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

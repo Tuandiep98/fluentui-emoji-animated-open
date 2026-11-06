@@ -1,0 +1,45 @@
+{
+  "id": "high-chair",
+  "name": "high chair",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "high chair"
+    },
+    "vi": {
+      "text": "ghế ăn em bé"
+    },
+    "zh-Hans": {
+      "text": "儿童餐椅",
+      "reading": "értóng cānyǐ"
+    },
+    "ja": {
+      "text": "ベビーチェア",
+      "reading": "bebīchea"
+    },
+    "ko": {
+      "text": "아기 식탁 의자",
+      "reading": "agi siktak uija"
+    },
+    "es": {
+      "text": "la trona"
+    },
+    "fr": {
+      "text": "la chaise haute"
+    },
+    "de": {
+      "text": "der Hochstuhl"
+    },
+    "id": {
+      "text": "kursi makan bayi"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

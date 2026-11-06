@@ -1,0 +1,12 @@
+{
+  "method": "imported hash-bound still and decoded contact-sheet review",
+  "notes": "Checked all nine terms and readings; inspected 256px still and eight decoded AVIF frames across the 3-second sequence on light/dark backgrounds. Calm regional furniture motion or material/light effect; alpha edges and loop gates pass. Contact-sheet review, not real-time playback.",
+  "hashes": {
+    "source.png": "ac99eb105356461671e0d0f9afc37fec523e3226eb6810630127aa5507b95b99",
+    "still.png": "205288eafef5434f8803618589e55ca2fadf9b88527a9d114ff3a2daf0d55f67",
+    "still.webp": "4d7987300e20c9c09ebe5a572936cb4f2021bb8086e843bf57f3ecb0f73d416e",
+    "animated.avif": "0d57d8f2c0ce1a00ead715ed158dea587cfb7fa81f9e7efbf692df3d51c900ff",
+    "motion.json": "70861352db4b9fa2143ba86220ce5cef262e5591f1c567e8e632cbadfd48a413",
+    "meta.json": "7d85b226e67297d3c8c1070e29a92660fa84368f79a48445294ae029fe97224f"
+  }
+}

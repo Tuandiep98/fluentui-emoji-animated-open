@@ -1,0 +1,33 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        98
+      ],
+      "radius": [
+        81,
+        37
+      ],
+      "amp": 2.5
+    },
+    {
+      "kind": "wave",
+      "center": [
+        97,
+        86
+      ],
+      "radius": [
+        36,
+        23
+      ],
+      "amp": 1.7,
+      "cycles": 1
+    }
+  ],
+  "note": "The cereal or baked oat clusters gently settle inside a stationary bowl."
+}

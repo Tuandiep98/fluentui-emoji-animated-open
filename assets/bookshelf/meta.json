@@ -1,0 +1,45 @@
+{
+  "id": "bookshelf",
+  "name": "bookshelf",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bookshelf"
+    },
+    "vi": {
+      "text": "kệ sách"
+    },
+    "zh-Hans": {
+      "text": "书架",
+      "reading": "shūjià"
+    },
+    "ja": {
+      "text": "ほんだな",
+      "reading": "hondana"
+    },
+    "ko": {
+      "text": "책장",
+      "reading": "chaekjang"
+    },
+    "es": {
+      "text": "la estantería"
+    },
+    "fr": {
+      "text": "l'étagère à livres"
+    },
+    "de": {
+      "text": "das Bücherregal"
+    },
+    "id": {
+      "text": "rak buku"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

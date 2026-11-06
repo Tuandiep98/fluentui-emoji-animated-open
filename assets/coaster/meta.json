@@ -1,0 +1,45 @@
+{
+  "id": "coaster",
+  "name": "coaster",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "coaster"
+    },
+    "vi": {
+      "text": "đế lót cốc"
+    },
+    "zh-Hans": {
+      "text": "杯垫",
+      "reading": "bēidiàn"
+    },
+    "ja": {
+      "text": "コースター",
+      "reading": "kōsutā"
+    },
+    "ko": {
+      "text": "컵받침",
+      "reading": "keopbatchim"
+    },
+    "es": {
+      "text": "el posavasos"
+    },
+    "fr": {
+      "text": "le sous-verre"
+    },
+    "de": {
+      "text": "der Untersetzer"
+    },
+    "id": {
+      "text": "tatakan gelas"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "plum",
+  "name": "plum",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "plum"
+    },
+    "vi": {
+      "text": "quả mận"
+    },
+    "zh-Hans": {
+      "text": "李子",
+      "reading": "lǐzi"
+    },
+    "ja": {
+      "text": "すもも",
+      "reading": "sumomo"
+    },
+    "ko": {
+      "text": "자두",
+      "reading": "jadu"
+    },
+    "es": {
+      "text": "la ciruela"
+    },
+    "fr": {
+      "text": "la prune"
+    },
+    "de": {
+      "text": "die Pflaume"
+    },
+    "id": {
+      "text": "plum"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

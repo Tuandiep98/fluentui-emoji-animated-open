@@ -1,0 +1,45 @@
+{
+  "id": "tree-stump",
+  "name": "tree stump",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "tree stump"
+    },
+    "vi": {
+      "text": "gốc cây"
+    },
+    "zh-Hans": {
+      "text": "树桩",
+      "reading": "shùzhuāng"
+    },
+    "ja": {
+      "text": "きりかぶ",
+      "reading": "kirikabu"
+    },
+    "ko": {
+      "text": "그루터기",
+      "reading": "geuroteogi"
+    },
+    "es": {
+      "text": "el tocón"
+    },
+    "fr": {
+      "text": "la souche"
+    },
+    "de": {
+      "text": "der Baumstumpf"
+    },
+    "id": {
+      "text": "tunggul"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

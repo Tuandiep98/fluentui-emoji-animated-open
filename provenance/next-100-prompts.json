@@ -1,0 +1,713 @@
+{
+  "tool": "built-in image_gen",
+  "useCase": "stylized-concept",
+  "prompts": [
+    {
+      "id": "birdhouse",
+      "batch": "03-garden",
+      "en": "birdhouse",
+      "vi": "nhà chim",
+      "prompt": "Use case: stylized-concept. Create one original 3D vocabulary sticker icon of a BIRDHOUSE, a small wooden house-shaped nesting box with a round entrance hole and a short perch, blue sloping roof and warm natural wood. Friendly polished Fluent-like 3D toy rendering, soft bevels, physically plausible construction, readable silhouette at 128px. One centered object isolated on genuinely transparent background, three-quarter view, fills about 80% of square canvas with generous clear margin. Soft studio lighting, rich but gentle colors, precise clean edges. No bird, no text, no letters, no logo, no watermark, no floor, no background scene, no cast shadow outside object. This is an individual production game icon, not a sheet or collection."
+    },
+    {
+      "id": "bird-feeder",
+      "batch": "03-garden",
+      "en": "bird feeder",
+      "vi": "máng cho chim ăn",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a transparent cylindrical seed-filled garden bird feeder, green rain roof, seed ports and small perches, hanging loop; no birds. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "birdbath",
+      "batch": "03-garden",
+      "en": "birdbath",
+      "vi": "chậu nước cho chim",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a shallow turquoise stone water basin with a little clear water on a short stable pedestal; no birds. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "scarecrow",
+      "batch": "03-garden",
+      "en": "scarecrow",
+      "vi": "bù nhìn",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a friendly stuffed straw scarecrow on a T-shaped wooden support, straw hat, checked shirt, straw hands, stitched gentle face; not a real human. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "trellis",
+      "batch": "03-garden",
+      "en": "trellis",
+      "vi": "giàn cây leo",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: an upright wooden diamond lattice garden trellis panel, only a small green climbing vine on one side so the lattice remains clear. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "lawn",
+      "batch": "03-garden",
+      "en": "lawn",
+      "vi": "bãi cỏ",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a compact square cutaway turf patch with lush short evenly trimmed green grass and a thin brown earth layer beneath; no lawnmower. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "moss",
+      "batch": "03-garden",
+      "en": "moss",
+      "vi": "rêu",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a soft dense cushion of bright green velvety moss covering one rounded stone, tiny moss stems, no flowers or mushrooms. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "fern",
+      "batch": "03-garden",
+      "en": "fern",
+      "vi": "cây dương xỉ",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small fern plant with graceful divided pinnate fronds unfurling from one crown, no pot, one tiny root base. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "bamboo",
+      "batch": "03-garden",
+      "en": "bamboo",
+      "vi": "cây tre",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: three upright green bamboo culms with clearly visible segmented joints and slender pointed leaves; compact rooted clump, no pot. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "oak-tree",
+      "batch": "03-garden",
+      "en": "oak tree",
+      "vi": "cây sồi",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one miniature oak tree with broad rounded crown and clearly lobed oak leaves, sturdy brown trunk and a couple of acorns; no container or scenery. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "willow-tree",
+      "batch": "03-garden",
+      "en": "willow tree",
+      "vi": "cây liễu",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one miniature weeping willow with graceful drooping leafy branches and slim brown trunk; no container or scenery. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "apple-tree",
+      "batch": "03-garden",
+      "en": "apple tree",
+      "vi": "cây táo",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one miniature apple tree with leafy rounded crown and a few red apples attached to branches, brown trunk; no container or scenery. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "banana-tree",
+      "batch": "03-garden",
+      "en": "banana tree",
+      "vi": "cây chuối",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one compact banana plant with broad long torn-edged green leaves, green pseudostem and one hanging bunch of yellow bananas; not a woody palm. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "snapdragon",
+      "batch": "03-garden",
+      "en": "snapdragon",
+      "vi": "hoa mõm sói",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a short flowering Antirrhinum stalk with two-lipped tubular pink snapdragon blossoms arranged vertically and slim green leaves, no vase. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "daisy",
+      "batch": "03-garden",
+      "en": "daisy",
+      "vi": "hoa cúc trắng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: three small Bellis perennis meadow daisies on short stems, many narrow white ray petals and yellow disk centers, spoon-shaped basal leaves; not large chrysanthemums. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "dandelion",
+      "batch": "03-garden",
+      "en": "dandelion",
+      "vi": "hoa bồ công anh",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one dandelion plant with a golden yellow composite flower and a second round white seed head, deeply toothed basal leaves, no pot. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "lavender",
+      "batch": "03-garden",
+      "en": "lavender",
+      "vi": "hoa oải hương",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a compact sprig of lavender with several purple flower spikes and narrow gray-green leaves, no pot or bow. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "marigold",
+      "batch": "03-garden",
+      "en": "marigold",
+      "vi": "hoa vạn thọ",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one Tagetes erecta marigold stem with full round densely ruffled golden orange flower head and divided green leaves, no pot. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "daffodil",
+      "batch": "03-garden",
+      "en": "daffodil",
+      "vi": "hoa thủy tiên",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a yellow daffodil with six outer petal-like tepals and a prominent central trumpet, slim green stem and strap leaves, no vase. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "pansy",
+      "batch": "03-garden",
+      "en": "pansy",
+      "vi": "hoa păng xê",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a single recognizable garden pansy with five broad purple and yellow overlapping petals, dark face-like petal blotches and short stem with leaves; no cartoon eyes. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "papaya",
+      "batch": "04-produce",
+      "en": "papaya",
+      "vi": "quả đu đủ",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a ripe papaya, one whole yellow-green oval fruit beside one orange-fleshed lengthwise half with a central cavity of many round black seeds. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "guava",
+      "batch": "04-produce",
+      "en": "guava",
+      "vi": "quả ổi",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one light green guava fruit beside one cut half with pink flesh and many tiny pale seeds concentrated in the center. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "dragon-fruit",
+      "batch": "04-produce",
+      "en": "dragon fruit",
+      "vi": "quả thanh long",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one pink dragon fruit with green-tipped scales beside a half with white flesh densely dotted with tiny black seeds. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "lychee",
+      "batch": "04-produce",
+      "en": "lychee",
+      "vi": "quả vải",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small pair of rosy red lychees with bumpy rind, one peeled to show glossy translucent white flesh and a dark brown seed. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "longan",
+      "batch": "04-produce",
+      "en": "longan",
+      "vi": "quả nhãn",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small cluster of tan round longan fruit, one peeled and halved showing translucent white flesh around a shiny round dark seed; no lychee-red rind. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "rambutan",
+      "batch": "04-produce",
+      "en": "rambutan",
+      "vi": "quả chôm chôm",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: two ripe red rambutan fruits covered in soft curved green-tipped hairs, one open to show pearly white flesh. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "mangosteen",
+      "batch": "04-produce",
+      "en": "mangosteen",
+      "vi": "quả măng cụt",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a round deep purple mangosteen with a green calyx, one half open showing white garlic-like fleshy segments inside a thick purple rind. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "jackfruit",
+      "batch": "04-produce",
+      "en": "jackfruit",
+      "vi": "quả mít",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small whole oblong green jackfruit with fine blunt bumps beside a cut section revealing yellow fleshy bulbs; no durian spikes. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "durian",
+      "batch": "04-produce",
+      "en": "durian",
+      "vi": "quả sầu riêng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a whole green-brown durian with sharp pyramidal spikes beside an opened wedge containing large creamy yellow pods. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "star-fruit",
+      "batch": "04-produce",
+      "en": "star fruit",
+      "vi": "quả khế",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a yellow-green five-ridged carambola fruit beside two true five-pointed star-shaped cross sections. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "passion-fruit",
+      "batch": "04-produce",
+      "en": "passion fruit",
+      "vi": "quả chanh dây",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one round wrinkled purple passion fruit beside a cut half filled with golden pulp and dark seeds. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "persimmon",
+      "batch": "04-produce",
+      "en": "persimmon",
+      "vi": "quả hồng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one glossy orange squat persimmon with a broad four-lobed green calyx, one cut wedge; no tomato. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "plum",
+      "batch": "04-produce",
+      "en": "plum",
+      "vi": "quả mận",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: two deep purple plums with a subtle pale wax bloom, one halved to show amber flesh and a single brown stone. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "apricot",
+      "batch": "04-produce",
+      "en": "apricot",
+      "vi": "quả mơ",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: two small golden orange apricots with velvety skin and a red blush, one half showing pale orange flesh and one brown stone. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "raspberry",
+      "batch": "04-produce",
+      "en": "raspberry",
+      "vi": "quả mâm xôi",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small group of three red raspberries made of rounded drupelets, one revealing the hollow core; no blackberry or leaves hiding the fruit. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "blackberry",
+      "batch": "04-produce",
+      "en": "blackberry",
+      "vi": "quả mâm xôi đen",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: three plump dark purple-black blackberries with glossy clustered drupelets and a tiny green leaf. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "cranberry",
+      "batch": "04-produce",
+      "en": "cranberry",
+      "vi": "quả nam việt quất",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small cluster of shiny deep red oval cranberries, one cut berry with pale interior and tiny seeds. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "pomegranate",
+      "batch": "04-produce",
+      "en": "pomegranate",
+      "vi": "quả lựu",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one crimson pomegranate with a crown-shaped calyx, a cut half revealing ruby seeds packed in compartments with pale membranes. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "fig",
+      "batch": "04-produce",
+      "en": "fig",
+      "vi": "quả sung",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a purple teardrop fig with short stem next to one cut half showing pink-red seed-filled flesh. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "date-fruit",
+      "batch": "04-produce",
+      "en": "date fruit",
+      "vi": "quả chà là",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: three ripe amber-brown wrinkled date fruits, one split lengthwise revealing a single long narrow brown pit. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "grapefruit",
+      "batch": "04-produce",
+      "en": "grapefruit",
+      "vi": "quả bưởi chùm",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a round yellow-pink grapefruit beside a cut half showing segmented ruby pink flesh and thin citrus peel; distinct from thick-rind pomelo. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "pomelo",
+      "batch": "04-produce",
+      "en": "pomelo",
+      "vi": "quả bưởi",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a large pear-round pale green pomelo next to a thick-rind cut wedge showing pale pink citrus segments and a very thick white pith. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "kumquat",
+      "batch": "04-produce",
+      "en": "kumquat",
+      "vi": "quả quất",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: three tiny oblong orange kumquats, one half cut crosswise showing small pale orange segments and thin edible orange rind. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "nectarine",
+      "batch": "04-produce",
+      "en": "nectarine",
+      "vi": "quả xuân đào",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a round smooth glossy yellow-red nectarine beside one half with yellow flesh and a brown stone; no fuzzy peach skin. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "sugar-apple",
+      "batch": "04-produce",
+      "en": "sugar apple",
+      "vi": "quả na",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one green Annona squamosa sugar apple with distinct large rounded scaly segments, one open half with creamy white flesh and glossy black seeds. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "quince",
+      "batch": "04-produce",
+      "en": "quince",
+      "vi": "quả mộc qua tây",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one ripe golden yellow pear-shaped European quince with uneven rounded lobes beside a cut wedge with pale cream flesh and a brown-seeded core; not Japanese flowering quince. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "gooseberry",
+      "batch": "04-produce",
+      "en": "gooseberry",
+      "vi": "quả lý gai",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: three translucent pale green gooseberries with fine vertical veins, small dried flower tips and tiny stems. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "blackcurrant",
+      "batch": "04-produce",
+      "en": "blackcurrant",
+      "vi": "quả lý chua đen",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a short hanging cluster of small glossy black-purple currants on a delicate green stem with one lobed leaf. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "redcurrant",
+      "batch": "04-produce",
+      "en": "redcurrant",
+      "vi": "quả lý chua đỏ",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one dangling raceme of shiny translucent red currants attached along a thin stem, one tiny green leaf; not a bunch of grapes. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "soursop",
+      "batch": "04-produce",
+      "en": "soursop",
+      "vi": "quả mãng cầu xiêm",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a green heart-shaped Annona muricata soursop with sparse soft curved spines, one cut wedge with white fibrous flesh and large black seeds. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "cabbage",
+      "batch": "04-produce",
+      "en": "cabbage",
+      "vi": "bắp cải",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one compact green cabbage head with tightly layered overlapping pale green veined leaves; no lettuce frills. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "cauliflower",
+      "batch": "04-produce",
+      "en": "cauliflower",
+      "vi": "súp lơ trắng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one creamy white cauliflower head composed of dense rounded curds cradled by green leaves. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "lettuce",
+      "batch": "04-produce",
+      "en": "lettuce",
+      "vi": "rau xà lách",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one fresh green loose butterhead lettuce with broad soft ruffled leaves and open center, no cabbage-like tight spherical head. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "spinach",
+      "batch": "04-produce",
+      "en": "spinach",
+      "vi": "rau chân vịt",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small fresh bunch of smooth dark green spinach leaves with slender stems, true Spinacia oleracea leaves; no water spinach hollow stems. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "celery",
+      "batch": "04-produce",
+      "en": "celery",
+      "vi": "rau cần tây",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a short bunch of crisp pale green thick ribbed celery stalks with leafy tops and visible longitudinal grooves. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "asparagus",
+      "batch": "04-produce",
+      "en": "asparagus",
+      "vi": "măng tây",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small bunch of five fresh green asparagus spears with tightly closed purple-green pointed tips, no tie. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "radish",
+      "batch": "04-produce",
+      "en": "radish",
+      "vi": "củ cải đỏ",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: three round red small radishes with white pointed root tails and fresh leafy tops, one cut half with white flesh. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "daikon",
+      "batch": "04-produce",
+      "en": "daikon",
+      "vi": "củ cải trắng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one long smooth thick tapered white daikon root with short green leafy crown, diagonal three-quarter composition. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "beetroot",
+      "batch": "04-produce",
+      "en": "beetroot",
+      "vi": "củ dền",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one round deep burgundy beet root with a thin taproot and a few red-stemmed leaves beside a dark red cut half. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "turnip",
+      "batch": "04-produce",
+      "en": "turnip",
+      "vi": "củ cải tròn",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one round white turnip with purple shoulders, thin white taproot and leafy greens, one wedge showing white flesh. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "zucchini",
+      "batch": "04-produce",
+      "en": "zucchini",
+      "vi": "quả bí ngòi",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one smooth dark green cylindrical zucchini with small ribbed stem end beside two pale green round cross sections. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "leek",
+      "batch": "04-produce",
+      "en": "leek",
+      "vi": "tỏi tây",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: two thick leeks with long white cylindrical bases transitioning into broad flat dark green strap leaves; not thin spring onion. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "spring-onion",
+      "batch": "04-produce",
+      "en": "spring onion",
+      "vi": "hành lá",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: three slim spring onions with small white bases, wispy roots and long hollow tubular green leaves; not leek. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "okra",
+      "batch": "04-produce",
+      "en": "okra",
+      "vi": "quả đậu bắp",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: three fresh green tapered ridged okra pods beside two small star-like pentagonal cross sections showing white seeds. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "bitter-melon",
+      "batch": "04-produce",
+      "en": "bitter melon",
+      "vi": "quả mướp đắng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one dark green oblong bitter melon with deeply knobbly ridged surface beside a ring cross section with a hollow seed cavity. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "loofah",
+      "batch": "04-produce",
+      "en": "loofah",
+      "vi": "quả mướp",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one young edible smooth green luffa gourd, long slightly curved with subtle longitudinal ridges, one white-fleshed cut cross section; not a dried bath sponge. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "chayote",
+      "batch": "04-produce",
+      "en": "chayote",
+      "vi": "quả su su",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one pale green pear-shaped wrinkled chayote with a central folded seam and a cut half with pale flesh and one large flat pale seed. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "taro",
+      "batch": "04-produce",
+      "en": "taro",
+      "vi": "củ khoai môn",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: two small brown hairy ringed taro corms, one cut half showing creamy white flesh with sparse purple flecks. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "cassava",
+      "batch": "04-produce",
+      "en": "cassava",
+      "vi": "củ sắn",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: two long thick tapered cassava roots with rough brown bark-like peel, one cut piece with solid chalk-white flesh. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "water-spinach",
+      "batch": "04-produce",
+      "en": "water spinach",
+      "vi": "rau muống",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small bunch of water spinach with long pointed arrow-shaped leaves and clearly hollow smooth green stems, one cut stem showing its hollow interior. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "yogurt",
+      "batch": "05-meals",
+      "en": "yogurt",
+      "vi": "sữa chua",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small open unbranded pale blue yogurt cup with thick smooth white yogurt and one gentle swirl on top; no fruit, no text. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "tofu",
+      "batch": "05-meals",
+      "en": "tofu",
+      "vi": "đậu phụ",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a neat white tofu block on a small pale ceramic dish with two smaller cubes, smooth slightly porous soybean curd texture. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "oatmeal",
+      "batch": "05-meals",
+      "en": "oatmeal",
+      "vi": "cháo yến mạch",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small cream ceramic bowl filled with thick beige cooked oat porridge with visible rolled oat flakes; no toppings, no steam. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "rice-porridge",
+      "batch": "05-meals",
+      "en": "rice porridge",
+      "vi": "cháo",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small blue-white ceramic bowl filled with soft white rice porridge, visible swollen broken rice grains in pale translucent liquid; no toppings. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "cereal",
+      "batch": "05-meals",
+      "en": "cereal",
+      "vi": "ngũ cốc ăn sáng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small bright ceramic bowl containing golden cornflakes in milk, a few flakes clearly above the milk surface; no spoon or box. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "granola",
+      "batch": "05-meals",
+      "en": "granola",
+      "vi": "ngũ cốc nướng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small ceramic bowl of golden baked oat clusters with a few nuts and raisins, dry coarse crunchy texture; no milk. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "toast",
+      "batch": "05-meals",
+      "en": "toast",
+      "vi": "bánh mì nướng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: two slices of golden toasted sandwich bread with browned crisp edges, one upright overlapping the other; no toppings. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "jam",
+      "batch": "05-meals",
+      "en": "jam",
+      "vi": "mứt",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: an open short clear glass jar of deep red strawberry jam with a small red berry beside it and a plain lid leaned alongside, absolutely no label or letters. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "marmalade",
+      "batch": "05-meals",
+      "en": "marmalade",
+      "vi": "mứt cam",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: an open squat clear jar of translucent golden orange marmalade with visible thin orange peel strips and one orange wedge beside it; no label. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "peanut-butter",
+      "batch": "05-meals",
+      "en": "peanut butter",
+      "vi": "bơ đậu phộng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: an open squat clear glass jar of smooth tan peanut butter with a surface swirl and two peanut kernels nearby; no label or lettering. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "cream",
+      "batch": "05-meals",
+      "en": "cream",
+      "vi": "kem sữa",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small white ceramic pouring jug filled with smooth pale ivory liquid dairy cream, little cream visible at the spout; no whipped peaks or spoon. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "whipped-cream",
+      "batch": "05-meals",
+      "en": "whipped cream",
+      "vi": "kem đánh bông",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a tall soft white piped swirl of airy whipped dairy cream on a tiny pale ceramic plate; distinct stiff fluffy peaks, no fruit. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "sour-cream",
+      "batch": "05-meals",
+      "en": "sour cream",
+      "vi": "kem chua",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small open pale green bowl containing thick white cultured sour cream with one spoon-shaped scoop indentation; no fruit or liquid pouring. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "condensed-milk",
+      "batch": "05-meals",
+      "en": "condensed milk",
+      "vi": "sữa đặc",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a plain unlabeled open can filled with thick glossy pale yellow sweetened condensed milk, one small thick ribbon resting on the inner rim; no text. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "soy-milk",
+      "batch": "05-meals",
+      "en": "soy milk",
+      "vi": "sữa đậu nành",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a clear short glass filled with pale ivory soy milk with a few cream-colored soybeans beside the base, no carton or text. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "coconut-milk",
+      "batch": "05-meals",
+      "en": "coconut milk",
+      "vi": "nước cốt dừa",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small white pitcher filled with thick coconut milk beside a small coconut half showing brown shell and white flesh; no straw or text. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "smoothie",
+      "batch": "05-meals",
+      "en": "smoothie",
+      "vi": "sinh tố",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a short clear rounded glass filled with thick pink berry smoothie and a plain striped paper straw; no fruit garnish or labels. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "lemonade",
+      "batch": "05-meals",
+      "en": "lemonade",
+      "vi": "nước chanh",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a clear glass of pale yellow lemonade with a visible lemon slice inside, two ice cubes and one small lemon wedge beside the glass; no straw. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "orange-juice",
+      "batch": "05-meals",
+      "en": "orange juice",
+      "vi": "nước cam",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a clear glass filled with bright orange juice next to one fresh orange half, no straw or text. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "tomato-juice",
+      "batch": "05-meals",
+      "en": "tomato juice",
+      "vi": "nước ép cà chua",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a clear glass filled with red tomato juice next to one ripe red tomato with green calyx, no straw or text. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "mineral-water",
+      "batch": "05-meals",
+      "en": "mineral water",
+      "vi": "nước khoáng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a transparent unbranded water bottle with blue cap, filled with clear water and tiny visible bubbles; no label or lettering. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "fruit-salad",
+      "batch": "05-meals",
+      "en": "fruit salad",
+      "vi": "salad trái cây",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small white bowl of clearly cut colorful fruit pieces, strawberry halves, yellow pineapple cubes, green kiwi and orange segments; no dressing. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "mashed-potato",
+      "batch": "05-meals",
+      "en": "mashed potato",
+      "vi": "khoai tây nghiền",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a pale blue ceramic bowl holding a creamy off-white mound of mashed potatoes with soft spoon ridges and a tiny melting pat of butter, no steam. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "baked-potato",
+      "batch": "05-meals",
+      "en": "baked potato",
+      "vi": "khoai tây nướng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one whole baked potato with brown textured skin split open at top showing fluffy white interior and a tiny pat of butter, on a small plain plate. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "fried-rice",
+      "batch": "05-meals",
+      "en": "fried rice",
+      "vi": "cơm chiên",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small ceramic bowl of golden fried rice with separate rice grains, tiny carrot cubes, green peas and scrambled egg flecks; no steam. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "rice-pudding",
+      "batch": "05-meals",
+      "en": "rice pudding",
+      "vi": "pudding gạo",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small dessert bowl of creamy white sweet rice pudding, visible rice grains and a light dusting of cinnamon at center; no fruit. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "scrambled-eggs",
+      "batch": "05-meals",
+      "en": "scrambled eggs",
+      "vi": "trứng bác",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small white plate with a mound of soft golden scrambled egg curds, clearly broken irregular folds; no bread or garnish. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "omelet",
+      "batch": "05-meals",
+      "en": "omelet",
+      "vi": "trứng tráng",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: a small white plate with one folded golden omelet, smooth soft surface with lightly browned spots, distinct crescent shape; no filling spilling out. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "boiled-egg",
+      "batch": "05-meals",
+      "en": "boiled egg",
+      "vi": "trứng luộc",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one peeled hard-boiled egg next to a cut half showing firm white and a solid circular golden yolk on a small plain plate; no shell. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    },
+    {
+      "id": "poached-egg",
+      "batch": "05-meals",
+      "en": "poached egg",
+      "vi": "trứng chần",
+      "prompt": "Use case: stylized-concept. Asset: original 3D vocabulary sticker for a children language-learning game. Subject: one soft poached egg with a gently irregular white pouch, opened slightly to show glossy runny golden yolk on a small plain plate; no bread or garnish. Style: polished friendly Fluent-like 3D toy illustration, soft bevels, rich natural colors, detailed but simple readable silhouette at 128px, accurate identifying anatomy and materials. Composition: one centered compact icon, gentle three-quarter view, fills 75-80% of square canvas with generous transparent margin. Soft studio lighting. Genuinely transparent background with clean alpha edges. No scene or floor, no external cast shadow, no text, no lettering, no watermark, no logos, no border, no cartoon eyes or added faces. Create exactly ONE individual icon, not a sheet or grid."
+    }
+  ],
+  "edits": [
+    {
+      "id": "tofu",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: precise-object-edit. Edit this vocabulary icon to depict fresh white tofu. Preserve the same plate, block-and-two-cubes composition, camera, framing, soft 3D style, lighting and transparent background. Make every tofu piece a clean cool white soybean-curd block with a delicate moist silky-matte surface and extremely fine barely visible pores. Remove all large round holes and pitted cavities. Remove the green garnish from the top and leave the tofu plain. Keep the edges softly cut and realistic for fresh firm tofu. The plate stays pale cream. No labels, text, garnish, logos, new props or background. Preserve genuine alpha transparency."
+    }
+  ]
+}

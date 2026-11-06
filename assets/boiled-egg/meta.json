@@ -1,0 +1,45 @@
+{
+  "id": "boiled-egg",
+  "name": "boiled egg",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "boiled egg"
+    },
+    "vi": {
+      "text": "trứng luộc"
+    },
+    "zh-Hans": {
+      "text": "水煮蛋",
+      "reading": "shuǐzhǔdàn"
+    },
+    "ja": {
+      "text": "ゆでたまご",
+      "reading": "yude tamago"
+    },
+    "ko": {
+      "text": "삶은 달걀",
+      "reading": "salmeun dalgyal"
+    },
+    "es": {
+      "text": "el huevo cocido"
+    },
+    "fr": {
+      "text": "l'œuf dur"
+    },
+    "de": {
+      "text": "das gekochte Ei"
+    },
+    "id": {
+      "text": "telur rebus"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "saucepan",
+  "name": "saucepan",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "saucepan"
+    },
+    "vi": {
+      "text": "nồi có cán"
+    },
+    "zh-Hans": {
+      "text": "长柄锅",
+      "reading": "chángbǐngguō"
+    },
+    "ja": {
+      "text": "かたてなべ",
+      "reading": "katate nabe"
+    },
+    "ko": {
+      "text": "편수냄비",
+      "reading": "pyeonsu naembi"
+    },
+    "es": {
+      "text": "el cazo"
+    },
+    "fr": {
+      "text": "la casserole"
+    },
+    "de": {
+      "text": "der Stieltopf"
+    },
+    "id": {
+      "text": "panci bertangkai"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

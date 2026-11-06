@@ -1,0 +1,45 @@
+{
+  "id": "floor",
+  "name": "floor",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "floor"
+    },
+    "vi": {
+      "text": "sàn nhà"
+    },
+    "zh-Hans": {
+      "text": "地板",
+      "reading": "dìbǎn"
+    },
+    "ja": {
+      "text": "ゆか",
+      "reading": "yuka"
+    },
+    "ko": {
+      "text": "바닥",
+      "reading": "badak"
+    },
+    "es": {
+      "text": "el suelo"
+    },
+    "fr": {
+      "text": "le sol"
+    },
+    "de": {
+      "text": "der Fußboden"
+    },
+    "id": {
+      "text": "lantai"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

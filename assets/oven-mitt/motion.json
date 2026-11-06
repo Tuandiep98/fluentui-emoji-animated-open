@@ -1,0 +1,12 @@
+{
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "press",
+      "center": [136, 110],
+      "radius": [60, 75],
+      "amp": 4
+    }
+  ]
+}

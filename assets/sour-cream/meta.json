@@ -1,0 +1,45 @@
+{
+  "id": "sour-cream",
+  "name": "sour cream",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "sour cream"
+    },
+    "vi": {
+      "text": "kem chua"
+    },
+    "zh-Hans": {
+      "text": "酸奶油",
+      "reading": "suānnǎiyóu"
+    },
+    "ja": {
+      "text": "サワークリーム",
+      "reading": "sawā kurīmu"
+    },
+    "ko": {
+      "text": "사워크림",
+      "reading": "sawokeurim"
+    },
+    "es": {
+      "text": "la nata agria"
+    },
+    "fr": {
+      "text": "la crème aigre"
+    },
+    "de": {
+      "text": "die saure Sahne"
+    },
+    "id": {
+      "text": "krim asam"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

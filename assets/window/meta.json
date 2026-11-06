@@ -1,0 +1,45 @@
+{
+  "id": "window",
+  "name": "window",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "window"
+    },
+    "vi": {
+      "text": "cửa sổ"
+    },
+    "zh-Hans": {
+      "text": "窗户",
+      "reading": "chuānghu"
+    },
+    "ja": {
+      "text": "まど",
+      "reading": "mado"
+    },
+    "ko": {
+      "text": "창문",
+      "reading": "changmun"
+    },
+    "es": {
+      "text": "la ventana"
+    },
+    "fr": {
+      "text": "la fenêtre"
+    },
+    "de": {
+      "text": "das Fenster"
+    },
+    "id": {
+      "text": "jendela"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

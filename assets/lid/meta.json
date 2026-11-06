@@ -1,0 +1,45 @@
+{
+  "id": "lid",
+  "name": "lid",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "lid"
+    },
+    "vi": {
+      "text": "nắp nồi"
+    },
+    "zh-Hans": {
+      "text": "锅盖",
+      "reading": "guōgài"
+    },
+    "ja": {
+      "text": "なべのふた",
+      "reading": "nabe no futa"
+    },
+    "ko": {
+      "text": "냄비 뚜껑",
+      "reading": "naembi ttukkeong"
+    },
+    "es": {
+      "text": "la tapa"
+    },
+    "fr": {
+      "text": "le couvercle"
+    },
+    "de": {
+      "text": "der Topfdeckel"
+    },
+    "id": {
+      "text": "tutup panci"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "branch",
+  "name": "branch",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "branch"
+    },
+    "vi": {
+      "text": "cành cây"
+    },
+    "zh-Hans": {
+      "text": "树枝",
+      "reading": "shùzhī"
+    },
+    "ja": {
+      "text": "えだ",
+      "reading": "eda"
+    },
+    "ko": {
+      "text": "가지",
+      "reading": "gaji"
+    },
+    "es": {
+      "text": "la rama"
+    },
+    "fr": {
+      "text": "la branche"
+    },
+    "de": {
+      "text": "der Ast"
+    },
+    "id": {
+      "text": "dahan"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

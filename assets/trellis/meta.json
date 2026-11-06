@@ -1,0 +1,45 @@
+{
+  "id": "trellis",
+  "name": "trellis",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "trellis"
+    },
+    "vi": {
+      "text": "giàn cây leo"
+    },
+    "zh-Hans": {
+      "text": "花架",
+      "reading": "huājià"
+    },
+    "ja": {
+      "text": "トレリス",
+      "reading": "torerisu"
+    },
+    "ko": {
+      "text": "덩굴 시렁",
+      "reading": "deonggul sireong"
+    },
+    "es": {
+      "text": "el enrejado"
+    },
+    "fr": {
+      "text": "le treillis"
+    },
+    "de": {
+      "text": "das Rankgitter"
+    },
+    "id": {
+      "text": "para-para"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

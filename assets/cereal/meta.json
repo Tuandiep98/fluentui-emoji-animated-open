@@ -1,0 +1,45 @@
+{
+  "id": "cereal",
+  "name": "cereal",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "cereal"
+    },
+    "vi": {
+      "text": "ngũ cốc ăn sáng"
+    },
+    "zh-Hans": {
+      "text": "早餐麦片",
+      "reading": "zǎocān màipiàn"
+    },
+    "ja": {
+      "text": "シリアル",
+      "reading": "shiriaru"
+    },
+    "ko": {
+      "text": "시리얼",
+      "reading": "sirieol"
+    },
+    "es": {
+      "text": "los cereales"
+    },
+    "fr": {
+      "text": "les céréales"
+    },
+    "de": {
+      "text": "die Frühstücksflocken"
+    },
+    "id": {
+      "text": "serealia sarapan"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

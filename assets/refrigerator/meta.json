@@ -1,0 +1,45 @@
+{
+  "id": "refrigerator",
+  "name": "refrigerator",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "refrigerator"
+    },
+    "vi": {
+      "text": "tủ lạnh"
+    },
+    "zh-Hans": {
+      "text": "冰箱",
+      "reading": "bīngxiāng"
+    },
+    "ja": {
+      "text": "れいぞうこ",
+      "reading": "reizōko"
+    },
+    "ko": {
+      "text": "냉장고",
+      "reading": "naengjanggo"
+    },
+    "es": {
+      "text": "el frigorífico"
+    },
+    "fr": {
+      "text": "le réfrigérateur"
+    },
+    "de": {
+      "text": "der Kühlschrank"
+    },
+    "id": {
+      "text": "kulkas"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

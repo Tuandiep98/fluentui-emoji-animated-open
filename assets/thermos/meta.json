@@ -1,0 +1,45 @@
+{
+  "id": "thermos",
+  "name": "thermos",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "thermos"
+    },
+    "vi": {
+      "text": "bình giữ nhiệt"
+    },
+    "zh-Hans": {
+      "text": "保温瓶",
+      "reading": "bǎowēnpíng"
+    },
+    "ja": {
+      "text": "まほうびん",
+      "reading": "mahōbin"
+    },
+    "ko": {
+      "text": "보온병",
+      "reading": "boonbyeong"
+    },
+    "es": {
+      "text": "el termo"
+    },
+    "fr": {
+      "text": "la bouteille isotherme"
+    },
+    "de": {
+      "text": "die Thermosflasche"
+    },
+    "id": {
+      "text": "termos"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

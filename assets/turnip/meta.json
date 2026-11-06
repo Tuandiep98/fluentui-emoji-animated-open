@@ -1,0 +1,45 @@
+{
+  "id": "turnip",
+  "name": "turnip",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "turnip"
+    },
+    "vi": {
+      "text": "củ cải tròn"
+    },
+    "zh-Hans": {
+      "text": "芜菁",
+      "reading": "wújīng"
+    },
+    "ja": {
+      "text": "かぶ",
+      "reading": "kabu"
+    },
+    "ko": {
+      "text": "순무",
+      "reading": "sunmu"
+    },
+    "es": {
+      "text": "el nabo"
+    },
+    "fr": {
+      "text": "le navet"
+    },
+    "de": {
+      "text": "die Speiserübe"
+    },
+    "id": {
+      "text": "lobak bulat"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

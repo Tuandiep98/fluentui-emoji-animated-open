@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        125
+      ],
+      "radius": [
+        87,
+        53
+      ],
+      "amp": 3.2
+    }
+  ],
+  "note": "The soft white and exposed yolk wobble gently on the fixed plate."
+}

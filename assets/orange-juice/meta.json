@@ -1,0 +1,45 @@
+{
+  "id": "orange-juice",
+  "name": "orange juice",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "orange juice"
+    },
+    "vi": {
+      "text": "nước cam"
+    },
+    "zh-Hans": {
+      "text": "橙汁",
+      "reading": "chéngzhī"
+    },
+    "ja": {
+      "text": "オレンジジュース",
+      "reading": "orenji jūsu"
+    },
+    "ko": {
+      "text": "오렌지주스",
+      "reading": "orenjijuseu"
+    },
+    "es": {
+      "text": "el zumo de naranja"
+    },
+    "fr": {
+      "text": "le jus d'orange"
+    },
+    "de": {
+      "text": "der Orangensaft"
+    },
+    "id": {
+      "text": "jus jeruk"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

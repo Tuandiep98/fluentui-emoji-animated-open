@@ -1,0 +1,18 @@
+{
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [69, 151],
+      "radius": [17, 20],
+      "amp": 12
+    },
+    {
+      "kind": "rotate",
+      "center": [154, 160],
+      "radius": [17, 20],
+      "amp": 12
+    }
+  ]
+}

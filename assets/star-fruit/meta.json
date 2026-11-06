@@ -1,0 +1,45 @@
+{
+  "id": "star-fruit",
+  "name": "star fruit",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "star fruit"
+    },
+    "vi": {
+      "text": "quả khế"
+    },
+    "zh-Hans": {
+      "text": "杨桃",
+      "reading": "yángtáo"
+    },
+    "ja": {
+      "text": "スターフルーツ",
+      "reading": "sutā furūtsu"
+    },
+    "ko": {
+      "text": "스타프루트",
+      "reading": "seutapeuruteu"
+    },
+    "es": {
+      "text": "la carambola"
+    },
+    "fr": {
+      "text": "la carambole"
+    },
+    "de": {
+      "text": "die Sternfrucht"
+    },
+    "id": {
+      "text": "belimbing"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

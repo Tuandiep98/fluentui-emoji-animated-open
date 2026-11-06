@@ -1,0 +1,45 @@
+{
+  "id": "grapefruit",
+  "name": "grapefruit",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "grapefruit"
+    },
+    "vi": {
+      "text": "quả bưởi chùm"
+    },
+    "zh-Hans": {
+      "text": "葡萄柚",
+      "reading": "pútaoyòu"
+    },
+    "ja": {
+      "text": "グレープフルーツ",
+      "reading": "gurēpu furūtsu"
+    },
+    "ko": {
+      "text": "자몽",
+      "reading": "jamong"
+    },
+    "es": {
+      "text": "el pomelo"
+    },
+    "fr": {
+      "text": "le pamplemousse"
+    },
+    "de": {
+      "text": "die Grapefruit"
+    },
+    "id": {
+      "text": "grapefruit"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

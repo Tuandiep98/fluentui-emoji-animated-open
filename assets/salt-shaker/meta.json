@@ -1,0 +1,45 @@
+{
+  "id": "salt-shaker",
+  "name": "salt shaker",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "salt shaker"
+    },
+    "vi": {
+      "text": "lọ rắc muối"
+    },
+    "zh-Hans": {
+      "text": "盐瓶",
+      "reading": "yánpíng"
+    },
+    "ja": {
+      "text": "しおいれ",
+      "reading": "shio ire"
+    },
+    "ko": {
+      "text": "소금통",
+      "reading": "sogeumtong"
+    },
+    "es": {
+      "text": "el salero"
+    },
+    "fr": {
+      "text": "la salière"
+    },
+    "de": {
+      "text": "der Salzstreuer"
+    },
+    "id": {
+      "text": "tempat garam"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

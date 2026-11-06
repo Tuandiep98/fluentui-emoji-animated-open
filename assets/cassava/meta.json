@@ -1,0 +1,45 @@
+{
+  "id": "cassava",
+  "name": "cassava",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "cassava"
+    },
+    "vi": {
+      "text": "củ sắn"
+    },
+    "zh-Hans": {
+      "text": "木薯",
+      "reading": "mùshǔ"
+    },
+    "ja": {
+      "text": "キャッサバ",
+      "reading": "kyassaba"
+    },
+    "ko": {
+      "text": "카사바",
+      "reading": "kasaba"
+    },
+    "es": {
+      "text": "la yuca"
+    },
+    "fr": {
+      "text": "le manioc"
+    },
+    "de": {
+      "text": "der Maniok"
+    },
+    "id": {
+      "text": "singkong"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

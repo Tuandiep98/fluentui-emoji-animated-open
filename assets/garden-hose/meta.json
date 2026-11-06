@@ -1,0 +1,45 @@
+{
+  "id": "garden-hose",
+  "name": "garden hose",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "garden hose"
+    },
+    "vi": {
+      "text": "vòi tưới vườn"
+    },
+    "zh-Hans": {
+      "text": "花园水管",
+      "reading": "huāyuán shuǐguǎn"
+    },
+    "ja": {
+      "text": "ホース",
+      "reading": "hōsu"
+    },
+    "ko": {
+      "text": "정원 호스",
+      "reading": "jeongwon hoseu"
+    },
+    "es": {
+      "text": "la manguera"
+    },
+    "fr": {
+      "text": "le tuyau d'arrosage"
+    },
+    "de": {
+      "text": "der Gartenschlauch"
+    },
+    "id": {
+      "text": "selang taman"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

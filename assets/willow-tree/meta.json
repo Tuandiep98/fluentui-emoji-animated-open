@@ -1,0 +1,45 @@
+{
+  "id": "willow-tree",
+  "name": "willow tree",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "willow tree"
+    },
+    "vi": {
+      "text": "cây liễu"
+    },
+    "zh-Hans": {
+      "text": "柳树",
+      "reading": "liǔshù"
+    },
+    "ja": {
+      "text": "やなぎ",
+      "reading": "yanagi"
+    },
+    "ko": {
+      "text": "버드나무",
+      "reading": "beodeunamu"
+    },
+    "es": {
+      "text": "el sauce"
+    },
+    "fr": {
+      "text": "le saule"
+    },
+    "de": {
+      "text": "die Weide"
+    },
+    "id": {
+      "text": "pohon willow"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,7 @@
+{
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    { "kind": "wave", "center": [122, 54], "radius": [48, 20], "amp": 2 }
+  ]
+}

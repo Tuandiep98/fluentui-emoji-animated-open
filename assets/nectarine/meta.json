@@ -1,0 +1,45 @@
+{
+  "id": "nectarine",
+  "name": "nectarine",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "nectarine"
+    },
+    "vi": {
+      "text": "quả xuân đào"
+    },
+    "zh-Hans": {
+      "text": "油桃",
+      "reading": "yóutáo"
+    },
+    "ja": {
+      "text": "ネクタリン",
+      "reading": "nekutarin"
+    },
+    "ko": {
+      "text": "천도복숭아",
+      "reading": "cheondo boksunga"
+    },
+    "es": {
+      "text": "la nectarina"
+    },
+    "fr": {
+      "text": "la nectarine"
+    },
+    "de": {
+      "text": "die Nektarine"
+    },
+    "id": {
+      "text": "nektarin"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

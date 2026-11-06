@@ -1,0 +1,45 @@
+{
+  "id": "pillowcase",
+  "name": "pillowcase",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "pillowcase"
+    },
+    "vi": {
+      "text": "vỏ gối"
+    },
+    "zh-Hans": {
+      "text": "枕套",
+      "reading": "zhěntào"
+    },
+    "ja": {
+      "text": "まくらカバー",
+      "reading": "makura kabā"
+    },
+    "ko": {
+      "text": "베갯잇",
+      "reading": "begaennit"
+    },
+    "es": {
+      "text": "la funda de almohada"
+    },
+    "fr": {
+      "text": "la taie d'oreiller"
+    },
+    "de": {
+      "text": "der Kissenbezug"
+    },
+    "id": {
+      "text": "sarung bantal"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

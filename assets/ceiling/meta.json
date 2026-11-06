@@ -1,0 +1,45 @@
+{
+  "id": "ceiling",
+  "name": "ceiling",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "ceiling"
+    },
+    "vi": {
+      "text": "trần nhà"
+    },
+    "zh-Hans": {
+      "text": "天花板",
+      "reading": "tiānhuābǎn"
+    },
+    "ja": {
+      "text": "てんじょう",
+      "reading": "tenjō"
+    },
+    "ko": {
+      "text": "천장",
+      "reading": "cheonjang"
+    },
+    "es": {
+      "text": "el techo"
+    },
+    "fr": {
+      "text": "le plafond"
+    },
+    "de": {
+      "text": "die Zimmerdecke"
+    },
+    "id": {
+      "text": "langit-langit"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

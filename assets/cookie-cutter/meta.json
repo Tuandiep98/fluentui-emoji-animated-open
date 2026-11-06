@@ -1,0 +1,45 @@
+{
+  "id": "cookie-cutter",
+  "name": "cookie cutter",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "cookie cutter"
+    },
+    "vi": {
+      "text": "khuôn cắt bánh"
+    },
+    "zh-Hans": {
+      "text": "饼干模具",
+      "reading": "bǐnggān mújù"
+    },
+    "ja": {
+      "text": "クッキーがた",
+      "reading": "kukkī gata"
+    },
+    "ko": {
+      "text": "쿠키 틀",
+      "reading": "kuki teul"
+    },
+    "es": {
+      "text": "el cortapastas"
+    },
+    "fr": {
+      "text": "l'emporte-pièce"
+    },
+    "de": {
+      "text": "der Ausstecher"
+    },
+    "id": {
+      "text": "cetakan biskuit"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

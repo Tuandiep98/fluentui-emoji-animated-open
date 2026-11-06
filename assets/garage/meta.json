@@ -1,0 +1,45 @@
+{
+  "id": "garage",
+  "name": "garage",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "garage"
+    },
+    "vi": {
+      "text": "nhà để xe"
+    },
+    "zh-Hans": {
+      "text": "车库",
+      "reading": "chēkù"
+    },
+    "ja": {
+      "text": "ガレージ",
+      "reading": "garēji"
+    },
+    "ko": {
+      "text": "차고",
+      "reading": "chago"
+    },
+    "es": {
+      "text": "el garaje"
+    },
+    "fr": {
+      "text": "le garage"
+    },
+    "de": {
+      "text": "die Garage"
+    },
+    "id": {
+      "text": "garasi"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

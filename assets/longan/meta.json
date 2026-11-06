@@ -1,0 +1,45 @@
+{
+  "id": "longan",
+  "name": "longan",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "longan"
+    },
+    "vi": {
+      "text": "quả nhãn"
+    },
+    "zh-Hans": {
+      "text": "龙眼",
+      "reading": "lóngyǎn"
+    },
+    "ja": {
+      "text": "リュウガン",
+      "reading": "ryūgan"
+    },
+    "ko": {
+      "text": "롱안",
+      "reading": "rongan"
+    },
+    "es": {
+      "text": "el longán"
+    },
+    "fr": {
+      "text": "le longane"
+    },
+    "de": {
+      "text": "die Longan"
+    },
+    "id": {
+      "text": "kelengkeng"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

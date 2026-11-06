@@ -1,0 +1,12 @@
+{
+  "method": "imported hash-bound still and decoded contact-sheet review",
+  "notes": "Refined the tofu master to plain white fine-grained curd, removed cheese-like cavities and garnish. Reviewed still and eight decoded frames on light/dark backgrounds; contact-sheet review, not real-time playback.",
+  "hashes": {
+    "source.png": "e8f23363a29303e01059fd243cae2a179422b37f9ce8a9944c2ab0b64666a1a6",
+    "still.png": "7d5dbbdda84f0562f2e1248753fdfbf4176d30c46bd88d3be19e3f692f3d598c",
+    "still.webp": "7158b0219ce086c115d8900dcbba429e1aa2af3fb055e6dc5ac5b25b9aac9373",
+    "animated.avif": "2108536d186aae7e0bcad094d5c31f70da324cc4bb5c243ff457e66263f5b41f",
+    "motion.json": "8490801f55faf5f873c33f4eb3bb06ffe3d403f1bc2cbdd6cb25c1b3534939c6",
+    "meta.json": "06554836d48b70fd2bd1d355aee15e3df69200abca628e166e43a5fbc8a0333a"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "nod",
+  "pivot": "bottom",
+  "amp": 0.3,
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        128,
+        58
+      ],
+      "radius": [
+        72,
+        37
+      ],
+      "amp": 2.6,
+      "cycles": 1
+    }
+  ],
+  "note": "A gentle root-vegetable rock with a small leafy-top flutter."
+}

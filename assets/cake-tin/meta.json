@@ -1,0 +1,45 @@
+{
+  "id": "cake-tin",
+  "name": "cake tin",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "cake tin"
+    },
+    "vi": {
+      "text": "khuôn bánh"
+    },
+    "zh-Hans": {
+      "text": "蛋糕模",
+      "reading": "dàngāomú"
+    },
+    "ja": {
+      "text": "ケーキがた",
+      "reading": "kēki gata"
+    },
+    "ko": {
+      "text": "케이크 틀",
+      "reading": "keikeu teul"
+    },
+    "es": {
+      "text": "el molde de tarta"
+    },
+    "fr": {
+      "text": "le moule à gâteau"
+    },
+    "de": {
+      "text": "die Kuchenform"
+    },
+    "id": {
+      "text": "cetakan kue"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

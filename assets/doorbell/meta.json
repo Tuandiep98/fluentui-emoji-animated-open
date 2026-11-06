@@ -1,0 +1,45 @@
+{
+  "id": "doorbell",
+  "name": "doorbell",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "doorbell"
+    },
+    "vi": {
+      "text": "chuông cửa"
+    },
+    "zh-Hans": {
+      "text": "门铃",
+      "reading": "ménlíng"
+    },
+    "ja": {
+      "text": "ドアベル",
+      "reading": "doa beru"
+    },
+    "ko": {
+      "text": "초인종",
+      "reading": "choinjong"
+    },
+    "es": {
+      "text": "el timbre"
+    },
+    "fr": {
+      "text": "la sonnette"
+    },
+    "de": {
+      "text": "die Türklingel"
+    },
+    "id": {
+      "text": "bel pintu"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

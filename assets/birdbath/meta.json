@@ -1,0 +1,45 @@
+{
+  "id": "birdbath",
+  "name": "birdbath",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "birdbath"
+    },
+    "vi": {
+      "text": "chậu nước cho chim"
+    },
+    "zh-Hans": {
+      "text": "鸟浴盆",
+      "reading": "niǎoyùpén"
+    },
+    "ja": {
+      "text": "とりのみずあびば",
+      "reading": "tori no mizuabiba"
+    },
+    "ko": {
+      "text": "새 목욕통",
+      "reading": "sae mogyoktong"
+    },
+    "es": {
+      "text": "la bañera para pájaros"
+    },
+    "fr": {
+      "text": "le bain d'oiseaux"
+    },
+    "de": {
+      "text": "die Vogeltränke"
+    },
+    "id": {
+      "text": "tempat mandi burung"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

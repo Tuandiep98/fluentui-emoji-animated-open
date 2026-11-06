@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "pivot": "bottom",
+  "amp": 0.55,
+  "note": "A very soft curd wobble; tofu blocks stay recognizable.",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        99
+      ],
+      "radius": [
+        78,
+        66
+      ],
+      "amp": 4
+    }
+  ]
+}

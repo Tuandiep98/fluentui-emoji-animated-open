@@ -1,0 +1,45 @@
+{
+  "id": "bitter-melon",
+  "name": "bitter melon",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "bitter melon"
+    },
+    "vi": {
+      "text": "quả mướp đắng"
+    },
+    "zh-Hans": {
+      "text": "苦瓜",
+      "reading": "kǔguā"
+    },
+    "ja": {
+      "text": "ゴーヤ",
+      "reading": "gōya"
+    },
+    "ko": {
+      "text": "여주",
+      "reading": "yeoju"
+    },
+    "es": {
+      "text": "el melón amargo"
+    },
+    "fr": {
+      "text": "le melon amer"
+    },
+    "de": {
+      "text": "die Bittermelone"
+    },
+    "id": {
+      "text": "pare"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

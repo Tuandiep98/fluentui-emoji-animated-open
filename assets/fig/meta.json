@@ -1,0 +1,45 @@
+{
+  "id": "fig",
+  "name": "fig",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "fig"
+    },
+    "vi": {
+      "text": "quả sung"
+    },
+    "zh-Hans": {
+      "text": "无花果",
+      "reading": "wúhuāguǒ"
+    },
+    "ja": {
+      "text": "イチジク",
+      "reading": "ichijiku"
+    },
+    "ko": {
+      "text": "무화과",
+      "reading": "muhwagwa"
+    },
+    "es": {
+      "text": "el higo"
+    },
+    "fr": {
+      "text": "la figue"
+    },
+    "de": {
+      "text": "die Feige"
+    },
+    "id": {
+      "text": "buah tin"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fern",
+  "name": "fern",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "fern"
+    },
+    "vi": {
+      "text": "cây dương xỉ"
+    },
+    "zh-Hans": {
+      "text": "蕨类植物",
+      "reading": "juélèi zhíwù"
+    },
+    "ja": {
+      "text": "シダ",
+      "reading": "shida"
+    },
+    "ko": {
+      "text": "고사리",
+      "reading": "gosari"
+    },
+    "es": {
+      "text": "el helecho"
+    },
+    "fr": {
+      "text": "la fougère"
+    },
+    "de": {
+      "text": "der Farn"
+    },
+    "id": {
+      "text": "pakis"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "papaya",
+  "name": "papaya",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "papaya"
+    },
+    "vi": {
+      "text": "quả đu đủ"
+    },
+    "zh-Hans": {
+      "text": "木瓜",
+      "reading": "mùguā"
+    },
+    "ja": {
+      "text": "パパイヤ",
+      "reading": "papaiya"
+    },
+    "ko": {
+      "text": "파파야",
+      "reading": "papaya"
+    },
+    "es": {
+      "text": "la papaya"
+    },
+    "fr": {
+      "text": "la papaye"
+    },
+    "de": {
+      "text": "die Papaya"
+    },
+    "id": {
+      "text": "pepaya"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

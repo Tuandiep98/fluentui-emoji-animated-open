@@ -1,0 +1,45 @@
+{
+  "id": "bird-feeder",
+  "name": "bird feeder",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "bird feeder"
+    },
+    "vi": {
+      "text": "máng cho chim ăn"
+    },
+    "zh-Hans": {
+      "text": "喂鸟器",
+      "reading": "wèiniǎoqì"
+    },
+    "ja": {
+      "text": "えさだい",
+      "reading": "esadai"
+    },
+    "ko": {
+      "text": "새 모이통",
+      "reading": "sae moitong"
+    },
+    "es": {
+      "text": "el comedero de pájaros"
+    },
+    "fr": {
+      "text": "la mangeoire"
+    },
+    "de": {
+      "text": "das Vogelfutterhaus"
+    },
+    "id": {
+      "text": "tempat pakan burung"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

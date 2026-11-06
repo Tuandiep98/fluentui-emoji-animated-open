@@ -1,0 +1,45 @@
+{
+  "id": "jackfruit",
+  "name": "jackfruit",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "jackfruit"
+    },
+    "vi": {
+      "text": "quả mít"
+    },
+    "zh-Hans": {
+      "text": "菠萝蜜",
+      "reading": "bōluómì"
+    },
+    "ja": {
+      "text": "ジャックフルーツ",
+      "reading": "jakku furūtsu"
+    },
+    "ko": {
+      "text": "잭프루트",
+      "reading": "jaekpeuruteu"
+    },
+    "es": {
+      "text": "la yaca"
+    },
+    "fr": {
+      "text": "le fruit du jacquier"
+    },
+    "de": {
+      "text": "die Jackfrucht"
+    },
+    "id": {
+      "text": "nangka"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

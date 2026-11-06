@@ -1,0 +1,45 @@
+{
+  "id": "baked-potato",
+  "name": "baked potato",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "baked potato"
+    },
+    "vi": {
+      "text": "khoai tây nướng"
+    },
+    "zh-Hans": {
+      "text": "烤土豆",
+      "reading": "kǎotǔdòu"
+    },
+    "ja": {
+      "text": "ベイクドポテト",
+      "reading": "beikudo poteto"
+    },
+    "ko": {
+      "text": "구운 감자",
+      "reading": "guun gamja"
+    },
+    "es": {
+      "text": "la patata asada"
+    },
+    "fr": {
+      "text": "la pomme de terre au four"
+    },
+    "de": {
+      "text": "die Ofenkartoffel"
+    },
+    "id": {
+      "text": "kentang panggang"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

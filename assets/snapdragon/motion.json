@@ -1,0 +1,23 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "sway",
+  "pivot": "bottom",
+  "amp": 0.38,
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        136,
+        71
+      ],
+      "radius": [
+        30,
+        48
+      ],
+      "amp": 2,
+      "cycles": 1
+    }
+  ],
+  "note": "The upright flower spike nods gently and the tubular blossoms flutter."
+}

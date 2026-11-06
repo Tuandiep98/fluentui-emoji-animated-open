@@ -1,0 +1,45 @@
+{
+  "id": "stool",
+  "name": "stool",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "stool"
+    },
+    "vi": {
+      "text": "ghế đẩu"
+    },
+    "zh-Hans": {
+      "text": "凳子",
+      "reading": "dèngzi"
+    },
+    "ja": {
+      "text": "スツール",
+      "reading": "sutsūru"
+    },
+    "ko": {
+      "text": "스툴",
+      "reading": "seutul"
+    },
+    "es": {
+      "text": "el taburete"
+    },
+    "fr": {
+      "text": "le tabouret"
+    },
+    "de": {
+      "text": "der Hocker"
+    },
+    "id": {
+      "text": "bangku"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

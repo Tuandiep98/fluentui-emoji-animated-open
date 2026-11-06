@@ -1,0 +1,45 @@
+{
+  "id": "marmalade",
+  "name": "marmalade",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "marmalade"
+    },
+    "vi": {
+      "text": "mứt cam"
+    },
+    "zh-Hans": {
+      "text": "橘子酱",
+      "reading": "júzijiàng"
+    },
+    "ja": {
+      "text": "マーマレード",
+      "reading": "māmarēdo"
+    },
+    "ko": {
+      "text": "마멀레이드",
+      "reading": "mameolleideu"
+    },
+    "es": {
+      "text": "la mermelada de naranja"
+    },
+    "fr": {
+      "text": "la marmelade d'orange"
+    },
+    "de": {
+      "text": "die Orangenmarmelade"
+    },
+    "id": {
+      "text": "selai jeruk"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

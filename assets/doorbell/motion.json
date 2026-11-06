@@ -1,0 +1,17 @@
+{
+  "preset": "still",
+  "pivot": "bottom",
+  "fx": ["bell-ring"],
+  "regions": [
+    {
+      "kind": "press",
+      "center": [128, 157],
+      "radius": [30, 30],
+      "amp": 3
+    }
+  ],
+  "emit": {
+    "x": 0.49,
+    "y": 0.6
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "granola",
+  "name": "granola",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "granola"
+    },
+    "vi": {
+      "text": "ngũ cốc nướng"
+    },
+    "zh-Hans": {
+      "text": "格兰诺拉",
+      "reading": "gélánnuòlā"
+    },
+    "ja": {
+      "text": "グラノーラ",
+      "reading": "guranōra"
+    },
+    "ko": {
+      "text": "그래놀라",
+      "reading": "geuraenolla"
+    },
+    "es": {
+      "text": "la granola"
+    },
+    "fr": {
+      "text": "le granola"
+    },
+    "de": {
+      "text": "das Granola"
+    },
+    "id": {
+      "text": "granola"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "hanging-basket",
+  "name": "hanging basket",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "hanging basket"
+    },
+    "vi": {
+      "text": "giỏ hoa treo"
+    },
+    "zh-Hans": {
+      "text": "吊篮",
+      "reading": "diàolán"
+    },
+    "ja": {
+      "text": "ハンギングバスケット",
+      "reading": "hangingu basuketto"
+    },
+    "ko": {
+      "text": "걸이 화분",
+      "reading": "geori hwabun"
+    },
+    "es": {
+      "text": "la maceta colgante"
+    },
+    "fr": {
+      "text": "le panier suspendu"
+    },
+    "de": {
+      "text": "die Blumenampel"
+    },
+    "id": {
+      "text": "pot gantung"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

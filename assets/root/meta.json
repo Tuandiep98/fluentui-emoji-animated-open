@@ -1,0 +1,46 @@
+{
+  "id": "root",
+  "name": "root",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "root"
+    },
+    "vi": {
+      "text": "rễ cây"
+    },
+    "zh-Hans": {
+      "text": "根",
+      "reading": "gēn"
+    },
+    "ja": {
+      "text": "ね",
+      "reading": "ne",
+      "tts": "根"
+    },
+    "ko": {
+      "text": "뿌리",
+      "reading": "ppuri"
+    },
+    "es": {
+      "text": "la raíz"
+    },
+    "fr": {
+      "text": "la racine"
+    },
+    "de": {
+      "text": "die Wurzel"
+    },
+    "id": {
+      "text": "akar"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

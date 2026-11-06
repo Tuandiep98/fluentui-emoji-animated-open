@@ -1,0 +1,45 @@
+{
+  "id": "wall",
+  "name": "wall",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "wall"
+    },
+    "vi": {
+      "text": "bức tường"
+    },
+    "zh-Hans": {
+      "text": "墙",
+      "reading": "qiáng"
+    },
+    "ja": {
+      "text": "かべ",
+      "reading": "kabe"
+    },
+    "ko": {
+      "text": "벽",
+      "reading": "byeok"
+    },
+    "es": {
+      "text": "la pared"
+    },
+    "fr": {
+      "text": "le mur"
+    },
+    "de": {
+      "text": "die Wand"
+    },
+    "id": {
+      "text": "dinding"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "potting-soil",
+  "name": "potting soil",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "potting soil"
+    },
+    "vi": {
+      "text": "đất trồng cây"
+    },
+    "zh-Hans": {
+      "text": "盆栽土",
+      "reading": "pénzāitǔ"
+    },
+    "ja": {
+      "text": "ばいようど",
+      "reading": "baiyōdo"
+    },
+    "ko": {
+      "text": "배양토",
+      "reading": "baeyangto"
+    },
+    "es": {
+      "text": "la tierra para macetas"
+    },
+    "fr": {
+      "text": "le terreau"
+    },
+    "de": {
+      "text": "die Blumenerde"
+    },
+    "id": {
+      "text": "tanah pot"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

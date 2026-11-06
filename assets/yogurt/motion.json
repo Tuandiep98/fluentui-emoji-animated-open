@@ -1,0 +1,23 @@
+{
+  "fps": 16,
+  "fx": [
+    "glint"
+  ],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        129,
+        95
+      ],
+      "radius": [
+        70,
+        33
+      ],
+      "amp": 2.8
+    }
+  ],
+  "glintAlpha": 0.14,
+  "note": "Only the yogurt surface settles inside the fixed cup."
+}

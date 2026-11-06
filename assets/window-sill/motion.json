@@ -1,0 +1,6 @@
+{
+  "preset": "still",
+  "pivot": "bottom",
+  "fx": ["glint"],
+  "glintAlpha": 0.13
+}

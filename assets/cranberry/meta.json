@@ -1,0 +1,45 @@
+{
+  "id": "cranberry",
+  "name": "cranberry",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "cranberry"
+    },
+    "vi": {
+      "text": "quả nam việt quất"
+    },
+    "zh-Hans": {
+      "text": "蔓越莓",
+      "reading": "mànyuèméi"
+    },
+    "ja": {
+      "text": "クランベリー",
+      "reading": "kuranberī"
+    },
+    "ko": {
+      "text": "크랜베리",
+      "reading": "keuraenberi"
+    },
+    "es": {
+      "text": "el arándano rojo"
+    },
+    "fr": {
+      "text": "la canneberge"
+    },
+    "de": {
+      "text": "die Cranberry"
+    },
+    "id": {
+      "text": "kranberi"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

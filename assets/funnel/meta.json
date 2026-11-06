@@ -1,0 +1,45 @@
+{
+  "id": "funnel",
+  "name": "funnel",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "funnel"
+    },
+    "vi": {
+      "text": "cái phễu"
+    },
+    "zh-Hans": {
+      "text": "漏斗",
+      "reading": "lòudǒu"
+    },
+    "ja": {
+      "text": "じょうご",
+      "reading": "jōgo"
+    },
+    "ko": {
+      "text": "깔때기",
+      "reading": "kkalttaegi"
+    },
+    "es": {
+      "text": "el embudo"
+    },
+    "fr": {
+      "text": "l'entonnoir"
+    },
+    "de": {
+      "text": "der Trichter"
+    },
+    "id": {
+      "text": "corong"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

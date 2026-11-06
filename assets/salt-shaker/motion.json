@@ -1,0 +1,7 @@
+{
+  "preset": "rattle",
+  "pivot": "center",
+  "amp": 0.35,
+  "fps": 12,
+  "fx": []
+}

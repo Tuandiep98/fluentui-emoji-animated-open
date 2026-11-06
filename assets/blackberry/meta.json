@@ -1,0 +1,45 @@
+{
+  "id": "blackberry",
+  "name": "blackberry",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "blackberry"
+    },
+    "vi": {
+      "text": "quả mâm xôi đen"
+    },
+    "zh-Hans": {
+      "text": "黑莓",
+      "reading": "hēiméi"
+    },
+    "ja": {
+      "text": "ブラックベリー",
+      "reading": "burakku berī"
+    },
+    "ko": {
+      "text": "블랙베리",
+      "reading": "beullaekberi"
+    },
+    "es": {
+      "text": "la mora"
+    },
+    "fr": {
+      "text": "la mûre"
+    },
+    "de": {
+      "text": "die Brombeere"
+    },
+    "id": {
+      "text": "beri hitam"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

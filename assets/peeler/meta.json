@@ -1,0 +1,45 @@
+{
+  "id": "peeler",
+  "name": "peeler",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "peeler"
+    },
+    "vi": {
+      "text": "dụng cụ gọt vỏ"
+    },
+    "zh-Hans": {
+      "text": "削皮器",
+      "reading": "xiāopíqì"
+    },
+    "ja": {
+      "text": "ピーラー",
+      "reading": "pīrā"
+    },
+    "ko": {
+      "text": "껍질 벗기개",
+      "reading": "kkeopjil beotgigae"
+    },
+    "es": {
+      "text": "el pelador"
+    },
+    "fr": {
+      "text": "l'éplucheur"
+    },
+    "de": {
+      "text": "der Sparschäler"
+    },
+    "id": {
+      "text": "pengupas"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "taro",
+  "name": "taro",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "taro"
+    },
+    "vi": {
+      "text": "củ khoai môn"
+    },
+    "zh-Hans": {
+      "text": "芋头",
+      "reading": "yùtou"
+    },
+    "ja": {
+      "text": "サトイモ",
+      "reading": "satoimo"
+    },
+    "ko": {
+      "text": "토란",
+      "reading": "toran"
+    },
+    "es": {
+      "text": "el taro"
+    },
+    "fr": {
+      "text": "le taro"
+    },
+    "de": {
+      "text": "der Taro"
+    },
+    "id": {
+      "text": "talas"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

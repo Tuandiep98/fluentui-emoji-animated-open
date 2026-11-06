@@ -1,0 +1,45 @@
+{
+  "id": "sprinkler",
+  "name": "sprinkler",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "sprinkler"
+    },
+    "vi": {
+      "text": "vòi phun nước"
+    },
+    "zh-Hans": {
+      "text": "喷水器",
+      "reading": "pēnshuǐqì"
+    },
+    "ja": {
+      "text": "スプリンクラー",
+      "reading": "supurinkurā"
+    },
+    "ko": {
+      "text": "스프링클러",
+      "reading": "seupeuringkeulleo"
+    },
+    "es": {
+      "text": "el aspersor"
+    },
+    "fr": {
+      "text": "l'arroseur"
+    },
+    "de": {
+      "text": "der Rasensprenger"
+    },
+    "id": {
+      "text": "penyiram otomatis"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

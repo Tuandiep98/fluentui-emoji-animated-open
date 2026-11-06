@@ -1,0 +1,45 @@
+{
+  "id": "bench",
+  "name": "bench",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bench"
+    },
+    "vi": {
+      "text": "ghế dài"
+    },
+    "zh-Hans": {
+      "text": "长椅",
+      "reading": "chángyǐ"
+    },
+    "ja": {
+      "text": "ベンチ",
+      "reading": "benchi"
+    },
+    "ko": {
+      "text": "긴 의자",
+      "reading": "gin uija"
+    },
+    "es": {
+      "text": "el banco"
+    },
+    "fr": {
+      "text": "le banc"
+    },
+    "de": {
+      "text": "die Bank"
+    },
+    "id": {
+      "text": "bangku panjang"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

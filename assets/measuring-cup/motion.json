@@ -1,0 +1,5 @@
+{
+  "preset": "still",
+  "fx": ["glint"],
+  "glintAlpha": 0.25
+}

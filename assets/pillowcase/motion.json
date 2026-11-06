@@ -1,0 +1,13 @@
+{
+  "preset": "still",
+  "pivot": "bottom",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [197, 130],
+      "radius": [31, 66],
+      "amp": 5
+    }
+  ]
+}

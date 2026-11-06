@@ -1,0 +1,114 @@
+# Fluent Open · Animated Emoji
+
+**230 original 3D emoji, transparent animated AVIF loops, editable motion recipes, and a fast static showcase.** MIT licensed.
+
+This independent community collection is based on the visual language and expressive motion of [Microsoft Fluent Emoji Animated](https://github.com/microsoft/fluentui-emoji-animated). See Microsoft's [animated asset collection](https://github.com/microsoft/fluentui-emoji-animated/tree/main/assets) and the companion [Fluent Emoji project](https://github.com/microsoft/fluentui-emoji).
+
+The 230 emoji here are original AI-generated illustrations with locally authored motion recipes. No Microsoft binary assets were copied into this release. This project is maintained by Tuấn Điệp and is not an official Microsoft release.
+
+![Showcase preview](docs/showcase-preview.png)
+
+## Explore
+
+Open [`index.html`](index.html) directly in a modern browser. No installation, network connection, CDN, font service, or build step is needed for the showcase. Animated AVIF support varies by browser; still PNG and WebP are included.
+
+For local HTTP preview:
+
+```sh
+npm ci
+npm run dev
+# http://127.0.0.1:4173
+```
+
+Search names and translations in nine languages, filter five categories, preview motion, switch light/dark backgrounds, and download individual assets. Animations load only on hover, keyboard focus, or explicit playback. Automatic motion respects reduced-motion and data-saver preferences.
+
+## What's included
+
+| Category | Emoji |
+| --- | ---: |
+| Home | 50 |
+| Kitchen | 50 |
+| Garden | 50 |
+| Fruit & vegetables | 50 |
+| Food & drink | 30 |
+| **Total** | **230** |
+
+The collection combines the initial 130 emoji and the next 100. Every asset includes:
+
+- Original transparent `source.png` master.
+- Optimized transparent `still.png` and `still.webp`, 256 × 256 pixels.
+- Three-second `animated.avif`, 256 × 256 pixels, at most 60 KiB.
+- Editable `motion.json`, vocabulary `meta.json`, and hash-bound `review.json`.
+- Vocabulary metadata in English, Vietnamese, German, Spanish, French, Indonesian, Japanese, Korean, and Simplified Chinese.
+
+[`catalog.json`](catalog.json) is the complete machine-readable index. [`provenance/import.json`](provenance/import.json) records the source release and imported IDs. Source masters and recipes are retained so future variants can be created without reverse-engineering compressed animations.
+
+## Use an emoji
+
+```html
+<!-- Static, lightweight default -->
+<picture>
+  <source srcset="assets/birdbath/still.webp" type="image/webp">
+  <img src="assets/birdbath/still.png" width="256" height="256"
+       loading="lazy" decoding="async" alt="Birdbath">
+</picture>
+
+<!-- Use animated AVIF when the user requests motion -->
+<img src="assets/birdbath/animated.avif" width="256" height="256" alt="Birdbath">
+```
+
+AVIF color and alpha sequences are included in the same file. Preserve transparency when processing these files; some image tools expose only the still cover frame. Provide a still fallback and respect your users' motion preferences.
+
+## Create a new emoji
+
+Requirements: Node.js 22 or later, npm, `ffmpeg`/`ffprobe`, and an AV1 encoder (`libaom-av1` in FFmpeg or `avifenc`). On macOS:
+
+```sh
+brew install ffmpeg libavif
+npm ci
+npm run new -- rain-boot --name "rain boot" --category garden --vi "ủng đi mưa"
+# Generate an original transparent master from assets/rain-boot/prompt.md;
+# save it as assets/rain-boot/source.png.
+npm run stills -- rain-boot
+# Edit assets/rain-boot/motion.json for object-specific movement.
+npm run animate -- rain-boot
+npm run review -- rain-boot
+# Inspect out/review/rain-boot.png AND play the AVIF before approving.
+npm run approve -- rain-boot
+npm run catalog
+npm run check
+```
+
+The toolkit scaffolds prompts and renders motion. The image-generation step is provider-independent: use your image tool to create the PNG, then record the exact prompt, tool, and corrections in `prompt.md`. No API key or proprietary image service is required to render the included source artwork.
+
+Read the full [generation guide](docs/GENERATING.md) for recipe structure, precise commands, revision safeguards, and quality gates.
+
+## Repository structure
+
+```text
+assets/<emoji-id>/
+  source.png          # original transparent master
+  still.png           # normalized 256px lossless still
+  still.webp          # lightweight showcase still
+  animated.avif       # transparent 3-second loop, <= 60 KiB
+  motion.json         # local deformation / transform / effects
+  meta.json           # identity, category, vocabulary, license
+  review.json         # reviewed file hashes
+  prompt.md           # prompt and generation notes for newly authored assets
+catalog.json          # full index, paths, motion data and hashes
+index.html            # standalone showcase entry
+showcase/             # CSS, JS and generated compact search index
+scripts/              # CLI, validation, catalog builder and motion renderer
+provenance/           # import manifest and original production evidence
+out/review/           # local review artifacts (ignored by Git)
+```
+
+## Performance
+
+The showcase uses plain HTML, CSS, and JavaScript. It starts with 24 cards, lazy-loads still WebP, reveals 24 more on request, and limits gallery playback to three visible icons. Leaving the viewport or hiding the tab stops playback; opening details stops gallery motion. No animation file is requested during initial rendering. The compact search index covers all 230 emoji without fetching the full metadata catalog. See [performance notes](docs/PERFORMANCE.md).
+
+## License & attribution
+
+The source, original artwork, metadata, and motion recipes in this repository are released under the [MIT License](LICENSE), copyright © 2026 Tuấn Điệp.
+
+Microsoft's upstream project is separately [MIT licensed, copyright Microsoft Corporation](https://github.com/microsoft/fluentui-emoji-animated/blob/main/LICENSE). Its name is used for attribution and inspiration. See [third-party notices](THIRD_PARTY_NOTICES.md). If you add upstream Microsoft assets later, preserve their original license and notices alongside them.

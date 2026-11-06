@@ -1,0 +1,45 @@
+{
+  "id": "bunk-bed",
+  "name": "bunk bed",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bunk bed"
+    },
+    "vi": {
+      "text": "giường tầng"
+    },
+    "zh-Hans": {
+      "text": "双层床",
+      "reading": "shuāngcéngchuáng"
+    },
+    "ja": {
+      "text": "にだんベッド",
+      "reading": "nidan beddo"
+    },
+    "ko": {
+      "text": "이층 침대",
+      "reading": "icheung chimdae"
+    },
+    "es": {
+      "text": "la litera"
+    },
+    "fr": {
+      "text": "le lit superposé"
+    },
+    "de": {
+      "text": "das Etagenbett"
+    },
+    "id": {
+      "text": "ranjang susun"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

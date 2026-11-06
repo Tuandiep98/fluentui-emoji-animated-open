@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "nod",
+  "pivot": "bottom",
+  "amp": 0.45,
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        84
+      ],
+      "radius": [
+        64,
+        55
+      ],
+      "amp": 1.5
+    }
+  ],
+  "note": "The heavy ruffled flower nods once and settles."
+}

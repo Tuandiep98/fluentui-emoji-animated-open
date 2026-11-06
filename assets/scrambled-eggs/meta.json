@@ -1,0 +1,45 @@
+{
+  "id": "scrambled-eggs",
+  "name": "scrambled eggs",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "scrambled eggs"
+    },
+    "vi": {
+      "text": "trứng bác"
+    },
+    "zh-Hans": {
+      "text": "炒蛋",
+      "reading": "chǎodàn"
+    },
+    "ja": {
+      "text": "スクランブルエッグ",
+      "reading": "sukuranburu eggu"
+    },
+    "ko": {
+      "text": "스크램블 에그",
+      "reading": "seukeuraembeul egeu"
+    },
+    "es": {
+      "text": "los huevos revueltos"
+    },
+    "fr": {
+      "text": "les œufs brouillés"
+    },
+    "de": {
+      "text": "das Rührei"
+    },
+    "id": {
+      "text": "telur orak-arik"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

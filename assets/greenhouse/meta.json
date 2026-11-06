@@ -1,0 +1,45 @@
+{
+  "id": "greenhouse",
+  "name": "greenhouse",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "greenhouse"
+    },
+    "vi": {
+      "text": "nhà kính"
+    },
+    "zh-Hans": {
+      "text": "温室",
+      "reading": "wēnshì"
+    },
+    "ja": {
+      "text": "おんしつ",
+      "reading": "onshitsu"
+    },
+    "ko": {
+      "text": "온실",
+      "reading": "onsil"
+    },
+    "es": {
+      "text": "el invernadero"
+    },
+    "fr": {
+      "text": "la serre"
+    },
+    "de": {
+      "text": "das Gewächshaus"
+    },
+    "id": {
+      "text": "rumah kaca"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

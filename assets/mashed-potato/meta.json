@@ -1,0 +1,45 @@
+{
+  "id": "mashed-potato",
+  "name": "mashed potato",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "mashed potato"
+    },
+    "vi": {
+      "text": "khoai tây nghiền"
+    },
+    "zh-Hans": {
+      "text": "土豆泥",
+      "reading": "tǔdòuní"
+    },
+    "ja": {
+      "text": "マッシュポテト",
+      "reading": "masshu poteto"
+    },
+    "ko": {
+      "text": "으깬 감자",
+      "reading": "eukkaen gamja"
+    },
+    "es": {
+      "text": "el puré de patatas"
+    },
+    "fr": {
+      "text": "la purée de pommes de terre"
+    },
+    "de": {
+      "text": "das Kartoffelpüree"
+    },
+    "id": {
+      "text": "kentang tumbuk"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

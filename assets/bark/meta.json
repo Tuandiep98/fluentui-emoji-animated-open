@@ -1,0 +1,45 @@
+{
+  "id": "bark",
+  "name": "bark",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "bark"
+    },
+    "vi": {
+      "text": "vỏ cây"
+    },
+    "zh-Hans": {
+      "text": "树皮",
+      "reading": "shùpí"
+    },
+    "ja": {
+      "text": "じゅひ",
+      "reading": "juhi"
+    },
+    "ko": {
+      "text": "나무껍질",
+      "reading": "namukkeopjil"
+    },
+    "es": {
+      "text": "la corteza"
+    },
+    "fr": {
+      "text": "l'écorce"
+    },
+    "de": {
+      "text": "die Baumrinde"
+    },
+    "id": {
+      "text": "kulit pohon"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

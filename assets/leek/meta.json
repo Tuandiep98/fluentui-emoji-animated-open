@@ -1,0 +1,45 @@
+{
+  "id": "leek",
+  "name": "leek",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "leek"
+    },
+    "vi": {
+      "text": "tỏi tây"
+    },
+    "zh-Hans": {
+      "text": "韭葱",
+      "reading": "jiǔcōng"
+    },
+    "ja": {
+      "text": "リーキ",
+      "reading": "rīki"
+    },
+    "ko": {
+      "text": "리크",
+      "reading": "rikeu"
+    },
+    "es": {
+      "text": "el puerro"
+    },
+    "fr": {
+      "text": "le poireau"
+    },
+    "de": {
+      "text": "der Lauch"
+    },
+    "id": {
+      "text": "daun bawang prei"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

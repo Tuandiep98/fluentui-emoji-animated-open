@@ -1,0 +1,45 @@
+{
+  "id": "moss",
+  "name": "moss",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "moss"
+    },
+    "vi": {
+      "text": "rêu"
+    },
+    "zh-Hans": {
+      "text": "苔藓",
+      "reading": "táixiǎn"
+    },
+    "ja": {
+      "text": "こけ",
+      "reading": "koke"
+    },
+    "ko": {
+      "text": "이끼",
+      "reading": "ikki"
+    },
+    "es": {
+      "text": "el musgo"
+    },
+    "fr": {
+      "text": "la mousse"
+    },
+    "de": {
+      "text": "das Moos"
+    },
+    "id": {
+      "text": "lumut"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

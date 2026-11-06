@@ -1,0 +1,45 @@
+{
+  "id": "placemat",
+  "name": "placemat",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "placemat"
+    },
+    "vi": {
+      "text": "tấm lót bàn ăn"
+    },
+    "zh-Hans": {
+      "text": "餐垫",
+      "reading": "cāndiàn"
+    },
+    "ja": {
+      "text": "ランチョンマット",
+      "reading": "ranchon matto"
+    },
+    "ko": {
+      "text": "식탁 매트",
+      "reading": "siktak maeteu"
+    },
+    "es": {
+      "text": "el mantel individual"
+    },
+    "fr": {
+      "text": "le set de table"
+    },
+    "de": {
+      "text": "das Tischset"
+    },
+    "id": {
+      "text": "alas makan"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

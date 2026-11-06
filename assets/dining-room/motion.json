@@ -1,0 +1,10 @@
+{
+  "preset": "still",
+  "pivot": "bottom",
+  "fx": ["lamp-glow"],
+  "emit": {
+    "x": 0.5,
+    "y": 0.27
+  },
+  "glowRadius": 18
+}

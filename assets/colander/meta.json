@@ -1,0 +1,45 @@
+{
+  "id": "colander",
+  "name": "colander",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "colander"
+    },
+    "vi": {
+      "text": "rổ lọc"
+    },
+    "zh-Hans": {
+      "text": "沥水篮",
+      "reading": "lìshuǐlán"
+    },
+    "ja": {
+      "text": "みずきりざる",
+      "reading": "mizukiri zaru"
+    },
+    "ko": {
+      "text": "채반",
+      "reading": "chaeban"
+    },
+    "es": {
+      "text": "el escurridor"
+    },
+    "fr": {
+      "text": "la passoire"
+    },
+    "de": {
+      "text": "das Nudelsieb"
+    },
+    "id": {
+      "text": "saringan pasta"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

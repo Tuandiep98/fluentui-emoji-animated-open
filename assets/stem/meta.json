@@ -1,0 +1,45 @@
+{
+  "id": "stem",
+  "name": "stem",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "stem"
+    },
+    "vi": {
+      "text": "thân cây"
+    },
+    "zh-Hans": {
+      "text": "茎",
+      "reading": "jīng"
+    },
+    "ja": {
+      "text": "くき",
+      "reading": "kuki"
+    },
+    "ko": {
+      "text": "줄기",
+      "reading": "julgi"
+    },
+    "es": {
+      "text": "el tallo"
+    },
+    "fr": {
+      "text": "la tige"
+    },
+    "de": {
+      "text": "der Stängel"
+    },
+    "id": {
+      "text": "batang"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

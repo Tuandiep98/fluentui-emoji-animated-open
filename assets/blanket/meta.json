@@ -1,0 +1,45 @@
+{
+  "id": "blanket",
+  "name": "blanket",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "blanket"
+    },
+    "vi": {
+      "text": "cái chăn"
+    },
+    "zh-Hans": {
+      "text": "毯子",
+      "reading": "tǎnzi"
+    },
+    "ja": {
+      "text": "もうふ",
+      "reading": "mōfu"
+    },
+    "ko": {
+      "text": "담요",
+      "reading": "damyo"
+    },
+    "es": {
+      "text": "la manta"
+    },
+    "fr": {
+      "text": "la couverture"
+    },
+    "de": {
+      "text": "die Decke"
+    },
+    "id": {
+      "text": "selimut"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

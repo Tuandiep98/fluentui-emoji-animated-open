@@ -1,0 +1,45 @@
+{
+  "id": "curtain",
+  "name": "curtain",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "curtain"
+    },
+    "vi": {
+      "text": "rèm cửa"
+    },
+    "zh-Hans": {
+      "text": "窗帘",
+      "reading": "chuānglián"
+    },
+    "ja": {
+      "text": "カーテン",
+      "reading": "kāten"
+    },
+    "ko": {
+      "text": "커튼",
+      "reading": "keoteun"
+    },
+    "es": {
+      "text": "la cortina"
+    },
+    "fr": {
+      "text": "le rideau"
+    },
+    "de": {
+      "text": "der Vorhang"
+    },
+    "id": {
+      "text": "gorden"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

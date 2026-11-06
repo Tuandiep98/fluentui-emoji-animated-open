@@ -1,0 +1,45 @@
+{
+  "id": "plate",
+  "name": "plate",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "plate"
+    },
+    "vi": {
+      "text": "cái đĩa"
+    },
+    "zh-Hans": {
+      "text": "盘子",
+      "reading": "pánzi"
+    },
+    "ja": {
+      "text": "おさら",
+      "reading": "osara"
+    },
+    "ko": {
+      "text": "접시",
+      "reading": "jeopsi"
+    },
+    "es": {
+      "text": "el plato"
+    },
+    "fr": {
+      "text": "l'assiette"
+    },
+    "de": {
+      "text": "der Teller"
+    },
+    "id": {
+      "text": "piring"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

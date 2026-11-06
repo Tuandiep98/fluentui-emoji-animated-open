@@ -1,0 +1,7 @@
+{
+  "preset": "pour",
+  "pivot": { "x": 0.25, "y": 0.5 },
+  "amp": 0.8,
+  "emit": { "x": 1, "y": 0.62 },
+  "fx": ["water-drops"]
+}

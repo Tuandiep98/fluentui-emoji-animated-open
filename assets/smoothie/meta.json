@@ -1,0 +1,45 @@
+{
+  "id": "smoothie",
+  "name": "smoothie",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "smoothie"
+    },
+    "vi": {
+      "text": "sinh tố"
+    },
+    "zh-Hans": {
+      "text": "水果冰沙",
+      "reading": "shuǐguǒ bīngshā"
+    },
+    "ja": {
+      "text": "スムージー",
+      "reading": "sumūjī"
+    },
+    "ko": {
+      "text": "스무디",
+      "reading": "seumudi"
+    },
+    "es": {
+      "text": "el batido de frutas"
+    },
+    "fr": {
+      "text": "le smoothie"
+    },
+    "de": {
+      "text": "der Smoothie"
+    },
+    "id": {
+      "text": "smoothie"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

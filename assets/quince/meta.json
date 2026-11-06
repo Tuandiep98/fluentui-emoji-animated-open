@@ -1,0 +1,45 @@
+{
+  "id": "quince",
+  "name": "quince",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "quince"
+    },
+    "vi": {
+      "text": "quả mộc qua tây"
+    },
+    "zh-Hans": {
+      "text": "榅桲",
+      "reading": "wēnpo"
+    },
+    "ja": {
+      "text": "マルメロ",
+      "reading": "marumero"
+    },
+    "ko": {
+      "text": "서양모과",
+      "reading": "seoyangmogwa"
+    },
+    "es": {
+      "text": "el membrillo"
+    },
+    "fr": {
+      "text": "le coing"
+    },
+    "de": {
+      "text": "die Quitte"
+    },
+    "id": {
+      "text": "quince"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

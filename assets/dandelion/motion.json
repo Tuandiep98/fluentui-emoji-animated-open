@@ -1,0 +1,34 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        74,
+        91
+      ],
+      "radius": [
+        48,
+        50
+      ],
+      "amp": 3,
+      "cycles": 1
+    },
+    {
+      "kind": "wave",
+      "center": [
+        173,
+        73
+      ],
+      "radius": [
+        50,
+        55
+      ],
+      "amp": -3,
+      "cycles": 1
+    }
+  ],
+  "note": "The flower and seed head sway softly without shedding seeds."
+}

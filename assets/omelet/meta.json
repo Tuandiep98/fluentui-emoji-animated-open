@@ -1,0 +1,45 @@
+{
+  "id": "omelet",
+  "name": "omelet",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "omelet"
+    },
+    "vi": {
+      "text": "trứng tráng"
+    },
+    "zh-Hans": {
+      "text": "煎蛋卷",
+      "reading": "jiāndànjuǎn"
+    },
+    "ja": {
+      "text": "オムレツ",
+      "reading": "omuretsu"
+    },
+    "ko": {
+      "text": "오믈렛",
+      "reading": "omeullet"
+    },
+    "es": {
+      "text": "la tortilla francesa"
+    },
+    "fr": {
+      "text": "l'omelette"
+    },
+    "de": {
+      "text": "das Omelett"
+    },
+    "id": {
+      "text": "telur dadar"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

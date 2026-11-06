@@ -1,0 +1,45 @@
+{
+  "id": "condensed-milk",
+  "name": "condensed milk",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "condensed milk"
+    },
+    "vi": {
+      "text": "sữa đặc"
+    },
+    "zh-Hans": {
+      "text": "炼乳",
+      "reading": "liànrǔ"
+    },
+    "ja": {
+      "text": "れんにゅう",
+      "reading": "rennyū"
+    },
+    "ko": {
+      "text": "연유",
+      "reading": "yeonyu"
+    },
+    "es": {
+      "text": "la leche condensada"
+    },
+    "fr": {
+      "text": "le lait concentré sucré"
+    },
+    "de": {
+      "text": "die gezuckerte Kondensmilch"
+    },
+    "id": {
+      "text": "susu kental manis"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

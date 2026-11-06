@@ -1,0 +1,45 @@
+{
+  "id": "celery",
+  "name": "celery",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "celery"
+    },
+    "vi": {
+      "text": "rau cần tây"
+    },
+    "zh-Hans": {
+      "text": "芹菜",
+      "reading": "qíncài"
+    },
+    "ja": {
+      "text": "セロリ",
+      "reading": "serori"
+    },
+    "ko": {
+      "text": "셀러리",
+      "reading": "selleori"
+    },
+    "es": {
+      "text": "el apio"
+    },
+    "fr": {
+      "text": "le céleri"
+    },
+    "de": {
+      "text": "der Sellerie"
+    },
+    "id": {
+      "text": "seledri"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

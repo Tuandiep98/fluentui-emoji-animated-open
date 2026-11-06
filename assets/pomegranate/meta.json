@@ -1,0 +1,45 @@
+{
+  "id": "pomegranate",
+  "name": "pomegranate",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "pomegranate"
+    },
+    "vi": {
+      "text": "quả lựu"
+    },
+    "zh-Hans": {
+      "text": "石榴",
+      "reading": "shíliu"
+    },
+    "ja": {
+      "text": "ザクロ",
+      "reading": "zakuro"
+    },
+    "ko": {
+      "text": "석류",
+      "reading": "seongnyu"
+    },
+    "es": {
+      "text": "la granada"
+    },
+    "fr": {
+      "text": "la grenade"
+    },
+    "de": {
+      "text": "der Granatapfel"
+    },
+    "id": {
+      "text": "delima"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

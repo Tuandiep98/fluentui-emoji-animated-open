@@ -1,0 +1,45 @@
+{
+  "id": "lavender",
+  "name": "lavender",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "lavender"
+    },
+    "vi": {
+      "text": "hoa oải hương"
+    },
+    "zh-Hans": {
+      "text": "薰衣草",
+      "reading": "xūnyīcǎo"
+    },
+    "ja": {
+      "text": "ラベンダー",
+      "reading": "rabendā"
+    },
+    "ko": {
+      "text": "라벤더",
+      "reading": "rabendeo"
+    },
+    "es": {
+      "text": "la lavanda"
+    },
+    "fr": {
+      "text": "la lavande"
+    },
+    "de": {
+      "text": "der Lavendel"
+    },
+    "id": {
+      "text": "lavender"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

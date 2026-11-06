@@ -1,0 +1,45 @@
+{
+  "id": "rolling-pin",
+  "name": "rolling pin",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "rolling pin"
+    },
+    "vi": {
+      "text": "cây cán bột"
+    },
+    "zh-Hans": {
+      "text": "擀面杖",
+      "reading": "gǎnmiànzhàng"
+    },
+    "ja": {
+      "text": "めんぼう",
+      "reading": "menbō"
+    },
+    "ko": {
+      "text": "밀대",
+      "reading": "mildae"
+    },
+    "es": {
+      "text": "el rodillo"
+    },
+    "fr": {
+      "text": "le rouleau à pâtisserie"
+    },
+    "de": {
+      "text": "das Nudelholz"
+    },
+    "id": {
+      "text": "penggilas adonan"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

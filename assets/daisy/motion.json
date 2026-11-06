@@ -1,0 +1,38 @@
+{
+  "fps": 12,
+  "fx": [],
+  "preset": "still",
+  "pivot": "bottom",
+  "amp": 0.38,
+  "note": "A small meadow-flower nod from the rooted stem.",
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [
+        135,
+        65
+      ],
+      "radius": [
+        69,
+        53
+      ],
+      "pivot": [
+        126,
+        176
+      ],
+      "amp": 3.5
+    },
+    {
+      "kind": "wave",
+      "center": [
+        68,
+        104
+      ],
+      "radius": [
+        47,
+        47
+      ],
+      "amp": 3
+    }
+  ]
+}

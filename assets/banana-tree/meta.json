@@ -1,0 +1,45 @@
+{
+  "id": "banana-tree",
+  "name": "banana tree",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "banana tree"
+    },
+    "vi": {
+      "text": "cây chuối"
+    },
+    "zh-Hans": {
+      "text": "香蕉树",
+      "reading": "xiāngjiāoshù"
+    },
+    "ja": {
+      "text": "バナナのき",
+      "reading": "banana no ki"
+    },
+    "ko": {
+      "text": "바나나나무",
+      "reading": "banananamu"
+    },
+    "es": {
+      "text": "el bananero"
+    },
+    "fr": {
+      "text": "le bananier"
+    },
+    "de": {
+      "text": "die Bananenpflanze"
+    },
+    "id": {
+      "text": "pohon pisang"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

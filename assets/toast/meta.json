@@ -1,0 +1,45 @@
+{
+  "id": "toast",
+  "name": "toast",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "toast"
+    },
+    "vi": {
+      "text": "bánh mì nướng"
+    },
+    "zh-Hans": {
+      "text": "吐司",
+      "reading": "tǔsī"
+    },
+    "ja": {
+      "text": "トースト",
+      "reading": "tōsuto"
+    },
+    "ko": {
+      "text": "토스트",
+      "reading": "toseuteu"
+    },
+    "es": {
+      "text": "la tostada"
+    },
+    "fr": {
+      "text": "le pain grillé"
+    },
+    "de": {
+      "text": "der Toast"
+    },
+    "id": {
+      "text": "roti panggang"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

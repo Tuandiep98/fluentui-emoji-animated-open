@@ -1,0 +1,45 @@
+{
+  "id": "daikon",
+  "name": "daikon",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "daikon"
+    },
+    "vi": {
+      "text": "củ cải trắng"
+    },
+    "zh-Hans": {
+      "text": "白萝卜",
+      "reading": "báiluóbo"
+    },
+    "ja": {
+      "text": "だいこん",
+      "reading": "daikon"
+    },
+    "ko": {
+      "text": "무",
+      "reading": "mu"
+    },
+    "es": {
+      "text": "el rábano blanco"
+    },
+    "fr": {
+      "text": "le radis blanc"
+    },
+    "de": {
+      "text": "der Rettich"
+    },
+    "id": {
+      "text": "lobak putih"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

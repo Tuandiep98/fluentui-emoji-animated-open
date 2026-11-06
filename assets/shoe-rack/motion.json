@@ -1,0 +1,13 @@
+{
+  "preset": "still",
+  "pivot": "bottom",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "press",
+      "center": [116, 83],
+      "radius": [49, 21],
+      "amp": 2
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "pitcher",
+  "name": "pitcher",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "pitcher"
+    },
+    "vi": {
+      "text": "bình đựng nước"
+    },
+    "zh-Hans": {
+      "text": "水罐",
+      "reading": "shuǐguàn"
+    },
+    "ja": {
+      "text": "ピッチャー",
+      "reading": "pitchā"
+    },
+    "ko": {
+      "text": "물 주전자",
+      "reading": "mul jujeonja"
+    },
+    "es": {
+      "text": "la jarra"
+    },
+    "fr": {
+      "text": "la carafe"
+    },
+    "de": {
+      "text": "der Wasserkrug"
+    },
+    "id": {
+      "text": "teko air"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "measuring-cup",
+  "name": "measuring cup",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "measuring cup"
+    },
+    "vi": {
+      "text": "cốc đong"
+    },
+    "zh-Hans": {
+      "text": "量杯",
+      "reading": "liángbēi"
+    },
+    "ja": {
+      "text": "けいりょうカップ",
+      "reading": "keiryō kappu"
+    },
+    "ko": {
+      "text": "계량컵",
+      "reading": "gyeryangkeop"
+    },
+    "es": {
+      "text": "la jarra medidora"
+    },
+    "fr": {
+      "text": "le verre doseur"
+    },
+    "de": {
+      "text": "der Messbecher"
+    },
+    "id": {
+      "text": "gelas ukur"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

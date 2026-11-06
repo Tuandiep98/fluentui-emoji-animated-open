@@ -1,0 +1,45 @@
+{
+  "id": "hinge",
+  "name": "hinge",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "hinge"
+    },
+    "vi": {
+      "text": "bản lề"
+    },
+    "zh-Hans": {
+      "text": "合页",
+      "reading": "héyè"
+    },
+    "ja": {
+      "text": "ちょうつがい",
+      "reading": "chōtsugai"
+    },
+    "ko": {
+      "text": "경첩",
+      "reading": "gyeongcheop"
+    },
+    "es": {
+      "text": "la bisagra"
+    },
+    "fr": {
+      "text": "la charnière"
+    },
+    "de": {
+      "text": "das Scharnier"
+    },
+    "id": {
+      "text": "engsel"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

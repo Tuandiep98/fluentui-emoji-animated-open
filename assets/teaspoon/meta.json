@@ -1,0 +1,45 @@
+{
+  "id": "teaspoon",
+  "name": "teaspoon",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "teaspoon"
+    },
+    "vi": {
+      "text": "thìa nhỏ"
+    },
+    "zh-Hans": {
+      "text": "茶匙",
+      "reading": "cháchí"
+    },
+    "ja": {
+      "text": "ティースプーン",
+      "reading": "tī supūn"
+    },
+    "ko": {
+      "text": "티스푼",
+      "reading": "tiseupun"
+    },
+    "es": {
+      "text": "la cucharilla"
+    },
+    "fr": {
+      "text": "la petite cuillère"
+    },
+    "de": {
+      "text": "der Teelöffel"
+    },
+    "id": {
+      "text": "sendok teh"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

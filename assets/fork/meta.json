@@ -1,0 +1,45 @@
+{
+  "id": "fork",
+  "name": "fork",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "fork"
+    },
+    "vi": {
+      "text": "cái nĩa"
+    },
+    "zh-Hans": {
+      "text": "叉子",
+      "reading": "chāzi"
+    },
+    "ja": {
+      "text": "フォーク",
+      "reading": "fōku"
+    },
+    "ko": {
+      "text": "포크",
+      "reading": "pokeu"
+    },
+    "es": {
+      "text": "el tenedor"
+    },
+    "fr": {
+      "text": "la fourchette"
+    },
+    "de": {
+      "text": "die Gabel"
+    },
+    "id": {
+      "text": "garpu"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

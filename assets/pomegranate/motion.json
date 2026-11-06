@@ -1,0 +1,11 @@
+{
+  "fps": 16,
+  "fx": [
+    "glint"
+  ],
+  "preset": "nod",
+  "pivot": "bottom",
+  "amp": 0.32,
+  "glintAlpha": 0.12,
+  "note": "The cut fruit tilts gently to reveal its identifying flesh and seeds."
+}

@@ -1,0 +1,11 @@
+{
+  "fps": 16,
+  "fx": [
+    "glint"
+  ],
+  "preset": "pour",
+  "pivot": "bottom",
+  "amp": 0.24,
+  "glintAlpha": 0.12,
+  "note": "The little cream jug tilts toward its spout and returns without an invented stream."
+}

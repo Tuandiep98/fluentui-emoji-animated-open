@@ -1,0 +1,45 @@
+{
+  "id": "window-blind",
+  "name": "window blind",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "window blind"
+    },
+    "vi": {
+      "text": "mành cửa"
+    },
+    "zh-Hans": {
+      "text": "百叶窗",
+      "reading": "bǎiyèchuāng"
+    },
+    "ja": {
+      "text": "ブラインド",
+      "reading": "buraindo"
+    },
+    "ko": {
+      "text": "블라인드",
+      "reading": "beullaindeu"
+    },
+    "es": {
+      "text": "la persiana"
+    },
+    "fr": {
+      "text": "le store"
+    },
+    "de": {
+      "text": "die Jalousie"
+    },
+    "id": {
+      "text": "tirai kisi"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

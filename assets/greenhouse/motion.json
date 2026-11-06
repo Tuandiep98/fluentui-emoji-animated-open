@@ -1,0 +1,9 @@
+{
+  "preset": "still",
+  "fx": ["glass-glint"],
+  "emit": {
+    "x": 0.45,
+    "y": 0.25
+  },
+  "glowRadius": 38
+}

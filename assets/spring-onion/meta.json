@@ -1,0 +1,45 @@
+{
+  "id": "spring-onion",
+  "name": "spring onion",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "spring onion"
+    },
+    "vi": {
+      "text": "hành lá"
+    },
+    "zh-Hans": {
+      "text": "小葱",
+      "reading": "xiǎocōng"
+    },
+    "ja": {
+      "text": "こねぎ",
+      "reading": "konegi"
+    },
+    "ko": {
+      "text": "쪽파",
+      "reading": "jjokpa"
+    },
+    "es": {
+      "text": "la cebolleta"
+    },
+    "fr": {
+      "text": "la ciboule"
+    },
+    "de": {
+      "text": "die Frühlingszwiebel"
+    },
+    "id": {
+      "text": "daun bawang"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

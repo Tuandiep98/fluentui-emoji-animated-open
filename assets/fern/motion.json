@@ -1,0 +1,47 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        63,
+        105
+      ],
+      "radius": [
+        50,
+        60
+      ],
+      "amp": -4,
+      "cycles": 1
+    },
+    {
+      "kind": "wave",
+      "center": [
+        191,
+        93
+      ],
+      "radius": [
+        48,
+        65
+      ],
+      "amp": 4,
+      "cycles": 1
+    },
+    {
+      "kind": "wave",
+      "center": [
+        151,
+        61
+      ],
+      "radius": [
+        35,
+        42
+      ],
+      "amp": 2,
+      "cycles": 1
+    }
+  ],
+  "note": "Different fronds wave in opposite directions around the fixed crown."
+}

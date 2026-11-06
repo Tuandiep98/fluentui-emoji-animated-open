@@ -1,0 +1,12 @@
+{
+  "method": "imported hash-bound still and decoded contact-sheet review",
+  "notes": "Checked nine terms/readings, 256px still, and eight decoded AVIF frames on light/dark. Fabric folds, bottle water, appliance controls, toast or blender liquid move locally; rigid pitcher/funnel/shaker movements preserve their silhouettes. Alpha edges and render gates pass. Contact-sheet review, not real-time playback.",
+  "hashes": {
+    "source.png": "4d6612ba0fea3f5baef836f5b457e8224e4fc9d096a7e4fbdcae9660b163e35f",
+    "still.png": "4179c9db69e759cfc65f3344185847048ec04e335198b582e4e530ea5b0b8fec",
+    "still.webp": "6ea750a9ecfbb8ad9f3bddce22c58e7e71049f9f918e319628f286b1c59e3774",
+    "animated.avif": "db741293cfc901590584db5302b4b95003bed77851bf1d56166654bdc44236d0",
+    "motion.json": "6f3beff1bc159ca4920f1537e3a3a761fdea91626d3d43e67056edd2279512b0",
+    "meta.json": "6238d6875af43bf0de64ce97cb48714768c42c16f957fefa0a9c948d59501706"
+  }
+}

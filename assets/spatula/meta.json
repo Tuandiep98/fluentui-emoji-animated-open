@@ -1,0 +1,45 @@
+{
+  "id": "spatula",
+  "name": "spatula",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "spatula"
+    },
+    "vi": {
+      "text": "xẻng nấu ăn"
+    },
+    "zh-Hans": {
+      "text": "锅铲",
+      "reading": "guōchǎn"
+    },
+    "ja": {
+      "text": "フライがえし",
+      "reading": "furai gaeshi"
+    },
+    "ko": {
+      "text": "뒤집개",
+      "reading": "dwijipgae"
+    },
+    "es": {
+      "text": "la espátula"
+    },
+    "fr": {
+      "text": "la spatule"
+    },
+    "de": {
+      "text": "der Pfannenwender"
+    },
+    "id": {
+      "text": "spatula"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

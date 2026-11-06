@@ -1,0 +1,9 @@
+{
+  "fps": 16,
+  "fx": [
+    "glint"
+  ],
+  "preset": "still",
+  "glintAlpha": 0.24,
+  "note": "A quiet light sweep over the roof; the solid nesting box stays still."
+}

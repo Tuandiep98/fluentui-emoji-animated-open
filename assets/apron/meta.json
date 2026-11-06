@@ -1,0 +1,45 @@
+{
+  "id": "apron",
+  "name": "apron",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "apron"
+    },
+    "vi": {
+      "text": "tạp dề"
+    },
+    "zh-Hans": {
+      "text": "围裙",
+      "reading": "wéiqún"
+    },
+    "ja": {
+      "text": "エプロン",
+      "reading": "epuron"
+    },
+    "ko": {
+      "text": "앞치마",
+      "reading": "apchima"
+    },
+    "es": {
+      "text": "el delantal"
+    },
+    "fr": {
+      "text": "le tablier"
+    },
+    "de": {
+      "text": "die Schürze"
+    },
+    "id": {
+      "text": "celemek"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

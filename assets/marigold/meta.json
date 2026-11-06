@@ -1,0 +1,45 @@
+{
+  "id": "marigold",
+  "name": "marigold",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "marigold"
+    },
+    "vi": {
+      "text": "hoa vạn thọ"
+    },
+    "zh-Hans": {
+      "text": "万寿菊",
+      "reading": "wànshòujú"
+    },
+    "ja": {
+      "text": "マリーゴールド",
+      "reading": "marīgōrudo"
+    },
+    "ko": {
+      "text": "천수국",
+      "reading": "cheonsuguk"
+    },
+    "es": {
+      "text": "el clavel de la India"
+    },
+    "fr": {
+      "text": "la rose d'Inde"
+    },
+    "de": {
+      "text": "die Studentenblume"
+    },
+    "id": {
+      "text": "bunga marigold"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

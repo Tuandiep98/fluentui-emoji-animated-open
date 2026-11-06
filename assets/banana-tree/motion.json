@@ -1,0 +1,47 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        67,
+        72
+      ],
+      "radius": [
+        49,
+        58
+      ],
+      "amp": -4,
+      "cycles": 1
+    },
+    {
+      "kind": "wave",
+      "center": [
+        185,
+        78
+      ],
+      "radius": [
+        50,
+        61
+      ],
+      "amp": 4,
+      "cycles": 1
+    },
+    {
+      "kind": "wave",
+      "center": [
+        127,
+        46
+      ],
+      "radius": [
+        40,
+        26
+      ],
+      "amp": 2,
+      "cycles": 1
+    }
+  ],
+  "note": "Broad leaves flex in the wind; the pseudostem and banana bunch stay stable."
+}

@@ -1,0 +1,34 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        128,
+        82
+      ],
+      "radius": [
+        94,
+        63
+      ],
+      "amp": 3.7,
+      "cycles": 1
+    },
+    {
+      "kind": "wave",
+      "center": [
+        78,
+        112
+      ],
+      "radius": [
+        40,
+        58
+      ],
+      "amp": -2,
+      "cycles": 1
+    }
+  ],
+  "note": "The leafy tops rustle while the cut stems remain still."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "pillow",
+  "name": "pillow",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "pillow"
+    },
+    "vi": {
+      "text": "cái gối"
+    },
+    "zh-Hans": {
+      "text": "枕头",
+      "reading": "zhěntou"
+    },
+    "ja": {
+      "text": "まくら",
+      "reading": "makura"
+    },
+    "ko": {
+      "text": "베개",
+      "reading": "begae"
+    },
+    "es": {
+      "text": "la almohada"
+    },
+    "fr": {
+      "text": "l'oreiller"
+    },
+    "de": {
+      "text": "das Kopfkissen"
+    },
+    "id": {
+      "text": "bantal"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "armchair",
+  "name": "armchair",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "armchair"
+    },
+    "vi": {
+      "text": "ghế bành"
+    },
+    "zh-Hans": {
+      "text": "扶手椅",
+      "reading": "fúshǒuyǐ"
+    },
+    "ja": {
+      "text": "アームチェア",
+      "reading": "āmuchea"
+    },
+    "ko": {
+      "text": "팔걸이 의자",
+      "reading": "palgeori uija"
+    },
+    "es": {
+      "text": "el sillón"
+    },
+    "fr": {
+      "text": "le fauteuil"
+    },
+    "de": {
+      "text": "der Sessel"
+    },
+    "id": {
+      "text": "kursi berlengan"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

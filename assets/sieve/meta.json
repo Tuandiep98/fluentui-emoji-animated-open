@@ -1,0 +1,45 @@
+{
+  "id": "sieve",
+  "name": "sieve",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "sieve"
+    },
+    "vi": {
+      "text": "cái rây"
+    },
+    "zh-Hans": {
+      "text": "筛子",
+      "reading": "shāizi"
+    },
+    "ja": {
+      "text": "ふるい",
+      "reading": "furui"
+    },
+    "ko": {
+      "text": "체",
+      "reading": "che"
+    },
+    "es": {
+      "text": "el tamiz"
+    },
+    "fr": {
+      "text": "le tamis"
+    },
+    "de": {
+      "text": "das Sieb"
+    },
+    "id": {
+      "text": "ayakan"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

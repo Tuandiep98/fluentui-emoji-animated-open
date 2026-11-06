@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        126,
+        87
+      ],
+      "radius": [
+        100,
+        68
+      ],
+      "amp": 2.8,
+      "cycles": 1
+    }
+  ],
+  "note": "The apple-bearing canopy sways gently above a stationary trunk."
+}

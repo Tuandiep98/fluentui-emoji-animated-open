@@ -1,0 +1,13 @@
+{
+  "fps": 16,
+  "fx": [
+    "glass-glint"
+  ],
+  "preset": "still",
+  "emit": {
+    "x": 0.53,
+    "y": 0.45
+  },
+  "glowRadius": 35,
+  "note": "A quiet glass highlight travels across the stationary drink vessel."
+}

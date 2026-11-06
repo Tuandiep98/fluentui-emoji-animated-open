@@ -1,0 +1,45 @@
+{
+  "id": "cream",
+  "name": "cream",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "cream"
+    },
+    "vi": {
+      "text": "kem sữa"
+    },
+    "zh-Hans": {
+      "text": "鲜奶油",
+      "reading": "xiānnǎiyóu"
+    },
+    "ja": {
+      "text": "クリーム",
+      "reading": "kurīmu"
+    },
+    "ko": {
+      "text": "크림",
+      "reading": "keurim"
+    },
+    "es": {
+      "text": "la nata"
+    },
+    "fr": {
+      "text": "la crème"
+    },
+    "de": {
+      "text": "die Sahne"
+    },
+    "id": {
+      "text": "krim"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "stove",
+  "name": "stove",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "stove"
+    },
+    "vi": {
+      "text": "bếp nấu"
+    },
+    "zh-Hans": {
+      "text": "炉灶",
+      "reading": "lúzào"
+    },
+    "ja": {
+      "text": "コンロ",
+      "reading": "konro"
+    },
+    "ko": {
+      "text": "가스레인지",
+      "reading": "gaseureinji"
+    },
+    "es": {
+      "text": "el fogón"
+    },
+    "fr": {
+      "text": "le réchaud"
+    },
+    "de": {
+      "text": "der Herd"
+    },
+    "id": {
+      "text": "kompor"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

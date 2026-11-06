@@ -1,0 +1,12 @@
+{
+  "method": "imported hash-bound still and decoded contact-sheet review",
+  "notes": "Checked nine terms/readings, normalized still, and eight decoded AVIF frames on light/dark. Rigid kitchenware, material glints or regional fabric movement. Alpha edges and render gates pass. Contact-sheet review, not real-time playback.",
+  "hashes": {
+    "source.png": "9dc37c900b82611cc2eacec4759bbdb03e7ce955e265a50a7ce3921392a1c805",
+    "still.png": "47cf9ce47bb9b1fcc762af0eac602abd6aa7f8cfaba509133c7e0ce1e1bf48f4",
+    "still.webp": "79f4376ab1e8098b18cd45a7601de17c427c79e2e14b759c36177fa218339771",
+    "animated.avif": "73ccbb23fcadece2c45d9f08ed62ece76fc0a06b605145e083c39a6fbbe7eb3d",
+    "motion.json": "8f599d977f715e736ffb769fab0c87aa2008cc6726f2c965ffcaf089ef8717e5",
+    "meta.json": "24386e17f9e093fc4a31eeea9796fc329e3dc505e380f91f8455e9fd1010d96d"
+  }
+}

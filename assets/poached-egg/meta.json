@@ -1,0 +1,45 @@
+{
+  "id": "poached-egg",
+  "name": "poached egg",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "poached egg"
+    },
+    "vi": {
+      "text": "trứng chần"
+    },
+    "zh-Hans": {
+      "text": "水波蛋",
+      "reading": "shuǐbōdàn"
+    },
+    "ja": {
+      "text": "ポーチドエッグ",
+      "reading": "pōchido eggu"
+    },
+    "ko": {
+      "text": "수란",
+      "reading": "suran"
+    },
+    "es": {
+      "text": "el huevo escalfado"
+    },
+    "fr": {
+      "text": "l'œuf poché"
+    },
+    "de": {
+      "text": "das pochierte Ei"
+    },
+    "id": {
+      "text": "telur poser"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

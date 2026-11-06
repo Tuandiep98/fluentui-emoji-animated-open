@@ -1,0 +1,10 @@
+{
+  "preset": "still",
+  "pivot": "bottom",
+  "fx": ["glass-glint"],
+  "emit": {
+    "x": 0.49,
+    "y": 0.35
+  },
+  "glowRadius": 37
+}

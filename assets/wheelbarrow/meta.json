@@ -1,0 +1,45 @@
+{
+  "id": "wheelbarrow",
+  "name": "wheelbarrow",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "wheelbarrow"
+    },
+    "vi": {
+      "text": "xe cút kít"
+    },
+    "zh-Hans": {
+      "text": "独轮车",
+      "reading": "dúlúnchē"
+    },
+    "ja": {
+      "text": "いちりんのておしぐるま",
+      "reading": "ichirin no teoshiguruma"
+    },
+    "ko": {
+      "text": "외바퀴 손수레",
+      "reading": "oebakwi sonsure"
+    },
+    "es": {
+      "text": "la carretilla"
+    },
+    "fr": {
+      "text": "la brouette"
+    },
+    "de": {
+      "text": "die Schubkarre"
+    },
+    "id": {
+      "text": "gerobak dorong"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

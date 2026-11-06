@@ -1,0 +1,12 @@
+{
+  "method": "imported hash-bound still and decoded contact-sheet review",
+  "notes": "Checked nine terms/readings, normalized still, and eight decoded AVIF frames on light/dark. Rigid cooking tool motion or surface glint; alpha edges and render gates pass. Contact-sheet review, not real-time playback.",
+  "hashes": {
+    "source.png": "e2d84ba8eebdbc1a9d1f9598916bf5ea51506d3d952e8002112933f41efd7e50",
+    "still.png": "1638c0fdaa3cd250caba18a929c392831975d37dfd3821c7c40a3d7fe6592ace",
+    "still.webp": "146676b20a11249239d4d49de35af512441dcc2637f92412e819a53ec5eab67d",
+    "animated.avif": "3a8786579f1ef393de5d96e412ff42d108456ea29d64738661f2f4ab9afd71d0",
+    "motion.json": "8b7cb43d8ec9bd958911749d8630d40eba53fda3ee20ce47b1e6012be939b300",
+    "meta.json": "4fac67268f5120e02de79a3694fcf9e263a2e90e4ebc4f569fe859818785721b"
+  }
+}

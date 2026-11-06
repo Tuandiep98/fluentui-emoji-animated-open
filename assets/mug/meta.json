@@ -1,0 +1,45 @@
+{
+  "id": "mug",
+  "name": "mug",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "mug"
+    },
+    "vi": {
+      "text": "cốc có quai"
+    },
+    "zh-Hans": {
+      "text": "马克杯",
+      "reading": "mǎkèbēi"
+    },
+    "ja": {
+      "text": "マグカップ",
+      "reading": "magu kappu"
+    },
+    "ko": {
+      "text": "머그컵",
+      "reading": "meogeukeop"
+    },
+    "es": {
+      "text": "la taza con asa"
+    },
+    "fr": {
+      "text": "le mug"
+    },
+    "de": {
+      "text": "der Becher"
+    },
+    "id": {
+      "text": "cangkir besar"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

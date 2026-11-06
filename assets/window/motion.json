@@ -1,0 +1,14 @@
+{
+  "preset": "still",
+  "pivot": "bottom",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [175, 183],
+      "radius": [45, 49],
+      "amp": 4,
+      "pivot": [199, 180]
+    }
+  ]
+}

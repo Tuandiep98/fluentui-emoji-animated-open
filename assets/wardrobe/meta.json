@@ -1,0 +1,45 @@
+{
+  "id": "wardrobe",
+  "name": "wardrobe",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "wardrobe"
+    },
+    "vi": {
+      "text": "tủ quần áo"
+    },
+    "zh-Hans": {
+      "text": "衣柜",
+      "reading": "yīguì"
+    },
+    "ja": {
+      "text": "ワードローブ",
+      "reading": "wādorōbu"
+    },
+    "ko": {
+      "text": "옷장",
+      "reading": "otjang"
+    },
+    "es": {
+      "text": "el armario"
+    },
+    "fr": {
+      "text": "l'armoire"
+    },
+    "de": {
+      "text": "der Kleiderschrank"
+    },
+    "id": {
+      "text": "lemari pakaian"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

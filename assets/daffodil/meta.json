@@ -1,0 +1,45 @@
+{
+  "id": "daffodil",
+  "name": "daffodil",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "daffodil"
+    },
+    "vi": {
+      "text": "hoa thủy tiên"
+    },
+    "zh-Hans": {
+      "text": "水仙",
+      "reading": "shuǐxiān"
+    },
+    "ja": {
+      "text": "スイセン",
+      "reading": "suisen"
+    },
+    "ko": {
+      "text": "수선화",
+      "reading": "suseonhwa"
+    },
+    "es": {
+      "text": "el narciso"
+    },
+    "fr": {
+      "text": "le narcisse"
+    },
+    "de": {
+      "text": "die Narzisse"
+    },
+    "id": {
+      "text": "bunga narsis"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

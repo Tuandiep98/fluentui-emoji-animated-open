@@ -1,0 +1,45 @@
+{
+  "id": "gooseberry",
+  "name": "gooseberry",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "gooseberry"
+    },
+    "vi": {
+      "text": "quả lý gai"
+    },
+    "zh-Hans": {
+      "text": "醋栗",
+      "reading": "cùlì"
+    },
+    "ja": {
+      "text": "グーズベリー",
+      "reading": "gūzu berī"
+    },
+    "ko": {
+      "text": "구스베리",
+      "reading": "guseuberi"
+    },
+    "es": {
+      "text": "la grosella espinosa"
+    },
+    "fr": {
+      "text": "la groseille à maquereau"
+    },
+    "de": {
+      "text": "die Stachelbeere"
+    },
+    "id": {
+      "text": "gooseberry"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "blackcurrant",
+  "name": "blackcurrant",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "blackcurrant"
+    },
+    "vi": {
+      "text": "quả lý chua đen"
+    },
+    "zh-Hans": {
+      "text": "黑加仑",
+      "reading": "hēijiālún"
+    },
+    "ja": {
+      "text": "カシス",
+      "reading": "kashisu"
+    },
+    "ko": {
+      "text": "블랙커런트",
+      "reading": "beullaekkeoreonteu"
+    },
+    "es": {
+      "text": "la grosella negra"
+    },
+    "fr": {
+      "text": "le cassis"
+    },
+    "de": {
+      "text": "die Schwarze Johannisbeere"
+    },
+    "id": {
+      "text": "blackcurrant"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

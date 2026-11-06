@@ -1,0 +1,45 @@
+{
+  "id": "guava",
+  "name": "guava",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "guava"
+    },
+    "vi": {
+      "text": "quả ổi"
+    },
+    "zh-Hans": {
+      "text": "番石榴",
+      "reading": "fānshíliú"
+    },
+    "ja": {
+      "text": "グアバ",
+      "reading": "guaba"
+    },
+    "ko": {
+      "text": "구아바",
+      "reading": "guaba"
+    },
+    "es": {
+      "text": "la guayaba"
+    },
+    "fr": {
+      "text": "la goyave"
+    },
+    "de": {
+      "text": "die Guave"
+    },
+    "id": {
+      "text": "jambu biji"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

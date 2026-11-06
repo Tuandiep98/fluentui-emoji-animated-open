@@ -1,0 +1,45 @@
+{
+  "id": "fruit-salad",
+  "name": "fruit salad",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "fruit salad"
+    },
+    "vi": {
+      "text": "salad trái cây"
+    },
+    "zh-Hans": {
+      "text": "水果沙拉",
+      "reading": "shuǐguǒ shālā"
+    },
+    "ja": {
+      "text": "フルーツサラダ",
+      "reading": "furūtsu sarada"
+    },
+    "ko": {
+      "text": "과일 샐러드",
+      "reading": "gwail saelleodeu"
+    },
+    "es": {
+      "text": "la macedonia"
+    },
+    "fr": {
+      "text": "la salade de fruits"
+    },
+    "de": {
+      "text": "der Obstsalat"
+    },
+    "id": {
+      "text": "salad buah"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

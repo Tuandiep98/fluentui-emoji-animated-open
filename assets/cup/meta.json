@@ -1,0 +1,45 @@
+{
+  "id": "cup",
+  "name": "cup",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "cup"
+    },
+    "vi": {
+      "text": "cái cốc"
+    },
+    "zh-Hans": {
+      "text": "杯子",
+      "reading": "bēizi"
+    },
+    "ja": {
+      "text": "カップ",
+      "reading": "kappu"
+    },
+    "ko": {
+      "text": "컵",
+      "reading": "keop"
+    },
+    "es": {
+      "text": "la taza"
+    },
+    "fr": {
+      "text": "la tasse"
+    },
+    "de": {
+      "text": "die Tasse"
+    },
+    "id": {
+      "text": "cangkir"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

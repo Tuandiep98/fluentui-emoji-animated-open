@@ -1,0 +1,45 @@
+{
+  "id": "porch",
+  "name": "porch",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "porch"
+    },
+    "vi": {
+      "text": "hiên nhà"
+    },
+    "zh-Hans": {
+      "text": "门廊",
+      "reading": "ménláng"
+    },
+    "ja": {
+      "text": "ポーチ",
+      "reading": "pōchi"
+    },
+    "ko": {
+      "text": "현관 포치",
+      "reading": "hyeongwan pochi"
+    },
+    "es": {
+      "text": "el porche"
+    },
+    "fr": {
+      "text": "le porche"
+    },
+    "de": {
+      "text": "die Veranda"
+    },
+    "id": {
+      "text": "serambi"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

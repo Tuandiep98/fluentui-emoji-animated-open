@@ -1,0 +1,45 @@
+{
+  "id": "rice-pudding",
+  "name": "rice pudding",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "rice pudding"
+    },
+    "vi": {
+      "text": "pudding gạo"
+    },
+    "zh-Hans": {
+      "text": "米布丁",
+      "reading": "mǐbùdīng"
+    },
+    "ja": {
+      "text": "ライスプディング",
+      "reading": "raisu pudingu"
+    },
+    "ko": {
+      "text": "라이스 푸딩",
+      "reading": "raiseu puding"
+    },
+    "es": {
+      "text": "el arroz con leche"
+    },
+    "fr": {
+      "text": "le riz au lait"
+    },
+    "de": {
+      "text": "der Milchreis"
+    },
+    "id": {
+      "text": "puding nasi"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

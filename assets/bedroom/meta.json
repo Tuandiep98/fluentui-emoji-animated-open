@@ -1,0 +1,45 @@
+{
+  "id": "bedroom",
+  "name": "bedroom",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bedroom"
+    },
+    "vi": {
+      "text": "phòng ngủ"
+    },
+    "zh-Hans": {
+      "text": "卧室",
+      "reading": "wòshì"
+    },
+    "ja": {
+      "text": "しんしつ",
+      "reading": "shinshitsu"
+    },
+    "ko": {
+      "text": "침실",
+      "reading": "chimsil"
+    },
+    "es": {
+      "text": "el dormitorio"
+    },
+    "fr": {
+      "text": "la chambre"
+    },
+    "de": {
+      "text": "das Schlafzimmer"
+    },
+    "id": {
+      "text": "kamar tidur"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

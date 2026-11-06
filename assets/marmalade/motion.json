@@ -1,0 +1,23 @@
+{
+  "fps": 16,
+  "fx": [
+    "glint"
+  ],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        95
+      ],
+      "radius": [
+        70,
+        38
+      ],
+      "amp": 2.8
+    }
+  ],
+  "glintAlpha": 0.14,
+  "note": "The spread surface shifts slightly as a quiet highlight crosses its container."
+}

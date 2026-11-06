@@ -1,0 +1,45 @@
+{
+  "id": "persimmon",
+  "name": "persimmon",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "persimmon"
+    },
+    "vi": {
+      "text": "quả hồng"
+    },
+    "zh-Hans": {
+      "text": "柿子",
+      "reading": "shìzi"
+    },
+    "ja": {
+      "text": "かき",
+      "reading": "kaki"
+    },
+    "ko": {
+      "text": "감",
+      "reading": "gam"
+    },
+    "es": {
+      "text": "el caqui"
+    },
+    "fr": {
+      "text": "le kaki"
+    },
+    "de": {
+      "text": "die Kaki"
+    },
+    "id": {
+      "text": "kesemek"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

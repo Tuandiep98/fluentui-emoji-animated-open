@@ -1,0 +1,45 @@
+{
+  "id": "radish",
+  "name": "radish",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "radish"
+    },
+    "vi": {
+      "text": "củ cải đỏ"
+    },
+    "zh-Hans": {
+      "text": "小红萝卜",
+      "reading": "xiǎohóngluóbo"
+    },
+    "ja": {
+      "text": "ラディッシュ",
+      "reading": "radisshu"
+    },
+    "ko": {
+      "text": "래디시",
+      "reading": "raedisi"
+    },
+    "es": {
+      "text": "el rábano"
+    },
+    "fr": {
+      "text": "le radis"
+    },
+    "de": {
+      "text": "das Radieschen"
+    },
+    "id": {
+      "text": "lobak merah"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

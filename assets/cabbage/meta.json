@@ -1,0 +1,45 @@
+{
+  "id": "cabbage",
+  "name": "cabbage",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "cabbage"
+    },
+    "vi": {
+      "text": "bắp cải"
+    },
+    "zh-Hans": {
+      "text": "卷心菜",
+      "reading": "juǎnxīncài"
+    },
+    "ja": {
+      "text": "キャベツ",
+      "reading": "kyabetsu"
+    },
+    "ko": {
+      "text": "양배추",
+      "reading": "yangbaechu"
+    },
+    "es": {
+      "text": "la col"
+    },
+    "fr": {
+      "text": "le chou"
+    },
+    "de": {
+      "text": "der Weißkohl"
+    },
+    "id": {
+      "text": "kubis"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

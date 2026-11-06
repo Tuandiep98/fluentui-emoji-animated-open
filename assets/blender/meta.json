@@ -1,0 +1,45 @@
+{
+  "id": "blender",
+  "name": "blender",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "blender"
+    },
+    "vi": {
+      "text": "máy xay sinh tố"
+    },
+    "zh-Hans": {
+      "text": "搅拌机",
+      "reading": "jiǎobànjī"
+    },
+    "ja": {
+      "text": "ミキサー",
+      "reading": "mikisā"
+    },
+    "ko": {
+      "text": "믹서기",
+      "reading": "mikseogi"
+    },
+    "es": {
+      "text": "la batidora"
+    },
+    "fr": {
+      "text": "le mixeur"
+    },
+    "de": {
+      "text": "der Standmixer"
+    },
+    "id": {
+      "text": "blender"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

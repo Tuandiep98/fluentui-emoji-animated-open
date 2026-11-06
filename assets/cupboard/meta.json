@@ -1,0 +1,45 @@
+{
+  "id": "cupboard",
+  "name": "cupboard",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "cupboard"
+    },
+    "vi": {
+      "text": "cái tủ"
+    },
+    "zh-Hans": {
+      "text": "柜子",
+      "reading": "guìzi"
+    },
+    "ja": {
+      "text": "とだな",
+      "reading": "todana"
+    },
+    "ko": {
+      "text": "찬장",
+      "reading": "chanjang"
+    },
+    "es": {
+      "text": "el aparador"
+    },
+    "fr": {
+      "text": "le placard"
+    },
+    "de": {
+      "text": "der Schrank"
+    },
+    "id": {
+      "text": "lemari"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

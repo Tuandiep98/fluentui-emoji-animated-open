@@ -1,0 +1,45 @@
+{
+  "id": "lawn",
+  "name": "lawn",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "lawn"
+    },
+    "vi": {
+      "text": "bãi cỏ"
+    },
+    "zh-Hans": {
+      "text": "草坪",
+      "reading": "cǎopíng"
+    },
+    "ja": {
+      "text": "しばふ",
+      "reading": "shibafu"
+    },
+    "ko": {
+      "text": "잔디밭",
+      "reading": "jandibat"
+    },
+    "es": {
+      "text": "el césped"
+    },
+    "fr": {
+      "text": "la pelouse"
+    },
+    "de": {
+      "text": "der Rasen"
+    },
+    "id": {
+      "text": "halaman rumput"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,34 @@
+{
+  "fps": 12,
+  "fx": [],
+  "preset": "still",
+  "pivot": "bottom",
+  "amp": 0.28,
+  "note": "The rooted culms lean as one, with a small leaf flutter.",
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        66,
+        88
+      ],
+      "radius": [
+        38,
+        67
+      ],
+      "amp": 3
+    },
+    {
+      "kind": "wave",
+      "center": [
+        187,
+        83
+      ],
+      "radius": [
+        43,
+        68
+      ],
+      "amp": -3
+    }
+  ]
+}

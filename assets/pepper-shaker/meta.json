@@ -1,0 +1,45 @@
+{
+  "id": "pepper-shaker",
+  "name": "pepper shaker",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "pepper shaker"
+    },
+    "vi": {
+      "text": "lọ rắc tiêu"
+    },
+    "zh-Hans": {
+      "text": "胡椒瓶",
+      "reading": "hújiāopíng"
+    },
+    "ja": {
+      "text": "こしょういれ",
+      "reading": "koshō ire"
+    },
+    "ko": {
+      "text": "후추통",
+      "reading": "huchutong"
+    },
+    "es": {
+      "text": "el pimentero"
+    },
+    "fr": {
+      "text": "la poivrière"
+    },
+    "de": {
+      "text": "der Pfefferstreuer"
+    },
+    "id": {
+      "text": "tempat merica"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

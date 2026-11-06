@@ -1,0 +1,45 @@
+{
+  "id": "rocking-chair",
+  "name": "rocking chair",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "rocking chair"
+    },
+    "vi": {
+      "text": "ghế bập bênh"
+    },
+    "zh-Hans": {
+      "text": "摇椅",
+      "reading": "yáoyǐ"
+    },
+    "ja": {
+      "text": "ロッキングチェア",
+      "reading": "rokkinguchea"
+    },
+    "ko": {
+      "text": "흔들 의자",
+      "reading": "heundeul uija"
+    },
+    "es": {
+      "text": "el balancín"
+    },
+    "fr": {
+      "text": "le fauteuil à bascule"
+    },
+    "de": {
+      "text": "der Schaukelstuhl"
+    },
+    "id": {
+      "text": "kursi goyang"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

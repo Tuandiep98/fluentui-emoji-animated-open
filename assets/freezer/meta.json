@@ -1,0 +1,45 @@
+{
+  "id": "freezer",
+  "name": "freezer",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "freezer"
+    },
+    "vi": {
+      "text": "tủ đông"
+    },
+    "zh-Hans": {
+      "text": "冷冻柜",
+      "reading": "lěngdòngguì"
+    },
+    "ja": {
+      "text": "れいとうこ",
+      "reading": "reitōko"
+    },
+    "ko": {
+      "text": "냉동고",
+      "reading": "naengdonggo"
+    },
+    "es": {
+      "text": "el congelador"
+    },
+    "fr": {
+      "text": "le congélateur"
+    },
+    "de": {
+      "text": "die Gefriertruhe"
+    },
+    "id": {
+      "text": "freezer"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

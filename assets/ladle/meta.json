@@ -1,0 +1,45 @@
+{
+  "id": "ladle",
+  "name": "ladle",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "ladle"
+    },
+    "vi": {
+      "text": "cái vá"
+    },
+    "zh-Hans": {
+      "text": "汤勺",
+      "reading": "tāngsháo"
+    },
+    "ja": {
+      "text": "おたま",
+      "reading": "otama"
+    },
+    "ko": {
+      "text": "국자",
+      "reading": "gukja"
+    },
+    "es": {
+      "text": "el cucharón"
+    },
+    "fr": {
+      "text": "la louche"
+    },
+    "de": {
+      "text": "die Schöpfkelle"
+    },
+    "id": {
+      "text": "sendok sayur"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

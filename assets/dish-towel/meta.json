@@ -1,0 +1,45 @@
+{
+  "id": "dish-towel",
+  "name": "dish towel",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "dish towel"
+    },
+    "vi": {
+      "text": "khăn lau bát"
+    },
+    "zh-Hans": {
+      "text": "擦碗布",
+      "reading": "cāwǎnbù"
+    },
+    "ja": {
+      "text": "ふきん",
+      "reading": "fukin"
+    },
+    "ko": {
+      "text": "행주",
+      "reading": "haengju"
+    },
+    "es": {
+      "text": "el paño de cocina"
+    },
+    "fr": {
+      "text": "le torchon"
+    },
+    "de": {
+      "text": "das Geschirrtuch"
+    },
+    "id": {
+      "text": "lap piring"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

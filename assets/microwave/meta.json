@@ -1,0 +1,45 @@
+{
+  "id": "microwave",
+  "name": "microwave",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "microwave"
+    },
+    "vi": {
+      "text": "lò vi sóng"
+    },
+    "zh-Hans": {
+      "text": "微波炉",
+      "reading": "wēibōlú"
+    },
+    "ja": {
+      "text": "でんしレンジ",
+      "reading": "denshi renji"
+    },
+    "ko": {
+      "text": "전자레인지",
+      "reading": "jeonjareinji"
+    },
+    "es": {
+      "text": "el microondas"
+    },
+    "fr": {
+      "text": "le micro-ondes"
+    },
+    "de": {
+      "text": "die Mikrowelle"
+    },
+    "id": {
+      "text": "oven microwave"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "table",
+  "name": "table",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "table"
+    },
+    "vi": {
+      "text": "cái bàn"
+    },
+    "zh-Hans": {
+      "text": "桌子",
+      "reading": "zhuōzi"
+    },
+    "ja": {
+      "text": "テーブル",
+      "reading": "tēburu"
+    },
+    "ko": {
+      "text": "테이블",
+      "reading": "teibeul"
+    },
+    "es": {
+      "text": "la mesa"
+    },
+    "fr": {
+      "text": "la table"
+    },
+    "de": {
+      "text": "der Tisch"
+    },
+    "id": {
+      "text": "meja"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

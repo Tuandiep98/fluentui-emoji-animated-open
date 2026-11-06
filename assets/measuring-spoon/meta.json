@@ -1,0 +1,45 @@
+{
+  "id": "measuring-spoon",
+  "name": "measuring spoon",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "measuring spoon"
+    },
+    "vi": {
+      "text": "thìa đong"
+    },
+    "zh-Hans": {
+      "text": "量勺",
+      "reading": "liángsháo"
+    },
+    "ja": {
+      "text": "けいりょうスプーン",
+      "reading": "keiryō supūn"
+    },
+    "ko": {
+      "text": "계량스푼",
+      "reading": "gyeryangseupun"
+    },
+    "es": {
+      "text": "la cuchara medidora"
+    },
+    "fr": {
+      "text": "la cuillère doseuse"
+    },
+    "de": {
+      "text": "der Messlöffel"
+    },
+    "id": {
+      "text": "sendok takar"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

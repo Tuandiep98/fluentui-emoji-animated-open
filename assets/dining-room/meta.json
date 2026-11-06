@@ -1,0 +1,45 @@
+{
+  "id": "dining-room",
+  "name": "dining room",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "dining room"
+    },
+    "vi": {
+      "text": "phòng ăn"
+    },
+    "zh-Hans": {
+      "text": "餐厅",
+      "reading": "cāntīng"
+    },
+    "ja": {
+      "text": "ダイニング",
+      "reading": "dainingu"
+    },
+    "ko": {
+      "text": "식당",
+      "reading": "sikdang"
+    },
+    "es": {
+      "text": "el comedor"
+    },
+    "fr": {
+      "text": "la salle à manger"
+    },
+    "de": {
+      "text": "das Esszimmer"
+    },
+    "id": {
+      "text": "ruang makan"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

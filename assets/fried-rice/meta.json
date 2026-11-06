@@ -1,0 +1,45 @@
+{
+  "id": "fried-rice",
+  "name": "fried rice",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "fried rice"
+    },
+    "vi": {
+      "text": "cơm chiên"
+    },
+    "zh-Hans": {
+      "text": "炒饭",
+      "reading": "chǎofàn"
+    },
+    "ja": {
+      "text": "チャーハン",
+      "reading": "chāhan"
+    },
+    "ko": {
+      "text": "볶음밥",
+      "reading": "bokkeumbap"
+    },
+    "es": {
+      "text": "el arroz frito"
+    },
+    "fr": {
+      "text": "le riz sauté"
+    },
+    "de": {
+      "text": "der gebratene Reis"
+    },
+    "id": {
+      "text": "nasi goreng"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "soy-milk",
+  "name": "soy milk",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "soy milk"
+    },
+    "vi": {
+      "text": "sữa đậu nành"
+    },
+    "zh-Hans": {
+      "text": "豆浆",
+      "reading": "dòujiāng"
+    },
+    "ja": {
+      "text": "とうにゅう",
+      "reading": "tōnyū"
+    },
+    "ko": {
+      "text": "두유",
+      "reading": "duyu"
+    },
+    "es": {
+      "text": "la leche de soja"
+    },
+    "fr": {
+      "text": "le lait de soja"
+    },
+    "de": {
+      "text": "die Sojamilch"
+    },
+    "id": {
+      "text": "susu kedelai"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

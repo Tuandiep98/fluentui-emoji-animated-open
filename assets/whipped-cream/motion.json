@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "pivot": "bottom",
+  "amp": 0.65,
+  "note": "The airy piped peak wobbles and softly settles.",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        105
+      ],
+      "radius": [
+        78,
+        91
+      ],
+      "amp": 4.5
+    }
+  ]
+}

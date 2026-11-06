@@ -1,0 +1,45 @@
+{
+  "id": "fence",
+  "name": "fence",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "fence"
+    },
+    "vi": {
+      "text": "hàng rào"
+    },
+    "zh-Hans": {
+      "text": "栅栏",
+      "reading": "zhàlan"
+    },
+    "ja": {
+      "text": "さく",
+      "reading": "saku"
+    },
+    "ko": {
+      "text": "울타리",
+      "reading": "ultari"
+    },
+    "es": {
+      "text": "la valla"
+    },
+    "fr": {
+      "text": "la clôture"
+    },
+    "de": {
+      "text": "der Zaun"
+    },
+    "id": {
+      "text": "pagar"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

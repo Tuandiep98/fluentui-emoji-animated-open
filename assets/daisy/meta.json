@@ -1,0 +1,45 @@
+{
+  "id": "daisy",
+  "name": "daisy",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "daisy"
+    },
+    "vi": {
+      "text": "hoa cúc trắng"
+    },
+    "zh-Hans": {
+      "text": "雏菊",
+      "reading": "chújú"
+    },
+    "ja": {
+      "text": "デイジー",
+      "reading": "deijī"
+    },
+    "ko": {
+      "text": "데이지",
+      "reading": "deiji"
+    },
+    "es": {
+      "text": "la margarita"
+    },
+    "fr": {
+      "text": "la pâquerette"
+    },
+    "de": {
+      "text": "das Gänseblümchen"
+    },
+    "id": {
+      "text": "bunga daisy"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

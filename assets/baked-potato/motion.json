@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "fx": [
+    "steam"
+  ],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        127,
+        109
+      ],
+      "radius": [
+        68,
+        38
+      ],
+      "amp": 2
+    }
+  ],
+  "note": "A little steam rises from the split potato, while the plate stays still."
+}

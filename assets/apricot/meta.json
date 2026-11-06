@@ -1,0 +1,45 @@
+{
+  "id": "apricot",
+  "name": "apricot",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "apricot"
+    },
+    "vi": {
+      "text": "quả mơ"
+    },
+    "zh-Hans": {
+      "text": "杏",
+      "reading": "xìng"
+    },
+    "ja": {
+      "text": "あんず",
+      "reading": "anzu"
+    },
+    "ko": {
+      "text": "살구",
+      "reading": "salgu"
+    },
+    "es": {
+      "text": "el albaricoque"
+    },
+    "fr": {
+      "text": "l'abricot"
+    },
+    "de": {
+      "text": "die Aprikose"
+    },
+    "id": {
+      "text": "aprikot"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mixing-bowl",
+  "name": "mixing bowl",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "mixing bowl"
+    },
+    "vi": {
+      "text": "bát trộn"
+    },
+    "zh-Hans": {
+      "text": "搅拌碗",
+      "reading": "jiǎobànwǎn"
+    },
+    "ja": {
+      "text": "ボウル",
+      "reading": "bōru"
+    },
+    "ko": {
+      "text": "믹싱 볼",
+      "reading": "miksing bol"
+    },
+    "es": {
+      "text": "el bol de mezcla"
+    },
+    "fr": {
+      "text": "le saladier"
+    },
+    "de": {
+      "text": "die Rührschüssel"
+    },
+    "id": {
+      "text": "mangkuk adonan"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

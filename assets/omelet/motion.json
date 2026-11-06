@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "fx": [
+    "steam"
+  ],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        125
+      ],
+      "radius": [
+        92,
+        51
+      ],
+      "amp": 2.6
+    }
+  ],
+  "note": "A soft folded-egg settle; the plate is not squashed or bounced."
+}

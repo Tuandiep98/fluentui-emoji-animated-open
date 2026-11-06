@@ -1,0 +1,45 @@
+{
+  "id": "drinking-glass",
+  "name": "drinking glass",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "drinking glass"
+    },
+    "vi": {
+      "text": "ly uống nước"
+    },
+    "zh-Hans": {
+      "text": "玻璃杯",
+      "reading": "bōlibēi"
+    },
+    "ja": {
+      "text": "グラス",
+      "reading": "gurasu"
+    },
+    "ko": {
+      "text": "유리컵",
+      "reading": "yurikeop"
+    },
+    "es": {
+      "text": "el vaso"
+    },
+    "fr": {
+      "text": "le verre"
+    },
+    "de": {
+      "text": "das Trinkglas"
+    },
+    "id": {
+      "text": "gelas"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

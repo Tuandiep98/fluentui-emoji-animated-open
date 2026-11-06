@@ -1,0 +1,23 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "sway",
+  "pivot": "bottom",
+  "amp": 0.32,
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [
+        167,
+        78
+      ],
+      "radius": [
+        40,
+        70
+      ],
+      "amp": 2,
+      "cycles": 1
+    }
+  ],
+  "note": "Slender lavender spikes sway softly with slightly different timing."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "okra",
+  "name": "okra",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "okra"
+    },
+    "vi": {
+      "text": "quả đậu bắp"
+    },
+    "zh-Hans": {
+      "text": "秋葵",
+      "reading": "qiūkuí"
+    },
+    "ja": {
+      "text": "オクラ",
+      "reading": "okura"
+    },
+    "ko": {
+      "text": "오크라",
+      "reading": "okeura"
+    },
+    "es": {
+      "text": "la okra"
+    },
+    "fr": {
+      "text": "le gombo"
+    },
+    "de": {
+      "text": "die Okra"
+    },
+    "id": {
+      "text": "okra"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

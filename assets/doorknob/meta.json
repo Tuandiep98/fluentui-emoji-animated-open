@@ -1,0 +1,45 @@
+{
+  "id": "doorknob",
+  "name": "doorknob",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "doorknob"
+    },
+    "vi": {
+      "text": "tay nắm cửa"
+    },
+    "zh-Hans": {
+      "text": "门把手",
+      "reading": "ménbǎshou"
+    },
+    "ja": {
+      "text": "ドアノブ",
+      "reading": "doanobu"
+    },
+    "ko": {
+      "text": "문손잡이",
+      "reading": "munsonjabi"
+    },
+    "es": {
+      "text": "el pomo"
+    },
+    "fr": {
+      "text": "la poignée de porte"
+    },
+    "de": {
+      "text": "der Türknauf"
+    },
+    "id": {
+      "text": "kenop pintu"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

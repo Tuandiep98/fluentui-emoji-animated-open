@@ -1,0 +1,20 @@
+{
+  "name": "fluentui-emoji-animated-open",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "230 original 3D emoji, tiny transparent animations and a local generation toolkit.",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "new": "node scripts/emoji.mjs new",
+    "stills": "node scripts/emoji.mjs prepare",
+    "animate": "node scripts/emoji.mjs animate",
+    "review": "node scripts/emoji.mjs review",
+    "approve": "node scripts/emoji.mjs approve",
+    "catalog": "node scripts/catalog.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/serve.mjs"
+  },
+  "dependencies": { "sharp": "0.35.5" }
+}

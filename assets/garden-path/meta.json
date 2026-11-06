@@ -1,0 +1,45 @@
+{
+  "id": "garden-path",
+  "name": "garden path",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "garden path"
+    },
+    "vi": {
+      "text": "lối đi trong vườn"
+    },
+    "zh-Hans": {
+      "text": "花园小路",
+      "reading": "huāyuán xiǎolù"
+    },
+    "ja": {
+      "text": "にわのみち",
+      "reading": "niwa no michi"
+    },
+    "ko": {
+      "text": "정원 길",
+      "reading": "jeongwon gil"
+    },
+    "es": {
+      "text": "el sendero del jardín"
+    },
+    "fr": {
+      "text": "l'allée du jardin"
+    },
+    "de": {
+      "text": "der Gartenweg"
+    },
+    "id": {
+      "text": "jalan kebun"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

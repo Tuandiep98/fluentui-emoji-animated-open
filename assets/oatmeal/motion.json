@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "fx": [
+    "steam"
+  ],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        108
+      ],
+      "radius": [
+        77,
+        35
+      ],
+      "amp": 1.4
+    }
+  ],
+  "note": "A little warm steam rises; the bowl stays on its base."
+}

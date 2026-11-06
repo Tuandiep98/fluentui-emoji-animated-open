@@ -1,0 +1,45 @@
+{
+  "id": "spade",
+  "name": "spade",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "spade"
+    },
+    "vi": {
+      "text": "cái mai"
+    },
+    "zh-Hans": {
+      "text": "铁锹",
+      "reading": "tiěqiāo"
+    },
+    "ja": {
+      "text": "スコップ",
+      "reading": "sukoppu"
+    },
+    "ko": {
+      "text": "삽",
+      "reading": "sap"
+    },
+    "es": {
+      "text": "la pala"
+    },
+    "fr": {
+      "text": "la bêche"
+    },
+    "de": {
+      "text": "der Spaten"
+    },
+    "id": {
+      "text": "sekop"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "lemonade",
+  "name": "lemonade",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "lemonade"
+    },
+    "vi": {
+      "text": "nước chanh"
+    },
+    "zh-Hans": {
+      "text": "柠檬水",
+      "reading": "níngméngshuǐ"
+    },
+    "ja": {
+      "text": "レモネード",
+      "reading": "remonēdo"
+    },
+    "ko": {
+      "text": "레모네이드",
+      "reading": "remoneideu"
+    },
+    "es": {
+      "text": "la limonada"
+    },
+    "fr": {
+      "text": "la limonade"
+    },
+    "de": {
+      "text": "die Limonade"
+    },
+    "id": {
+      "text": "limun"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

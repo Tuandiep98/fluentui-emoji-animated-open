@@ -1,0 +1,45 @@
+{
+  "id": "chayote",
+  "name": "chayote",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "chayote"
+    },
+    "vi": {
+      "text": "quả su su"
+    },
+    "zh-Hans": {
+      "text": "佛手瓜",
+      "reading": "fóshǒuguā"
+    },
+    "ja": {
+      "text": "ハヤトウリ",
+      "reading": "hayatouri"
+    },
+    "ko": {
+      "text": "차요테",
+      "reading": "chayote"
+    },
+    "es": {
+      "text": "la chayota"
+    },
+    "fr": {
+      "text": "la chayote"
+    },
+    "de": {
+      "text": "die Chayote"
+    },
+    "id": {
+      "text": "labu siam"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

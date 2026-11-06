@@ -1,0 +1,45 @@
+{
+  "id": "window-sill",
+  "name": "window sill",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "window sill"
+    },
+    "vi": {
+      "text": "bệ cửa sổ"
+    },
+    "zh-Hans": {
+      "text": "窗台",
+      "reading": "chuāngtái"
+    },
+    "ja": {
+      "text": "まどだい",
+      "reading": "madodai"
+    },
+    "ko": {
+      "text": "창턱",
+      "reading": "changteok"
+    },
+    "es": {
+      "text": "el alféizar"
+    },
+    "fr": {
+      "text": "le rebord de fenêtre"
+    },
+    "de": {
+      "text": "die Fensterbank"
+    },
+    "id": {
+      "text": "ambang jendela"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

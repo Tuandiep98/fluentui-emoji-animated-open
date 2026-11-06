@@ -1,0 +1,45 @@
+{
+  "id": "carpet",
+  "name": "carpet",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "carpet"
+    },
+    "vi": {
+      "text": "tấm thảm"
+    },
+    "zh-Hans": {
+      "text": "地毯",
+      "reading": "dìtǎn"
+    },
+    "ja": {
+      "text": "カーペット",
+      "reading": "kāpetto"
+    },
+    "ko": {
+      "text": "카펫",
+      "reading": "kapet"
+    },
+    "es": {
+      "text": "la alfombra"
+    },
+    "fr": {
+      "text": "le tapis"
+    },
+    "de": {
+      "text": "der Teppich"
+    },
+    "id": {
+      "text": "karpet"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

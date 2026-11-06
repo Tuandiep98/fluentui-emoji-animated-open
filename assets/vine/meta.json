@@ -1,0 +1,45 @@
+{
+  "id": "vine",
+  "name": "vine",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "vine"
+    },
+    "vi": {
+      "text": "dây leo"
+    },
+    "zh-Hans": {
+      "text": "藤",
+      "reading": "téng"
+    },
+    "ja": {
+      "text": "つる",
+      "reading": "tsuru"
+    },
+    "ko": {
+      "text": "덩굴",
+      "reading": "deonggul"
+    },
+    "es": {
+      "text": "la enredadera"
+    },
+    "fr": {
+      "text": "la plante grimpante"
+    },
+    "de": {
+      "text": "die Kletterpflanze"
+    },
+    "id": {
+      "text": "tanaman merambat"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

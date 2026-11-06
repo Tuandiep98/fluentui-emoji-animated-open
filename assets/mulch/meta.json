@@ -1,0 +1,45 @@
+{
+  "id": "mulch",
+  "name": "mulch",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "mulch"
+    },
+    "vi": {
+      "text": "lớp phủ gốc cây"
+    },
+    "zh-Hans": {
+      "text": "覆盖物",
+      "reading": "fùgàiwù"
+    },
+    "ja": {
+      "text": "マルチングざい",
+      "reading": "maruchingu zai"
+    },
+    "ko": {
+      "text": "멀칭재",
+      "reading": "meolchingjae"
+    },
+    "es": {
+      "text": "el mantillo"
+    },
+    "fr": {
+      "text": "le paillis"
+    },
+    "de": {
+      "text": "der Mulch"
+    },
+    "id": {
+      "text": "mulsa"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

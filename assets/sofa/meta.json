@@ -1,0 +1,45 @@
+{
+  "id": "sofa",
+  "name": "sofa",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "sofa"
+    },
+    "vi": {
+      "text": "ghế sofa"
+    },
+    "zh-Hans": {
+      "text": "沙发",
+      "reading": "shāfā"
+    },
+    "ja": {
+      "text": "ソファ",
+      "reading": "sofā"
+    },
+    "ko": {
+      "text": "소파",
+      "reading": "sopa"
+    },
+    "es": {
+      "text": "el sofá"
+    },
+    "fr": {
+      "text": "le canapé"
+    },
+    "de": {
+      "text": "das Sofa"
+    },
+    "id": {
+      "text": "sofa"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mangosteen",
+  "name": "mangosteen",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "mangosteen"
+    },
+    "vi": {
+      "text": "quả măng cụt"
+    },
+    "zh-Hans": {
+      "text": "山竹",
+      "reading": "shānzhú"
+    },
+    "ja": {
+      "text": "マンゴスチン",
+      "reading": "mangosuchin"
+    },
+    "ko": {
+      "text": "망고스틴",
+      "reading": "manggoseutin"
+    },
+    "es": {
+      "text": "el mangostán"
+    },
+    "fr": {
+      "text": "le mangoustan"
+    },
+    "de": {
+      "text": "die Mangostan"
+    },
+    "id": {
+      "text": "manggis"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

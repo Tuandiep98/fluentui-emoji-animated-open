@@ -1,0 +1,45 @@
+{
+  "id": "tomato-juice",
+  "name": "tomato juice",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "tomato juice"
+    },
+    "vi": {
+      "text": "nước ép cà chua"
+    },
+    "zh-Hans": {
+      "text": "番茄汁",
+      "reading": "fānqiézhī"
+    },
+    "ja": {
+      "text": "トマトジュース",
+      "reading": "tomato jūsu"
+    },
+    "ko": {
+      "text": "토마토주스",
+      "reading": "tomatojuseu"
+    },
+    "es": {
+      "text": "el zumo de tomate"
+    },
+    "fr": {
+      "text": "le jus de tomate"
+    },
+    "de": {
+      "text": "der Tomatensaft"
+    },
+    "id": {
+      "text": "jus tomat"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

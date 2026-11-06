@@ -1,0 +1,45 @@
+{
+  "id": "date-fruit",
+  "name": "date fruit",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "date fruit"
+    },
+    "vi": {
+      "text": "quả chà là"
+    },
+    "zh-Hans": {
+      "text": "椰枣",
+      "reading": "yēzǎo"
+    },
+    "ja": {
+      "text": "デーツ",
+      "reading": "dētsu"
+    },
+    "ko": {
+      "text": "대추야자",
+      "reading": "daechuyaja"
+    },
+    "es": {
+      "text": "el dátil"
+    },
+    "fr": {
+      "text": "la datte"
+    },
+    "de": {
+      "text": "die Dattel"
+    },
+    "id": {
+      "text": "kurma"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

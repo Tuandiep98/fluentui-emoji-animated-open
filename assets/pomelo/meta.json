@@ -1,0 +1,45 @@
+{
+  "id": "pomelo",
+  "name": "pomelo",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "pomelo"
+    },
+    "vi": {
+      "text": "quả bưởi"
+    },
+    "zh-Hans": {
+      "text": "柚子",
+      "reading": "yòuzi"
+    },
+    "ja": {
+      "text": "ぶんたん",
+      "reading": "buntan"
+    },
+    "ko": {
+      "text": "포멜로",
+      "reading": "pomello"
+    },
+    "es": {
+      "text": "la pamplemusa"
+    },
+    "fr": {
+      "text": "le pomélo chinois"
+    },
+    "de": {
+      "text": "die Pampelmuse"
+    },
+    "id": {
+      "text": "jeruk bali"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

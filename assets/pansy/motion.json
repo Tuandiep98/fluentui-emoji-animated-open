@@ -1,0 +1,24 @@
+{
+  "fps": 16,
+  "fx": [],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [
+        128,
+        100
+      ],
+      "radius": [
+        88,
+        80
+      ],
+      "pivot": [
+        127,
+        201
+      ],
+      "amp": 3.5
+    }
+  ],
+  "note": "The broad pansy bloom turns a few degrees on its stem."
+}

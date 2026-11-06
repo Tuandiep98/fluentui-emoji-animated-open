@@ -1,0 +1,45 @@
+{
+  "id": "raspberry",
+  "name": "raspberry",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "raspberry"
+    },
+    "vi": {
+      "text": "quả mâm xôi"
+    },
+    "zh-Hans": {
+      "text": "覆盆子",
+      "reading": "fùpénzǐ"
+    },
+    "ja": {
+      "text": "ラズベリー",
+      "reading": "razuberī"
+    },
+    "ko": {
+      "text": "라즈베리",
+      "reading": "rajeuberi"
+    },
+    "es": {
+      "text": "la frambuesa"
+    },
+    "fr": {
+      "text": "la framboise"
+    },
+    "de": {
+      "text": "die Himbeere"
+    },
+    "id": {
+      "text": "rasberi"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

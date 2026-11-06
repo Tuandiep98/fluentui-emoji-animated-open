@@ -1,0 +1,12 @@
+{
+  "method": "imported hash-bound still and decoded contact-sheet review",
+  "notes": "Checked all nine terms/readings and root Japanese TTS disambiguation. Inspected the normalized still and eight decoded AVIF frames on light/dark backgrounds. Rigid tools, water jets at nozzle openings, local leaf/petal/pollen motion, and garden material/glass highlights. Alpha edges and render gates pass. Contact-sheet review, not real-time playback.",
+  "hashes": {
+    "source.png": "1c1f0558978fed01db740f0360e86b936de5c613b908256261bbd1e147f2ebce",
+    "still.png": "c604662ab4d78f09f3206ada48a927e3cdab9e697a949abc6134014c9df4dc80",
+    "still.webp": "68630e674775ea109a04733209d0899828b6ae6bef163225a77ff2deeacba17a",
+    "animated.avif": "328614fe70d92c1c5a87251fcef928349f9b69003a0c5a156bb6160b48cc0154",
+    "motion.json": "392d508dd38f311414bc29e1ebccf8e50515f95f3daa970302dd53fc975feaaa",
+    "meta.json": "f6698d2e154404cd661913540a8f6b05f02c7e681509d1b0fd47edc42ee1544f"
+  }
+}

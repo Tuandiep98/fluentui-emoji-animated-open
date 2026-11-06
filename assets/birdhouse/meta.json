@@ -1,0 +1,45 @@
+{
+  "id": "birdhouse",
+  "name": "birdhouse",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "birdhouse"
+    },
+    "vi": {
+      "text": "nhà chim"
+    },
+    "zh-Hans": {
+      "text": "鸟屋",
+      "reading": "niǎowū"
+    },
+    "ja": {
+      "text": "すばこ",
+      "reading": "subako"
+    },
+    "ko": {
+      "text": "새집",
+      "reading": "saejip"
+    },
+    "es": {
+      "text": "la casita para pájaros"
+    },
+    "fr": {
+      "text": "le nichoir"
+    },
+    "de": {
+      "text": "das Vogelhaus"
+    },
+    "id": {
+      "text": "rumah burung"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

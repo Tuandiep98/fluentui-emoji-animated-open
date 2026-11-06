@@ -1,0 +1,45 @@
+{
+  "id": "kumquat",
+  "name": "kumquat",
+  "category": "produce",
+  "terms": {
+    "en": {
+      "text": "kumquat"
+    },
+    "vi": {
+      "text": "quả quất"
+    },
+    "zh-Hans": {
+      "text": "金橘",
+      "reading": "jīnjú"
+    },
+    "ja": {
+      "text": "キンカン",
+      "reading": "kinkan"
+    },
+    "ko": {
+      "text": "금귤",
+      "reading": "geumgyul"
+    },
+    "es": {
+      "text": "el kumquat"
+    },
+    "fr": {
+      "text": "le kumquat"
+    },
+    "de": {
+      "text": "die Kumquat"
+    },
+    "id": {
+      "text": "jeruk kumkuat"
+    }
+  },
+  "tags": [
+    "food"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

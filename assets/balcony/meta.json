@@ -1,0 +1,45 @@
+{
+  "id": "balcony",
+  "name": "balcony",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "balcony"
+    },
+    "vi": {
+      "text": "ban công"
+    },
+    "zh-Hans": {
+      "text": "阳台",
+      "reading": "yángtái"
+    },
+    "ja": {
+      "text": "バルコニー",
+      "reading": "barukonī"
+    },
+    "ko": {
+      "text": "발코니",
+      "reading": "balkoni"
+    },
+    "es": {
+      "text": "el balcón"
+    },
+    "fr": {
+      "text": "le balcon"
+    },
+    "de": {
+      "text": "der Balkon"
+    },
+    "id": {
+      "text": "balkon"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

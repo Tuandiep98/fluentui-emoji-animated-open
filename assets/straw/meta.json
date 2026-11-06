@@ -1,0 +1,45 @@
+{
+  "id": "straw",
+  "name": "straw",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "straw"
+    },
+    "vi": {
+      "text": "ống hút"
+    },
+    "zh-Hans": {
+      "text": "吸管",
+      "reading": "xīguǎn"
+    },
+    "ja": {
+      "text": "ストロー",
+      "reading": "sutorō"
+    },
+    "ko": {
+      "text": "빨대",
+      "reading": "ppaldae"
+    },
+    "es": {
+      "text": "la pajita"
+    },
+    "fr": {
+      "text": "la paille"
+    },
+    "de": {
+      "text": "der Strohhalm"
+    },
+    "id": {
+      "text": "sedotan"
+    }
+  },
+  "tags": [
+    "things"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "initial-130",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}

@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "fx": [
+    "steam"
+  ],
+  "preset": "still",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        126
+      ],
+      "radius": [
+        87,
+        50
+      ],
+      "amp": 2.8
+    }
+  ],
+  "note": "The soft curds settle with a little warmth above the stationary plate."
+}

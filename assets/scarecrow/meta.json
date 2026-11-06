@@ -1,0 +1,45 @@
+{
+  "id": "scarecrow",
+  "name": "scarecrow",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "scarecrow"
+    },
+    "vi": {
+      "text": "bù nhìn"
+    },
+    "zh-Hans": {
+      "text": "稻草人",
+      "reading": "dàocǎorén"
+    },
+    "ja": {
+      "text": "かかし",
+      "reading": "kakashi"
+    },
+    "ko": {
+      "text": "허수아비",
+      "reading": "heosuabi"
+    },
+    "es": {
+      "text": "el espantapájaros"
+    },
+    "fr": {
+      "text": "l'épouvantail"
+    },
+    "de": {
+      "text": "die Vogelscheuche"
+    },
+    "id": {
+      "text": "orang-orangan sawah"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100",
+  "addedAt": "2026-11-06",
+  "status": "ready"
+}
