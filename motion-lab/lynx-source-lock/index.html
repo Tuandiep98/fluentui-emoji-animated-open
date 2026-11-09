@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="vi">
+  <meta charset="utf-8" /><meta
+    name="viewport"
+    content="width=device-width, initial-scale=1"
+  />
+  <title>Lynx · Giữ đúng hình gốc</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      margin: 0;
+      background: #f5f0e7;
+      color: #292e27;
+      font:
+        16px/1.6 system-ui,
+        sans-serif;
+    }
+    main {
+      max-width: 1050px;
+      margin: auto;
+      padding: 48px 24px;
+    }
+    h1 {
+      font-size: clamp(30px, 5vw, 48px);
+      line-height: 1.1;
+      letter-spacing: -0.04em;
+      margin: 8px 0 20px;
+    }
+    p {
+      max-width: 70ch;
+      color: #55604e;
+    }
+    .eyebrow {
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .controls {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+      flex-wrap: wrap;
+      margin: 28px 0;
+    }
+    button,
+    select {
+      font: inherit;
+      color: inherit;
+      border: 1px solid #bbc3b4;
+      background: #fffdf7;
+      padding: 8px 16px;
+      border-radius: 9px;
+    }
+    button {
+      cursor: pointer;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+    }
+    article {
+      border: 1px solid #d6dccf;
+      border-radius: 20px;
+      background: #fffcf6;
+      overflow: hidden;
+    }
+    h2 {
+      font-size: 17px;
+      margin: 20px 20px 0;
+    }
+    article p {
+      font-size: 14px;
+      margin: 12px 20px 24px;
+    }
+    .stage {
+      height: 300px;
+      display: grid;
+      place-items: center;
+    }
+    .stage img {
+      width: var(--size, 128px);
+      height: var(--size, 128px);
+      object-fit: contain;
+    }
+    .dark .stage {
+      background: #252b24;
+    }
+    .new {
+      border: 2px solid #66835c;
+    }
+    .tag {
+      font-size: 12px;
+      color: #48733b;
+    }
+    .note {
+      border-top: 1px solid #cbd3c2;
+      margin-top: 30px;
+      padding-top: 20px;
+      font-size: 14px;
+    }
+    @media (max-width: 700px) {
+      main {
+        padding: 28px 16px;
+      }
+      .grid {
+        grid-template-columns: 1fr;
+      }
+      .stage {
+        height: 280px;
+      }
+    }
+  </style>
+  <main>
+    <a href="../../">← Về bộ emoji</a><div class="eyebrow">Motion study · 01 / Lynx</div>
+    <h1>Chuyển động từ chính hình gốc.</h1>
+    <p>
+      Giữ nguyên dáng ngồi, hướng mặt, biểu cảm, màu lông và vị trí hai tai. Đầu
+      hơi nghiêng tò mò, tai nhúc nhích lệch nhịp và ngực thở nhẹ; bàn chân đứng
+      yên.
+    </p>
+    <div class="controls">
+      <button id="play">Dừng về hình gốc</button
+      ><label
+        >Kích thước
+        <select id="size">
+          <option value="64">64 px</option>
+          <option value="128" selected>128 px</option>
+          <option value="256">256 px</option>
+        </select></label
+      ><label><input type="checkbox" id="dark" /> Nền tối</label>
+    </div>
+    <section
+      class="grid"
+      aria-label="So sánh hình gốc và hai phiên bản animation"
+    >
+      <article>
+        <h2>Hình ban đầu</h2>
+        <div class="stage">
+          <img
+            src="reference.png"
+            alt="Linh miêu gốc nhìn chếch sang phải"
+            width="256"
+            height="256"
+          />
+        </div>
+        <p>Ảnh chuẩn đối chiếu cố định.</p>
+      </article>
+      <article>
+        <h2>Bản ghép bị lệch</h2>
+        <div class="stage">
+          <img
+            id="rejected"
+            src="rejected-cutout.png"
+            alt="Bản ghép cũ đổi đầu, tai và biểu cảm"
+            width="256"
+            height="256"
+          />
+        </div>
+        <p>Đầu, tai và gương mặt đã khác ảnh gốc.</p>
+      </article>
+      <article class="new">
+        <h2>Bản sửa <span class="tag">Giữ hình gốc</span></h2>
+        <div class="stage">
+          <img
+            id="fixed"
+            src="reference.png"
+            alt="Linh miêu được sửa, giữ đúng hình ban đầu"
+            width="256"
+            height="256"
+          />
+        </div>
+        <p>
+          Cùng một ảnh, chuyển động liên tục qua cổ và chân tai; không ghép bộ
+          phận vẽ lại.
+        </p>
+      </article>
+    </section>
+    <p class="note">
+      Bấm “Dừng về hình gốc” để đối chiếu tư thế nghỉ. Đây là trang thử nghiệm riêng; bộ emoji chính vẫn dùng phiên bản hiện tại.
+    </p>
+  </main>
+  <script>
+    const fixed = document.querySelector("#fixed"),
+      rejected = document.querySelector("#rejected"),
+      button = document.querySelector("#play");
+    let playing = !matchMedia("(prefers-reduced-motion: reduce)").matches;
+    function display() {
+      fixed.src = playing ? "animated.avif" : "reference.png";
+      rejected.src = playing ? "rejected-cutout.avif" : "rejected-cutout.png";
+      button.textContent = playing ? "Dừng về hình gốc" : "Phát animation";
+      button.setAttribute("aria-pressed", String(playing));
+    }
+    button.addEventListener("click", () => {
+      playing = !playing;
+      display();
+    });
+    document
+      .querySelector("#size")
+      .addEventListener("change", (event) =>
+        document.documentElement.style.setProperty(
+          "--size",
+          event.target.value + "px",
+        ),
+      );
+    document
+      .querySelector("#dark")
+      .addEventListener("change", (event) =>
+        document.body.classList.toggle("dark", event.target.checked),
+      );
+    document.addEventListener("visibilitychange", () => {
+      if (document.hidden) {
+        fixed.src = "reference.png";
+        rejected.src = "rejected-cutout.png";
+      } else display();
+    });
+    display();
+  </script>
+</html>

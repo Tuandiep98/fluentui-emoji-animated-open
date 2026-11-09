@@ -170,3 +170,7 @@ Microsoft's upstream project is separately [MIT licensed, copyright Microsoft Co
 ### Motion refinement: the latest 100 words
 
 [Compare all 100 before and after](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/next100/). Reviewed 100: refined 81 and retained 19 appropriate existing animations. The update includes 35 painted cutout rigs and 46 timed material/use gestures. Animal timing differs for sniffing, alert ears, browsing, curiosity, nods and heavy horns; rigid hardware keeps its shape. Vocabulary and translations are unchanged. Optional rig-source.png preserves the original generated parts atlas; its hash is included in review metadata. The browser only downloads rendered PNG/WebP/AVIF, never authoring rigs.
+
+## Original-artwork fidelity pilot — Lynx
+
+[View the isolated lynx correction](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/lynx-source-lock/): original artwork, previous cutout and corrected motion side by side, with 64/128/256px and light/dark controls. This is a review candidate; the main collection is unchanged.

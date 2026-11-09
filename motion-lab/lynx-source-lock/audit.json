@@ -1,0 +1,24 @@
+{
+  "id": "lynx",
+  "status": "candidate-awaiting-user-review",
+  "referenceSha256": "4e2be6244b8e6ad18c88cda37bacd67f53a2ee8c3787c54efd2bc88d2233bddf",
+  "animationSha256": "a9197d63484fbe288bac19de23e1e71b977850ce1f4c69b32bd590c3635e67e8",
+  "neutralPoseExactRGBA": true,
+  "fixedPawsAllFrames": true,
+  "minSilhouetteIoU": 0.9872463768115942,
+  "minDeterminant": 0.7235005140952298,
+  "maxDeterminant": 1.2274020210414975,
+  "maxDisplacement": 3.109008173107326,
+  "changed64": 183,
+  "bytes": 43237,
+  "fps": 24,
+  "frames": 72,
+  "decodedSamples": [
+    0,
+    14,
+    22,
+    41,
+    62,
+    71
+  ]
+}
