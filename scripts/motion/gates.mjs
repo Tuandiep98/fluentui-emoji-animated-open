@@ -50,6 +50,25 @@ export async function checkFrames(dir, stillPath, recipe = {}) {
     difference(frames[0], frames[1]).total
   )
     throw new Error("loop seam is too large");
+  let sourceLockAudit;
+  if(recipe.sourceLock) {
+    if(!still.equals(frames[0]))throw Error('Source lock: neutral RGBA must exactly match original');
+    let minimum=1;
+    for(const frame of frames) {
+      for(const pin of recipe.sourceLock.pinnedRegions ?? []) {
+        const [x,y,w,h]=pin.rect;
+        for(let row=y;row<y+h;row++) {
+          const from=(row*256+x)*4,to=from+w*4;
+          if(!frame.subarray(from,to).equals(still.subarray(from,to)))throw Error('Source lock: pinned pixels moved: '+pin.name);
+        }
+      }
+      let intersection=0,union=0;
+      for(let i=3;i<frame.length;i+=4){const a=frame[i]>32,b=still[i]>32;intersection+=a&&b?1:0;union+=a||b?1:0;}
+      minimum=Math.min(minimum,intersection/union);
+    }
+    if(minimum<.96)throw Error('Source lock: original silhouette drift exceeds 4%');
+    sourceLockAudit = {neutralPoseExactRGBA:true,pinnedRegionsFixed:true,minSilhouetteIoU:minimum};
+  }
   const base = bounds(frames[0]);
   for (let i = 0; i < count; i++) {
     const b = bounds(frames[i]);
@@ -62,4 +81,5 @@ export async function checkFrames(dir, stillPath, recipe = {}) {
     )
       throw new Error(`frame ${i} bbox changes too much`);
   }
+  return sourceLockAudit;
 }

@@ -4,7 +4,7 @@ import path from 'node:path';
 import os from 'node:os';
 import {execFileSync} from 'node:child_process';
 import sharp from 'sharp';
-import {asset,read,write,resolve,snapshot,relative} from './lib.mjs';
+import {asset,read,write,resolve,snapshot,relative,hash} from './lib.mjs';
 import {renderFrames} from './motion/render.mjs';
 import {checkFrames} from './motion/gates.mjs';
 import {encoder,encode} from './motion/encode.mjs';
@@ -21,7 +21,7 @@ if(command==='new'){
   fs.mkdirSync(dir,{recursive:true});
   const name=option('--name',id.replaceAll('-',' '));
   write(path.join(dir,'meta.json'),{id,name,category,terms:{en:{text:name},...(option('--vi')?{vi:{text:option('--vi')}}:{})},license:'MIT',origin:'original-ai-generated',status:'draft'});
-  write(path.join(dir,'motion.json'),{preset:'nod',amp:.3,fps:16,fx:[],note:'Replace with a motion specific to the object; keep rigid parts fixed.'});
+  write(path.join(dir,'motion.json'),{preset:'still',fps:24,fx:[],regions:[],sourceLock:{version:1,mode:'continuous',sha256:'pending',pinnedRegions:[]},note:'Measure original landmarks and add small region tracks, or use mode rigid with translation/rotation tracks. Never repaint or mirror parts.'});
   fs.writeFileSync(path.join(dir,'prompt.md'),`# ${name}\n\nCreate one original, friendly 3D vocabulary sticker of ${name}. Accurate identifying details, soft materials, clear silhouette at128px, centered in a square canvas with generous margin. Genuine alpha transparency. No text, logo, scene or external shadow. Save the approved high-resolution PNG as source.png in this directory.\n\nRecord the actual prompt, tool and any targeted corrections here.\n`);
   console.log(`Created ${relative(dir)}. Generate and review source.png, then run npm run stills -- ${id}.`);
 }else if(command==='prepare'){
@@ -31,11 +31,21 @@ if(command==='new'){
   const piece=await sharp(path.join(dir,'source.png')).trim({threshold:8}).resize(224,224,{fit:'inside',withoutEnlargement:true}).png().toBuffer();
   const info=await sharp(piece).metadata();
   const png=await sharp({create:{width:256,height:256,channels:4,background:{r:0,g:0,b:0,alpha:0}}}).composite([{input:piece,left:Math.floor((256-info.width)/2),top:Math.floor((256-info.height)/2)}]).png({compressionLevel:9,adaptiveFiltering:true}).toBuffer();
+  const recipeFile=path.join(dir,'motion.json'),recipe=read(recipeFile);
+  if(recipe.sourceLock){
+    const digest=hash(png),locked=recipe.sourceLock.sha256,reference=path.join(dir,'reference.png');
+    if(locked!=='pending'&&locked!==digest)throw Error('Original artwork is locked. Use a new id for a redraw; do not silently replace the approved reference.');
+    if(fs.existsSync(reference)&&hash(fs.readFileSync(reference))!==digest)throw Error('Original reference would change');
+    recipe.sourceLock.sha256=digest;recipe.sourceLock.reference='original-still';
+    if(!fs.existsSync(reference))fs.writeFileSync(reference,png);
+    write(recipeFile,recipe);
+  }
   fs.writeFileSync(path.join(dir,'still.png'),png);
   await sharp(png).webp({quality:85,alphaQuality:90,effort:6}).toFile(path.join(dir,'still.webp'));
   console.log(`Prepared ${id}: PNG +WebP, 256px, alpha,224px artwork frame.`);
 }else if(command==='animate'){
   const recipe=read(path.join(dir,'motion.json'));
+  if(!recipe.sourceLock)throw Error('Freeze the approved original artwork with sourceLock before a new animation. See docs/GENERATING.md: original artwork fidelity.');
   if(!PRESETS.includes(recipe.preset)||![12,16,18,20,24].includes(recipe.fps??24))throw Error('Invalid preset or frame rate');
   const target=option('--out',path.join(dir,'animated.avif'));
   if(fs.existsSync(target)&&!force)throw Error('Output exists. Use --out <temporary.avif>, a new id, or explicit --force.');

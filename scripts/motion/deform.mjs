@@ -4,7 +4,12 @@ import { beat, settle } from "./presets.mjs";
 
 export function checkRegions(regions = []) {
   for (const r of regions) {
-    if (r.keyframes) validateTrack(r.keyframes, r.kind === "rotate" ? -15 : -8, r.kind === "rotate" ? 15 : 8);
+    if (r.keyframes)
+      validateTrack(
+        r.keyframes,
+        r.kind === "rotate" ? -15 : -8,
+        r.kind === "rotate" ? 15 : 8,
+      );
     if (!["press", "wave", "rotate"].includes(r.kind))
       throw new Error("unknown regional motion");
     if (
@@ -21,37 +26,51 @@ export function checkRegions(regions = []) {
   }
 }
 
-export function deformPixels(input, width, height, regions, t) {
-  if (t === 0 || !regions.length) return input;
-  const result = Buffer.alloc(input.length);
+export function deformationField(regions, t) {
   const fields = regions.map((r) => ({
     ...r,
-    value:
-      r.keyframes ? sampleTrack(r.keyframes, t * 3) : r.kind === "press"
+    value: r.keyframes
+      ? sampleTrack(r.keyframes, t * 3)
+      : r.kind === "press"
         ? r.amp * (beat(t, 0.08, 0.5) + 0.15 * settle(t, 0.5))
         : r.amp *
           Math.sin(2 * Math.PI * (r.cycles ?? 1) * t) *
           beat(t, 0, 0.88),
   }));
+  return (x, y) => {
+    let dx = 0,
+      dy = 0;
+    for (const r of fields) {
+      const u = (x - r.center[0]) / r.radius[0];
+      const v = (y - r.center[1]) / r.radius[1];
+      const w = Math.max(0, 1 - u * u - v * v) ** 2;
+      if (!w) continue;
+      if (r.kind === "press") dy += r.value * w;
+      else if (r.kind === "wave") dx += r.value * w;
+      else {
+        const pivot = r.pivot ?? r.center;
+        const a = (r.value * Math.PI) / 180;
+        const px = x - pivot[0],
+          py = y - pivot[1];
+        dx += (px * Math.cos(a) - py * Math.sin(a) - px) * w;
+        dy += (px * Math.sin(a) + py * Math.cos(a) - py) * w;
+      }
+    }
+    return [dx, dy];
+  };
+}
+
+export function deformPixels(input, width, height, regions, t) {
+  if (t === 0 || !regions.length) return input;
+  const result = Buffer.alloc(input.length);
+  const field = deformationField(regions, t);
   for (let y = 0; y < height; y++)
     for (let x = 0; x < width; x++) {
-      let dx = 0,
-        dy = 0;
-      for (const r of fields) {
-        const u = (x - r.center[0]) / r.radius[0];
-        const v = (y - r.center[1]) / r.radius[1];
-        const w = Math.max(0, 1 - u * u - v * v) ** 2;
-        if (!w) continue;
-        if (r.kind === "press") dy += r.value * w;
-        else if (r.kind === "wave") dx += r.value * w;
-        else {
-          const pivot = r.pivot ?? r.center;
-          const a = (r.value * Math.PI) / 180;
-          const px = x - pivot[0],
-            py = y - pivot[1];
-          dx += (px * Math.cos(a) - py * Math.sin(a) - px) * w;
-          dy += (px * Math.sin(a) + py * Math.cos(a) - py) * w;
-        }
+      const [dx, dy] = field(x, y);
+      if (dx === 0 && dy === 0) {
+        const i = (y * width + x) * 4;
+        input.copy(result, i, i, i + 4);
+        continue;
       }
       const sx = x - dx,
         sy = y - dy;

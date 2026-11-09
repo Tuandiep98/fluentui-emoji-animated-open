@@ -1,14 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
   "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Cutout refinement for paper-crane: complete fixed base and independent moving part; painted overlap at joint. Per-part eased use gesture; rigid hardware/paper faces stay intact. Vocabulary and translations unchanged.",
+  "notes": "Original artwork restored from release 3f4c5f8. Original-reference hash, exact neutral RGBA, loop, canvas, stationary animal paws, silhouette and orientation/stretch gates passed. Reviewed original and decoded extrema at native 64px on light/dark contact sheets. No repainted parts; rigid objects retain geometry. Vocabulary unchanged. Technical and contact-sheet review; not manual real-time playback of every icon.",
   "hashes": {
-    "source.png": "c3ab22bdbce1db9fa632798ac4813c5152d7f074a8d76d2e9664dbe86a147117",
-    "still.png": "1611442b2e50ada87bb9b8047485b1068f0ddb608cb44c76c4dc3e7a617371d6",
-    "still.webp": "9c46a3d424ad91ca78f1f454fe28d62c5042eaaa6d460ec45b263fa751048251",
-    "animated.avif": "f8b0ebfd7e6e5282accc6c53623d0966f959cac6288495480a3bc77a6ff33584",
-    "motion.json": "faac8cb494a51d4d8a6f6fe42915dbf1cdae32faaed13f37377d6f1d6dc25ea3",
+    "source.png": "e1ac345a09282c185911d8c3c2cc9209ffeca84cc43c7efea5f240538d29f678",
+    "still.png": "78e3c787c4875979b3e628aa686f4e4b5f974babddd996718c55b3fd842f9e33",
+    "still.webp": "48504d994637662efdcf40ecbc96f587f2b30557a9cb3b275dbd494f1230f3ed",
+    "animated.avif": "04aceb18c9640c711022f40ca7a62944d491430c9da77d521402b83ffbff6102",
+    "motion.json": "ee98b5d5ffd3828ff5f74caa3b014f5ce6ce1f9a5868ab53ffb6fa6d18f11027",
     "meta.json": "225afc128311a1d37bdd8cdabcb651601ec7ca8cf7fbc49fb230a49e17bf4bb3",
-    "rig-source.png": "0c01379e28198318c71ba8b1c8fa4194888ae5c44abfad4f040763bfba275629"
+    "reference.png": "78e3c787c4875979b3e628aa686f4e4b5f974babddd996718c55b3fd842f9e33"
   }
 }

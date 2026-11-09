@@ -134,3 +134,15 @@ Choose an observable action at 64px before drawing. Use painted cutout parts for
 Do not trust a generated atlas grid or an RGBA flag: inspect alpha at borders, cell overlap, actual part positions and decoded playback. Regenerate opaque/hazy backgrounds using image_gen. Normalize part cells deterministically; discard accidental neighboring-cell fragments, not species details. Check that ear/neck overlaps stay connected at moving poses. Do not invent external ears for platypuses or enlarge the hidden eyes of moles/echidnas. The 2026-11-09 refinement uses different timing families rather than identical head motion for every animal.
 
 Render with the normal animate command, review the decoded AVIF at 48/64/96px on both backgrounds, then renew approval hashes and catalog. rig-source.png is an optional high-resolution atlas with a review hash; normalized parts and tracks are embedded in motion.json, so rebuilding does not depend on another repository. Animations stay three seconds and below 60KiB, with frame rate chosen for the content. A pixel-change threshold is only a technical gate, not visual approval.
+
+## Required original artwork fidelity
+
+The lynx pilot was approved and applied to the 36 artwork replacements in the latest 100-word release. Earlier painted cutout authoring guidance is historical; those 36 assets now use original masters, immutable reference.png stills and sourceLock recipes. Legacy atlas images are no longer active artwork.
+
+New drafts start with a pending sourceLock. After approving source.png, npm run stills freezes the normalized 256px original as reference.png and records its SHA-256. An intentional redraw uses a new ID: prepare refuses to overwrite a frozen original with a different image, even with --force.
+
+Measure regions, image-space facing, landmarks and fixed-contact rectangles on the original. For continuous mode, add independently timed regions with zero rest endpoints. Keep hidden parts hidden. Rigid mode accepts only small x/y/rotation tracks; it rejects scaling, mirrored artwork, layers and deformation. The renderer checks exact neutral RGBA, original hash, silhouette overlap >=96%, every pinned pixel, and bounded orientation-preserving sampling at every output pixel/time. Rendered AVIFs still meet alpha, loop, bounds, 3-second and 60KiB gates.
+
+Before upgrading a legacy asset, recover its approved original, save the 256px reference, record its hash in sourceLock, and author measured continuous/rigid tracks. Merely hashing a newly repainted assembly does not demonstrate fidelity to the original. A large articulation or new view needs a separately reviewed original-matched rig/mesh/frame sequence. Inspect decoded extrema at native 64px on light and dark; geometry gates do not prove anatomical accuracy.
+
+[Review restored artwork and motion](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/original-fidelity/). Per-word audit: provenance/original-artwork-fidelity-review.json.

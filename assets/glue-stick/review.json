@@ -1,14 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
   "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Cutout refinement for glue-stick: complete fixed base and independent moving part; painted overlap at joint. Per-part eased use gesture; rigid hardware/paper faces stay intact. Vocabulary and translations unchanged.",
+  "notes": "Original artwork restored from release 3f4c5f8. Original-reference hash, exact neutral RGBA, loop, canvas, stationary animal paws, silhouette and orientation/stretch gates passed. Reviewed original and decoded extrema at native 64px on light/dark contact sheets. No repainted parts; rigid objects retain geometry. Vocabulary unchanged. Technical and contact-sheet review; not manual real-time playback of every icon.",
   "hashes": {
-    "source.png": "fa59fe2e07e38adf4d1bd04ff28789e3907e9398cdf311845ce52d6bcdc01e17",
-    "still.png": "a01b9546173d47322f023e0a071705cd9377f6923149b6022fb32baa2b12fd21",
-    "still.webp": "f8e71a9f57c08dcf4079e3e58953506c27a03e5fe8ad6227285f7ce8803d028b",
-    "animated.avif": "274e2882a261a13fefbad5bd82445588a06c7be3b3fa92801c3eac437dce880a",
-    "motion.json": "6ad0b7b7bb580a4d845687bf962fa6fd09f4a142787895dbc670a43be5b0694d",
+    "source.png": "8a5d8b604f6bf288e8b0fc9bf13106ab597867049ad03c35a7b934558d4beb49",
+    "still.png": "bf02c7a4250c59654fc47257b5bd31aa8759734560a0d7bf2856c8b4d3537157",
+    "still.webp": "ef3f46a3317968fca6a5ede9c3806ad4c7ab4b5838e376e3e3d81b1ec4020e3a",
+    "animated.avif": "741f9f7e55e1107aba4194924f6e1d27894dbc04e04d4d847d9054819cb0606e",
+    "motion.json": "b92b64ce35c9bf6bf47761c8940bc24a78018254c8b521c06a00f1e83fb24808",
     "meta.json": "d1817ce9756b004641fa3958ee2ef98a8175127c8bea5730d780c4ba1627bf98",
-    "rig-source.png": "c3c812e5354877a14b816d3f368fadd9b995f024a262a909a14573509be36350"
+    "reference.png": "bf02c7a4250c59654fc47257b5bd31aa8759734560a0d7bf2856c8b4d3537157"
   }
 }

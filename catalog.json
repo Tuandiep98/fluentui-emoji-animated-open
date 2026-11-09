@@ -55,22 +55,22 @@
         "animated.avif": "assets/aardvark/animated.avif",
         "motion.json": "assets/aardvark/motion.json",
         "meta.json": "assets/aardvark/meta.json",
-        "rig-source.png": "assets/aardvark/rig-source.png"
+        "reference.png": "assets/aardvark/reference.png"
       },
       "sha256": {
-        "source.png": "b8924ebc5d8533bd4b4b80b0d2b885dd0e4a9d5d02d828d798ff326229a8dfbb",
-        "still.png": "2e2e4b0f6b75da59ef8c07579542bd65c55112ba3379369d4398993d606571bd",
-        "still.webp": "22625a123b4435197c215e4564f7a07ff4528e9bb25a8c8c99e44e83049d4fce",
-        "animated.avif": "88241063f4713da18592e71b4ebef487f9bde46e0aed789fd974a9c11135d4e8",
-        "motion.json": "5dbc05848fdfeeac95f3aae19372c6414db14fbb7128758ead9ca332557ac8a0",
+        "source.png": "e052975304ba07ab59755da2e1d1f75b1aae6a5e26f42badc508ab0d54dc53b9",
+        "still.png": "1c717b25bd0a184977e331790694f1a0d75cbcd1d3f22e69e2892cc99f1e54a1",
+        "still.webp": "04b168e7da921f5c2caefe856062546b90b86d9aa9036acf790bc9dc304ded1d",
+        "animated.avif": "c8132a27366f6135a853efff98757e87f907613d77da5129440e976a354b7c48",
+        "motion.json": "6be585d24c15723efd99c31bfbc75487dd8a5a3277bd9463a5a7dfada23c18a8",
         "meta.json": "99a90fae12249a2a6ed74d73d5dcf0feed7b5befa4aaa900b54f2d293c2f19df",
-        "rig-source.png": "ea883760cfc98315b265efa0be200191cba1b223dfa20dd7efe8c90b77ef6d98"
+        "reference.png": "1c717b25bd0a184977e331790694f1a0d75cbcd1d3f22e69e2892cc99f1e54a1"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 59877
+      "animationBytes": 52059
     },
     {
       "id": "adhesive-tape",
@@ -191,22 +191,22 @@
         "animated.avif": "assets/alpaca/animated.avif",
         "motion.json": "assets/alpaca/motion.json",
         "meta.json": "assets/alpaca/meta.json",
-        "rig-source.png": "assets/alpaca/rig-source.png"
+        "reference.png": "assets/alpaca/reference.png"
       },
       "sha256": {
-        "source.png": "1bd0a571cdbd69e170986760f2e1c13d73641c807dcfb5cf0f20bc2c1fddeac1",
-        "still.png": "923314536f5c4fd1840fa10c4fe95e09e149d5620358081e6e9debb573367deb",
-        "still.webp": "b73cc5315a2c6ede92126cd87bd63a3ce79ce1d3bb4f09320a8feec74abc4af8",
-        "animated.avif": "06d78df4c36cc31b9ae6eb08f3aca1e681b7e51dd55431e24270e7b7d21349ec",
-        "motion.json": "a0fd1deb713d89f1cdc5be4d5a22a549f62c24225a0fb1d87911ccd0ac9c968b",
+        "source.png": "7b709a10cf9b0158b7fe057af6ae5c987d179bdf4ecfd64cb0b2ac44b67f676f",
+        "still.png": "849136e5c287def6b6166a5867afe8562cf416a84e5921acaa40226f1b790965",
+        "still.webp": "965a73bb5932b3d64740e496875a86dbdf7d805742336a890f603aff1d87e2e8",
+        "animated.avif": "da7af85680d04160a0f02615ab83b85e4af93fed93667eec4ca86167aced0cb5",
+        "motion.json": "ae884e895204aef7eef099f5fb6bfe4802c16c636e93f14793ad1d1289b4d99c",
         "meta.json": "acd5505e6c724c43eae9f708f7806fb6cbafd59255f2ddb3bd8b0103a8d19a05",
-        "rig-source.png": "bc950691ac0fafb5731e126a41bf53f86ac4a1e492e62c957209e0cae4bd98f2"
+        "reference.png": "849136e5c287def6b6166a5867afe8562cf416a84e5921acaa40226f1b790965"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 42195
+      "animationBytes": 35649
     },
     {
       "id": "anteater",
@@ -260,22 +260,22 @@
         "animated.avif": "assets/anteater/animated.avif",
         "motion.json": "assets/anteater/motion.json",
         "meta.json": "assets/anteater/meta.json",
-        "rig-source.png": "assets/anteater/rig-source.png"
+        "reference.png": "assets/anteater/reference.png"
       },
       "sha256": {
-        "source.png": "97ada9066f1fde576bc8e7cb1682d741793ae0b773be316207563efc40cdc3bc",
-        "still.png": "e141859864c122ad928d2cf5fb44e993edc5ae96609798dd94ba4bbbba21fa91",
-        "still.webp": "82aeb9fb9f945cdafb7eec4846563a30aef8d1c59775b7d4d4c761f60f5d4bc7",
-        "animated.avif": "bfa3b615711197bdd1393cb9a390094f4d9e0cadd8b98b836248bcc809dd16e3",
-        "motion.json": "ae7a9c4caf94cdbdb5fa4793ac7126135c30e031733f51ef69ac6920a885019c",
+        "source.png": "a9cafb65d5a7e058ab4da3bc4d8776e37ffabd1c058a8b0ae48e2fed688e0eaf",
+        "still.png": "1bda33381db306a3319e7abcd29827d5c4be5ca66b53b926d3150d8f7764d0b6",
+        "still.webp": "20087c6788797f7faf4b42a7587a1dfe93d0c8863acd96954f3c213ac7452a20",
+        "animated.avif": "e71de082e7f56d716e45693babc37a3fc80d20be513a0f916f73315a4094e7f9",
+        "motion.json": "ddc4ce3205c2b962c5b317f23810bbde354dbea10fb5e85f0b227d13b70b440a",
         "meta.json": "6952cf18e8d8443ddd445c3516f171f2bc7b87b9715e674bbe440939d895c722",
-        "rig-source.png": "d7051eda45819fbdd58aaa86b295b2916ef11fdf5b33a20d1b1e458b46e4ffe4"
+        "reference.png": "1bda33381db306a3319e7abcd29827d5c4be5ca66b53b926d3150d8f7764d0b6"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 29498
+      "animationBytes": 33327
     },
     {
       "id": "apple-tree",
@@ -527,22 +527,22 @@
         "animated.avif": "assets/armadillo/animated.avif",
         "motion.json": "assets/armadillo/motion.json",
         "meta.json": "assets/armadillo/meta.json",
-        "rig-source.png": "assets/armadillo/rig-source.png"
+        "reference.png": "assets/armadillo/reference.png"
       },
       "sha256": {
-        "source.png": "b95d4dd49ac66629b510851e555b3f2d2295d65d5ed37ae7546b2f997e7d6c96",
-        "still.png": "ac34509bf6bd83ae8962f19c413475138713625253f19492994dc9f13ebe4f64",
-        "still.webp": "ba8ebd4a24b39f1e6f2a5cab297f6243d86ea5808d6cd9554403d58d8d5f6db2",
-        "animated.avif": "a4b7b234bd0008efb3c843a76cab76d2fe4b2ed049b445436910bed3ab0ef6c0",
-        "motion.json": "9999a4c0988180906c49aa36cf7086a93cb045fef8a4a5ce6a7030248c002794",
+        "source.png": "593454290aeec14620fba5584e6ecd580c94001e927e178d7d4ff7385143b2bb",
+        "still.png": "b3200d9c18e5165dbaedda2d196697bc198ebbe3d436fc26c33d6bc3d47a90d3",
+        "still.webp": "bfb1ce358659a7acceff8fa8fb535b506278a4bc326fdb1df34a13c28526c608",
+        "animated.avif": "027168cf94c70dcb0c7327936ecfc310eee3e103fbb55c5ef5c01c57394c08ea",
+        "motion.json": "071a5e64757cd71e9ee7508d588b95785b81ca9f65e2274b9ee3c11668bdc376",
         "meta.json": "b4a4844c4a90616963fd9142be74c3cd96872faddb14e0cccd3aaac63e3d9480",
-        "rig-source.png": "d8140744334687294e9509033a73643553435da05271f7a2449577d8a989958a"
+        "reference.png": "b3200d9c18e5165dbaedda2d196697bc198ebbe3d436fc26c33d6bc3d47a90d3"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 32016
+      "animationBytes": 39015
     },
     {
       "id": "armchair",
@@ -3110,21 +3110,23 @@
         "still.webp": "assets/capybara/still.webp",
         "animated.avif": "assets/capybara/animated.avif",
         "motion.json": "assets/capybara/motion.json",
-        "meta.json": "assets/capybara/meta.json"
+        "meta.json": "assets/capybara/meta.json",
+        "reference.png": "assets/capybara/reference.png"
       },
       "sha256": {
-        "source.png": "e4de3a4bef6d0d2b9dd9399827fc92d9403d128657fdd249ae5f8682c2924ef6",
-        "still.png": "68989096929c5b08d119013330bc1422e233246596b9af6896a52a591c897ecf",
-        "still.webp": "462d3b178ffff66d04e7813365cb34a05ef66f615f81095903b429bc63a2c97c",
-        "animated.avif": "ff1fa757555f6327df1bc8346c70569fee6718a0a709ff4b672d19b25eaf9858",
-        "motion.json": "aa66365fa2e5cc84369ca04452b3151fa11c7d0996a50ae758560a3e49f93948",
-        "meta.json": "ed12c712966a69c7e9c3ccf07bb0e64f73d2273e20d33978e2d1d6dfcfdab39f"
+        "source.png": "89b75db22b27ad5d6ddf612babfbb9a593d916b05da95a1a66e8d5a644163e06",
+        "still.png": "c8ab07a53fbd77c2593132039c4622f794ae4d56ef7b3f65da413c6530bdc770",
+        "still.webp": "1d21414b381f65087e2ab66433d89bede2cdb2b34fa2157ea1db06f6cd7e7196",
+        "animated.avif": "5c3b4743697d23170f9365044bee5e70bc5e51420d6f511e01f798c05bfe5957",
+        "motion.json": "25fb5303916f417d283f711de907989d0d765881d9aa09d12571554fd9bae97d",
+        "meta.json": "ed12c712966a69c7e9c3ccf07bb0e64f73d2273e20d33978e2d1d6dfcfdab39f",
+        "reference.png": "c8ab07a53fbd77c2593132039c4622f794ae4d56ef7b3f65da413c6530bdc770"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 56838
+      "animationBytes": 35855
     },
     {
       "id": "caracal",
@@ -3178,22 +3180,22 @@
         "animated.avif": "assets/caracal/animated.avif",
         "motion.json": "assets/caracal/motion.json",
         "meta.json": "assets/caracal/meta.json",
-        "rig-source.png": "assets/caracal/rig-source.png"
+        "reference.png": "assets/caracal/reference.png"
       },
       "sha256": {
-        "source.png": "07baedcc0fd5bc896b7ba65f6a65c3b8d786633b5930dc4c7d806a7d2f79a6b7",
-        "still.png": "1b039361c2c6fd9bcfa570a8ccf6651cf1f58ea2d439cba38487828857cba295",
-        "still.webp": "849876b9f39010055b71a7bea62a9baf322be68b7bc1b3a44dbd953acdda88b2",
-        "animated.avif": "83f07a817872535a88902d57fb1cb8d07d63b4a2ce2a58ce748edadd09589c68",
-        "motion.json": "8b6d2782eac1016e52b888b3024f33e8c19992c0cb23f985b3804cef9701e667",
+        "source.png": "14253f819b904a3f12adf32d6f9ed0c1b6a1a5bc1f8f78c35550e0c7974c5969",
+        "still.png": "b1a9709ace5b3d5c91a81994ba664e7812714aafd41e104bb4f861ba7e176356",
+        "still.webp": "6e0a9d56098d2eb04e7126d030aec2b1bf55471431f40a68bd7d9d8a7bc2ac0e",
+        "animated.avif": "b92a28ee8aff6dc765c1aa309ecc5e434b02fd19f089fe78e48140856b7883e6",
+        "motion.json": "0c87aee5f91e7f9e40300a1be7d03b4aac22e7a0293556a602eaeb09443b4bf8",
         "meta.json": "651a201abafc2753cb8d067293bbba9785fde3e6755b6b68e10cc23fbcc833b4",
-        "rig-source.png": "b4eeaf8e96feec5501fa9b3c95fd07c5a887757c438f15c212f8ff99434b93d1"
+        "reference.png": "b1a9709ace5b3d5c91a81994ba664e7812714aafd41e104bb4f861ba7e176356"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 37120
+      "animationBytes": 34054
     },
     {
       "id": "cardigan",
@@ -3977,22 +3979,22 @@
         "animated.avif": "assets/cheetah/animated.avif",
         "motion.json": "assets/cheetah/motion.json",
         "meta.json": "assets/cheetah/meta.json",
-        "rig-source.png": "assets/cheetah/rig-source.png"
+        "reference.png": "assets/cheetah/reference.png"
       },
       "sha256": {
-        "source.png": "22f0de45da5d5568a51a68e6146fbc4524c3940c6a4decaf0e4a61b7ebf44131",
-        "still.png": "5b15485995beb4aea33a12d8de600c8a07171d1c758d18c70d754436bcd167dd",
-        "still.webp": "6c67f6902fcb4ae1ce3934a612918809d2cb03cada4755c24fd737c5215edd72",
-        "animated.avif": "cd10842af85b6ddde5b3b80b5129b707897694139aab688a65233c34965c140a",
-        "motion.json": "d32ebcd632b676cd85d3b1c81b4da37b1898d5c307fe2a4af0975aa2f439510a",
+        "source.png": "365b0cc047950c1de5705482e88d4357cb482d043fa28590bb34be0ac0b16531",
+        "still.png": "a4347cfc11f9488f471d4321f5ecbf86e327d32e9e3690e1a00a59288d78cef2",
+        "still.webp": "bbf927aa5a3b0498631c0b9aa7eb8684db34a51a5fbf287fa8fc3c1fe3d532e5",
+        "animated.avif": "e07debd967696eaccd86572d981803b4daa702285f81b13547bf2a4c4e951fce",
+        "motion.json": "9f9e14f3d1db8a32f054abd1be77fb8fbc6771a28dfa2329884abf8146ea02ff",
         "meta.json": "20b351297169b58d0e60adb30b209e7dc213ca848ff95a013ba32b9f46bc087e",
-        "rig-source.png": "00522962b3fcadbd29f62e2686157bfa4954fea5d71230f97f5474846c318950"
+        "reference.png": "a4347cfc11f9488f471d4321f5ecbf86e327d32e9e3690e1a00a59288d78cef2"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 54921
+      "animationBytes": 47742
     },
     {
       "id": "chefs-hat",
@@ -4179,22 +4181,22 @@
         "animated.avif": "assets/chimpanzee/animated.avif",
         "motion.json": "assets/chimpanzee/motion.json",
         "meta.json": "assets/chimpanzee/meta.json",
-        "rig-source.png": "assets/chimpanzee/rig-source.png"
+        "reference.png": "assets/chimpanzee/reference.png"
       },
       "sha256": {
-        "source.png": "06412e816dc48114884a24c1cf6dce1f0b36152154661813133ca70288828513",
-        "still.png": "4e9ee181b303d350da6bdef4e0bd2a0b07a0e70b3767d93a8e453ef3883c386f",
-        "still.webp": "cbbe80c0c888c05910412a3522a262ea801565042fa7faef9ad690f44942efd2",
-        "animated.avif": "47254ff6452965708daf0aa26ba7cc10e99362063188ce12b362627fe0adb3ac",
-        "motion.json": "c87b7f92ce5c9a3cbe48bd8c772d8cc49f00ae74d1922af2d0412e88547707aa",
+        "source.png": "63cd6176ad7ed31232ca9d200435dc12febb2ffff55d1487b6ba999869e8b5fd",
+        "still.png": "36826cd96c0441eb32cf3dbd37ac8465d776317b25e43a2761be7d92a64742e7",
+        "still.webp": "8c4a7c4257ac89def7f95f6665ad405a81dccf28da5b3b2aacfaa894d5ec6fdb",
+        "animated.avif": "39344fb5f80b935a18be59386be7c5956a6a8047ffaadaeb54d4d5b8b611034b",
+        "motion.json": "b4d6446372790681d17aba64da1e164465c69b8daa61430a10cc616d474e8400",
         "meta.json": "1c43e33d64e9bed4311a34e76c259fbc24b290350e60929cc502e0cfab7cd234",
-        "rig-source.png": "751f62087f9e8b632834a186ce09904c7d5f12697f3e270a350fe185fca772a6"
+        "reference.png": "36826cd96c0441eb32cf3dbd37ac8465d776317b25e43a2761be7d92a64742e7"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 47881
+      "animationBytes": 37793
     },
     {
       "id": "chinchilla",
@@ -4248,22 +4250,22 @@
         "animated.avif": "assets/chinchilla/animated.avif",
         "motion.json": "assets/chinchilla/motion.json",
         "meta.json": "assets/chinchilla/meta.json",
-        "rig-source.png": "assets/chinchilla/rig-source.png"
+        "reference.png": "assets/chinchilla/reference.png"
       },
       "sha256": {
-        "source.png": "c3275b152632bae2da7356dd28a0f2425c5662c473504da7a0ab53d925bae338",
-        "still.png": "0a92c7f488cb88de203d2eb724690b5f2ebda436e40a026b9f4bd6fc91a87175",
-        "still.webp": "d6cb1f077e220c780af20e91f4aafb44bf01b8a3bbd4f3cfabe2edc79ed3bba1",
-        "animated.avif": "35f46cf537ee957fb9cf8bb7c404368e9fdba06f3969842574dfbe0c1bdbb455",
-        "motion.json": "aadf3d6c154734ba60dcbf79677df7060d340a394e1a702f195399dcfdbfa2f8",
+        "source.png": "9618be9285b9c4353fc0fbf53b9088c9614bb3b140dd04b38d08ed7a19a04684",
+        "still.png": "9b1f6a5b246b8efbd0ce818559885f634c8b83f5e04412c4ffad2fcd923e4848",
+        "still.webp": "eeaa6d04233a4db50d40be3b5fa9b0efb60b3c7ce93f6265b30deac8d5ca6b24",
+        "animated.avif": "9204cc92f4326bffe3af78285fd0b1e1bf3685ca607e70c552f2474b43fb1f49",
+        "motion.json": "6dc2b21f6a7ea057bc03459f1863538efbb7251eee99a36764604b964d5b78a8",
         "meta.json": "6b6e401a2f00986ea7216220599578b94cbb94294218c40ac94e48b95edd322c",
-        "rig-source.png": "4e82dfa491a963801531d3c11cf28aa20dd1c628d8c02ffe8c0971eea7ecc9e4"
+        "reference.png": "9b1f6a5b246b8efbd0ce818559885f634c8b83f5e04412c4ffad2fcd923e4848"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 54006
+      "animationBytes": 44454
     },
     {
       "id": "clay",
@@ -6964,22 +6966,22 @@
         "animated.avif": "assets/ferret/animated.avif",
         "motion.json": "assets/ferret/motion.json",
         "meta.json": "assets/ferret/meta.json",
-        "rig-source.png": "assets/ferret/rig-source.png"
+        "reference.png": "assets/ferret/reference.png"
       },
       "sha256": {
-        "source.png": "1e667206d3f07ad77164273ca13161991fd373dc81da6f2ddf09b18cc37f6a33",
-        "still.png": "babf43741fcdb72c18f13472cf7cae923bf5dd96dc18565991c851bbf09beaaf",
-        "still.webp": "a797070812c0ba1934edf70902d5d68c3c8d2775acd839c530b11f3a41ce83d7",
-        "animated.avif": "1481d2aa9054e9c2ccb9f86e284afe812adf42d25161b92abc78877df4058261",
-        "motion.json": "fd2520fa6298ca5847389ede21e64bcb473fe4ea213ac41617e342000b239274",
+        "source.png": "5d11d19269f23943a5bce828257e20c234f573be40345fd99949e22a69037a4e",
+        "still.png": "cf4906d77fa67f4af6ab3f24f0eb77375d96adfc009a2edb8814410c9cf7a563",
+        "still.webp": "3445a741672eca9796bf18e3d09b8f3d8c8167f81338f1d1fc186ec2ccdab733",
+        "animated.avif": "20698f2e8f82d6fa5e79c915dd534391869fbb1827422fc4e40be43e00e9fd39",
+        "motion.json": "b37faf1decae9e91f3debc30d6e7f03cf738b74111714ee2f273a04e4f991b25",
         "meta.json": "886b45b19afc69b73103c02307468af7035f7289c58bef8388c7966aff535cd0",
-        "rig-source.png": "825490b0333917742a6749228f91bae2aee69f794b957bc32f50478a2efafea3"
+        "reference.png": "cf4906d77fa67f4af6ab3f24f0eb77375d96adfc009a2edb8814410c9cf7a563"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 47987
+      "animationBytes": 28462
     },
     {
       "id": "fig",
@@ -8225,22 +8227,22 @@
         "animated.avif": "assets/glue-stick/animated.avif",
         "motion.json": "assets/glue-stick/motion.json",
         "meta.json": "assets/glue-stick/meta.json",
-        "rig-source.png": "assets/glue-stick/rig-source.png"
+        "reference.png": "assets/glue-stick/reference.png"
       },
       "sha256": {
-        "source.png": "fa59fe2e07e38adf4d1bd04ff28789e3907e9398cdf311845ce52d6bcdc01e17",
-        "still.png": "a01b9546173d47322f023e0a071705cd9377f6923149b6022fb32baa2b12fd21",
-        "still.webp": "f8e71a9f57c08dcf4079e3e58953506c27a03e5fe8ad6227285f7ce8803d028b",
-        "animated.avif": "274e2882a261a13fefbad5bd82445588a06c7be3b3fa92801c3eac437dce880a",
-        "motion.json": "6ad0b7b7bb580a4d845687bf962fa6fd09f4a142787895dbc670a43be5b0694d",
+        "source.png": "8a5d8b604f6bf288e8b0fc9bf13106ab597867049ad03c35a7b934558d4beb49",
+        "still.png": "bf02c7a4250c59654fc47257b5bd31aa8759734560a0d7bf2856c8b4d3537157",
+        "still.webp": "ef3f46a3317968fca6a5ede9c3806ad4c7ab4b5838e376e3e3d81b1ec4020e3a",
+        "animated.avif": "741f9f7e55e1107aba4194924f6e1d27894dbc04e04d4d847d9054819cb0606e",
+        "motion.json": "b92b64ce35c9bf6bf47761c8940bc24a78018254c8b521c06a00f1e83fb24808",
         "meta.json": "d1817ce9756b004641fa3958ee2ef98a8175127c8bea5730d780c4ba1627bf98",
-        "rig-source.png": "c3c812e5354877a14b816d3f368fadd9b995f024a262a909a14573509be36350"
+        "reference.png": "bf02c7a4250c59654fc47257b5bd31aa8759734560a0d7bf2856c8b4d3537157"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "rigid",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 18278
+      "animationBytes": 30047
     },
     {
       "id": "gooseberry",
@@ -9153,22 +9155,22 @@
         "animated.avif": "assets/hole-punch/animated.avif",
         "motion.json": "assets/hole-punch/motion.json",
         "meta.json": "assets/hole-punch/meta.json",
-        "rig-source.png": "assets/hole-punch/rig-source.png"
+        "reference.png": "assets/hole-punch/reference.png"
       },
       "sha256": {
-        "source.png": "8a382c3f9a6637ff38cbc54f4d7234d0c72b84f3fb565e910faf80fee18ff9e9",
-        "still.png": "83fbea294d00ea3669e79bdd374f5f6b34ca5fedf1f7590d80b9bd3ee1fda0d3",
-        "still.webp": "93b28f832439e5e86dff5f9e52e26478a81b9279cc74f57da9be6b40b4b671c1",
-        "animated.avif": "1badd415c684efd8aaeba716f0eb2c6310a151aa67ae98d7163378baf6f94679",
-        "motion.json": "eecb940b9b35dfa90d10f1cb3c7bd3a8f6f40d8f26d9c9d903ebf5e7e902f7c4",
+        "source.png": "6036d4a7fa6f27f9cb879f3d6b0aa6db47f42575f3520d34048ff52e598c53b4",
+        "still.png": "7f2c0ea0e465adb4dde5b015889975c875944ef68fd7f6c33e17634787b9073f",
+        "still.webp": "35f548c5e4dd7d4deed1d75d254acebe58ececf12424606ae75fa04bc01fa42e",
+        "animated.avif": "e46f3135a463793f07ae1c75b489ce79a7623bcc0a0c7b628bbf0edcb5adc8aa",
+        "motion.json": "36d4a6390557f69559943337fcf0a3351d4df217635631473558f40fb91ea057",
         "meta.json": "46b4263bb5f35d26635b6d3bdf5f94e7f36abad45cc0497260b9da53c324d3af",
-        "rig-source.png": "2362849e9eaaf2377619315626bf13e31e450a8702d73c075895ff78f77bb61d"
+        "reference.png": "7f2c0ea0e465adb4dde5b015889975c875944ef68fd7f6c33e17634787b9073f"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "rigid",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 39069
+      "animationBytes": 53133
     },
     {
       "id": "hoodie",
@@ -10150,22 +10152,22 @@
         "animated.avif": "assets/lemur/animated.avif",
         "motion.json": "assets/lemur/motion.json",
         "meta.json": "assets/lemur/meta.json",
-        "rig-source.png": "assets/lemur/rig-source.png"
+        "reference.png": "assets/lemur/reference.png"
       },
       "sha256": {
-        "source.png": "bf8b531afad54222bb17ccc19748af44b2f7a9656a160d0610072fc63a932d16",
-        "still.png": "6bda22a3675e2409c1c0c9947226c2e7381afcc35a3d2cb3a339054b54de8a55",
-        "still.webp": "818cafa35daa99efa914b2de28ec3f5e4d58c842a928532912256f4cde0064d9",
-        "animated.avif": "dff5aaa47fed5613e1259def1863654b52fd15f7a8aa1284899b81e7da22443b",
-        "motion.json": "ecabf1b08b0df048bb88a83643dc44a47198af2912d50563a57176410b25b6f2",
+        "source.png": "ba24295c4d09deb30d9542d50738c5cc217b903eccffba37d3fc5bbac031d893",
+        "still.png": "f81b41874cc2e112e248bb34732cf3973d4c08b7265f785d62a35d43f73f5128",
+        "still.webp": "3a6cd05db3fc802561df8e38d01e36c24d78dba73cc49845e303ad41edc423f1",
+        "animated.avif": "2cc438185f3213074688b69e5749cf5f1f862dcf4039a74a99adbb197d96fad0",
+        "motion.json": "4357ad2c3d97a3f0448ae3c886d439acc2e62572fe27dd9e5137b85585515085",
         "meta.json": "56b731ab7b9c7d272b4e1df21567af2f023c83ce45a4d37d3157acf50f8931ed",
-        "rig-source.png": "5b665c01336b6524f46dab529ae72bed13bfd8aae006742553075e43564d8134"
+        "reference.png": "f81b41874cc2e112e248bb34732cf3973d4c08b7265f785d62a35d43f73f5128"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 59734
+      "animationBytes": 39103
     },
     {
       "id": "lettuce",
@@ -10682,22 +10684,22 @@
         "animated.avif": "assets/lynx/animated.avif",
         "motion.json": "assets/lynx/motion.json",
         "meta.json": "assets/lynx/meta.json",
-        "rig-source.png": "assets/lynx/rig-source.png"
+        "reference.png": "assets/lynx/reference.png"
       },
       "sha256": {
-        "source.png": "4727e9a028c3ac1c79c407cb3f477734e7736848124c368bc98d655decf43113",
-        "still.png": "3398236e212be56bfbd2b1be413a1a4169b0b171f65932fc6c66da5a55d91c9d",
-        "still.webp": "5dda83099e6d5cf5502c6c90a8d7b185f665eed15465aec83ff2fd65eb092d29",
-        "animated.avif": "cc328dde5b29755a1c9fee2b8fd632ddb0a001020e2f4047ee72395371cf6c48",
-        "motion.json": "1234ebe1e8e1bffd3c4e4006875b9cd338dc137888fb4c07acbb199861a93540",
+        "source.png": "5d1c856d56d76319e579269600dbebf184209331ea6303586b65a401b80f12b2",
+        "still.png": "4e2be6244b8e6ad18c88cda37bacd67f53a2ee8c3787c54efd2bc88d2233bddf",
+        "still.webp": "fcee2c5855226ad58a8cbbe6896ac2ddd7e2a70db6a5acb8f84b7e9335beb130",
+        "animated.avif": "0a87d9f759a8d3db63ec005830d2d578d43f19241f8065a5a4e9d311b402ce66",
+        "motion.json": "50a9f024841407bf3bef64fae5a03f49857030101886dc1bb29a35f925a454b6",
         "meta.json": "db21dda7896f4c944ee4ae505206a253f51dc5dc7745ee2cc0a16bfa10837d2a",
-        "rig-source.png": "751506c20e4f6a2cbd07bddb88b91d994479de25d0824f76e8edc22a0cbc1237"
+        "reference.png": "4e2be6244b8e6ad18c88cda37bacd67f53a2ee8c3787c54efd2bc88d2233bddf"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 43298
+      "animationBytes": 43237
     },
     {
       "id": "macaroni",
@@ -10818,22 +10820,22 @@
         "animated.avif": "assets/mandrill/animated.avif",
         "motion.json": "assets/mandrill/motion.json",
         "meta.json": "assets/mandrill/meta.json",
-        "rig-source.png": "assets/mandrill/rig-source.png"
+        "reference.png": "assets/mandrill/reference.png"
       },
       "sha256": {
-        "source.png": "9ad0ee53f30533e647fe5fcad22cd43d958aee16ae74cc628dc33c463a709c46",
-        "still.png": "4bda010dd9de5cb3c9eb18385b429577b2af4300d4b0a49d016499351d9c5ea3",
-        "still.webp": "889267cdf98fac89b3dadfdc3106cc9d545c2c2247c0cb932d8d33c2ee5cf92a",
-        "animated.avif": "fbd5f4a098d99006da64a699bba21ad93403c93221c20ba2150fbe72b9fc79fc",
-        "motion.json": "caf75c3a330e3adc88332658ba3fd1839e17d3b35a50dab3480ae56b50f8ef43",
+        "source.png": "3a75a077bd1ecb95eb2a843d6205f96ec93fc73e45d562b316ec8d11c32d895c",
+        "still.png": "009cf1b2141f0d52828f7cc0f6dd09c99d2bfe177d76b59f512d6498c7cc0b98",
+        "still.webp": "6c412ef221d3e25f6b1b6a26277e4f7d956b41692fc33fc0c9531b04614781d7",
+        "animated.avif": "a725cffedb8ba430bd9efc478a3f83cb94c77a61d486043c8b84db070e5c7391",
+        "motion.json": "c9c6d257a661ecc42b376997f7799e83fb8cee51d524b1a148c47c73a9203039",
         "meta.json": "803b1e3d6c00c6486ad1771e50fd02e5f3990cba496f2b5bdf84a0cefc073690",
-        "rig-source.png": "ae0176ef22484ff7c8ba4090cd434439a7cdef37862a427e7f77bfe3094d3de4"
+        "reference.png": "009cf1b2141f0d52828f7cc0f6dd09c99d2bfe177d76b59f512d6498c7cc0b98"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 48033
+      "animationBytes": 34243
     },
     {
       "id": "mangosteen",
@@ -11019,22 +11021,22 @@
         "animated.avif": "assets/marker/animated.avif",
         "motion.json": "assets/marker/motion.json",
         "meta.json": "assets/marker/meta.json",
-        "rig-source.png": "assets/marker/rig-source.png"
+        "reference.png": "assets/marker/reference.png"
       },
       "sha256": {
-        "source.png": "ea1600a8a1ab8d456558bffad7f5a92d57f287d846c38f8611482b8a942ac326",
-        "still.png": "f1569965e9af52ca4be740da3a1af392ff5168800646a776613b8783d04f8fb7",
-        "still.webp": "b94aae1c11f81adcec3630d310cb1f95cab7c8792d98873554b361fb32b69eba",
-        "animated.avif": "c8dd5e100f7c98a34fb7b60ee9e11ee737e1bc41ec8bc2cc6ce2c1fb770e0c14",
-        "motion.json": "459206bfe3f355a5e72cd1244840acfdd4ae64fc6557b56307d7e57454b7349e",
+        "source.png": "51077b9dbf6b5fa4e4407860b276ea5af9e0fa7a1379a9df06c243ed33833967",
+        "still.png": "247fd258c83506f4b272e3d0dcfb0b0f42efa6810b7cbc2c70842937ba554244",
+        "still.webp": "bbdaf558e7d726f58d735505c9d01057cd3c60a2a6b1a26502248e048d4bf3af",
+        "animated.avif": "6ec8926f51309744edacde29f1947b6047a6a86f1c6f581e599e46d85334a547",
+        "motion.json": "c9d955600269391ad3801beb686a1fb28f90306144cb8460d525dc06d3cf31f2",
         "meta.json": "eb8b98842bfd607fe5de753d5c8a5cb8fa867a5567b7cbe29652bc0d3d6a3f50",
-        "rig-source.png": "e6ca189a5627117ee5c53181360797c3ca62d67478ad65255d75c67ef2982886"
+        "reference.png": "247fd258c83506f4b272e3d0dcfb0b0f42efa6810b7cbc2c70842937ba554244"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "rigid",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 25118
+      "animationBytes": 54956
     },
     {
       "id": "marmalade",
@@ -11485,22 +11487,22 @@
         "animated.avif": "assets/meerkat/animated.avif",
         "motion.json": "assets/meerkat/motion.json",
         "meta.json": "assets/meerkat/meta.json",
-        "rig-source.png": "assets/meerkat/rig-source.png"
+        "reference.png": "assets/meerkat/reference.png"
       },
       "sha256": {
-        "source.png": "281628ea47665649c248e15e613cb83089a915fcf6fd5ff5fd54ac5b9f66cb3c",
-        "still.png": "ccff75ae9aea4d08ee5c64ad7e5f4b7cabedcbcc5a2b61e77de8b02802b6597f",
-        "still.webp": "c53a255143177677a070fa90767d277faa88ee659bfdb635f16fccb71e63d3a6",
-        "animated.avif": "6c7b784ced47d9e65bb88bb19298a6bf1daf10c00a9eff35453c2725b7ab0dc0",
-        "motion.json": "21da0920ec60f3b837fb4733744fd4c2d4092348fe6e35b4b15833c967d06e6f",
+        "source.png": "6ff32bbb804e36bef1cffa8f7764f3d56643465415ce693ac50e54086ad26356",
+        "still.png": "282392f723d12558058e075812396e4bdaa9c65c3af287d4aaf2e83c5a4dfd08",
+        "still.webp": "a21b7dc8a545826b676eb4a59a8149526c0fcbad53743dd120e14361ab75b872",
+        "animated.avif": "5191a90c70bf9026a218e7fd403c92a5f68e50ce35100d74157931c79c1759e0",
+        "motion.json": "480d48fe250b2717f19a9f5218ee08f4eb48da59b37b8b1f9bb97c56b193ea55",
         "meta.json": "d10c0916fe07a54eb9dc173d1cf7322e42bd54a29f3948de71860d4d992bd087",
-        "rig-source.png": "6d20a71644321481ab27def1fbbcd269f590672e97885e5986e4e747040f4610"
+        "reference.png": "282392f723d12558058e075812396e4bdaa9c65c3af287d4aaf2e83c5a4dfd08"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 41665
+      "animationBytes": 27010
     },
     {
       "id": "microwave",
@@ -12151,22 +12153,22 @@
         "animated.avif": "assets/musk-ox/animated.avif",
         "motion.json": "assets/musk-ox/motion.json",
         "meta.json": "assets/musk-ox/meta.json",
-        "rig-source.png": "assets/musk-ox/rig-source.png"
+        "reference.png": "assets/musk-ox/reference.png"
       },
       "sha256": {
-        "source.png": "c2a4c86dc6e90b6aea45f09fe417cc53575558f79d6c4e9f5d1d3f0fc4ac4c36",
-        "still.png": "cbd60973bbfb36cec0f6f3897593ccc7fcd9832ac54e5b5b9a76b7fd0c161943",
-        "still.webp": "e64c02b38d938d565a05e70099e9674ce8ebb26820071f055e21166f09ab40ce",
-        "animated.avif": "9e51448a802394bbc7fd27ec2abaaa2da2bd1cd4b32d52ae3a160e6a01b2d862",
-        "motion.json": "0d63f80654e8d3ede9c26f7d4b1ceed9e8b05fde36070e8e7e2d99dd886f19b3",
+        "source.png": "12196d9d76ace1e52980e39216047c739be1731086b314eac7f5879e8bbbf8fe",
+        "still.png": "0588012c1c120aa5ba978d9a8c7f84402c8f44e812dcf64f8572ac77b2b8b758",
+        "still.webp": "2da5509765001b61aada954bbb16d24f96b0cfd17a301e9a742ae390c253de0b",
+        "animated.avif": "a8af6067c03bf86d813841ab1da0c9dacc52994d16f32e5eeabdc6a794f0f661",
+        "motion.json": "1d8d0b78e87ba37d2c6df83947f05b52cbbc37a6dabaed198d9619b30a0d648c",
         "meta.json": "63fa3010da576341b842badab05ed8ab62f3ec5dbf1777454b93a2e6b087d423",
-        "rig-source.png": "0b710151acf8ffcf508dfbe4480be16bb5f11e9d51f1bbbf7a76290135125102"
+        "reference.png": "0588012c1c120aa5ba978d9a8c7f84402c8f44e812dcf64f8572ac77b2b8b758"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 39573
+      "animationBytes": 34435
     },
     {
       "id": "napkin",
@@ -12551,22 +12553,22 @@
         "animated.avif": "assets/okapi/animated.avif",
         "motion.json": "assets/okapi/motion.json",
         "meta.json": "assets/okapi/meta.json",
-        "rig-source.png": "assets/okapi/rig-source.png"
+        "reference.png": "assets/okapi/reference.png"
       },
       "sha256": {
-        "source.png": "d296da9e2137459f07988db986208dbe541088b4ac1fd427cdf421262f0b4a6b",
-        "still.png": "35f805bc99fa2aa9096cd9b22ca30f824052fe7ad403c5665c352d35fc2da41d",
-        "still.webp": "839d241f2c11a4380b75bfd5a3f047c5c2ad29a0c24acb557a213379a34b6bf6",
-        "animated.avif": "5743fe043fb3699335675526a718ea18d44af036a8b1ef2a1b283b84703777f6",
-        "motion.json": "8fa3fb5f81d7951e14b1c5e53120b2d043bd3e4512d5b101cc986d5d63a10ade",
+        "source.png": "527091387c7e3da2dd4b5a244419f5dbd88dc73e7cb307246cf26f6c2bbaff9d",
+        "still.png": "fab06443a0f502f8c4dd070e726583e6ccf9b9492aa3b08806b1cc2b29219dc0",
+        "still.webp": "e54a2bb9b47d49750e0ede0832e9a1eee71399fc2c1bf643944d92b9510fef73",
+        "animated.avif": "acce4c7cbae7ec3bf28d858d6adae29c01b8ca294cde26c6dd735d9d5e281633",
+        "motion.json": "42f06ca2795e216c4ac3059cfeda64429c9ea36cb81a28025ffd6414848d5859",
         "meta.json": "f97ef6f219f6024facd8dc3a6775b81d92f20a046ace6aba2057cca20b697ca3",
-        "rig-source.png": "6b62831eb4029f4f28023e9d8a4495f1db9bf3d18a2753035a07e85e1684b583"
+        "reference.png": "fab06443a0f502f8c4dd070e726583e6ccf9b9492aa3b08806b1cc2b29219dc0"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 43227
+      "animationBytes": 39591
     },
     {
       "id": "okra",
@@ -13017,22 +13019,22 @@
         "animated.avif": "assets/paint-tube/animated.avif",
         "motion.json": "assets/paint-tube/motion.json",
         "meta.json": "assets/paint-tube/meta.json",
-        "rig-source.png": "assets/paint-tube/rig-source.png"
+        "reference.png": "assets/paint-tube/reference.png"
       },
       "sha256": {
-        "source.png": "f5f0973f745a93b5960ba0fae065b3d1e84c3bd4ae6469116ba6aa3187a73bde",
-        "still.png": "c0a550e1e1ac26a14adebd08b55afd8a54174661f1d51ba1e55bbc6b07d8a0f3",
-        "still.webp": "67d72b7d5c86e73e16fdc8a0c4430a4ea95c6752d41759e9559d6168b132947c",
-        "animated.avif": "94a35e4c3c0e4faffb26c27b7b21da9f119c7537c2d069e40b003b32830bd6c7",
-        "motion.json": "16afe972cb1d74a8046564aa198dbd5460a0bb56db9d2136e126bd0bafee854d",
+        "source.png": "69b7ae010e0675e03b7c5bc7085c22e0067f3aa4812d3a4b4aaffd1f02619b0f",
+        "still.png": "f63c82e10bb7eed30cdf0307915f0721f296df3fd8c88af8360756968c28331f",
+        "still.webp": "3efc09f24fe760104ff592e6edb79280441914b63dcbc596567c0fc7c4874265",
+        "animated.avif": "8add7e91ca2cd9b91ec9d736fd71cffcc1ef04ee878f3d975ee4d85c17b60a8a",
+        "motion.json": "563db805049cb735b94bb442fb45611f129a6ecfcc65be42c078f2f87c1c1713",
         "meta.json": "822bf7f4cff3fa339ded88cfef8dd1dcfbd9930611396d40f59f3f6ed66d3f81",
-        "rig-source.png": "b8224a4d4e07a19a895048f6042eab299dc2d407ef960d9952c1cfd1fa650ddd"
+        "reference.png": "f63c82e10bb7eed30cdf0307915f0721f296df3fd8c88af8360756968c28331f"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "rigid",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 23383
+      "animationBytes": 55638
     },
     {
       "id": "pajamas",
@@ -13352,22 +13354,22 @@
         "animated.avif": "assets/paper-crane/animated.avif",
         "motion.json": "assets/paper-crane/motion.json",
         "meta.json": "assets/paper-crane/meta.json",
-        "rig-source.png": "assets/paper-crane/rig-source.png"
+        "reference.png": "assets/paper-crane/reference.png"
       },
       "sha256": {
-        "source.png": "c3ab22bdbce1db9fa632798ac4813c5152d7f074a8d76d2e9664dbe86a147117",
-        "still.png": "1611442b2e50ada87bb9b8047485b1068f0ddb608cb44c76c4dc3e7a617371d6",
-        "still.webp": "9c46a3d424ad91ca78f1f454fe28d62c5042eaaa6d460ec45b263fa751048251",
-        "animated.avif": "f8b0ebfd7e6e5282accc6c53623d0966f959cac6288495480a3bc77a6ff33584",
-        "motion.json": "faac8cb494a51d4d8a6f6fe42915dbf1cdae32faaed13f37377d6f1d6dc25ea3",
+        "source.png": "e1ac345a09282c185911d8c3c2cc9209ffeca84cc43c7efea5f240538d29f678",
+        "still.png": "78e3c787c4875979b3e628aa686f4e4b5f974babddd996718c55b3fd842f9e33",
+        "still.webp": "48504d994637662efdcf40ecbc96f587f2b30557a9cb3b275dbd494f1230f3ed",
+        "animated.avif": "04aceb18c9640c711022f40ca7a62944d491430c9da77d521402b83ffbff6102",
+        "motion.json": "ee98b5d5ffd3828ff5f74caa3b014f5ce6ce1f9a5868ab53ffb6fa6d18f11027",
         "meta.json": "225afc128311a1d37bdd8cdabcb651601ec7ca8cf7fbc49fb230a49e17bf4bb3",
-        "rig-source.png": "0c01379e28198318c71ba8b1c8fa4194888ae5c44abfad4f040763bfba275629"
+        "reference.png": "78e3c787c4875979b3e628aa686f4e4b5f974babddd996718c55b3fd842f9e33"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "rigid",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 33649
+      "animationBytes": 53304
     },
     {
       "id": "passion-fruit",
@@ -13619,22 +13621,22 @@
         "animated.avif": "assets/pencil-case/animated.avif",
         "motion.json": "assets/pencil-case/motion.json",
         "meta.json": "assets/pencil-case/meta.json",
-        "rig-source.png": "assets/pencil-case/rig-source.png"
+        "reference.png": "assets/pencil-case/reference.png"
       },
       "sha256": {
-        "source.png": "a4c6b2fb747dea65b3ad75a5472c18f7c8c3e715590e17570967931b14c8848f",
-        "still.png": "19c8df5523eb6d649ee2b7da6aee40f7dc7152741612dbcc01abed28fc1c8fa8",
-        "still.webp": "4ec340896976ce51b3e0d6f73899ba113822d456d73fede425434fb702d90231",
-        "animated.avif": "f0a053b090e9c7feffd51ffed4ee167ad99b5584ef22197a830ad67673e2c61f",
-        "motion.json": "b748f9afc332b7933ea0c7a25bb6ab592d1404f6c0e0fcc0d453e80158864942",
+        "source.png": "2ba55bfd5819c1e200427b8cf17c48900e14fe30d56d93609bdf577e296f8008",
+        "still.png": "708868b67ec52ad0653dd16381988d373550280c4a5e664caa937f984058dbdf",
+        "still.webp": "9cd5f1411fe51e1907b34b235f497dfb71a371268c4343ed743112f5c5c1b747",
+        "animated.avif": "49eeab3fe1c5efb3f39e3a7a5356102fa5f323cdba74898680b19162e8cb9f2a",
+        "motion.json": "b1d12116c99f38f7b4dfdeb4e8ccf00de61f276e4996a717fa9ffe0fbc421be1",
         "meta.json": "67f274334520313ac4f22d55b7f7b9d78e574d2800e943ad82f248ed08bd41f1",
-        "rig-source.png": "cf2ffdb6750abe0c35afa6fd4951aaf166605a5eba511bf5d1829df4493a5d6e"
+        "reference.png": "708868b67ec52ad0653dd16381988d373550280c4a5e664caa937f984058dbdf"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "rigid",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 19251
+      "animationBytes": 55050
     },
     {
       "id": "pencil-sharpener",
@@ -14020,22 +14022,22 @@
         "animated.avif": "assets/pika/animated.avif",
         "motion.json": "assets/pika/motion.json",
         "meta.json": "assets/pika/meta.json",
-        "rig-source.png": "assets/pika/rig-source.png"
+        "reference.png": "assets/pika/reference.png"
       },
       "sha256": {
-        "source.png": "ac43c4f35b764519025603f3bdc3f1b13c311b91197410f23e92fa03bd6800b3",
-        "still.png": "e8732dc5aef760a59b8f55486c050367c419845af260ae795f4b50a5c2cbe409",
-        "still.webp": "d053d55232b61211511797652a0638b495e807aeb99f204f0fb67ea0975dee96",
-        "animated.avif": "07277133051a79b5b18c761609ca7fb20811e3155e0aa1b2f7c1de74238c48e4",
-        "motion.json": "a61802381f9fb63bccddd6c9e315734ce95ed81c7e86c7c2690fd088f51b6fe5",
+        "source.png": "c68f7bd9795fb9c00fadd9fb2942c937011ecd2965fe00f7b9500fc084581f24",
+        "still.png": "d46fb67a0a8e86fa575cb4956904990c9329139f2fb16763c678f701b5b6a866",
+        "still.webp": "cc5a9f1f00cbf5a9f8774ad6d036bb7050f3f1bab804a330d9506fc7ec82af4a",
+        "animated.avif": "55234a147912be68713f0dadf3ce6306a1fbb1e732116862270086b504ba8516",
+        "motion.json": "313c4f4339001b98153875bd9b97ac35516d9279f12ccc84fe1292a2f67cd078",
         "meta.json": "268d88feb072492c2985c100372416a38a1a0929f68173874bb2c7e6871f5d47",
-        "rig-source.png": "5cb7b490727159a3069a1e12f567b72d5a051c2b780f47aa7a2c3d844896cfbc"
+        "reference.png": "d46fb67a0a8e86fa575cb4956904990c9329139f2fb16763c678f701b5b6a866"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 45536
+      "animationBytes": 45422
     },
     {
       "id": "pillow",
@@ -14419,22 +14421,22 @@
         "animated.avif": "assets/platypus/animated.avif",
         "motion.json": "assets/platypus/motion.json",
         "meta.json": "assets/platypus/meta.json",
-        "rig-source.png": "assets/platypus/rig-source.png"
+        "reference.png": "assets/platypus/reference.png"
       },
       "sha256": {
-        "source.png": "0dd03eeba8a66f0d46244c253822ab4b79f53b6a8ff90e13a64e95ec95763fa6",
-        "still.png": "144d3c6d03183705ecb7136e8afc5efdec95566a40ff0bec7d23138af436f522",
-        "still.webp": "020b18f4f1f357036ca6f4d1eddf5546de70ca559a7ad80a569feab0e4a7af1b",
-        "animated.avif": "6028ec1eb38a9ba242d27bf1d0ba4b79a835710d92b4db2996af7800353900ff",
-        "motion.json": "004d401a75060d890257f18094e99241b6e3344208494c693cb47809517ba834",
+        "source.png": "553b8b2435a619f9ce680002f8626ef82efa4330c6c594e5efdccddc560db3ab",
+        "still.png": "32b9ec6d9cb265afb0af3a15a1b47311e21739f35be6cf43e7feffe4b27915ef",
+        "still.webp": "7cc7c9f52fd3fd522f306f160194120206621ba9fd640ec65d2c735656a8b80f",
+        "animated.avif": "2d552c213c1d5c5d24e76c3db3bce84ae44bd7ca2d71161c557ab813d900d5bc",
+        "motion.json": "1f781adfea9585e2bc765e83dacec4fd23872492b73bbda516352ccc4a939963",
         "meta.json": "65878a30899b686d40e7183b80b82168d81211d1de4305d1467919b347d851b4",
-        "rig-source.png": "991a583a84667280be641bd7bf8794e612779fd751b826f15d3953c582d5a08f"
+        "reference.png": "32b9ec6d9cb265afb0af3a15a1b47311e21739f35be6cf43e7feffe4b27915ef"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 34192
+      "animationBytes": 27028
     },
     {
       "id": "plum",
@@ -14951,22 +14953,22 @@
         "animated.avif": "assets/porcupine/animated.avif",
         "motion.json": "assets/porcupine/motion.json",
         "meta.json": "assets/porcupine/meta.json",
-        "rig-source.png": "assets/porcupine/rig-source.png"
+        "reference.png": "assets/porcupine/reference.png"
       },
       "sha256": {
-        "source.png": "981c37e2d7ac6a7e083f1987ddc36eaf9c56262f0ae50482b0ad5e35a24457bd",
-        "still.png": "25696810076f995e8480450215bd536e8e0003768697e87b58d624f00a632c6a",
-        "still.webp": "58764e286f8665818dc364b4f2985e1a720e91b1073d46619dcc92be64917a80",
-        "animated.avif": "4bb6276634c759be6d98955cd1a8938a6095a705d4e1a610ed45654bde044d01",
-        "motion.json": "7828d5a9a1439f5038449305c177e40b84ede716bc37e7d27271013c692add6e",
+        "source.png": "b382c420f610e4eeae3b2f2187f4a64f500de63fb9263dc4e2574b3a3cb83bea",
+        "still.png": "bda517f954810c8817044a713a0cdc51a92486ff455e0a06d4610414fd0bdb99",
+        "still.webp": "78e9c38135a85420d12b1e65a1c65948a0dd5ef8842bdb22f0db2d814e28ec09",
+        "animated.avif": "a17410bfe225b5ed41f7b385c06d7ad21821156ca8046240399801ec0591b3c2",
+        "motion.json": "58c3bc5b6c0047bc9c397355483c344a0f8d851d1de282ce26b348ff84937fb3",
         "meta.json": "7cc62f88a4a130cf6afa71d67d0c11776b8095f7a8e28e2100697ef830e76c30",
-        "rig-source.png": "480e4546f5871e7a35d8526124194c8e9f67a7a36d077766b65aa1e966750cca"
+        "reference.png": "bda517f954810c8817044a713a0cdc51a92486ff455e0a06d4610414fd0bdb99"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 42100
+      "animationBytes": 40405
     },
     {
       "id": "potting-soil",
@@ -15617,22 +15619,22 @@
         "animated.avif": "assets/red-panda/animated.avif",
         "motion.json": "assets/red-panda/motion.json",
         "meta.json": "assets/red-panda/meta.json",
-        "rig-source.png": "assets/red-panda/rig-source.png"
+        "reference.png": "assets/red-panda/reference.png"
       },
       "sha256": {
-        "source.png": "b574618ccc036dad6fe120fd2051946cd3338af2ecfd89520308db8aaf50fe9a",
-        "still.png": "c693a78ba0207bb1a3b124d08514f5fac5c14106418f09f6d60bba4302931a30",
-        "still.webp": "89f53b0673ba60f5c4683b14bea83e62f825df07d16315f6ca889bcced30134e",
-        "animated.avif": "84a729238a73452ba53b018659ca67d134f3d0d3b41853fcfdeb549c313c6176",
-        "motion.json": "7aebedeb060b9c1331d3dcb842b988bf87a01b7015c091e4a3cf379f7cf68b56",
+        "source.png": "e1b88600bd4924a7def2c4bd9a0f3e73a80b660c6f2d37335c8b486ccbfdbd81",
+        "still.png": "5b27bef83d26bdd02235f8a103a12864fca465d37759b4c1e109c3bc2b04ad0a",
+        "still.webp": "1512ab8117b9555205b49b64f6069fdf0b35e4e82bbeb2e3691c1111bcc4a8b3",
+        "animated.avif": "a3c3cae0bd5534e8a4186a4df72a61a445bfb862c33be45c7e7bc2d816252eca",
+        "motion.json": "2d824ce9827752c5e8035b40e886afe58e2e1424a63bf6269c7f8a7e62f166ba",
         "meta.json": "f12f085042e3025e0577d388f0566cc05f4ca84792704aabf6f35aa30fbbf971",
-        "rig-source.png": "908caab3018017922c3cf57a37d3952f0c18b3e0045c0f8ad4917062fc303be2"
+        "reference.png": "5b27bef83d26bdd02235f8a103a12864fca465d37759b4c1e109c3bc2b04ad0a"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 53801
+      "animationBytes": 39988
     },
     {
       "id": "redcurrant",
@@ -15818,22 +15820,22 @@
         "animated.avif": "assets/reindeer/animated.avif",
         "motion.json": "assets/reindeer/motion.json",
         "meta.json": "assets/reindeer/meta.json",
-        "rig-source.png": "assets/reindeer/rig-source.png"
+        "reference.png": "assets/reindeer/reference.png"
       },
       "sha256": {
-        "source.png": "e138c9ce0badf710579d0f5ff2d8c9dee7abe3a7ff55509f5f24d737a2eb670f",
-        "still.png": "6f6c34c864b9157d9566812b56f563d8f4c6df24b5f15d1af74fc0921712fb01",
-        "still.webp": "442555ab58a014c800c8be9be494805e382fbb72eaafb06eb05cce2f11541fba",
-        "animated.avif": "7659d1ac099976d7317f48b30244f0cbef2e1b8b99a5ec6c97c66043628682eb",
-        "motion.json": "e6ec402c19a71631c2c088175c1bc00882d0a39671bddff17f48582c9f61d210",
+        "source.png": "9719d1c74c70d3bc64a06eeb1670584a08b35c781022c398e0b1f42071469df8",
+        "still.png": "e5c9b7c5d4b5367c31511fbc28f8aa76a71d8b19c3a3ed00be4d85f83907ed29",
+        "still.webp": "ba53bdd57b42a5ec67de773d408b4867c9855395c4a15b16db53d083ac13186d",
+        "animated.avif": "5cbb81f2b1b63ea252ee5d4103fb67020db9e7142d5eef52ff38927a3c02c93f",
+        "motion.json": "4d4026a72b4e8c3256354ba00977d83062d190901598fa66f45c49a77b1fe684",
         "meta.json": "0de4e33dc4eef12b43753f9c23378bbae6a763bb5897e4b933d1bed5f497a8ee",
-        "rig-source.png": "233ac500a170a2270f304c6513732a4958988f51dbf30329a6a7a7b29c2bb5b5"
+        "reference.png": "e5c9b7c5d4b5367c31511fbc28f8aa76a71d8b19c3a3ed00be4d85f83907ed29"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 44136
+      "animationBytes": 58229
     },
     {
       "id": "rice-paper",
@@ -17480,22 +17482,22 @@
         "animated.avif": "assets/snow-leopard/animated.avif",
         "motion.json": "assets/snow-leopard/motion.json",
         "meta.json": "assets/snow-leopard/meta.json",
-        "rig-source.png": "assets/snow-leopard/rig-source.png"
+        "reference.png": "assets/snow-leopard/reference.png"
       },
       "sha256": {
-        "source.png": "d125d8f7c486f3fb0f085ba4adc9fc483c80acd3c756e8beae542f1a7a70069d",
-        "still.png": "ba02fc8384223de3178890079f76b2d52fa7566c248e4a415930366073d164d0",
-        "still.webp": "8b4282ecc79f79b5c92ca5130b2956da5f5b9446fe4ecc262391f80ccd4edb32",
-        "animated.avif": "4b7a7d0cc20fb262cee9232606cc0638297d84f9fd52683d33106f389e554dde",
-        "motion.json": "06fe49dbcc7ad39f0fd310a7489e765d546c87f6cd1aff807513587f0f281672",
+        "source.png": "64bf23165f5d3bfeab294019be52f594a1840d04f0a8c723a5a6c16fe2728032",
+        "still.png": "3957f7c516a623faa7aed553496feb04b0b0f38b0776d6dae71f8515fc5a9194",
+        "still.webp": "5c34d0552d5594d178836c4dc64aad9574ec311b6d3641f3ec59a8ff9df61e9f",
+        "animated.avif": "b014d4ff665160acbe76eef6411926ce92b0498050cfd4b8eb5e076b37164c27",
+        "motion.json": "5c4965cb27890c784edd7556e8cccf76dd20c049dcbbb8b206d5caea89da0a7f",
         "meta.json": "5804a719ec260d49401bde382f19801c17567121dedbeb6a47a3e66df53af773",
-        "rig-source.png": "fc5b25d7495b034e331c4a99e6b020562ecdbdbaf5f1aaddb64da40510c3602f"
+        "reference.png": "3957f7c516a623faa7aed553496feb04b0b0f38b0776d6dae71f8515fc5a9194"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 52584
+      "animationBytes": 41046
     },
     {
       "id": "sofa",
@@ -18276,22 +18278,22 @@
         "animated.avif": "assets/stapler/animated.avif",
         "motion.json": "assets/stapler/motion.json",
         "meta.json": "assets/stapler/meta.json",
-        "rig-source.png": "assets/stapler/rig-source.png"
+        "reference.png": "assets/stapler/reference.png"
       },
       "sha256": {
-        "source.png": "841f0e69949dc878317f6187e982589ee658aa948fd0d94ebe931d2bf50b00fc",
-        "still.png": "81fbc71183508c15e393a6243b89e53a9dc3e641c6d1f9f04c4d7495342922a1",
-        "still.webp": "d00c7f7426d74de41887bf44748664aa0881e05b569240bf27e0a4bb41861186",
-        "animated.avif": "2a1691c0d152478c956d4bc2d2c30811d58ccd026c9b20a1769ba01a62892a13",
-        "motion.json": "18627a99f1d88d61aea532b895b99301b610ef1fd721d8a04f9cee7a5c3d7d85",
+        "source.png": "4d242a9c5552d135b3765d26b9be2b043ccea48c07204f997d52163ef2008bbd",
+        "still.png": "5631c6ac3ea78dac98e66df01a5a7a719ef79e8d887dae650916841a39379f14",
+        "still.webp": "977ed95922d7767b5a20b9fee7145c65fbd6d8b7bfc3e629e39a18b990d93c4b",
+        "animated.avif": "75ec48bba3935051f282fbb911a670bc1735ee100fd47a42931462f2ceaedbf2",
+        "motion.json": "e5574367012a7eb3dc72874f1dc756979b541469f54009e087f0bb3f4c073903",
         "meta.json": "a060b3bd3c331d787c4b5415e000cf464d0b6b892be4dd0bd2f0d6ce7f49afb1",
-        "rig-source.png": "68b5cecfa598b4469ed6c18129eea1b7f2ae064c6cd8458cf7db33ef23551ae3"
+        "reference.png": "5631c6ac3ea78dac98e66df01a5a7a719ef79e8d887dae650916841a39379f14"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "rigid",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 40869
+      "animationBytes": 51742
     },
     {
       "id": "star-fruit",
@@ -18941,22 +18943,22 @@
         "animated.avif": "assets/sun-bear/animated.avif",
         "motion.json": "assets/sun-bear/motion.json",
         "meta.json": "assets/sun-bear/meta.json",
-        "rig-source.png": "assets/sun-bear/rig-source.png"
+        "reference.png": "assets/sun-bear/reference.png"
       },
       "sha256": {
-        "source.png": "43f98a977de1dfbe6e4b2643909aeac140d6aeb078191d4e20494f02cfa7c10d",
-        "still.png": "0eae80490a29050830c0460fca53552e8fb5db91e83e4cf5bcdb914a151d9b33",
-        "still.webp": "193c53eebbe08b365d73ea9f617d94813f9eab01010291ff9889938b590306e8",
-        "animated.avif": "0a1dcb0060c6dab9db4204b1ec366a4ec4506f7a19017ae1ae0fb20c97bfa1e8",
-        "motion.json": "6bcef820ca467171530f9cb74190ef03898ca7c601fdc86362213c50855aa248",
+        "source.png": "499b54715f1a873a9265741c80271c720735f040ba4aa0ac264fcf3d330089b9",
+        "still.png": "da5a7499c2dfbefda62ab7f60f953fc38e57d047be18909ce725c86242ca0576",
+        "still.webp": "c378c7c1a81c9dbdd791486a32fb156fa81833c4395bf51238d06a94daad1da6",
+        "animated.avif": "38df62ebb7e993d8a5cc667e8ac05015c062c0f14ebdee96279ed875231dc717",
+        "motion.json": "0ef81fa0d30d2f1c34b802829b26a07fb0c6bcd6c8a30604663c424637661f9c",
         "meta.json": "a4f98226df7a2431ef4d75f765fc3509915baee39781ef628a4d429149772703",
-        "rig-source.png": "87a1a0159758e13675912fc0b4d4abd2d29e1110e69dc86c6f06596bfa37c86a"
+        "reference.png": "da5a7499c2dfbefda62ab7f60f953fc38e57d047be18909ce725c86242ca0576"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 36148
+      "animationBytes": 28740
     },
     {
       "id": "sun-hat",
@@ -19276,22 +19278,22 @@
         "animated.avif": "assets/tape-dispenser/animated.avif",
         "motion.json": "assets/tape-dispenser/motion.json",
         "meta.json": "assets/tape-dispenser/meta.json",
-        "rig-source.png": "assets/tape-dispenser/rig-source.png"
+        "reference.png": "assets/tape-dispenser/reference.png"
       },
       "sha256": {
-        "source.png": "8cd2b3bf81b4c458e2dffb6b029b00b55da3421897c0466ac79ca31858f50e03",
-        "still.png": "a61df328d5d97cef5588cf2828581340b487adbf05672ebc027b0f2ab0126354",
-        "still.webp": "8bc2d8863ae9ea91bef1dd6469b781aa9cb15c5f52268ddf7585094f01065085",
-        "animated.avif": "48b1d57eaeeafb0a09ba36c68d3ab681b0ed6389c5e2296724282ae52e3aa4db",
-        "motion.json": "fc2b0ce076c604798e2aec40fd58b6a92aa8434a7035b5a14dc998f8a1bb6b14",
+        "source.png": "9e3d28b29515ead132a7dacd03d751d6435c8daea99c28efa6d295ee6ae84ba6",
+        "still.png": "8129d63647db2fa430e967ec5fcc2719b35985ddfb71c63a862fccbe7ab6280d",
+        "still.webp": "0fd3c4c21bfc0ef98c790885e9b3cc6846f27421bfc23a723c4e8f81591b94c8",
+        "animated.avif": "8c5c8e6a1ffd91727a2f72ce1d6e4ee8868f481bcf424f3c1c64d3cab78325fa",
+        "motion.json": "10ae0bb194ab99183db76d2ecbacc3c9da32ad918492edf8fadd9addeeb4b617",
         "meta.json": "85cd37a065ce7b98a119b7bd3e1dd317224c4d9d0fb7ed61684505f5be88e14a",
-        "rig-source.png": "efe79d86812d1a7c9c38329fe52719e4a60a37fc229c92d6ce8096c23cc4c8b5"
+        "reference.png": "8129d63647db2fa430e967ec5fcc2719b35985ddfb71c63a862fccbe7ab6280d"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "rigid",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 27600
+      "animationBytes": 51648
     },
     {
       "id": "tapir",
@@ -19345,22 +19347,22 @@
         "animated.avif": "assets/tapir/animated.avif",
         "motion.json": "assets/tapir/motion.json",
         "meta.json": "assets/tapir/meta.json",
-        "rig-source.png": "assets/tapir/rig-source.png"
+        "reference.png": "assets/tapir/reference.png"
       },
       "sha256": {
-        "source.png": "f246ad0a9b6ee6b5f864f6b8514dffd8a41d7b9670ae71032cb7a23ad832adde",
-        "still.png": "b5077448a8a6efdc1e744bbc750e64c49e8f9660e64d6e792f34b3dcb69e2964",
-        "still.webp": "8c511d66697c0bfe37752ea81c3d86ab0be80020a3bd94b24fde29b8b3b44bd9",
-        "animated.avif": "3d42f6839d72d6428904ae2111eea4ea7160e8e4d02737db27531dd0107ae6ef",
-        "motion.json": "ab8c45a677d97c3bb73c3640cf4253317884dace433f2341ddf851eb5e4b4996",
+        "source.png": "4442059014ea670122e91c9640b4e7de38fa8118fa7422952d158ea7580e5ada",
+        "still.png": "2d784589c5be709fda47af91e10d00fcca471b33a5d0d8339086b3da6d872259",
+        "still.webp": "8f282e9d74aeb8f510c3c9e4c8cfb0216b284b7fe25ba898e86f33bf189876dd",
+        "animated.avif": "467b9027d9b1698fd5392395ab3e5d50624b264ead368d450d92b65d48b6576f",
+        "motion.json": "63fcdcb48ecdf0430d12333f2290b8dfa039882dcaca37a92bc134b2a1e651a6",
         "meta.json": "4f0ab1d5d7e20166a9db91a7de329179cc37ed695d555c9077519d93160a40f9",
-        "rig-source.png": "d0fd156d0a0c761f3517fbc03ccbfbd68320c1cc8ef5c9c794db347eddb6f69d"
+        "reference.png": "2d784589c5be709fda47af91e10d00fcca471b33a5d0d8339086b3da6d872259"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 37673
+      "animationBytes": 26429
     },
     {
       "id": "taro",
@@ -20805,22 +20807,22 @@
         "animated.avif": "assets/wallaby/animated.avif",
         "motion.json": "assets/wallaby/motion.json",
         "meta.json": "assets/wallaby/meta.json",
-        "rig-source.png": "assets/wallaby/rig-source.png"
+        "reference.png": "assets/wallaby/reference.png"
       },
       "sha256": {
-        "source.png": "c9dc779724797f75fcec94f6b358fb85a00e9e8af1266e06e5262f7380e5dfbb",
-        "still.png": "18d83d3de829d59788b015d47250b76388348154d5fc54014852c29c67790827",
-        "still.webp": "4a3499171d04d3a369270dcc958d6b65ed57335ad0614d100f9b0ca8a59ff3fe",
-        "animated.avif": "4dd723104d8a6079ed43e3966b35ebc0cd26c9e8fe660981fb9e3c4d1b76547b",
-        "motion.json": "65faa13e203ccf7a95b8f5cf86b4330e723b458369a7d665d3a988bf836483b0",
+        "source.png": "318fde228b5edc16f5e8830830b254190a0d2a78ee80821c8130efd5ffbf8b13",
+        "still.png": "96616e4629e10bfcb6337ef0fec6467c516e6b9ebf4b569b24e08f394bb416db",
+        "still.webp": "e81c570048d79cb99f16a65d2f6d0329ade2a09d89660f2ab5c736cca469d7eb",
+        "animated.avif": "f41a84c4e4649a71993e8837fd6683b9e8d62148e5508e163f9bca6d70edbc6c",
+        "motion.json": "00b63a3e204b4f6d18f3bae28a1489942741a5cbb7032d464d43a47687aaa160",
         "meta.json": "7a16a9391060753efc652cd91467f43fe40815ae2833aa7ba44b299b20bab8a7",
-        "rig-source.png": "ed3d46018cc1d1ad8f01c2b6c6d76b4cfdc6fbcd401c6184d5a4258104369dd6"
+        "reference.png": "96616e4629e10bfcb6337ef0fec6467c516e6b9ebf4b569b24e08f394bb416db"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 36537
+      "animationBytes": 35005
     },
     {
       "id": "wardrobe",
@@ -21072,22 +21074,22 @@
         "animated.avif": "assets/watercolor/animated.avif",
         "motion.json": "assets/watercolor/motion.json",
         "meta.json": "assets/watercolor/meta.json",
-        "rig-source.png": "assets/watercolor/rig-source.png"
+        "reference.png": "assets/watercolor/reference.png"
       },
       "sha256": {
-        "source.png": "485af300919099629b94734e6b837676d5683f5d71552ea2c82f3ecf1f67879b",
-        "still.png": "cbb404c8b310db166ac73680269f40b7011d5ce8f1e5abb4c3a9c13bc1a1a0e7",
-        "still.webp": "7894844df9dbdd90a25db2dab48c031ee085e724e696a16d3049ad8161ef62f9",
-        "animated.avif": "4009bdea85ba596c8fc7eec2f32b07e5b3b2454e8826c9224a64ca570198f2b1",
-        "motion.json": "684554a7ee6e0ed749a4f122a60bc97f793a149b05f438d6b646546f18d12e45",
+        "source.png": "fa8a7f68ea76bfe259a4381c28e9ff76c2a89d13f16efb416a71ee24d1c756e2",
+        "still.png": "95f6bb6de9deac0c2b80a5191d83afbee22fe9b1f106e0df528e400a32b1b9c4",
+        "still.webp": "42b830a38ce883922204a2675c01aa59c3ac6e0bc92b8678ec595d4026d36d8b",
+        "animated.avif": "948a7d493a093f172492676fcc5bbb8223200b338896484bd5c03b091377d6fc",
+        "motion.json": "525f562093d9d4bed8f233bc497de09e47ce18a7508b0ff2934b8aa0fe240b8b",
         "meta.json": "88588d2ac3b03a06de2138d30b1afbf496c7a2cb8fcfb985cce64c69c4cabd92",
-        "rig-source.png": "8d2823fba37cce1af5a8472c729af812812301597b6fa149862e0327899bd8e0"
+        "reference.png": "95f6bb6de9deac0c2b80a5191d83afbee22fe9b1f106e0df528e400a32b1b9c4"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "rigid",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 44309
+      "animationBytes": 50839
     },
     {
       "id": "watering-can",
@@ -21736,22 +21738,22 @@
         "animated.avif": "assets/wombat/animated.avif",
         "motion.json": "assets/wombat/motion.json",
         "meta.json": "assets/wombat/meta.json",
-        "rig-source.png": "assets/wombat/rig-source.png"
+        "reference.png": "assets/wombat/reference.png"
       },
       "sha256": {
-        "source.png": "9170e769144eb4426f667b37dffb185bb661bad6606a964e41eb0904fe20a18c",
-        "still.png": "113c0b9daa0362d13572445c91970fe54fd1677c990709ca1440e8e512641462",
-        "still.webp": "4dbef77a3e77448a0f0109c47a2f494ee59929871f51abe16c4928257109924a",
-        "animated.avif": "b4fc6c5c35762142654d0548fb38355adbafb149dca55a13e33b2df4e761c6b3",
-        "motion.json": "845f2e175143cd2a38c5c4bbab76253fa72f0934a88c9526bbf39f41e757e858",
+        "source.png": "e9d0cefa3e60e7342d19f57f739640d99048fea405ba87997ea2f947067afc76",
+        "still.png": "33cc887b1115efbe72dbd611ce303c8c8de88c9c6f9ea101d92e685d7aafa0ed",
+        "still.webp": "0a9fd1b89ef9fc69684b47cc2075c768f7997f03a0fa85126cd44da5e03eb4d7",
+        "animated.avif": "b3d4f3854a11e83070ba1bf4c7d2e2c6c9b4a99ba7af4fd4bfc7e0552ab38279",
+        "motion.json": "f39bf1235f3aa274633db9b4e7755c8cebb24fdc82f33dd34fc2bbfc88d8bb7f",
         "meta.json": "e93544479276095cf13036408e21b7b2578535f7db3b3ae71f69786a35936760",
-        "rig-source.png": "f86a020eb22fd9fb4bfb354f036623f8f7c60fcfe16070dfc986dffcfcce7633"
+        "reference.png": "33cc887b1115efbe72dbd611ce303c8c8de88c9c6f9ea101d92e685d7aafa0ed"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 44425
+      "animationBytes": 39722
     },
     {
       "id": "yak",
@@ -21805,22 +21807,22 @@
         "animated.avif": "assets/yak/animated.avif",
         "motion.json": "assets/yak/motion.json",
         "meta.json": "assets/yak/meta.json",
-        "rig-source.png": "assets/yak/rig-source.png"
+        "reference.png": "assets/yak/reference.png"
       },
       "sha256": {
-        "source.png": "2285fa61a75a3e239ea20c9c962c04d0a8263c176c448a1571f50fd98d5ad61e",
-        "still.png": "ddd84bd945d06626c806257953798229094efdb2d43f94a47d77089bd20575d3",
-        "still.webp": "05f1256c33ced6269d4f12e31b50c1b7adc43d522a76557ed51a1c7c83047aaf",
-        "animated.avif": "9d4f69cdb4e54dbc9739e3c356151c168e35b3ecb8aa53f94887b62e09e4416c",
-        "motion.json": "1bd615aa206c01846002e807522547cdfa7872cba06bd73745b39606b7062dc5",
+        "source.png": "b66ac92f07b1f30cf1cb7110dcacfc9a0f3a95c3b35786b9a015206fb57587ec",
+        "still.png": "7c847f9c75625dcf2297920ea509194fcce36fd71cb0a3b921ab0efffbe56d10",
+        "still.webp": "e1635148c12c67192c8eb8552f2af8b9ab310a25cb105b51fe875dc6df75a514",
+        "animated.avif": "5cbe2ee4ee42ffb9ceb1b34fa39917ad73abbefa206c791797f1a4eac95f9f9c",
+        "motion.json": "50d00f1b42fcef682c1a518cde4e1d77068736fff615512fd4f57d978887f90a",
         "meta.json": "044a5b71859dd729f672efeeea4869bc3f3338a400eda6ca376ca28da6b18117",
-        "rig-source.png": "34024a1c2b05274e435da25cc334b9621abeba3871afbc20b9fb1b2752037811"
+        "reference.png": "7c847f9c75625dcf2297920ea509194fcce36fd71cb0a3b921ab0efffbe56d10"
       },
       "preset": "still",
-      "motionType": "cutout",
+      "motionType": "organic",
       "fps": 24,
       "duration": 3,
-      "animationBytes": 49576
+      "animationBytes": 38851
     },
     {
       "id": "yogurt",

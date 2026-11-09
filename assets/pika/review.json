@@ -1,14 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
   "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Species gesture: perk. Cutout refinement: measured head joint, independent delayed ears and genuine open/closed eye artwork; all feet stay planted. Complete painted overlap at neck and ear roots. Vocabulary and translations unchanged.",
+  "notes": "Original artwork restored from release 3f4c5f8. Original-reference hash, exact neutral RGBA, loop, canvas, stationary animal paws, silhouette and orientation/stretch gates passed. Reviewed original and decoded extrema at native 64px on light/dark contact sheets. No repainted parts; rigid objects retain geometry. Vocabulary unchanged. Technical and contact-sheet review; not manual real-time playback of every icon.",
   "hashes": {
-    "source.png": "ac43c4f35b764519025603f3bdc3f1b13c311b91197410f23e92fa03bd6800b3",
-    "still.png": "e8732dc5aef760a59b8f55486c050367c419845af260ae795f4b50a5c2cbe409",
-    "still.webp": "d053d55232b61211511797652a0638b495e807aeb99f204f0fb67ea0975dee96",
-    "animated.avif": "07277133051a79b5b18c761609ca7fb20811e3155e0aa1b2f7c1de74238c48e4",
-    "motion.json": "a61802381f9fb63bccddd6c9e315734ce95ed81c7e86c7c2690fd088f51b6fe5",
+    "source.png": "c68f7bd9795fb9c00fadd9fb2942c937011ecd2965fe00f7b9500fc084581f24",
+    "still.png": "d46fb67a0a8e86fa575cb4956904990c9329139f2fb16763c678f701b5b6a866",
+    "still.webp": "cc5a9f1f00cbf5a9f8774ad6d036bb7050f3f1bab804a330d9506fc7ec82af4a",
+    "animated.avif": "55234a147912be68713f0dadf3ce6306a1fbb1e732116862270086b504ba8516",
+    "motion.json": "313c4f4339001b98153875bd9b97ac35516d9279f12ccc84fe1292a2f67cd078",
     "meta.json": "268d88feb072492c2985c100372416a38a1a0929f68173874bb2c7e6871f5d47",
-    "rig-source.png": "5cb7b490727159a3069a1e12f567b72d5a051c2b780f47aa7a2c3d844896cfbc"
+    "reference.png": "d46fb67a0a8e86fa575cb4956904990c9329139f2fb16763c678f701b5b6a866"
   }
 }

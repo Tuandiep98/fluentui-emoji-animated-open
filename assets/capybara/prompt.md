@@ -8,12 +8,10 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Tai nhỏ rung một nhịp và thở nhẹ; đầu vuông, chân ngắn giữ rõ.
+Original artwork locked; measured continuous head/ear fields and chest breath. Hidden ears, markings, camera and ground contacts are preserved.
 
 The approved master is source.png; motion.json contains the measured final recipe.
 
-## Cutout v1 revision (2026-11-09)
+## Original artwork fidelity correction
 
-Tool: built-in image_gen, original capybara master as reference, transparent output. Requested an isolated 3-column × 2-row parts atlas: headless body with four feet and a painted neck; earless eyeless head with muzzle; front ear; back ear; open eye; closed eye. Preserve golden-brown rounded 3D texture and matching lighting; extra overlap at joints; no text, scene or ground shadow.
-
-The current source.png is the assembled rest pose. motion.json embeds all six original PNG parts and their independent keyframe tracks; no external atlas is needed to rebuild. `npm run animate -- capybara --out out/capybara-test.avif` uses the shared cutout renderer. This is an in-plane head tilt, not a true 3D turn.
+Restored original artwork from LLS commit 3f4c5f8. No new artwork was generated for this correction. reference.png locks the original 256px still by SHA-256; source.png is the original high-resolution master. The sourceLock recipe uses continuous local motion or rigid presentation, with no repainted cutout parts. Previous cutout experiments are retired. Exact neutral pixels, loop, anchors, geometry and decoded native-scale motion were checked.

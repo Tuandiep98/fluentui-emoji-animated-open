@@ -1,14 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
   "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Cutout refinement for stapler: complete fixed base and independent moving part; painted overlap at joint. Per-part eased use gesture; rigid hardware/paper faces stay intact. Vocabulary and translations unchanged.",
+  "notes": "Original artwork restored from release 3f4c5f8. Original-reference hash, exact neutral RGBA, loop, canvas, stationary animal paws, silhouette and orientation/stretch gates passed. Reviewed original and decoded extrema at native 64px on light/dark contact sheets. No repainted parts; rigid objects retain geometry. Vocabulary unchanged. Technical and contact-sheet review; not manual real-time playback of every icon.",
   "hashes": {
-    "source.png": "841f0e69949dc878317f6187e982589ee658aa948fd0d94ebe931d2bf50b00fc",
-    "still.png": "81fbc71183508c15e393a6243b89e53a9dc3e641c6d1f9f04c4d7495342922a1",
-    "still.webp": "d00c7f7426d74de41887bf44748664aa0881e05b569240bf27e0a4bb41861186",
-    "animated.avif": "2a1691c0d152478c956d4bc2d2c30811d58ccd026c9b20a1769ba01a62892a13",
-    "motion.json": "18627a99f1d88d61aea532b895b99301b610ef1fd721d8a04f9cee7a5c3d7d85",
+    "source.png": "4d242a9c5552d135b3765d26b9be2b043ccea48c07204f997d52163ef2008bbd",
+    "still.png": "5631c6ac3ea78dac98e66df01a5a7a719ef79e8d887dae650916841a39379f14",
+    "still.webp": "977ed95922d7767b5a20b9fee7145c65fbd6d8b7bfc3e629e39a18b990d93c4b",
+    "animated.avif": "75ec48bba3935051f282fbb911a670bc1735ee100fd47a42931462f2ceaedbf2",
+    "motion.json": "e5574367012a7eb3dc72874f1dc756979b541469f54009e087f0bb3f4c073903",
     "meta.json": "a060b3bd3c331d787c4b5415e000cf464d0b6b892be4dd0bd2f0d6ce7f49afb1",
-    "rig-source.png": "68b5cecfa598b4469ed6c18129eea1b7f2ae064c6cd8458cf7db33ef23551ae3"
+    "reference.png": "5631c6ac3ea78dac98e66df01a5a7a719ef79e8d887dae650916841a39379f14"
   }
 }

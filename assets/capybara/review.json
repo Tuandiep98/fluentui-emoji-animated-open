@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI cutout contact-sheet and decoded-frame review; 72-frame still/seam/bounds gates; user requested promotion of the demonstrated sample",
-  "notes": "Cutout v1: six painted parts, independent head tilt/nod, delayed ears, two blinks, grounded body; transparent 3s 24fps AVIF below 60KiB. Vocabulary unchanged.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Original artwork restored from release 3f4c5f8. Original-reference hash, exact neutral RGBA, loop, canvas, stationary animal paws, silhouette and orientation/stretch gates passed. Reviewed original and decoded extrema at native 64px on light/dark contact sheets. No repainted parts; rigid objects retain geometry. Vocabulary unchanged. Technical and contact-sheet review; not manual real-time playback of every icon.",
   "hashes": {
-    "source.png": "e4de3a4bef6d0d2b9dd9399827fc92d9403d128657fdd249ae5f8682c2924ef6",
-    "still.png": "68989096929c5b08d119013330bc1422e233246596b9af6896a52a591c897ecf",
-    "still.webp": "462d3b178ffff66d04e7813365cb34a05ef66f615f81095903b429bc63a2c97c",
-    "animated.avif": "ff1fa757555f6327df1bc8346c70569fee6718a0a709ff4b672d19b25eaf9858",
-    "motion.json": "aa66365fa2e5cc84369ca04452b3151fa11c7d0996a50ae758560a3e49f93948",
-    "meta.json": "ed12c712966a69c7e9c3ccf07bb0e64f73d2273e20d33978e2d1d6dfcfdab39f"
+    "source.png": "89b75db22b27ad5d6ddf612babfbb9a593d916b05da95a1a66e8d5a644163e06",
+    "still.png": "c8ab07a53fbd77c2593132039c4622f794ae4d56ef7b3f65da413c6530bdc770",
+    "still.webp": "1d21414b381f65087e2ab66433d89bede2cdb2b34fa2157ea1db06f6cd7e7196",
+    "animated.avif": "5c3b4743697d23170f9365044bee5e70bc5e51420d6f511e01f798c05bfe5957",
+    "motion.json": "25fb5303916f417d283f711de907989d0d765881d9aa09d12571554fd9bae97d",
+    "meta.json": "ed12c712966a69c7e9c3ccf07bb0e64f73d2273e20d33978e2d1d6dfcfdab39f",
+    "reference.png": "c8ab07a53fbd77c2593132039c4622f794ae4d56ef7b3f65da413c6530bdc770"
   }
 }

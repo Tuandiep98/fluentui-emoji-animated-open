@@ -8,12 +8,10 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Species gesture: nod. Cutout refinement: measured head joint, independent delayed ears and genuine open/closed eye artwork; all feet stay planted. Complete painted overlap at neck and ear roots.
+Original artwork locked; measured continuous head/ear fields and chest breath. Hidden ears, markings, camera and ground contacts are preserved.
 
 The approved master is source.png; motion.json contains the measured final recipe.
 
-## Cutout refinement prompt
+## Original artwork fidelity correction
 
-Animal: mandrill. Produce a cutout animation atlas EDITED from this exact reference animal. Match species, silhouette, colors, markings, soft rounded 3D vocabulary emoji style, original facing. True transparent background, no scene/text/labels/ground shadow. Exactly 3 columns x 2 rows, 1536x1024 canvas, each part centered separately in its 512px cell with clear margins. Row1 left: headless body including ALL original feet/legs and tail, neck painted complete under future head. Row1 middle: detached whole HEAD, original face/muzzle/nose/mouth and forehead, but EYELESS and EARLESS (smooth painted matching fur where eyes/ears were, no eyelid shapes), neck overlap; keep any crest. Row1 right: isolated near EAR, long base for overlap; include entire ear tuft for lynx/caracal. Row2 left: isolated far EAR and whole tuft. Row2 middle: OPEN EYE PAIR matching frontal/three-quarter view, correct spacing, including thin eyelid rims only, transparent elsewhere. Row2 right: corresponding CLOSED EYELID PAIR, same placement/spacing/view, minimal fur/skin rims, transparent elsewhere. No other animals or objects. Parts have identical lighting and scale internally. Do not leave residual eyes or ears on head.
-
-Background corrections for alpaca, reindeer, yak and lemur removed opaque/hazy panels with built-in image_gen. The approved assembled rest pose is source.png; motion.json embeds normalized PNG parts and keyframes. rig-source.png preserves the full original atlas. Parts that conflict with anatomy are not used (platypus has no external ears).
+Restored original artwork from LLS commit 3f4c5f8. No new artwork was generated for this correction. reference.png locks the original 256px still by SHA-256; source.png is the original high-resolution master. The sourceLock recipe uses continuous local motion or rigid presentation, with no repainted cutout parts. Previous cutout experiments are retired. Exact neutral pixels, loop, anchors, geometry and decoded native-scale motion were checked.

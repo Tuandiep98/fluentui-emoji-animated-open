@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import { renderCutoutFrames } from "./cutout.mjs";
 import { poseTracks } from "./tracks.mjs";
+import { checkSourceLock } from "./source-lock.mjs";
 import path from "node:path";
 import sharp from "sharp";
 import { transform } from "./presets.mjs";
@@ -49,9 +50,29 @@ export async function renderFrames(
   dir,
   stillPath = path.join("public/content/images", `${id}.png`),
 ) {
-  if (recipe.rig) return renderCutoutFrames(recipe, dir);
   const bytes = fs.readFileSync(stillPath);
+  await checkSourceLock(bytes, recipe);
+  if (recipe.rig) return renderCutoutFrames(recipe, dir);
   const box = await imageBox(bytes);
+  if (recipe.sourceLock && recipe.sourceLock.mode !== "rigid") {
+    fs.mkdirSync(dir, { recursive: true });
+    const pixels = await sharp(bytes).ensureAlpha().raw().toBuffer();
+    const frames = (recipe.fps ?? 24) * 3;
+    for (let frame = 0; frame < frames; frame++) {
+      const output = path.join(dir, `f${String(frame).padStart(3, "0")}.png`);
+      if (frame === 0) fs.writeFileSync(output, bytes);
+      else
+        await sharp(
+          deformPixels(pixels, 256, 256, recipe.regions ?? [], frame / frames),
+          {
+            raw: { width: 256, height: 256, channels: 4 },
+          },
+        )
+          .png()
+          .toFile(output);
+    }
+    return box;
+  }
   const pivot = pivotOf(box, recipe);
   const data = bytes.toString("base64");
   const regions = recipe.regions ?? [];
@@ -65,7 +86,14 @@ export async function renderFrames(
   const frames = (recipe.fps ?? 24) * 3;
   for (let frame = 0; frame < frames; frame++) {
     const t = frame / frames;
-    const p = { ...transform(recipe.preset, t, recipe), ...poseTracks(recipe.tracks, t * 3) };
+    if (recipe.sourceLock && frame === 0) {
+      fs.writeFileSync(path.join(dir, "f000.png"), bytes);
+      continue;
+    }
+    const p = {
+      ...transform(recipe.preset, t, recipe),
+      ...poseTracks(recipe.tracks, t * 3),
+    };
     const fx = effects(id, recipe, t, box);
     const matrix = `translate(${f(pivot.x + p.x)} ${f(pivot.y + p.y)}) rotate(${f(p.rotation)}) scale(${f(p.sx)} ${f(p.sy)}) translate(${-f(pivot.x)} ${-f(pivot.y)})`;
     const frameData =

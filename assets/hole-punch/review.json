@@ -1,14 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
   "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Cutout refinement for hole-punch: complete fixed base and independent moving part; painted overlap at joint. Per-part eased use gesture; rigid hardware/paper faces stay intact. Vocabulary and translations unchanged.",
+  "notes": "Original artwork restored from release 3f4c5f8. Original-reference hash, exact neutral RGBA, loop, canvas, stationary animal paws, silhouette and orientation/stretch gates passed. Reviewed original and decoded extrema at native 64px on light/dark contact sheets. No repainted parts; rigid objects retain geometry. Vocabulary unchanged. Technical and contact-sheet review; not manual real-time playback of every icon.",
   "hashes": {
-    "source.png": "8a382c3f9a6637ff38cbc54f4d7234d0c72b84f3fb565e910faf80fee18ff9e9",
-    "still.png": "83fbea294d00ea3669e79bdd374f5f6b34ca5fedf1f7590d80b9bd3ee1fda0d3",
-    "still.webp": "93b28f832439e5e86dff5f9e52e26478a81b9279cc74f57da9be6b40b4b671c1",
-    "animated.avif": "1badd415c684efd8aaeba716f0eb2c6310a151aa67ae98d7163378baf6f94679",
-    "motion.json": "eecb940b9b35dfa90d10f1cb3c7bd3a8f6f40d8f26d9c9d903ebf5e7e902f7c4",
+    "source.png": "6036d4a7fa6f27f9cb879f3d6b0aa6db47f42575f3520d34048ff52e598c53b4",
+    "still.png": "7f2c0ea0e465adb4dde5b015889975c875944ef68fd7f6c33e17634787b9073f",
+    "still.webp": "35f548c5e4dd7d4deed1d75d254acebe58ececf12424606ae75fa04bc01fa42e",
+    "animated.avif": "e46f3135a463793f07ae1c75b489ce79a7623bcc0a0c7b628bbf0edcb5adc8aa",
+    "motion.json": "36d4a6390557f69559943337fcf0a3351d4df217635631473558f40fb91ea057",
     "meta.json": "46b4263bb5f35d26635b6d3bdf5f94e7f36abad45cc0497260b9da53c324d3af",
-    "rig-source.png": "2362849e9eaaf2377619315626bf13e31e450a8702d73c075895ff78f77bb61d"
+    "reference.png": "7f2c0ea0e465adb4dde5b015889975c875944ef68fd7f6c33e17634787b9073f"
   }
 }

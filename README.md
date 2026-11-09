@@ -178,3 +178,11 @@ Microsoft's upstream project is separately [MIT licensed, copyright Microsoft Co
 ### Pages deployment size
 
 Pages publishes stills, animations, recipes and review metadata. Large source.png masters and rig-source.png atlases remain in this Git repository; the deployed showcase Master link opens the original image on GitHub at the exact deployed commit. This keeps source artwork available while reducing the Pages synchronization artifact. Local previews continue to use local masters.
+
+> **Artwork correction:** the earlier painted cutouts for 36 emoji have been superseded by original-artwork motion. [Compare original, previous and corrected images](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/original-fidelity/).
+
+## Original artwork fidelity rule
+
+[Compare all 36 corrected emoji](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/original-fidelity/). Reviewed the latest 100: restored 27 animal and 9 object artworks to their exact original images, keeping the other 64 stills. The earlier painted cutout refinements for these 36 IDs are superseded.
+
+Every new or revised animation must freeze the approved original before authoring. Preserve camera, facing, silhouette, markings and proportions. No repainted, mirrored or detached parts. Use continuous local motion from the same pixels, or a rigid presentation for hard objects. Each corrected asset includes reference.png and a sourceLock recipe. Larger articulation needs a separately reviewed reconstruction that matches the original rest image first. See docs/GENERATING.md.

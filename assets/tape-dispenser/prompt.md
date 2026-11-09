@@ -8,12 +8,10 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Cutout refinement for tape-dispenser: complete fixed base and independent moving part; painted overlap at joint. Per-part eased use gesture; rigid hardware/paper faces stay intact.
+Restore exact original closed/assembled object. Small rigid presentation gesture preserves all edges, joints and scale; no invented cap opening or repainted parts.
 
 The approved master is source.png; motion.json contains the measured final recipe.
 
-## Cutout refinement prompt
+## Original artwork fidelity correction
 
-Edit the reference into exactly TWO original cutout parts on a transparent atlas. Two columns, one row, each part centered in its own half of a wide canvas, at least 12% clear margin, no overlapping halves. LEFT: teal tape dispenser body, empty round roll cavity painted completely and silver cutting teeth intact. RIGHT: isolated yellow/clear tape roll with white central hub at original side perspective, no dispenser around it. Match the reference colors/material/proportions/lighting precisely, smooth rounded 3D vocabulary emoji rendering, natural upper-left light. Genuine alpha transparency around every part, absolutely no haze, cast shadow, text, labels, checkerboard or background panels. Only these two parts. Paint all hidden overlap surfaces cleanly so movement reveals actual artwork, not a hole.
-
-Background corrections for alpaca, reindeer, yak and lemur removed opaque/hazy panels with built-in image_gen. The approved assembled rest pose is source.png; motion.json embeds normalized PNG parts and keyframes. rig-source.png preserves the full original atlas. Parts that conflict with anatomy are not used (platypus has no external ears).
+Restored original artwork from LLS commit 3f4c5f8. No new artwork was generated for this correction. reference.png locks the original 256px still by SHA-256; source.png is the original high-resolution master. The sourceLock recipe uses continuous local motion or rigid presentation, with no repainted cutout parts. Previous cutout experiments are retired. Exact neutral pixels, loop, anchors, geometry and decoded native-scale motion were checked.

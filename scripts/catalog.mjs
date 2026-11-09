@@ -12,7 +12,7 @@ export function buildCatalog() {
     const review=read(path.join(dir,'review.json')), actual=snapshot(dir);
     for(const [file,hash] of Object.entries(actual))if(review.hashes[file]!==hash)throw Error(`${id}/${file}: review is stale`);
     const motion=read(path.join(dir,'motion.json'));
-    entries.push({...meta, files:Object.fromEntries(Object.keys(actual).map(name=>[name,`assets/${id}/${name}`])),sha256:actual,preset:motion.preset,motionType:motion.rig?'cutout':motion.regions?.some(r=>r.keyframes)?'material':motion.tracks?'gesture':motion.preset,fps:motion.fps??24,duration:3,animationBytes:fs.statSync(path.join(dir,'animated.avif')).size});
+    entries.push({...meta, files:Object.fromEntries(Object.keys(actual).map(name=>[name,`assets/${id}/${name}`])),sha256:actual,preset:motion.preset,motionType:motion.sourceLock?(motion.sourceLock.mode==='rigid'?'rigid':'organic'):motion.rig?'cutout':motion.regions?.some(r=>r.keyframes)?'material':motion.tracks?'gesture':motion.preset,fps:motion.fps??24,duration:3,animationBytes:fs.statSync(path.join(dir,'animated.avif')).size});
   }
   const catalog={version:1,license:'MIT',count:entries.length,entries};
   write(resolve('catalog.json'),catalog);
