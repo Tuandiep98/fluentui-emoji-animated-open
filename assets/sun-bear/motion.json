@@ -1,0 +1,14 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "press",
+      "center": [128, 143],
+      "radius": [49, 41],
+      "amp": 1.4
+    }
+  ],
+  "note": "Chớp mắt và thở nhẹ; giữ mảng ngực sáng đặc trưng."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "glue-stick",
+  "name": "glue stick",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "glue stick"
+    },
+    "vi": {
+      "text": "hồ dán khô"
+    },
+    "zh-Hans": {
+      "text": "固体胶",
+      "reading": "gùtǐjiāo"
+    },
+    "ja": {
+      "text": "スティックのり",
+      "reading": "sutikku nori"
+    },
+    "ko": {
+      "text": "딱풀",
+      "reading": "ttakpul"
+    },
+    "es": {
+      "text": "la barra de pegamento"
+    },
+    "fr": {
+      "text": "le bâton de colle"
+    },
+    "de": {
+      "text": "der Klebestift"
+    },
+    "id": {
+      "text": "lem stik"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

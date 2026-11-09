@@ -1,0 +1,46 @@
+{
+  "id": "sweater",
+  "name": "sweater",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "sweater"
+    },
+    "vi": {
+      "text": "áo len"
+    },
+    "zh-Hans": {
+      "text": "毛衣",
+      "reading": "máoyī"
+    },
+    "ja": {
+      "text": "セーター",
+      "reading": "sētā"
+    },
+    "ko": {
+      "text": "스웨터",
+      "reading": "seuweteo"
+    },
+    "es": {
+      "text": "el suéter"
+    },
+    "fr": {
+      "text": "le pull"
+    },
+    "de": {
+      "text": "der Pullover"
+    },
+    "id": {
+      "text": "sweter"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

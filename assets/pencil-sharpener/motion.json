@@ -1,0 +1,9 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [
+    "glint"
+  ],
+  "glintAlpha": 0.14,
+  "note": "Ánh sáng lướt trên lưỡi kim loại; giữ lỗ gọt và vỏ cố định."
+}

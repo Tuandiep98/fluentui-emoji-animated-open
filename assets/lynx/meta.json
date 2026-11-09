@@ -1,0 +1,46 @@
+{
+  "id": "lynx",
+  "name": "lynx",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "lynx"
+    },
+    "vi": {
+      "text": "con linh miêu"
+    },
+    "zh-Hans": {
+      "text": "猞猁",
+      "reading": "shēlì"
+    },
+    "ja": {
+      "text": "オオヤマネコ",
+      "reading": "ōyamaneko"
+    },
+    "ko": {
+      "text": "스라소니",
+      "reading": "seurasoni"
+    },
+    "es": {
+      "text": "el lince"
+    },
+    "fr": {
+      "text": "le lynx"
+    },
+    "de": {
+      "text": "der Luchs"
+    },
+    "id": {
+      "text": "linksa"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

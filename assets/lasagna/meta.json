@@ -1,0 +1,46 @@
+{
+  "id": "lasagna",
+  "name": "lasagna",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "lasagna"
+    },
+    "vi": {
+      "text": "mì lasagna"
+    },
+    "zh-Hans": {
+      "text": "千层面",
+      "reading": "qiāncéngmiàn"
+    },
+    "ja": {
+      "text": "ラザニア",
+      "reading": "razania"
+    },
+    "ko": {
+      "text": "라자냐",
+      "reading": "rajanya"
+    },
+    "es": {
+      "text": "la lasaña"
+    },
+    "fr": {
+      "text": "les lasagnes"
+    },
+    "de": {
+      "text": "die Lasagne"
+    },
+    "id": {
+      "text": "lasagna"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

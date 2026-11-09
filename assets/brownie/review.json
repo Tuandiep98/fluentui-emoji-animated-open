@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Ánh sáng ngắn trên mặt chocolate; giữ miếng brownie ổn định.",
+  "hashes": {
+    "source.png": "9e25513ad624f04f8315ce2623fe6e380c669b04b2b6f39b314b7a3da8b043c0",
+    "still.png": "3b7b19cf09ea05eb51e8098a6ff673d116ab0817192e353f9887875232182f8b",
+    "still.webp": "835fd543b3c8f3651516985589e79d7c043017c35bf54e2d7842a6e304582e51",
+    "animated.avif": "18dcf1fd0069677ff6f206dbe49f088837dcaa65ce74e9fe5cb466a4a9961fd6",
+    "motion.json": "4f8eabefed580254e1ea15eddff17447042a9b392fc57b776086d2554f56d686",
+    "meta.json": "0aaec8fcc80c56947aa541e4da7474b2a48d83248dd88d2fab877807fb7a13c6"
+  }
+}

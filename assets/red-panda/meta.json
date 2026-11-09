@@ -1,0 +1,46 @@
+{
+  "id": "red-panda",
+  "name": "red panda",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "red panda"
+    },
+    "vi": {
+      "text": "con gấu trúc đỏ"
+    },
+    "zh-Hans": {
+      "text": "小熊猫",
+      "reading": "xiǎo xióngmāo"
+    },
+    "ja": {
+      "text": "レッサーパンダ",
+      "reading": "ressā panda"
+    },
+    "ko": {
+      "text": "레서판다",
+      "reading": "reseo panda"
+    },
+    "es": {
+      "text": "el panda rojo"
+    },
+    "fr": {
+      "text": "le panda roux"
+    },
+    "de": {
+      "text": "der Rote Panda"
+    },
+    "id": {
+      "text": "panda merah"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

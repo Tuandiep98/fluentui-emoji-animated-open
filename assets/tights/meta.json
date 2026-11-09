@@ -1,0 +1,46 @@
+{
+  "id": "tights",
+  "name": "tights",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "tights"
+    },
+    "vi": {
+      "text": "quần tất"
+    },
+    "zh-Hans": {
+      "text": "连裤袜",
+      "reading": "liánkùwà"
+    },
+    "ja": {
+      "text": "タイツ",
+      "reading": "taitsu"
+    },
+    "ko": {
+      "text": "타이츠",
+      "reading": "taicheu"
+    },
+    "es": {
+      "text": "las medias"
+    },
+    "fr": {
+      "text": "le collant"
+    },
+    "de": {
+      "text": "die Strumpfhose"
+    },
+    "id": {
+      "text": "stoking panjang"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

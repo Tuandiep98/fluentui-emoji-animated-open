@@ -1,0 +1,46 @@
+{
+  "id": "eraser",
+  "name": "eraser",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "eraser"
+    },
+    "vi": {
+      "text": "cục tẩy"
+    },
+    "zh-Hans": {
+      "text": "橡皮",
+      "reading": "xiàngpí"
+    },
+    "ja": {
+      "text": "けしゴム",
+      "reading": "keshigomu"
+    },
+    "ko": {
+      "text": "지우개",
+      "reading": "jiugae"
+    },
+    "es": {
+      "text": "la goma de borrar"
+    },
+    "fr": {
+      "text": "la gomme"
+    },
+    "de": {
+      "text": "der Radiergummi"
+    },
+    "id": {
+      "text": "penghapus"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

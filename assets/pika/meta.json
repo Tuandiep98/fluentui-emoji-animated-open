@@ -1,0 +1,46 @@
+{
+  "id": "pika",
+  "name": "pika",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "pika"
+    },
+    "vi": {
+      "text": "con thỏ cộc"
+    },
+    "zh-Hans": {
+      "text": "鼠兔",
+      "reading": "shǔtù"
+    },
+    "ja": {
+      "text": "ナキウサギ",
+      "reading": "nakiusagi"
+    },
+    "ko": {
+      "text": "우는토끼",
+      "reading": "uneun tokki"
+    },
+    "es": {
+      "text": "la pika"
+    },
+    "fr": {
+      "text": "le pika"
+    },
+    "de": {
+      "text": "der Pfeifhase"
+    },
+    "id": {
+      "text": "pika"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

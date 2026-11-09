@@ -1,0 +1,46 @@
+{
+  "id": "capybara",
+  "name": "capybara",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "capybara"
+    },
+    "vi": {
+      "text": "con chuột lang nước"
+    },
+    "zh-Hans": {
+      "text": "水豚",
+      "reading": "shuǐtún"
+    },
+    "ja": {
+      "text": "カピバラ",
+      "reading": "kapibara"
+    },
+    "ko": {
+      "text": "카피바라",
+      "reading": "kapibara"
+    },
+    "es": {
+      "text": "la capibara"
+    },
+    "fr": {
+      "text": "le capybara"
+    },
+    "de": {
+      "text": "das Wasserschwein"
+    },
+    "id": {
+      "text": "kapibara"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Hơi nóng nhỏ trên bánh bao; giữ nếp gấp đỉnh bánh.",
+  "hashes": {
+    "source.png": "962674f30322cce8e92a81ae93cdc0f3e18c59bd08b350c8294ee9e092559e3d",
+    "still.png": "3ba9cf669c0cfd0475013fd83e468c401341183abdd6d553164c6e49998ec413",
+    "still.webp": "a88fe81a9aa254bd3b8294cadacc27e54a6023438695a6179af235174d675d8f",
+    "animated.avif": "55fa75213a89358c334fc4656656615b76d7d0404f7d8d496b948b65e65e051a",
+    "motion.json": "94576f7c7a4e5f7f5a3b85693b2c5908d2b0e9b05ed7397e9ecdd3e647f08bd0",
+    "meta.json": "063a2797988523323681792b75a7a3a7c8cfa45b5078e4f9ded339067b3c7c8f"
+  }
+}

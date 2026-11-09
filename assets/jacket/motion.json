@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [128, 218],
+      "radius": [80, 22],
+      "amp": 1.5
+    },
+    {
+      "kind": "wave",
+      "center": [32, 180],
+      "radius": [22, 35],
+      "amp": -1.1
+    }
+  ],
+  "note": "Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của jacket."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mandrill",
+  "name": "mandrill",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "mandrill"
+    },
+    "vi": {
+      "text": "con khỉ mandrill"
+    },
+    "zh-Hans": {
+      "text": "山魈",
+      "reading": "shānxiāo"
+    },
+    "ja": {
+      "text": "マンドリル",
+      "reading": "mandoriru"
+    },
+    "ko": {
+      "text": "맨드릴",
+      "reading": "maendeuril"
+    },
+    "es": {
+      "text": "el mandril"
+    },
+    "fr": {
+      "text": "le mandrill"
+    },
+    "de": {
+      "text": "der Mandrill"
+    },
+    "id": {
+      "text": "mandril"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

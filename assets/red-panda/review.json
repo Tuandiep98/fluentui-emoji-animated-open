@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Small tail sweep; face, torso and planted paws stay still.",
+  "hashes": {
+    "source.png": "e1b88600bd4924a7def2c4bd9a0f3e73a80b660c6f2d37335c8b486ccbfdbd81",
+    "still.png": "5b27bef83d26bdd02235f8a103a12864fca465d37759b4c1e109c3bc2b04ad0a",
+    "still.webp": "1512ab8117b9555205b49b64f6069fdf0b35e4e82bbeb2e3691c1111bcc4a8b3",
+    "animated.avif": "d8a746709edf2d8b2d49e11bde1bc0a0dcf16d5c63eb0c4e5c4d8a936b3583f9",
+    "motion.json": "7c0af3d1a853bd3ca0ef2e5f9e96e9b68ba2e91fea9ecfb00c917603bd8e16d7",
+    "meta.json": "f12f085042e3025e0577d388f0566cc05f4ca84792704aabf6f35aa30fbbf971"
+  }
+}

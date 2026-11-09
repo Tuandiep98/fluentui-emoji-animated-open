@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "layers": [
+    {
+      "polygon": [
+        [165, 76],
+        [194, 67],
+        [233, 72],
+        [243, 95],
+        [225, 119],
+        [177, 122]
+      ],
+      "pivot": [173, 100],
+      "angle": -8
+    }
+  ],
+  "note": "The right cookie arm waves as one rigid biscuit piece; body and icing stay fixed."
+}

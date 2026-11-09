@@ -1,0 +1,46 @@
+{
+  "id": "mittens",
+  "name": "mittens",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "mittens"
+    },
+    "vi": {
+      "text": "găng tay liền ngón"
+    },
+    "zh-Hans": {
+      "text": "连指手套",
+      "reading": "liánzhǐ shǒutào"
+    },
+    "ja": {
+      "text": "ミトン",
+      "reading": "miton"
+    },
+    "ko": {
+      "text": "벙어리장갑",
+      "reading": "beongeori janggap"
+    },
+    "es": {
+      "text": "las manoplas"
+    },
+    "fr": {
+      "text": "les moufles"
+    },
+    "de": {
+      "text": "die Fäustlinge"
+    },
+    "id": {
+      "text": "sarung tangan satu jari"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

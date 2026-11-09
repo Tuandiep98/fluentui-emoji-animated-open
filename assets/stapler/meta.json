@@ -1,0 +1,46 @@
+{
+  "id": "stapler",
+  "name": "stapler",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "stapler"
+    },
+    "vi": {
+      "text": "cái bấm ghim"
+    },
+    "zh-Hans": {
+      "text": "订书机",
+      "reading": "dìngshūjī"
+    },
+    "ja": {
+      "text": "ステープラー",
+      "reading": "sutēpurā"
+    },
+    "ko": {
+      "text": "스테이플러",
+      "reading": "seuteipeulleo"
+    },
+    "es": {
+      "text": "la grapadora"
+    },
+    "fr": {
+      "text": "l'agrafeuse"
+    },
+    "de": {
+      "text": "der Hefter"
+    },
+    "id": {
+      "text": "stapler"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

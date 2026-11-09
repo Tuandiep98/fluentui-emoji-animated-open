@@ -1,0 +1,46 @@
+{
+  "id": "couscous",
+  "name": "couscous",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "couscous"
+    },
+    "vi": {
+      "text": "hạt couscous"
+    },
+    "zh-Hans": {
+      "text": "古斯米",
+      "reading": "gǔsīmǐ"
+    },
+    "ja": {
+      "text": "クスクス",
+      "reading": "kusukusu"
+    },
+    "ko": {
+      "text": "쿠스쿠스",
+      "reading": "kuseukuseu"
+    },
+    "es": {
+      "text": "el cuscús"
+    },
+    "fr": {
+      "text": "le couscous"
+    },
+    "de": {
+      "text": "der Couscous"
+    },
+    "id": {
+      "text": "kuskus"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. The upper handle presses around its rear hinge; base and magazine remain still.",
+  "hashes": {
+    "source.png": "4d242a9c5552d135b3765d26b9be2b043ccea48c07204f997d52163ef2008bbd",
+    "still.png": "5631c6ac3ea78dac98e66df01a5a7a719ef79e8d887dae650916841a39379f14",
+    "still.webp": "977ed95922d7767b5a20b9fee7145c65fbd6d8b7bfc3e629e39a18b990d93c4b",
+    "animated.avif": "501fbbfd088fad1255fea7812ac52e986d58eb5365eaad3542861e4957fa2d18",
+    "motion.json": "45420a0e39b2f947879c87674dc6dec399e71ced6bd4178b63d13db7a130955f",
+    "meta.json": "a060b3bd3c331d787c4b5415e000cf464d0b6b892be4dd0bd2f0d6ce7f49afb1"
+  }
+}

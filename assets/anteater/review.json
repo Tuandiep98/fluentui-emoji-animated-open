@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Mõm dài cúi ngửi nhẹ; đuôi rậm giữ hình và chân giữ đất.",
+  "hashes": {
+    "source.png": "a9cafb65d5a7e058ab4da3bc4d8776e37ffabd1c058a8b0ae48e2fed688e0eaf",
+    "still.png": "1bda33381db306a3319e7abcd29827d5c4be5ca66b53b926d3150d8f7764d0b6",
+    "still.webp": "20087c6788797f7faf4b42a7587a1dfe93d0c8863acd96954f3c213ac7452a20",
+    "animated.avif": "c2af50b4ad94c74c2eed9723098bf3faaabbe8dede2bc3e399e7bb12cf6974c5",
+    "motion.json": "d6669159210ab2cc7bf3d94553c9702ef675f822cbf5b3ddcba5abd2f44a6733",
+    "meta.json": "6952cf18e8d8443ddd445c3516f171f2bc7b87b9715e674bbe440939d895c722"
+  }
+}

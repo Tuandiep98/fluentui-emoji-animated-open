@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "press",
+      "center": [208, 147],
+      "radius": [28, 23],
+      "amp": 1.8
+    },
+    {
+      "kind": "wave",
+      "center": [111, 68],
+      "radius": [70, 41],
+      "amp": 1
+    }
+  ],
+  "note": "Mõm dài ngửi nhẹ; gai đứng ổn định khác nhím lông dài."
+}

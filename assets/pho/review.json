@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Short localized steam above the soup; bowl, noodles and toppings remain still.",
+  "hashes": {
+    "source.png": "ec44f4d206c5de258105459d94f7cf5168a1add96404d3dd5a2eb010ce684950",
+    "still.png": "f12e8355c67bcf49947d05dc67adac1e79683f04abf5a59b3e635df626516f95",
+    "still.webp": "74931db25b093ef33370dcd8ebb9d52939346243cbe992fe82cc130f2a231a95",
+    "animated.avif": "fec8fa82b1f344b153563e5032b5251e9b96ce13c1d82e8b2954fe36b819723e",
+    "motion.json": "5b82b66dbf8022fd522ba77b25d056895c8346e5da9d2229d7af12e8c1027068",
+    "meta.json": "40fac6f09a2d97fffe8e48c22b4d7e28e925207d522969bd13e2a7d266d9dbdd"
+  }
+}

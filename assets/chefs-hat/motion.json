@@ -1,0 +1,14 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "press",
+      "center": [128, 84],
+      "radius": [90, 59],
+      "amp": 1.8
+    }
+  ],
+  "note": "Vành/chóp mũ chuyển động nhỏ theo chất liệu; giữ form, không co giãn toàn bộ chiếc mũ."
+}

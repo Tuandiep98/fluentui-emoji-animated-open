@@ -1,0 +1,14 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [164, 211],
+      "radius": [59, 26],
+      "amp": 2.7
+    }
+  ],
+  "note": "Đuôi dày quét chậm; giữ hoa văn và tỷ lệ thân."
+}

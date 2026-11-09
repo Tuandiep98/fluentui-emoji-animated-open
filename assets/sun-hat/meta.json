@@ -1,0 +1,46 @@
+{
+  "id": "sun-hat",
+  "name": "sun hat",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "sun hat"
+    },
+    "vi": {
+      "text": "mũ chống nắng"
+    },
+    "zh-Hans": {
+      "text": "遮阳帽",
+      "reading": "zhēyángmào"
+    },
+    "ja": {
+      "text": "ひよけぼうし",
+      "reading": "hiyoke bōshi"
+    },
+    "ko": {
+      "text": "햇빛 가리개 모자",
+      "reading": "haetbit garigae moja"
+    },
+    "es": {
+      "text": "el sombrero para el sol"
+    },
+    "fr": {
+      "text": "le chapeau de soleil"
+    },
+    "de": {
+      "text": "der Sonnenhut"
+    },
+    "id": {
+      "text": "topi matahari"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

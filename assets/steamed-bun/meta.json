@@ -1,0 +1,46 @@
+{
+  "id": "steamed-bun",
+  "name": "steamed bun",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "steamed bun"
+    },
+    "vi": {
+      "text": "bánh bao"
+    },
+    "zh-Hans": {
+      "text": "包子",
+      "reading": "bāozi"
+    },
+    "ja": {
+      "text": "にくまん",
+      "reading": "nikuman"
+    },
+    "ko": {
+      "text": "찐빵",
+      "reading": "jjinppang"
+    },
+    "es": {
+      "text": "el bollo al vapor"
+    },
+    "fr": {
+      "text": "le pain vapeur"
+    },
+    "de": {
+      "text": "das Dampfbrötchen"
+    },
+    "id": {
+      "text": "bakpao"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

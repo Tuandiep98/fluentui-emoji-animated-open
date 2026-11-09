@@ -1,0 +1,46 @@
+{
+  "id": "rain-boots",
+  "name": "rain boots",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "rain boots"
+    },
+    "vi": {
+      "text": "ủng đi mưa"
+    },
+    "zh-Hans": {
+      "text": "雨靴",
+      "reading": "yǔxuē"
+    },
+    "ja": {
+      "text": "ながぐつ",
+      "reading": "nagagutsu"
+    },
+    "ko": {
+      "text": "레인부츠",
+      "reading": "rein bucheu"
+    },
+    "es": {
+      "text": "las botas de lluvia"
+    },
+    "fr": {
+      "text": "les bottes de pluie"
+    },
+    "de": {
+      "text": "die Gummistiefel"
+    },
+    "id": {
+      "text": "sepatu bot hujan"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

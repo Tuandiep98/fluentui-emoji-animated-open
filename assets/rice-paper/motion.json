@@ -1,0 +1,14 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [204, 152],
+      "radius": [27, 64],
+      "amp": 2.2
+    }
+  ],
+  "note": "Mép bánh tráng rung rất nhẹ; giữ dạng tấm mỏng trong mờ, không thành tortilla."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "earmuffs",
+  "name": "earmuffs",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "earmuffs"
+    },
+    "vi": {
+      "text": "đồ che tai"
+    },
+    "zh-Hans": {
+      "text": "耳罩",
+      "reading": "ěrzhào"
+    },
+    "ja": {
+      "text": "みみあて",
+      "reading": "mimiate"
+    },
+    "ko": {
+      "text": "귀마개",
+      "reading": "gwimagae"
+    },
+    "es": {
+      "text": "las orejeras"
+    },
+    "fr": {
+      "text": "le cache-oreilles"
+    },
+    "de": {
+      "text": "die Ohrenschützer"
+    },
+    "id": {
+      "text": "penutup telinga"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

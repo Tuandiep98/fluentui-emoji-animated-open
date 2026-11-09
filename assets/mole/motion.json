@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "press",
+      "center": [87, 146],
+      "radius": [24, 22],
+      "amp": 1.5
+    },
+    {
+      "kind": "rotate",
+      "center": [64, 175],
+      "radius": [35, 28],
+      "amp": 2,
+      "pivot": [90, 166]
+    }
+  ],
+  "note": "Mũi động nhẹ và một bàn chân trước chỉnh nhỏ; giữ bàn chân đào đất lớn."
+}

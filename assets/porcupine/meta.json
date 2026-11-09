@@ -1,0 +1,46 @@
+{
+  "id": "porcupine",
+  "name": "porcupine",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "porcupine"
+    },
+    "vi": {
+      "text": "con nhím lông dài"
+    },
+    "zh-Hans": {
+      "text": "豪猪",
+      "reading": "háozhū"
+    },
+    "ja": {
+      "text": "ヤマアラシ",
+      "reading": "yamaarashi"
+    },
+    "ko": {
+      "text": "호저",
+      "reading": "hojeo"
+    },
+    "es": {
+      "text": "el puercoespín"
+    },
+    "fr": {
+      "text": "le porc-épic"
+    },
+    "de": {
+      "text": "das Stachelschwein"
+    },
+    "id": {
+      "text": "landak raya"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

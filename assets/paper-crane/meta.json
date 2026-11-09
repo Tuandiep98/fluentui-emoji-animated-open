@@ -1,0 +1,46 @@
+{
+  "id": "paper-crane",
+  "name": "paper crane",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "paper crane"
+    },
+    "vi": {
+      "text": "hạc giấy"
+    },
+    "zh-Hans": {
+      "text": "纸鹤",
+      "reading": "zhǐhè"
+    },
+    "ja": {
+      "text": "おりづる",
+      "reading": "orizuru"
+    },
+    "ko": {
+      "text": "종이학",
+      "reading": "jongihak"
+    },
+    "es": {
+      "text": "la grulla de papel"
+    },
+    "fr": {
+      "text": "la grue en papier"
+    },
+    "de": {
+      "text": "der Papierkranich"
+    },
+    "id": {
+      "text": "burung bangau kertas"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

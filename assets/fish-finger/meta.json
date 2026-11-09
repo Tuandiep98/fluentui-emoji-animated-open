@@ -1,0 +1,46 @@
+{
+  "id": "fish-finger",
+  "name": "fish finger",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "fish finger"
+    },
+    "vi": {
+      "text": "cá tẩm bột dạng que"
+    },
+    "zh-Hans": {
+      "text": "鱼条",
+      "reading": "yútiáo"
+    },
+    "ja": {
+      "text": "フィッシュフィンガー",
+      "reading": "fisshu fingā"
+    },
+    "ko": {
+      "text": "피시 핑거",
+      "reading": "pisi pinggeo"
+    },
+    "es": {
+      "text": "la varita de pescado"
+    },
+    "fr": {
+      "text": "le bâtonnet de poisson"
+    },
+    "de": {
+      "text": "das Fischstäbchen"
+    },
+    "id": {
+      "text": "stik ikan"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

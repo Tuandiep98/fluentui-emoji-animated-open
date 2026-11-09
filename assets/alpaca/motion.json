@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [96, 29],
+      "radius": [25, 21],
+      "amp": 3,
+      "pivot": [96, 49]
+    },
+    {
+      "kind": "press",
+      "center": [84, 65],
+      "radius": [24, 18],
+      "amp": 1.2
+    }
+  ],
+  "note": "Tai hơi hướng ra rồi trở lại; cổ dài và bộ lông xoăn giữ rõ."
+}

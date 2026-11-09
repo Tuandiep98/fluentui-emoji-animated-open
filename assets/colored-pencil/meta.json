@@ -1,0 +1,46 @@
+{
+  "id": "colored-pencil",
+  "name": "colored pencil",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "colored pencil"
+    },
+    "vi": {
+      "text": "bút chì màu"
+    },
+    "zh-Hans": {
+      "text": "彩色铅笔",
+      "reading": "cǎisè qiānbǐ"
+    },
+    "ja": {
+      "text": "いろえんぴつ",
+      "reading": "iroenpitsu"
+    },
+    "ko": {
+      "text": "색연필",
+      "reading": "saengnyeonpil"
+    },
+    "es": {
+      "text": "el lápiz de color"
+    },
+    "fr": {
+      "text": "le crayon de couleur"
+    },
+    "de": {
+      "text": "der Buntstift"
+    },
+    "id": {
+      "text": "pensil warna"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

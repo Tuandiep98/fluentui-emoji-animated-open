@@ -1,0 +1,46 @@
+{
+  "id": "paint-tube",
+  "name": "paint tube",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "paint tube"
+    },
+    "vi": {
+      "text": "tuýp màu vẽ"
+    },
+    "zh-Hans": {
+      "text": "颜料管",
+      "reading": "yánliàoguǎn"
+    },
+    "ja": {
+      "text": "えのぐチューブ",
+      "reading": "enogu chūbu"
+    },
+    "ko": {
+      "text": "물감 튜브",
+      "reading": "mulgam tyubeu"
+    },
+    "es": {
+      "text": "el tubo de pintura"
+    },
+    "fr": {
+      "text": "le tube de peinture"
+    },
+    "de": {
+      "text": "die Farbtube"
+    },
+    "id": {
+      "text": "tabung cat"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

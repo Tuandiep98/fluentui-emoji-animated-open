@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [104, 162],
+      "radius": [67, 42],
+      "amp": 1.5
+    },
+    {
+      "kind": "wave",
+      "center": [131, 195],
+      "radius": [90, 24],
+      "amp": -1.3
+    }
+  ],
+  "note": "Lông ở rìa thân đung đưa nhẹ; hai sừng và móng giữ ổn định."
+}

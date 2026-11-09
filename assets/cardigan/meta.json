@@ -1,0 +1,46 @@
+{
+  "id": "cardigan",
+  "name": "cardigan",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "cardigan"
+    },
+    "vi": {
+      "text": "áo khoác len"
+    },
+    "zh-Hans": {
+      "text": "开衫",
+      "reading": "kāishān"
+    },
+    "ja": {
+      "text": "カーディガン",
+      "reading": "kādigan"
+    },
+    "ko": {
+      "text": "카디건",
+      "reading": "kadigeon"
+    },
+    "es": {
+      "text": "la rebeca"
+    },
+    "fr": {
+      "text": "le cardigan"
+    },
+    "de": {
+      "text": "die Strickjacke"
+    },
+    "id": {
+      "text": "kardigan"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

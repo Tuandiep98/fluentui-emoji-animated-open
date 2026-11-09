@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "license": "MIT",
-  "description": "230 original 3D emoji, tiny transparent animations and a local generation toolkit.",
+  "description": "Original 3D emoji, transparent animations and a local generation toolkit.",
   "engines": {
     "node": ">=22"
   },

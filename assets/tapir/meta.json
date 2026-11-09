@@ -1,0 +1,46 @@
+{
+  "id": "tapir",
+  "name": "tapir",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "tapir"
+    },
+    "vi": {
+      "text": "con heo vòi"
+    },
+    "zh-Hans": {
+      "text": "貘",
+      "reading": "mò"
+    },
+    "ja": {
+      "text": "バク",
+      "reading": "baku"
+    },
+    "ko": {
+      "text": "맥",
+      "reading": "maek"
+    },
+    "es": {
+      "text": "el tapir"
+    },
+    "fr": {
+      "text": "le tapir"
+    },
+    "de": {
+      "text": "der Tapir"
+    },
+    "id": {
+      "text": "tapir"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

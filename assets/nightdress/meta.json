@@ -1,0 +1,46 @@
+{
+  "id": "nightdress",
+  "name": "nightdress",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "nightdress"
+    },
+    "vi": {
+      "text": "váy ngủ"
+    },
+    "zh-Hans": {
+      "text": "睡裙",
+      "reading": "shuìqún"
+    },
+    "ja": {
+      "text": "ネグリジェ",
+      "reading": "negurije"
+    },
+    "ko": {
+      "text": "잠옷 원피스",
+      "reading": "jamot wonpiseu"
+    },
+    "es": {
+      "text": "el camisón"
+    },
+    "fr": {
+      "text": "la chemise de nuit"
+    },
+    "de": {
+      "text": "das Nachthemd"
+    },
+    "id": {
+      "text": "gaun tidur"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

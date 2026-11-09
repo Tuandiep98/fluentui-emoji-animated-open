@@ -1,0 +1,46 @@
+{
+  "id": "brownie",
+  "name": "brownie",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "brownie"
+    },
+    "vi": {
+      "text": "bánh brownie"
+    },
+    "zh-Hans": {
+      "text": "布朗尼",
+      "reading": "bùlǎngní"
+    },
+    "ja": {
+      "text": "ブラウニー",
+      "reading": "buraunī"
+    },
+    "ko": {
+      "text": "브라우니",
+      "reading": "beurauni"
+    },
+    "es": {
+      "text": "el brownie"
+    },
+    "fr": {
+      "text": "le brownie"
+    },
+    "de": {
+      "text": "der Brownie"
+    },
+    "id": {
+      "text": "brownies"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "meerkat",
+  "name": "meerkat",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "meerkat"
+    },
+    "vi": {
+      "text": "con cầy vằn"
+    },
+    "zh-Hans": {
+      "text": "狐獴",
+      "reading": "húměng"
+    },
+    "ja": {
+      "text": "ミーアキャット",
+      "reading": "mīakyatto"
+    },
+    "ko": {
+      "text": "미어캣",
+      "reading": "mieokaet"
+    },
+    "es": {
+      "text": "el suricato"
+    },
+    "fr": {
+      "text": "le suricate"
+    },
+    "de": {
+      "text": "das Erdmännchen"
+    },
+    "id": {
+      "text": "surikat"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

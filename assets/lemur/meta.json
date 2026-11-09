@@ -1,0 +1,46 @@
+{
+  "id": "lemur",
+  "name": "lemur",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "lemur"
+    },
+    "vi": {
+      "text": "con vượn cáo"
+    },
+    "zh-Hans": {
+      "text": "狐猴",
+      "reading": "húhóu"
+    },
+    "ja": {
+      "text": "キツネザル",
+      "reading": "kitsunezaru"
+    },
+    "ko": {
+      "text": "여우원숭이",
+      "reading": "yeou wonsungi"
+    },
+    "es": {
+      "text": "el lémur"
+    },
+    "fr": {
+      "text": "le lémurien"
+    },
+    "de": {
+      "text": "der Lemur"
+    },
+    "id": {
+      "text": "lemur"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

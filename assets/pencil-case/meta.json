@@ -1,0 +1,46 @@
+{
+  "id": "pencil-case",
+  "name": "pencil case",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "pencil case"
+    },
+    "vi": {
+      "text": "hộp bút"
+    },
+    "zh-Hans": {
+      "text": "铅笔盒",
+      "reading": "qiānbǐhé"
+    },
+    "ja": {
+      "text": "ふでばこ",
+      "reading": "fudebako"
+    },
+    "ko": {
+      "text": "필통",
+      "reading": "piltong"
+    },
+    "es": {
+      "text": "el estuche"
+    },
+    "fr": {
+      "text": "la trousse"
+    },
+    "de": {
+      "text": "das Federmäppchen"
+    },
+    "id": {
+      "text": "kotak pensil"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

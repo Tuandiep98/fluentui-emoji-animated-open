@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [83, 183],
+      "radius": [51, 23],
+      "amp": 2
+    },
+    {
+      "kind": "wave",
+      "center": [202, 211],
+      "radius": [32, 22],
+      "amp": -1.8
+    }
+  ],
+  "note": "Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của pajamas."
+}

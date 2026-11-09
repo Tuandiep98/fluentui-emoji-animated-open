@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Tay đòn hạ rồi trở lại quanh trục; chân đế và lỗ bấm cố định.",
+  "hashes": {
+    "source.png": "6036d4a7fa6f27f9cb879f3d6b0aa6db47f42575f3520d34048ff52e598c53b4",
+    "still.png": "7f2c0ea0e465adb4dde5b015889975c875944ef68fd7f6c33e17634787b9073f",
+    "still.webp": "35f548c5e4dd7d4deed1d75d254acebe58ececf12424606ae75fa04bc01fa42e",
+    "animated.avif": "3a788a5dc981e83af437b2384f3bbc52d8181eef83c03d50b1b140efaa95134b",
+    "motion.json": "2e674a3aea9130b6ac8cf994ab905d13bd6d45be4aabad35ef4f4f83f10e08e1",
+    "meta.json": "46b4263bb5f35d26635b6d3bdf5f94e7f36abad45cc0497260b9da53c324d3af"
+  }
+}

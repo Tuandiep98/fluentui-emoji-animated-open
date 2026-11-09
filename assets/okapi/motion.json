@@ -1,0 +1,15 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [79, 59],
+      "radius": [37, 46],
+      "amp": 2,
+      "pivot": [95, 101]
+    }
+  ],
+  "note": "Tai xoay nhẹ; giữ rõ sọc ở chân sau, cổ và màu thân."
+}

@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        133,
+        100
+      ],
+      "radius": [
+        77,
+        63
+      ],
+      "amp": 3
+    }
+  ],
+  "note": "Lõm bề mặt nhẹ rồi trở lại; giữ màu và thể tích khối đất sét."
+}

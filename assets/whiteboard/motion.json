@@ -1,0 +1,9 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [
+    "glint"
+  ],
+  "glintAlpha": 0.08,
+  "note": "Ánh sáng nhẹ trên mặt bảng trắng; khung đứng yên, không sinh chữ."
+}

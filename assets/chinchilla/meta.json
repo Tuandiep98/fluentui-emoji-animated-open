@@ -1,0 +1,46 @@
+{
+  "id": "chinchilla",
+  "name": "chinchilla",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "chinchilla"
+    },
+    "vi": {
+      "text": "con chinchilla"
+    },
+    "zh-Hans": {
+      "text": "毛丝鼠",
+      "reading": "máosīshǔ"
+    },
+    "ja": {
+      "text": "チンチラ",
+      "reading": "chinchira"
+    },
+    "ko": {
+      "text": "친칠라",
+      "reading": "chinchilla"
+    },
+    "es": {
+      "text": "la chinchilla"
+    },
+    "fr": {
+      "text": "le chinchilla"
+    },
+    "de": {
+      "text": "das Chinchilla"
+    },
+    "id": {
+      "text": "cincila"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

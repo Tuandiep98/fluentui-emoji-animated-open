@@ -1,0 +1,46 @@
+{
+  "id": "chefs-hat",
+  "name": "chef's hat",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "chef's hat"
+    },
+    "vi": {
+      "text": "mũ đầu bếp"
+    },
+    "zh-Hans": {
+      "text": "厨师帽",
+      "reading": "chúshīmào"
+    },
+    "ja": {
+      "text": "コックぼう",
+      "reading": "kokku bō"
+    },
+    "ko": {
+      "text": "요리사 모자",
+      "reading": "yorisa moja"
+    },
+    "es": {
+      "text": "el gorro de cocinero"
+    },
+    "fr": {
+      "text": "la toque de cuisinier"
+    },
+    "de": {
+      "text": "die Kochmütze"
+    },
+    "id": {
+      "text": "topi koki"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

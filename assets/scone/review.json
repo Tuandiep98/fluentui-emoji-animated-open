@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Ánh sáng lướt trên mặt scone nứt; giữ hình khối ruột bánh.",
+  "hashes": {
+    "source.png": "665038c0424dbd92ca4fc58d374c3196fedde60843e70ad8165f60f33e678e8b",
+    "still.png": "e08f9262dbdaabd78ce86de2aab30fcc198af259234e65e8dd7cbcd36e219b03",
+    "still.webp": "ec318b35e91b098963df54993395bc0225c9a0c2155c6cce1a5048b0b4a44278",
+    "animated.avif": "889b187d3f65e1731179fb42f570d68209dbc039457b979779e30d39f22f3906",
+    "motion.json": "2a861bd6a4d4ff6c170a7c17cb8d09c5f3d0d62d9c0eb48d1dd9558f77d958f0",
+    "meta.json": "1f8753a863d007e491d8f511487b8d37619af88bf2dbef42235391c251fb3682"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "layers": [
+    {
+      "polygon": [
+        [102, 160],
+        [166, 135],
+        [241, 175],
+        [121, 181]
+      ],
+      "pivot": [104, 163],
+      "angle": -4
+    }
+  ],
+  "note": "The front paper wing moves around the fold as a rigid face; body, neck and tail stay fixed."
+}

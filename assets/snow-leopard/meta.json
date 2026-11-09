@@ -1,0 +1,46 @@
+{
+  "id": "snow-leopard",
+  "name": "snow leopard",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "snow leopard"
+    },
+    "vi": {
+      "text": "con báo tuyết"
+    },
+    "zh-Hans": {
+      "text": "雪豹",
+      "reading": "xuěbào"
+    },
+    "ja": {
+      "text": "ユキヒョウ",
+      "reading": "yukihyō"
+    },
+    "ko": {
+      "text": "설표",
+      "reading": "seolpyo"
+    },
+    "es": {
+      "text": "el leopardo de las nieves"
+    },
+    "fr": {
+      "text": "la panthère des neiges"
+    },
+    "de": {
+      "text": "der Schneeleopard"
+    },
+    "id": {
+      "text": "macan tutul salju"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

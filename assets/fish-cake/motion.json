@@ -1,0 +1,7 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": ["glint"],
+  "glintAlpha": 0.11,
+  "note": "Ánh sáng nhẹ trên lát chả cá; giữ rõ lát cắt và chất liệu."
+}

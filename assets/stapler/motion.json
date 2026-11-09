@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "layers": [
+    {
+      "polygon": [
+        [0, 0],
+        [256, 0],
+        [256, 126],
+        [55, 155],
+        [18, 149],
+        [0, 149]
+      ],
+      "pivot": [32, 145],
+      "angle": 3
+    }
+  ],
+  "note": "The upper handle presses around its rear hinge; base and magazine remain still."
+}

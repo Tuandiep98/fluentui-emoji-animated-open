@@ -1,0 +1,9 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [
+    "glint"
+  ],
+  "glintAlpha": 0.1,
+  "note": "A small light reflection moves over the plastic; nozzle and bottle stay rigid."
+}

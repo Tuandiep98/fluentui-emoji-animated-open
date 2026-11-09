@@ -1,0 +1,7 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": ["glint"],
+  "glintAlpha": 0.1,
+  "note": "Ánh sáng lướt trên lớp bột giòn; không tạo chất lỏng hoặc uốn cong."
+}

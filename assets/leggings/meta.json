@@ -1,0 +1,46 @@
+{
+  "id": "leggings",
+  "name": "leggings",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "leggings"
+    },
+    "vi": {
+      "text": "quần legging"
+    },
+    "zh-Hans": {
+      "text": "打底裤",
+      "reading": "dǎdǐkù"
+    },
+    "ja": {
+      "text": "レギンス",
+      "reading": "reginsu"
+    },
+    "ko": {
+      "text": "레깅스",
+      "reading": "regingseu"
+    },
+    "es": {
+      "text": "las mallas"
+    },
+    "fr": {
+      "text": "le legging"
+    },
+    "de": {
+      "text": "die Leggings"
+    },
+    "id": {
+      "text": "legging"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

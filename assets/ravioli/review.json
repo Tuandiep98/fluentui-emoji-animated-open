@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Mép một miếng ravioli nhúc nhích nhỏ; giữ đường viền ép và phần nhân.",
+  "hashes": {
+    "source.png": "20abf4a3f87fdaf0be012c2e666755398a709a203bb2b32ebac464e7e53d8c1c",
+    "still.png": "0b8e1333bfe0945131309957d1ce7c0d8368b874b7992599604a27cca4f234ec",
+    "still.webp": "6fbdcce868e152ad93ab6a26cc2609e5766faddb0ba450f2cd45b18741148997",
+    "animated.avif": "161bde97b0841b2bc6157a9f6e1e48c1fc1fdab1a0fb3028dd3aa5f9eb198cf3",
+    "motion.json": "69b33cbac3db960916a409dccf8cef42ce93e92662af465c89f5557ce32c3727",
+    "meta.json": "5fc799db4df96dea270388946438b83ccf9fb13def4bd010dabe3d49e68cca5b"
+  }
+}

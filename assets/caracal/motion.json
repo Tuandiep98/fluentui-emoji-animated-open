@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [108, 46],
+      "radius": [22, 31],
+      "amp": 2.2,
+      "pivot": [116, 75]
+    },
+    {
+      "kind": "rotate",
+      "center": [164, 48],
+      "radius": [22, 31],
+      "amp": -2.2,
+      "pivot": [153, 76]
+    }
+  ],
+  "note": "Tai dài xoay nhẹ; giữ chùm lông tai đen và màu lông đặc trưng."
+}

@@ -1,0 +1,15 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [48, 155],
+      "radius": [37, 29],
+      "pivot": [71, 147],
+      "amp": 3
+    }
+  ],
+  "note": "Small head sniff; armor scales and feet remain stable."
+}

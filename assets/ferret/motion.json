@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [58, 80],
+      "radius": [35, 36],
+      "pivot": [88, 115],
+      "amp": 2.5
+    },
+    {
+      "kind": "wave",
+      "center": [218, 174],
+      "radius": [28, 25],
+      "amp": 2
+    }
+  ],
+  "note": "Small head sniff and tail-tip sway; long body and planted paws stay stable. Master background haze corrected with built-in image generation."
+}

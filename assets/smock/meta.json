@@ -1,0 +1,46 @@
+{
+  "id": "smock",
+  "name": "smock",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "smock"
+    },
+    "vi": {
+      "text": "áo choàng mỹ thuật"
+    },
+    "zh-Hans": {
+      "text": "美术罩衣",
+      "reading": "měishù zhàoyī"
+    },
+    "ja": {
+      "text": "おえかきスモック",
+      "reading": "oekaki sumokku"
+    },
+    "ko": {
+      "text": "미술 가운",
+      "reading": "misul gaun"
+    },
+    "es": {
+      "text": "la bata de pintura"
+    },
+    "fr": {
+      "text": "la blouse de peinture"
+    },
+    "de": {
+      "text": "der Malkittel"
+    },
+    "id": {
+      "text": "baju lukis"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

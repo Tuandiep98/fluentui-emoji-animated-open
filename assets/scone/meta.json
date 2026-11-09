@@ -1,0 +1,46 @@
+{
+  "id": "scone",
+  "name": "scone",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "scone"
+    },
+    "vi": {
+      "text": "bánh nướng xốp"
+    },
+    "zh-Hans": {
+      "text": "司康",
+      "reading": "sīkāng"
+    },
+    "ja": {
+      "text": "スコーン",
+      "reading": "sukōn"
+    },
+    "ko": {
+      "text": "스콘",
+      "reading": "seukon"
+    },
+    "es": {
+      "text": "el scone"
+    },
+    "fr": {
+      "text": "le scone"
+    },
+    "de": {
+      "text": "der Scone"
+    },
+    "id": {
+      "text": "scone"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

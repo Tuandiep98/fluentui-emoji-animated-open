@@ -1,0 +1,15 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [200, 166],
+      "radius": [39, 60],
+      "pivot": [169, 215],
+      "amp": 4
+    }
+  ],
+  "note": "Small tail sweep; face, torso and planted paws stay still."
+}

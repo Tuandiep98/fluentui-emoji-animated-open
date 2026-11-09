@@ -7,7 +7,9 @@ const indexed=entries.map(e=>({...e,haystack:normalize(`${e.id} ${e.name} ${e.vi
 const escape=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const byId=new Map(indexed.map(e=>[e.id,e])),active=new Map(),visible=new WeakSet();
 const reduced=matchMedia('(prefers-reduced-motion: reduce)'),connection=navigator.connection;
-const categoryNames={home:'Home',kitchen:'Kitchen',garden:'Garden',produce:'Fruit & veg',meals:'Food & drink',other:'Other'};
+const categoryNames=window.EMOJI_CATEGORIES??{};
+const categoryCounts=new Map();for(const e of entries)categoryCounts.set(e.category,(categoryCounts.get(e.category)??0)+1);
+$('.filters').innerHTML=`<button data-category="all" aria-pressed="true">All emoji <span>${entries.length}</span></button>`+Object.keys(categoryNames).filter(key=>categoryCounts.has(key)).map(key=>`<button data-category="${escape(key)}" aria-pressed="false">${escape(categoryNames[key])} <span>${categoryCounts.get(key)}</span></button>`).join('');
 let category='all',shown=24,selected=null,detailPlaying=false;
 const store={get(k){try{return localStorage.getItem(k)}catch{return null}},set(k,v){try{localStorage.setItem(k,v)}catch{}}};
 const paths=(id,ext)=>`assets/${encodeURIComponent(id)}/${ext==='avif'?'animated.avif':`still.${ext}`}`;

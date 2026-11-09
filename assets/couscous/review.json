@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Hơi nóng thưa phía trên hạt couscous; bát không rung.",
+  "hashes": {
+    "source.png": "f0da1df13991fb23a3fa1de244c2629153752cba0ede69aef52a66df0dbcf852",
+    "still.png": "1c9f72f55d585617b0797c191008b75f996a7e51bcaef4cf48c28d8888bc437f",
+    "still.webp": "bfb435ec4cf4f814a33e7f3b8a35a4986c32c9ecb89e896bae5d4543141a262c",
+    "animated.avif": "772cc03e7e4f25db7d388fbfc9b2b76c204fe641b164ecc1f7091847df7acd5a",
+    "motion.json": "619981800357fe0e95d7a1630f18a41ec2f474b44f9b1bd7db03fb56b560744b",
+    "meta.json": "b16787802ffc7da886e3b09e8325096ee075f48d575b31f6102ba46559a08536"
+  }
+}

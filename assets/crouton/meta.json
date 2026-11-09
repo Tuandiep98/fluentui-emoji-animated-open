@@ -1,0 +1,46 @@
+{
+  "id": "crouton",
+  "name": "crouton",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "crouton"
+    },
+    "vi": {
+      "text": "bánh mì giòn cắt hạt lựu"
+    },
+    "zh-Hans": {
+      "text": "面包丁",
+      "reading": "miànbāodīng"
+    },
+    "ja": {
+      "text": "クルトン",
+      "reading": "kuruton"
+    },
+    "ko": {
+      "text": "크루통",
+      "reading": "keurutong"
+    },
+    "es": {
+      "text": "el picatoste"
+    },
+    "fr": {
+      "text": "le croûton"
+    },
+    "de": {
+      "text": "der Croûton"
+    },
+    "id": {
+      "text": "roti dadu panggang"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

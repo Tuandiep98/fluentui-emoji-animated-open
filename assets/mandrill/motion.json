@@ -1,0 +1,15 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [128, 84],
+      "radius": [45, 51],
+      "amp": 1.8,
+      "pivot": [128, 125]
+    }
+  ],
+  "note": "Chớp mắt và nhấc lông mày; màu mõm và cấu trúc mặt không trôi."
+}

@@ -1,0 +1,33 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "layers": [
+    {
+      "polygon": [
+        [
+          75,
+          4
+        ],
+        [
+          179,
+          4
+        ],
+        [
+          179,
+          93
+        ],
+        [
+          75,
+          93
+        ]
+      ],
+      "pivot": [
+        128,
+        90
+      ],
+      "y": -4.5
+    }
+  ],
+  "note": "Nắp keo mở/đóng ngắn theo trục bằng lớp riêng; thân giữ yên."
+}

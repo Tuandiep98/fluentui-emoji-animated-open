@@ -4,6 +4,7 @@ import sharp from "sharp";
 import { transform } from "./presets.mjs";
 import { defs, effects } from "./fx.mjs";
 import { checkRegions, deformPixels } from "./deform.mjs";
+import { checkLayers, layeredImage } from "./layers.mjs";
 
 export async function imageBox(bytes) {
   const t = await sharp(bytes)
@@ -52,6 +53,8 @@ export async function renderFrames(
   const data = bytes.toString("base64");
   const regions = recipe.regions ?? [];
   checkRegions(regions);
+  const layers = recipe.layers ?? [];
+  checkLayers(layers);
   const pixels = regions.length
     ? await sharp(bytes).ensureAlpha().raw().toBuffer()
     : undefined;
@@ -72,7 +75,7 @@ export async function renderFrames(
               .toBuffer()
           ).toString("base64")
         : data;
-    const image = `<image width="256" height="256" href="data:image/png;base64,${frameData}"/>`;
+    const image = layeredImage(frameData, layers, t);
     const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">${defs}<g>${fx.back}</g><g transform="${matrix}">${image}</g><g>${fx.front}</g></svg>`;
     let png = await sharp(Buffer.from(svg)).png().toBuffer();
     if (fx.glint) {

@@ -1,0 +1,46 @@
+{
+  "id": "platypus",
+  "name": "platypus",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "platypus"
+    },
+    "vi": {
+      "text": "con thú mỏ vịt"
+    },
+    "zh-Hans": {
+      "text": "鸭嘴兽",
+      "reading": "yāzuǐshòu"
+    },
+    "ja": {
+      "text": "カモノハシ",
+      "reading": "kamonohashi"
+    },
+    "ko": {
+      "text": "오리너구리",
+      "reading": "orineoguri"
+    },
+    "es": {
+      "text": "el ornitorrinco"
+    },
+    "fr": {
+      "text": "l'ornithorynque"
+    },
+    "de": {
+      "text": "das Schnabeltier"
+    },
+    "id": {
+      "text": "platipus"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

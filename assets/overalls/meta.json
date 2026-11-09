@@ -1,0 +1,46 @@
+{
+  "id": "overalls",
+  "name": "overalls",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "overalls"
+    },
+    "vi": {
+      "text": "quần yếm"
+    },
+    "zh-Hans": {
+      "text": "背带裤",
+      "reading": "bèidàikù"
+    },
+    "ja": {
+      "text": "オーバーオール",
+      "reading": "ōbāōru"
+    },
+    "ko": {
+      "text": "멜빵바지",
+      "reading": "melppang baji"
+    },
+    "es": {
+      "text": "el peto"
+    },
+    "fr": {
+      "text": "la salopette"
+    },
+    "de": {
+      "text": "die Latzhose"
+    },
+    "id": {
+      "text": "celana kodok"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

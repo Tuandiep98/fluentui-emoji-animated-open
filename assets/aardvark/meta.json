@@ -1,0 +1,46 @@
+{
+  "id": "aardvark",
+  "name": "aardvark",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "aardvark"
+    },
+    "vi": {
+      "text": "con lợn đất"
+    },
+    "zh-Hans": {
+      "text": "土豚",
+      "reading": "tǔtún"
+    },
+    "ja": {
+      "text": "ツチブタ",
+      "reading": "tsuchibuta"
+    },
+    "ko": {
+      "text": "땅돼지",
+      "reading": "ttangdwaeji"
+    },
+    "es": {
+      "text": "el cerdo hormiguero"
+    },
+    "fr": {
+      "text": "l'oryctérope"
+    },
+    "de": {
+      "text": "das Erdferkel"
+    },
+    "id": {
+      "text": "babi tanah"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

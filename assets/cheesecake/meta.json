@@ -1,0 +1,46 @@
+{
+  "id": "cheesecake",
+  "name": "cheesecake",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "cheesecake"
+    },
+    "vi": {
+      "text": "bánh phô mai"
+    },
+    "zh-Hans": {
+      "text": "芝士蛋糕",
+      "reading": "zhīshì dàngāo"
+    },
+    "ja": {
+      "text": "チーズケーキ",
+      "reading": "chīzu kēki"
+    },
+    "ko": {
+      "text": "치즈케이크",
+      "reading": "chijeukeikeu"
+    },
+    "es": {
+      "text": "la tarta de queso"
+    },
+    "fr": {
+      "text": "le gâteau au fromage"
+    },
+    "de": {
+      "text": "der Käsekuchen"
+    },
+    "id": {
+      "text": "kue keju"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

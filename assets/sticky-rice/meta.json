@@ -1,0 +1,46 @@
+{
+  "id": "sticky-rice",
+  "name": "sticky rice",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "sticky rice"
+    },
+    "vi": {
+      "text": "xôi"
+    },
+    "zh-Hans": {
+      "text": "糯米饭",
+      "reading": "nuòmǐfàn"
+    },
+    "ja": {
+      "text": "おこわ",
+      "reading": "okowa"
+    },
+    "ko": {
+      "text": "찹쌀밥",
+      "reading": "chapssalbap"
+    },
+    "es": {
+      "text": "el arroz glutinoso"
+    },
+    "fr": {
+      "text": "le riz gluant"
+    },
+    "de": {
+      "text": "der Klebreis"
+    },
+    "id": {
+      "text": "ketan"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

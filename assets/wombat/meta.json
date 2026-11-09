@@ -1,0 +1,46 @@
+{
+  "id": "wombat",
+  "name": "wombat",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "wombat"
+    },
+    "vi": {
+      "text": "con gấu túi wombat"
+    },
+    "zh-Hans": {
+      "text": "袋熊",
+      "reading": "dàixióng"
+    },
+    "ja": {
+      "text": "ウォンバット",
+      "reading": "wonbatto"
+    },
+    "ko": {
+      "text": "웜뱃",
+      "reading": "wombaet"
+    },
+    "es": {
+      "text": "el wombat"
+    },
+    "fr": {
+      "text": "le wombat"
+    },
+    "de": {
+      "text": "der Wombat"
+    },
+    "id": {
+      "text": "wombat"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

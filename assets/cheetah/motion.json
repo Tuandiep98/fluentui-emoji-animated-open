@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [221, 175],
+      "radius": [29, 46],
+      "amp": 2.5,
+      "pivot": [201, 165]
+    },
+    {
+      "kind": "rotate",
+      "center": [72, 65],
+      "radius": [32, 38],
+      "amp": 1.5,
+      "pivot": [82, 95]
+    }
+  ],
+  "note": "Đuôi khẽ quét và đầu quay nhẹ; giữ dáng thon, đốm và vệt nước mắt."
+}

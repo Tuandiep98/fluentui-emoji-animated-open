@@ -1,0 +1,9 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [
+    "glint"
+  ],
+  "glintAlpha": 0.12,
+  "note": "A soft highlight travels across the leather; shoe structure and soles stay fixed."
+}

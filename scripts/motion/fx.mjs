@@ -57,6 +57,14 @@ export function effects(id, recipe, t, box) {
         recipe.facing === "left" ? box.left + box.width - 8 : box.left - 10;
       for (let i = 0; i < 3; i++)
         back += `<path d="M${n(x)} ${n(cy - 12 + i * 12)} h18" stroke="#D9DDE5" stroke-width="${i === 1 ? 4 : 3}" stroke-linecap="round" opacity="${n(0.7 * bell(t, 0.1, 0.55))}"/>`;
+    } else if (name === "chalk-dust") {
+      // A few powder grains, kept close to the chalk rather than a large smoke cloud.
+      const a = 0.7 * bell(t, 0.12, 0.68);
+      for (let i = 0; i < 6; i++) {
+        const x = box.left + box.width * 0.2 + i * 4;
+        const y = box.top + box.height * 0.82 + (i % 3) * 3 - t * 9;
+        front += `<circle cx="${n(x)}" cy="${n(y)}" r="1.5" fill="#FFF6EF" opacity="${n(a)}"/>`;
+      }
     } else if (name === "puff" || name === "dust") {
       for (let i = 0; i < 2; i++)
         back += `<circle cx="${n(cx + (i ? 12 : -12))}" cy="${n(name === "dust" ? box.top + box.height - 5 : box.top + 20)}" r="${n(9 + i * 3)}" fill="url(#puff)" opacity="${n(bell(t, 0.35, 0.62))}"/>`;

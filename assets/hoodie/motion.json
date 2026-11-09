@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [128, 219],
+      "radius": [86, 22],
+      "amp": 2.8
+    },
+    {
+      "kind": "wave",
+      "center": [39, 169],
+      "radius": [24, 45],
+      "amp": -1.6
+    }
+  ],
+  "note": "Hem and one sleeve sway softly; neckline and pocket remain fixed."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "glue-bottle",
+  "name": "glue bottle",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "glue bottle"
+    },
+    "vi": {
+      "text": "chai keo dán"
+    },
+    "zh-Hans": {
+      "text": "胶水瓶",
+      "reading": "jiāoshuǐpíng"
+    },
+    "ja": {
+      "text": "ボトルののり",
+      "reading": "botoru no nori"
+    },
+    "ko": {
+      "text": "물풀 병",
+      "reading": "mulpul byeong"
+    },
+    "es": {
+      "text": "el bote de pegamento"
+    },
+    "fr": {
+      "text": "le flacon de colle"
+    },
+    "de": {
+      "text": "die Klebstoffflasche"
+    },
+    "id": {
+      "text": "botol lem"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

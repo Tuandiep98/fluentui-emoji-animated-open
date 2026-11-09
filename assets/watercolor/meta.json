@@ -1,0 +1,46 @@
+{
+  "id": "watercolor",
+  "name": "watercolor",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "watercolor"
+    },
+    "vi": {
+      "text": "màu nước"
+    },
+    "zh-Hans": {
+      "text": "水彩颜料",
+      "reading": "shuǐcǎi yánliào"
+    },
+    "ja": {
+      "text": "すいさいえのぐ",
+      "reading": "suisai enogu"
+    },
+    "ko": {
+      "text": "수채 물감",
+      "reading": "suchae mulgam"
+    },
+    "es": {
+      "text": "la acuarela"
+    },
+    "fr": {
+      "text": "l'aquarelle"
+    },
+    "de": {
+      "text": "die Wasserfarbe"
+    },
+    "id": {
+      "text": "cat air"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

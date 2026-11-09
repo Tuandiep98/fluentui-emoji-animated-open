@@ -1,3 +1,4 @@
+import { CATEGORY_IDS } from './categories.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
@@ -16,7 +17,7 @@ const validCommands=['new','prepare','animate','review','approve'];
 if(!validCommands.includes(command))throw Error('Usage: npm run new|stills|animate|review|approve -- <emoji-id>');
 if(command==='new'){
   if(fs.existsSync(dir))throw Error(`${id} already exists`);
-  const category=option('--category','other');if(!['home','kitchen','garden','produce','meals','other'].includes(category))throw Error('Unknown category');
+  const category=option('--category','other');if(!CATEGORY_IDS.includes(category))throw Error('Unknown category');
   fs.mkdirSync(dir,{recursive:true});
   const name=option('--name',id.replaceAll('-',' '));
   write(path.join(dir,'meta.json'),{id,name,category,terms:{en:{text:name},...(option('--vi')?{vi:{text:option('--vi')}}:{})},license:'MIT',origin:'original-ai-generated',status:'draft'});

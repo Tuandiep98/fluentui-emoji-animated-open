@@ -1,0 +1,14 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [102, 119],
+      "radius": [43, 27],
+      "amp": 2.3
+    }
+  ],
+  "note": "The front shoe laces shift gently; soles and shoe panels remain rigid."
+}

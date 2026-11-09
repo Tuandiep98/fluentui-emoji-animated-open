@@ -1,0 +1,46 @@
+{
+  "id": "skirt",
+  "name": "skirt",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "skirt"
+    },
+    "vi": {
+      "text": "chân váy"
+    },
+    "zh-Hans": {
+      "text": "裙子",
+      "reading": "qúnzi"
+    },
+    "ja": {
+      "text": "スカート",
+      "reading": "sukāto"
+    },
+    "ko": {
+      "text": "치마",
+      "reading": "chima"
+    },
+    "es": {
+      "text": "la falda"
+    },
+    "fr": {
+      "text": "la jupe"
+    },
+    "de": {
+      "text": "der Rock"
+    },
+    "id": {
+      "text": "rok"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

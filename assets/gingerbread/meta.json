@@ -1,0 +1,46 @@
+{
+  "id": "gingerbread",
+  "name": "gingerbread",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "gingerbread"
+    },
+    "vi": {
+      "text": "bánh gừng"
+    },
+    "zh-Hans": {
+      "text": "姜饼",
+      "reading": "jiāngbǐng"
+    },
+    "ja": {
+      "text": "ジンジャーブレッド",
+      "reading": "jinjā bureddo"
+    },
+    "ko": {
+      "text": "진저브레드",
+      "reading": "jinjeobeuredeu"
+    },
+    "es": {
+      "text": "la galleta de jengibre"
+    },
+    "fr": {
+      "text": "le biscuit au gingembre"
+    },
+    "de": {
+      "text": "der Lebkuchen"
+    },
+    "id": {
+      "text": "kue jahe"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

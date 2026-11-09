@@ -1,0 +1,46 @@
+{
+  "id": "spring-roll",
+  "name": "spring roll",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "spring roll"
+    },
+    "vi": {
+      "text": "chả giò"
+    },
+    "zh-Hans": {
+      "text": "春卷",
+      "reading": "chūnjuǎn"
+    },
+    "ja": {
+      "text": "はるまき",
+      "reading": "harumaki"
+    },
+    "ko": {
+      "text": "춘권",
+      "reading": "chungwon"
+    },
+    "es": {
+      "text": "el rollito de primavera"
+    },
+    "fr": {
+      "text": "le nem"
+    },
+    "de": {
+      "text": "die Frühlingsrolle"
+    },
+    "id": {
+      "text": "lumpia"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

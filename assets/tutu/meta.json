@@ -1,0 +1,46 @@
+{
+  "id": "tutu",
+  "name": "tutu",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "tutu"
+    },
+    "vi": {
+      "text": "váy múa ba lê"
+    },
+    "zh-Hans": {
+      "text": "芭蕾舞裙",
+      "reading": "bālěiwǔqún"
+    },
+    "ja": {
+      "text": "チュチュ",
+      "reading": "chuchu"
+    },
+    "ko": {
+      "text": "발레 치마",
+      "reading": "balle chima"
+    },
+    "es": {
+      "text": "el tutú"
+    },
+    "fr": {
+      "text": "le tutu"
+    },
+    "de": {
+      "text": "das Tutu"
+    },
+    "id": {
+      "text": "rok tutu"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

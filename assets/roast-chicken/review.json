@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Ánh sáng lướt nhẹ trên da gà; đĩa và hình khối giữ cố định.",
+  "hashes": {
+    "source.png": "e79ea26749dbc7843e00904f485f2ea46fa4949c1966a7a84336338d65cd9248",
+    "still.png": "0bd67627ef4725cf698d1b4bb6cbab20d21defbaae3de48fa01d73e842f03676",
+    "still.webp": "eaa46eebc529b3164242c03b7c80057f19f17a2cd5733a59c07bd0ca47283281",
+    "animated.avif": "076a6b9eb3eab0877c345372750c93043c7a574579cda3365d410f63ae956301",
+    "motion.json": "c42ff26c64bfbd2665b45fcedca71507cfa622b83ba5899b85e4d575ee8641bc",
+    "meta.json": "b01d1026b009316b293fb9ea393e1a892a7905a29f2c2d0dd115adcfdad2cb31"
+  }
+}

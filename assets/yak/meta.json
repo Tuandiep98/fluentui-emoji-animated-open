@@ -1,0 +1,46 @@
+{
+  "id": "yak",
+  "name": "yak",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "yak"
+    },
+    "vi": {
+      "text": "con bò Tây Tạng"
+    },
+    "zh-Hans": {
+      "text": "牦牛",
+      "reading": "máoniú"
+    },
+    "ja": {
+      "text": "ヤク",
+      "reading": "yaku"
+    },
+    "ko": {
+      "text": "야크",
+      "reading": "yakeu"
+    },
+    "es": {
+      "text": "el yak"
+    },
+    "fr": {
+      "text": "le yack"
+    },
+    "de": {
+      "text": "das Yak"
+    },
+    "id": {
+      "text": "yak"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

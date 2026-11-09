@@ -1,0 +1,46 @@
+{
+  "id": "beret",
+  "name": "beret",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "beret"
+    },
+    "vi": {
+      "text": "mũ nồi"
+    },
+    "zh-Hans": {
+      "text": "贝雷帽",
+      "reading": "bèiléimào"
+    },
+    "ja": {
+      "text": "ベレーぼう",
+      "reading": "berē bō"
+    },
+    "ko": {
+      "text": "베레모",
+      "reading": "beremo"
+    },
+    "es": {
+      "text": "la boina"
+    },
+    "fr": {
+      "text": "le béret"
+    },
+    "de": {
+      "text": "die Baskenmütze"
+    },
+    "id": {
+      "text": "baret"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

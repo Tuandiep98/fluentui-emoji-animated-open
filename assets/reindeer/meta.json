@@ -1,0 +1,46 @@
+{
+  "id": "reindeer",
+  "name": "reindeer",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "reindeer"
+    },
+    "vi": {
+      "text": "con tuần lộc"
+    },
+    "zh-Hans": {
+      "text": "驯鹿",
+      "reading": "xùnlù"
+    },
+    "ja": {
+      "text": "トナカイ",
+      "reading": "tonakai"
+    },
+    "ko": {
+      "text": "순록",
+      "reading": "sunnok"
+    },
+    "es": {
+      "text": "el reno"
+    },
+    "fr": {
+      "text": "le renne"
+    },
+    "de": {
+      "text": "das Rentier"
+    },
+    "id": {
+      "text": "rusa kutub"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

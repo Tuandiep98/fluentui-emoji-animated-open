@@ -1,0 +1,46 @@
+{
+  "id": "ravioli",
+  "name": "ravioli",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "ravioli"
+    },
+    "vi": {
+      "text": "mì ravioli"
+    },
+    "zh-Hans": {
+      "text": "意式饺子",
+      "reading": "yìshì jiǎozi"
+    },
+    "ja": {
+      "text": "ラビオリ",
+      "reading": "rabiori"
+    },
+    "ko": {
+      "text": "라비올리",
+      "reading": "rabiolli"
+    },
+    "es": {
+      "text": "los raviolis"
+    },
+    "fr": {
+      "text": "les raviolis"
+    },
+    "de": {
+      "text": "die Ravioli"
+    },
+    "id": {
+      "text": "ravioli"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

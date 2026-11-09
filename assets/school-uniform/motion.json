@@ -1,0 +1,26 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [112, 146],
+      "radius": [66, 19],
+      "amp": 1.5
+    },
+    {
+      "kind": "wave",
+      "center": [95, 214],
+      "radius": [30, 20],
+      "amp": 1.6
+    },
+    {
+      "kind": "wave",
+      "center": [161, 214],
+      "radius": [30, 20],
+      "amp": -1.6
+    }
+  ],
+  "note": "Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của school uniform."
+}

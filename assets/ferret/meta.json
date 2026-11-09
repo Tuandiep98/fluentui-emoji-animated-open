@@ -1,0 +1,46 @@
+{
+  "id": "ferret",
+  "name": "ferret",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "ferret"
+    },
+    "vi": {
+      "text": "con chồn sương"
+    },
+    "zh-Hans": {
+      "text": "雪貂",
+      "reading": "xuědiāo"
+    },
+    "ja": {
+      "text": "フェレット",
+      "reading": "feretto"
+    },
+    "ko": {
+      "text": "페럿",
+      "reading": "pereot"
+    },
+    "es": {
+      "text": "el hurón"
+    },
+    "fr": {
+      "text": "le furet"
+    },
+    "de": {
+      "text": "das Frettchen"
+    },
+    "id": {
+      "text": "feret"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

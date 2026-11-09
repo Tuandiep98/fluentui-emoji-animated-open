@@ -1,0 +1,46 @@
+{
+  "id": "whiteboard",
+  "name": "whiteboard",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "whiteboard"
+    },
+    "vi": {
+      "text": "bảng trắng"
+    },
+    "zh-Hans": {
+      "text": "白板",
+      "reading": "báibǎn"
+    },
+    "ja": {
+      "text": "ホワイトボード",
+      "reading": "howaito bōdo"
+    },
+    "ko": {
+      "text": "화이트보드",
+      "reading": "hwaiteu bodeu"
+    },
+    "es": {
+      "text": "la pizarra blanca"
+    },
+    "fr": {
+      "text": "le tableau blanc"
+    },
+    "de": {
+      "text": "das Whiteboard"
+    },
+    "id": {
+      "text": "papan tulis putih"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

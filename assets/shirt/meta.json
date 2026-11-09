@@ -1,0 +1,46 @@
+{
+  "id": "shirt",
+  "name": "shirt",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "shirt"
+    },
+    "vi": {
+      "text": "áo sơ mi"
+    },
+    "zh-Hans": {
+      "text": "衬衫",
+      "reading": "chènshān"
+    },
+    "ja": {
+      "text": "ワイシャツ",
+      "reading": "wai shatsu"
+    },
+    "ko": {
+      "text": "셔츠",
+      "reading": "syeocheu"
+    },
+    "es": {
+      "text": "la camisa"
+    },
+    "fr": {
+      "text": "la chemise"
+    },
+    "de": {
+      "text": "das Hemd"
+    },
+    "id": {
+      "text": "kemeja"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

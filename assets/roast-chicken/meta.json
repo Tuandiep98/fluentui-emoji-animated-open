@@ -1,0 +1,46 @@
+{
+  "id": "roast-chicken",
+  "name": "roast chicken",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "roast chicken"
+    },
+    "vi": {
+      "text": "gà quay"
+    },
+    "zh-Hans": {
+      "text": "烤鸡",
+      "reading": "kǎojī"
+    },
+    "ja": {
+      "text": "ローストチキン",
+      "reading": "rōsuto chikin"
+    },
+    "ko": {
+      "text": "구운 닭",
+      "reading": "guun dak"
+    },
+    "es": {
+      "text": "el pollo asado"
+    },
+    "fr": {
+      "text": "le poulet rôti"
+    },
+    "de": {
+      "text": "das Brathähnchen"
+    },
+    "id": {
+      "text": "ayam panggang"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

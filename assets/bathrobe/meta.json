@@ -1,0 +1,46 @@
+{
+  "id": "bathrobe",
+  "name": "bathrobe",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "bathrobe"
+    },
+    "vi": {
+      "text": "áo choàng tắm"
+    },
+    "zh-Hans": {
+      "text": "浴袍",
+      "reading": "yùpáo"
+    },
+    "ja": {
+      "text": "バスローブ",
+      "reading": "basu rōbu"
+    },
+    "ko": {
+      "text": "목욕 가운",
+      "reading": "mogyok gaun"
+    },
+    "es": {
+      "text": "el albornoz"
+    },
+    "fr": {
+      "text": "le peignoir"
+    },
+    "de": {
+      "text": "der Bademantel"
+    },
+    "id": {
+      "text": "jubah mandi"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

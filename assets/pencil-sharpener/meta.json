@@ -1,0 +1,46 @@
+{
+  "id": "pencil-sharpener",
+  "name": "pencil sharpener",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "pencil sharpener"
+    },
+    "vi": {
+      "text": "đồ gọt bút chì"
+    },
+    "zh-Hans": {
+      "text": "卷笔刀",
+      "reading": "juǎnbǐdāo"
+    },
+    "ja": {
+      "text": "えんぴつけずり",
+      "reading": "enpitsu kezuri"
+    },
+    "ko": {
+      "text": "연필깎이",
+      "reading": "yeonpilkkakki"
+    },
+    "es": {
+      "text": "el sacapuntas"
+    },
+    "fr": {
+      "text": "le taille-crayon"
+    },
+    "de": {
+      "text": "der Bleistiftspitzer"
+    },
+    "id": {
+      "text": "rautan pensil"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

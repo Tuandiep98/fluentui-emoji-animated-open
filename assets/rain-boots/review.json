@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Chuyển động nhẹ ở cổ giày hoặc dây giày; đế giữ chắc, không làm toàn chiếc giày thành cao su.",
+  "hashes": {
+    "source.png": "f1fa4f8eda71c54633d2c322cc91012c8214bba57c0b68ac2e4dab5b801a5dc2",
+    "still.png": "ce934aa023e08551f0cb575a6820e6b8b3f5d2512db487e040b064a5b5e405fe",
+    "still.webp": "e1822490cd56ad1608addded7cec96c0afb041233df746139b73b451db12f8db",
+    "animated.avif": "911ebb7c3f41acf9a1401a88bc5c6d6d0d08eebd02f84d21c63fbd3a76776280",
+    "motion.json": "cf1560dff45ddd4b3cf0dd2436548f4b93bd4c7d0b8064d6c06474641d68c704",
+    "meta.json": "3ffb34a3e7fe42db603cf518ea5d468247033091c82dd15df3a4fe7bfa992827"
+  }
+}

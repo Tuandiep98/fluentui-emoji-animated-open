@@ -1,15 +1,9 @@
+import { CATEGORY_LABELS } from './categories.mjs';
 import fs from 'node:fs';
 
 const START = '<!-- EMOJI-STATS:START -->';
 const END = '<!-- EMOJI-STATS:END -->';
-const categories = new Map([
-  ['home', 'Home'],
-  ['kitchen', 'Kitchen'],
-  ['garden', 'Garden'],
-  ['produce', 'Fruit & vegetables'],
-  ['meals', 'Food & drink'],
-  ['other', 'Other'],
-]);
+const categories = new Map(Object.entries(CATEGORY_LABELS));
 const cell = value => String(value).replaceAll('|', '\\|').replace(/[\r\n]+/g, ' ');
 
 export function renderReadmeStats(entries) {

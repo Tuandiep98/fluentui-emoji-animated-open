@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của trousers.",
+  "hashes": {
+    "source.png": "1bd4606005c02cdec4fc4cdf1baec9a66554a5598d4c88478dfffb9572cd0c5c",
+    "still.png": "0c88260bdf4c4d1660da61a2bcd5265755b3b3ef6f64592d79c5af025be8c44f",
+    "still.webp": "165e1e9ad38bc0e327ea1356c17f2e8059cc9f17df1f9925b3eea9b48c0f7554",
+    "animated.avif": "b4f097185783447197d1129522131ce9acd3a82f0aece0e0e652464073f7b626",
+    "motion.json": "ed14b5f81c8c683692f052ae17dfa02cb6555b2ee01e0bb0e81a580d1d0f5eb9",
+    "meta.json": "1bff1a205fb00c45f7b1235a10143fa69f0c2a53172e8b236aae7d71cf66e6bb"
+  }
+}

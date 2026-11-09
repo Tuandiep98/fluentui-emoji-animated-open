@@ -1,0 +1,46 @@
+{
+  "id": "board-eraser",
+  "name": "board eraser",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "board eraser"
+    },
+    "vi": {
+      "text": "cục lau bảng"
+    },
+    "zh-Hans": {
+      "text": "板擦",
+      "reading": "bǎncā"
+    },
+    "ja": {
+      "text": "こくばんけし",
+      "reading": "kokuban keshi"
+    },
+    "ko": {
+      "text": "칠판지우개",
+      "reading": "chilpan jiugae"
+    },
+    "es": {
+      "text": "el borrador de pizarra"
+    },
+    "fr": {
+      "text": "la brosse à tableau"
+    },
+    "de": {
+      "text": "der Tafelschwamm"
+    },
+    "id": {
+      "text": "penghapus papan tulis"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

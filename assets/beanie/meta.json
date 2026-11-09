@@ -1,0 +1,46 @@
+{
+  "id": "beanie",
+  "name": "beanie",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "beanie"
+    },
+    "vi": {
+      "text": "mũ len"
+    },
+    "zh-Hans": {
+      "text": "毛线帽",
+      "reading": "máoxiànmào"
+    },
+    "ja": {
+      "text": "ニットぼう",
+      "reading": "nitto bō"
+    },
+    "ko": {
+      "text": "비니",
+      "reading": "bini"
+    },
+    "es": {
+      "text": "el gorro de lana"
+    },
+    "fr": {
+      "text": "le bonnet"
+    },
+    "de": {
+      "text": "die Wollmütze"
+    },
+    "id": {
+      "text": "kupluk"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

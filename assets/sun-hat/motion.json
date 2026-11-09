@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [128, 164],
+      "radius": [105, 24],
+      "amp": 1.8
+    },
+    {
+      "kind": "wave",
+      "center": [176, 124],
+      "radius": [24, 24],
+      "amp": 1.6
+    }
+  ],
+  "note": "Vành/chóp mũ chuyển động nhỏ theo chất liệu; giữ form, không co giãn toàn bộ chiếc mũ."
+}

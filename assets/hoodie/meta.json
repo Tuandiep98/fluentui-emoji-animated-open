@@ -1,0 +1,46 @@
+{
+  "id": "hoodie",
+  "name": "hoodie",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "hoodie"
+    },
+    "vi": {
+      "text": "áo có mũ"
+    },
+    "zh-Hans": {
+      "text": "连帽衫",
+      "reading": "liánmàoshān"
+    },
+    "ja": {
+      "text": "パーカー",
+      "reading": "pākā"
+    },
+    "ko": {
+      "text": "후드티",
+      "reading": "hudeuti"
+    },
+    "es": {
+      "text": "la sudadera con capucha"
+    },
+    "fr": {
+      "text": "le sweat à capuche"
+    },
+    "de": {
+      "text": "der Kapuzenpullover"
+    },
+    "id": {
+      "text": "sweter bertudung"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

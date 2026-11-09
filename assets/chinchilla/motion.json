@@ -1,0 +1,28 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [64, 56],
+      "radius": [30, 42],
+      "amp": 2.3,
+      "pivot": [85, 91]
+    },
+    {
+      "kind": "rotate",
+      "center": [163, 55],
+      "radius": [29, 40],
+      "amp": -2.3,
+      "pivot": [146, 91]
+    },
+    {
+      "kind": "wave",
+      "center": [210, 188],
+      "radius": [31, 42],
+      "amp": 1.8
+    }
+  ],
+  "note": "Tai tròn và đuôi rậm nhúc nhích nhỏ; thân giữ thể tích."
+}

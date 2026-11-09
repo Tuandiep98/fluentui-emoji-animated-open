@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Một nhịp trình diễn nhỏ cho viên thịt; không biến dạng thành khối thạch.",
+  "hashes": {
+    "source.png": "aa0c179c9e34f1fdb484b13a9c1fd2964a68e3bebd4ffe4c2a6c6ae8c9761023",
+    "still.png": "01c8f637ce04357df479686ba164cc59ef3980289f121e368bc17c173b1da91d",
+    "still.webp": "a8745adde5e805c5df107c5ecc3a631509279a9b61c43b15a50eea82752eb106",
+    "animated.avif": "47f5f64b5685020dfb07d940d15461258dbae75f5806a70fbe6e6459fac1798c",
+    "motion.json": "134c3a509b2b183f843a5c6d31596b4ec65ae497d3e3520f192abd9830cb4996",
+    "meta.json": "dff91af1503dc4a8e7c3afca585a6df6e57292a99063d53d9dca89d4fb2dd14c"
+  }
+}

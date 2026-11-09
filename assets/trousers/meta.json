@@ -1,0 +1,46 @@
+{
+  "id": "trousers",
+  "name": "trousers",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "trousers"
+    },
+    "vi": {
+      "text": "quần dài"
+    },
+    "zh-Hans": {
+      "text": "长裤",
+      "reading": "chángkù"
+    },
+    "ja": {
+      "text": "ズボン",
+      "reading": "zubon"
+    },
+    "ko": {
+      "text": "바지",
+      "reading": "baji"
+    },
+    "es": {
+      "text": "los pantalones"
+    },
+    "fr": {
+      "text": "le pantalon"
+    },
+    "de": {
+      "text": "die Hose"
+    },
+    "id": {
+      "text": "celana panjang"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

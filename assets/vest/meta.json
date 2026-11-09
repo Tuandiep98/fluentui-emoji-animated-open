@@ -1,0 +1,46 @@
+{
+  "id": "vest",
+  "name": "vest",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "vest"
+    },
+    "vi": {
+      "text": "áo ghi lê"
+    },
+    "zh-Hans": {
+      "text": "马甲",
+      "reading": "mǎjiǎ"
+    },
+    "ja": {
+      "text": "ベスト",
+      "reading": "besuto"
+    },
+    "ko": {
+      "text": "조끼",
+      "reading": "jokki"
+    },
+    "es": {
+      "text": "el chaleco"
+    },
+    "fr": {
+      "text": "le gilet"
+    },
+    "de": {
+      "text": "die Weste"
+    },
+    "id": {
+      "text": "rompi"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

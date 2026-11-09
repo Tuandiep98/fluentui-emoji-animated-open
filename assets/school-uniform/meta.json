@@ -1,0 +1,46 @@
+{
+  "id": "school-uniform",
+  "name": "school uniform",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "school uniform"
+    },
+    "vi": {
+      "text": "đồng phục học sinh"
+    },
+    "zh-Hans": {
+      "text": "校服",
+      "reading": "xiàofú"
+    },
+    "ja": {
+      "text": "せいふく",
+      "reading": "seifuku"
+    },
+    "ko": {
+      "text": "교복",
+      "reading": "gyobok"
+    },
+    "es": {
+      "text": "el uniforme escolar"
+    },
+    "fr": {
+      "text": "l'uniforme scolaire"
+    },
+    "de": {
+      "text": "die Schuluniform"
+    },
+    "id": {
+      "text": "seragam sekolah"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pajamas",
+  "name": "pajamas",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "pajamas"
+    },
+    "vi": {
+      "text": "đồ ngủ"
+    },
+    "zh-Hans": {
+      "text": "睡衣",
+      "reading": "shuìyī"
+    },
+    "ja": {
+      "text": "パジャマ",
+      "reading": "pajama"
+    },
+    "ko": {
+      "text": "잠옷",
+      "reading": "jamot"
+    },
+    "es": {
+      "text": "el pijama"
+    },
+    "fr": {
+      "text": "le pyjama"
+    },
+    "de": {
+      "text": "der Schlafanzug"
+    },
+    "id": {
+      "text": "piyama"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

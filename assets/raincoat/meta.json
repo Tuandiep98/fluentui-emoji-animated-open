@@ -1,0 +1,46 @@
+{
+  "id": "raincoat",
+  "name": "raincoat",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "raincoat"
+    },
+    "vi": {
+      "text": "áo mưa"
+    },
+    "zh-Hans": {
+      "text": "雨衣",
+      "reading": "yǔyī"
+    },
+    "ja": {
+      "text": "レインコート",
+      "reading": "rein kōto"
+    },
+    "ko": {
+      "text": "비옷",
+      "reading": "biot"
+    },
+    "es": {
+      "text": "el impermeable"
+    },
+    "fr": {
+      "text": "l'imperméable"
+    },
+    "de": {
+      "text": "der Regenmantel"
+    },
+    "id": {
+      "text": "jas hujan"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

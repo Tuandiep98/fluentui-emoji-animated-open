@@ -1,0 +1,46 @@
+{
+  "id": "echidna",
+  "name": "echidna",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "echidna"
+    },
+    "vi": {
+      "text": "con thú lông nhím"
+    },
+    "zh-Hans": {
+      "text": "针鼹",
+      "reading": "zhēnyǎn"
+    },
+    "ja": {
+      "text": "ハリモグラ",
+      "reading": "harimogura"
+    },
+    "ko": {
+      "text": "가시두더지",
+      "reading": "gasi dudeoji"
+    },
+    "es": {
+      "text": "el equidna"
+    },
+    "fr": {
+      "text": "l'échidné"
+    },
+    "de": {
+      "text": "der Ameisenigel"
+    },
+    "id": {
+      "text": "ekidna"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

@@ -1,0 +1,28 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [104, 47],
+      "radius": [24, 23],
+      "amp": 2.8,
+      "pivot": [105, 65]
+    },
+    {
+      "kind": "rotate",
+      "center": [218, 47],
+      "radius": [23, 24],
+      "amp": -2.8,
+      "pivot": [210, 64]
+    },
+    {
+      "kind": "press",
+      "center": [182, 98],
+      "radius": [25, 23],
+      "amp": 1
+    }
+  ],
+  "note": "Mũi ngửi nhẹ, tai cử động nhỏ; giữ dáng chắc và chân ngắn."
+}

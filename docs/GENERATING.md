@@ -20,7 +20,7 @@ The browser showcase also works by opening `index.html` directly. Rendering requ
 npm run new -- rain-boot --name "rain boot" --category garden --vi "ủng đi mưa"
 ```
 
-IDs must be lowercase ASCII slugs. Categories: `home`, `kitchen`, `garden`, `produce`, `meals`, `other`. The command refuses to overwrite an existing ID. It creates `meta.json`, `motion.json`, and `prompt.md` with draft status.
+IDs must be lowercase ASCII slugs. Categories: `home`, `kitchen`, `garden`, `produce`, `meals`, `wildlife`, `clothing`, `school-art`, `other`. Category labels, CLI validation, README statistics and showcase filters share `scripts/categories.mjs`. Only categories with ready emoji appear in the showcase. The command refuses to overwrite an existing ID. It creates `meta.json`, `motion.json`, and `prompt.md` with draft status.
 
 Add accurate translations to `meta.json` as needed. Imported entries show the nine-language format. `origin` describes how the illustration was authored; update it if you draw your own master rather than use AI.
 
@@ -113,3 +113,10 @@ Approval is a maintainer action after visual review; passing automated gates alo
 For an intentional revision, the still and animation commands accept `--force`. This invalidates prior review; regenerate the contact sheet, inspect playback, approve, rebuild catalogs, and run checks again. Prefer a new ID for an alternate design. Never edit `showcase/catalog.js` or `catalog.json` manually.
 
 The original 230 are imported from an existing reviewed release. Their per-asset review records retain imported evidence and hashes; `provenance/` preserves the production ledger, prompts available for the next 100, and translation references. The historical prompt archive is not a claim that every imported master can be recreated pixel-for-pixel: AI generation is stochastic.
+
+
+## Rigid moving parts
+
+Some assets use `layers` in motion.json: a measured polygon isolates a rigid part, with a `pivot` and small `angle`, `x`, or `y` motion. Coordinates are pixels on the normalized 256px still. See `assets/stapler/motion.json`, `assets/marker/motion.json`, and `assets/glue-stick/motion.json`. The fixed portion retains its pixels while the selected piece moves. Points must stay in the 256px canvas, rotation is bounded to 15 degrees, and translation to 8px; the frame bounds and loop gates still apply. Measure each new image rather than copying another icon's coordinates.
+
+Localized organic deformation still uses `regions`; `chalk-dust` adds a few restrained powder grains for chalk. Always inspect decoded AVIF frames for cut edges, unexpected gaps, and rigid parts drifting.

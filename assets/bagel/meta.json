@@ -1,0 +1,46 @@
+{
+  "id": "bagel",
+  "name": "bagel",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "bagel"
+    },
+    "vi": {
+      "text": "bánh mì vòng"
+    },
+    "zh-Hans": {
+      "text": "贝果",
+      "reading": "bèiguǒ"
+    },
+    "ja": {
+      "text": "ベーグル",
+      "reading": "bēguru"
+    },
+    "ko": {
+      "text": "베이글",
+      "reading": "beigeul"
+    },
+    "es": {
+      "text": "el bagel"
+    },
+    "fr": {
+      "text": "le bagel"
+    },
+    "de": {
+      "text": "der Bagel"
+    },
+    "id": {
+      "text": "bagel"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

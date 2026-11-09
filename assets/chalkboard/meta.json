@@ -1,0 +1,46 @@
+{
+  "id": "chalkboard",
+  "name": "chalkboard",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "chalkboard"
+    },
+    "vi": {
+      "text": "bảng phấn"
+    },
+    "zh-Hans": {
+      "text": "黑板",
+      "reading": "hēibǎn"
+    },
+    "ja": {
+      "text": "こくばん",
+      "reading": "kokuban"
+    },
+    "ko": {
+      "text": "칠판",
+      "reading": "chilpan"
+    },
+    "es": {
+      "text": "la pizarra de tiza"
+    },
+    "fr": {
+      "text": "le tableau noir"
+    },
+    "de": {
+      "text": "die Kreidetafel"
+    },
+    "id": {
+      "text": "papan tulis kapur"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

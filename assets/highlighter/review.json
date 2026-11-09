@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. A brief material highlight; the chisel nib and barrel keep their shape.",
+  "hashes": {
+    "source.png": "000a2ae9c220a5a6320b6916c0b2bad7bf53e0455156f150df34b73f8ab34a5a",
+    "still.png": "e6cc95e69502371e588446f6f1edb20883b94dc4f958b000b662bb5eba75b7a4",
+    "still.webp": "3246d52a1d182d4b384d73f9768056b2d0eaeb1e93fb2e680bf3e2a878560dae",
+    "animated.avif": "b65603d9868c0e96e4ce66ab79d7307201ca411c099550d2a97e64cfef38ab91",
+    "motion.json": "69c0896c848040745af88284c5882e4219a06245fcf4aa70dd909141ee64451f",
+    "meta.json": "facd8b9f2a7ee597236d5a5112350e8354ec80f16e3d833383588732eae22c40"
+  }
+}

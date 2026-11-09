@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Hem and one sleeve sway softly; neckline and pocket remain fixed.",
+  "hashes": {
+    "source.png": "23c6a028a57818ba6122008569b83c5fd77d5c9bc4d7b3d9faa9c3db0d706ff8",
+    "still.png": "ee05979f54cef1d20224dd8d29a164808ae9b2f8adc97f3dba557a848d0f38d2",
+    "still.webp": "7f6e849c223e20f5a23078aff0ca93bbdf2003b08a3c74cd2657fea0a5718e56",
+    "animated.avif": "6354f16a31f07d4bd9841a39a1ad7e0575343b665bed0e9ea3caeb9ee2cb1798",
+    "motion.json": "2305c9c58001dd020474f00ff1b68551ac7b9f7748f4c9e9f165c38468364cb2",
+    "meta.json": "1ddffbabbcbe8434affc446c71e7c570ed5a2d72e83fd6749a4f1687db10a124"
+  }
+}

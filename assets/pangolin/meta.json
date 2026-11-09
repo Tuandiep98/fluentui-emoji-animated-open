@@ -1,0 +1,46 @@
+{
+  "id": "pangolin",
+  "name": "pangolin",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "pangolin"
+    },
+    "vi": {
+      "text": "con tê tê"
+    },
+    "zh-Hans": {
+      "text": "穿山甲",
+      "reading": "chuānshānjiǎ"
+    },
+    "ja": {
+      "text": "センザンコウ",
+      "reading": "senzankō"
+    },
+    "ko": {
+      "text": "천산갑",
+      "reading": "cheonsangap"
+    },
+    "es": {
+      "text": "el pangolín"
+    },
+    "fr": {
+      "text": "le pangolin"
+    },
+    "de": {
+      "text": "das Schuppentier"
+    },
+    "id": {
+      "text": "trenggiling"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

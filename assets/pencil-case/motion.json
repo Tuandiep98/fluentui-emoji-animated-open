@@ -1,0 +1,41 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "layers": [
+    {
+      "polygon": [
+        [
+          24,
+          122
+        ],
+        [
+          46,
+          119
+        ],
+        [
+          59,
+          133
+        ],
+        [
+          52,
+          160
+        ],
+        [
+          37,
+          172
+        ],
+        [
+          23,
+          157
+        ]
+      ],
+      "pivot": [
+        49,
+        128
+      ],
+      "angle": 5
+    }
+  ],
+  "note": "Đầu dây kéo chuyển động nhỏ theo đường khóa; không mở rách thân hộp."
+}

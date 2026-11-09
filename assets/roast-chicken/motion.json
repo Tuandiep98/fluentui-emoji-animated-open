@@ -1,0 +1,7 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": ["glint"],
+  "glintAlpha": 0.12,
+  "note": "Ánh sáng lướt nhẹ trên da gà; đĩa và hình khối giữ cố định."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "sneakers",
+  "name": "sneakers",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "sneakers"
+    },
+    "vi": {
+      "text": "giày thể thao"
+    },
+    "zh-Hans": {
+      "text": "运动鞋",
+      "reading": "yùndòngxié"
+    },
+    "ja": {
+      "text": "スニーカー",
+      "reading": "sunīkā"
+    },
+    "ko": {
+      "text": "운동화",
+      "reading": "undonghwa"
+    },
+    "es": {
+      "text": "las zapatillas deportivas"
+    },
+    "fr": {
+      "text": "les baskets"
+    },
+    "de": {
+      "text": "die Turnschuhe"
+    },
+    "id": {
+      "text": "sepatu olahraga"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

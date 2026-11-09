@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. The front paper wing moves around the fold as a rigid face; body, neck and tail stay fixed.",
+  "hashes": {
+    "source.png": "e1ac345a09282c185911d8c3c2cc9209ffeca84cc43c7efea5f240538d29f678",
+    "still.png": "78e3c787c4875979b3e628aa686f4e4b5f974babddd996718c55b3fd842f9e33",
+    "still.webp": "48504d994637662efdcf40ecbc96f587f2b30557a9cb3b275dbd494f1230f3ed",
+    "animated.avif": "9e956bd9a1da9eb152a66f8907a7e808be925c96cf8623359301ec02b8649015",
+    "motion.json": "3c34c3c5aa36d2922890628fffde81ddd8209e68e1572460b1d0e3360126abe8",
+    "meta.json": "225afc128311a1d37bdd8cdabcb651601ec7ca8cf7fbc49fb230a49e17bf4bb3"
+  }
+}

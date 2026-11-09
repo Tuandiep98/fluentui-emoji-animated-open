@@ -1,0 +1,46 @@
+{
+  "id": "blouse",
+  "name": "blouse",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "blouse"
+    },
+    "vi": {
+      "text": "áo kiểu"
+    },
+    "zh-Hans": {
+      "text": "女式衬衫",
+      "reading": "nǚshì chènshān"
+    },
+    "ja": {
+      "text": "ブラウス",
+      "reading": "burausu"
+    },
+    "ko": {
+      "text": "블라우스",
+      "reading": "beullauseu"
+    },
+    "es": {
+      "text": "la blusa"
+    },
+    "fr": {
+      "text": "le chemisier"
+    },
+    "de": {
+      "text": "die Bluse"
+    },
+    "id": {
+      "text": "blus"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

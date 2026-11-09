@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. A soft highlight travels across the leather; shoe structure and soles stay fixed.",
+  "hashes": {
+    "source.png": "3acc46f5148079ae09e7b33b2d37ace0af96d74fae2de5b61d43fd5a9adad0c3",
+    "still.png": "e6109267a35778ee4109718156e5eede81ca8c728c87313d0ab6054c4a0b2211",
+    "still.webp": "a09ef4e385c97d056f251b0c949fd3b9c500caae31b7c631b8e36ebe029444da",
+    "animated.avif": "326b3d67e198b2d6314e3fda389200bf4c2e21c8fb76eaf9b644353630913b5e",
+    "motion.json": "de0d51a6c3a9bfcbeee860f33a4d604c088b2e00341df35858c9b9b71aba6200",
+    "meta.json": "a0564bd4cd74a8c9bea9c231dfe0d7659b0a13d72fec90c1e4ce017f6b8dce3e"
+  }
+}

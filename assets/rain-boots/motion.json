@@ -1,0 +1,15 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": ["glint"],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [172, 45],
+      "radius": [43, 20],
+      "amp": 1.3
+    }
+  ],
+  "glintAlpha": 0.09,
+  "note": "Chuyển động nhẹ ở cổ giày hoặc dây giày; đế giữ chắc, không làm toàn chiếc giày thành cao su."
+}

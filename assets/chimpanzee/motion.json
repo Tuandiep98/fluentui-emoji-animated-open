@@ -1,0 +1,15 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [128, 76],
+      "radius": [47, 48],
+      "amp": 2,
+      "pivot": [128, 111]
+    }
+  ],
+  "note": "Chớp mắt và nghiêng đầu; tay chân không thay tỷ lệ."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "musk-ox",
+  "name": "musk ox",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "musk ox"
+    },
+    "vi": {
+      "text": "con bò xạ hương"
+    },
+    "zh-Hans": {
+      "text": "麝牛",
+      "reading": "shèniú"
+    },
+    "ja": {
+      "text": "ジャコウウシ",
+      "reading": "jakōushi"
+    },
+    "ko": {
+      "text": "사향소",
+      "reading": "sahyangso"
+    },
+    "es": {
+      "text": "el buey almizclero"
+    },
+    "fr": {
+      "text": "le bœuf musqué"
+    },
+    "de": {
+      "text": "der Moschusochse"
+    },
+    "id": {
+      "text": "lembu kesturi"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

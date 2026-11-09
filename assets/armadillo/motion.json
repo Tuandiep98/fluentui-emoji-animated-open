@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [61, 134],
+      "radius": [43, 40],
+      "amp": 2.5,
+      "pivot": [103, 139]
+    },
+    {
+      "kind": "wave",
+      "center": [221, 164],
+      "radius": [23, 14],
+      "amp": 1.5
+    }
+  ],
+  "note": "Đầu cúi nhẹ, đuôi chỉnh nhỏ; các đốt giáp không co giãn."
+}

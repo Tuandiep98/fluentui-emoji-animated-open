@@ -1,0 +1,46 @@
+{
+  "id": "adhesive-tape",
+  "name": "adhesive tape",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "adhesive tape"
+    },
+    "vi": {
+      "text": "băng dính"
+    },
+    "zh-Hans": {
+      "text": "胶带",
+      "reading": "jiāodài"
+    },
+    "ja": {
+      "text": "セロハンテープ",
+      "reading": "serohan tēpu"
+    },
+    "ko": {
+      "text": "접착테이프",
+      "reading": "jeopchak teipeu"
+    },
+    "es": {
+      "text": "la cinta adhesiva"
+    },
+    "fr": {
+      "text": "le ruban adhésif"
+    },
+    "de": {
+      "text": "das Klebeband"
+    },
+    "id": {
+      "text": "pita perekat"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

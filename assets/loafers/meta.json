@@ -1,0 +1,46 @@
+{
+  "id": "loafers",
+  "name": "loafers",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "loafers"
+    },
+    "vi": {
+      "text": "giày lười"
+    },
+    "zh-Hans": {
+      "text": "乐福鞋",
+      "reading": "lèfúxié"
+    },
+    "ja": {
+      "text": "ローファー",
+      "reading": "rōfā"
+    },
+    "ko": {
+      "text": "로퍼",
+      "reading": "ropeo"
+    },
+    "es": {
+      "text": "los mocasines"
+    },
+    "fr": {
+      "text": "les mocassins"
+    },
+    "de": {
+      "text": "die Slipper"
+    },
+    "id": {
+      "text": "sepatu loafer"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

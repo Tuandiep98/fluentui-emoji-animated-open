@@ -1,0 +1,46 @@
+{
+  "id": "okapi",
+  "name": "okapi",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "okapi"
+    },
+    "vi": {
+      "text": "con hươu đùi vằn"
+    },
+    "zh-Hans": {
+      "text": "霍加狓",
+      "reading": "huòjiāpī"
+    },
+    "ja": {
+      "text": "オカピ",
+      "reading": "okapi"
+    },
+    "ko": {
+      "text": "오카피",
+      "reading": "okapi"
+    },
+    "es": {
+      "text": "el okapi"
+    },
+    "fr": {
+      "text": "l'okapi"
+    },
+    "de": {
+      "text": "das Okapi"
+    },
+    "id": {
+      "text": "okapi"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

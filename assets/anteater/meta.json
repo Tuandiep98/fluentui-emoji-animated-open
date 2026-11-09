@@ -1,0 +1,46 @@
+{
+  "id": "anteater",
+  "name": "anteater",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "anteater"
+    },
+    "vi": {
+      "text": "con thú ăn kiến"
+    },
+    "zh-Hans": {
+      "text": "食蚁兽",
+      "reading": "shíyǐshòu"
+    },
+    "ja": {
+      "text": "アリクイ",
+      "reading": "arikui"
+    },
+    "ko": {
+      "text": "개미핥기",
+      "reading": "gaemihalkki"
+    },
+    "es": {
+      "text": "el oso hormiguero"
+    },
+    "fr": {
+      "text": "le fourmilier"
+    },
+    "de": {
+      "text": "der Ameisenbär"
+    },
+    "id": {
+      "text": "pemakan semut"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [157, 59],
+      "radius": [49, 46],
+      "amp": 2.2,
+      "pivot": [152, 104]
+    },
+    {
+      "kind": "press",
+      "center": [214, 147],
+      "radius": [27, 20],
+      "amp": 1.2
+    }
+  ],
+  "note": "Tai dài xoay nhẹ khi ngửi; giữ mõm và lưng cong khác thú ăn kiến."
+}

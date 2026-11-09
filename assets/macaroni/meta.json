@@ -1,0 +1,46 @@
+{
+  "id": "macaroni",
+  "name": "macaroni",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "macaroni"
+    },
+    "vi": {
+      "text": "nui"
+    },
+    "zh-Hans": {
+      "text": "通心粉",
+      "reading": "tōngxīnfěn"
+    },
+    "ja": {
+      "text": "マカロニ",
+      "reading": "makaroni"
+    },
+    "ko": {
+      "text": "마카로니",
+      "reading": "makaroni"
+    },
+    "es": {
+      "text": "los macarrones"
+    },
+    "fr": {
+      "text": "les macaronis"
+    },
+    "de": {
+      "text": "die Makkaroni"
+    },
+    "id": {
+      "text": "makaroni"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

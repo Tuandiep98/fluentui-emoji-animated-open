@@ -1,0 +1,46 @@
+{
+  "id": "chalk",
+  "name": "chalk",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "chalk"
+    },
+    "vi": {
+      "text": "viên phấn"
+    },
+    "zh-Hans": {
+      "text": "粉笔",
+      "reading": "fěnbǐ"
+    },
+    "ja": {
+      "text": "チョーク",
+      "reading": "chōku"
+    },
+    "ko": {
+      "text": "분필",
+      "reading": "bunpil"
+    },
+    "es": {
+      "text": "la tiza"
+    },
+    "fr": {
+      "text": "la craie"
+    },
+    "de": {
+      "text": "die Kreide"
+    },
+    "id": {
+      "text": "kapur tulis"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

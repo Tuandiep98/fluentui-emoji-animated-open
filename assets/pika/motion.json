@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [71, 44],
+      "radius": [31, 30],
+      "amp": 2.8,
+      "pivot": [88, 66]
+    },
+    {
+      "kind": "rotate",
+      "center": [169, 41],
+      "radius": [30, 26],
+      "amp": -2.8,
+      "pivot": [151, 61]
+    }
+  ],
+  "note": "Tai tròn giật nhẹ, mũi cử động; giữ thân nhỏ và không thêm đuôi dài."
+}

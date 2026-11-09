@@ -1,3 +1,4 @@
+import { CATEGORY_IDS } from './categories.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
@@ -5,7 +6,7 @@ import sharp from 'sharp';
 import { ids,asset,read,resolve,snapshot } from './lib.mjs';
 export async function checkAsset(id,{decode=true,review=true}={}) {
   const dir=asset(id),meta=read(path.join(dir,'meta.json')),r=read(path.join(dir,'motion.json'));
-  if(meta.id!==id||!meta.name||!['home','kitchen','garden','produce','meals','other'].includes(meta.category)||meta.license!=='MIT')throw Error(`${id}: invalid metadata`);
+  if(meta.id!==id||!meta.name||!CATEGORY_IDS.includes(meta.category)||meta.license!=='MIT')throw Error(`${id}: invalid metadata`);
   for(const file of ['still.png','still.webp']){const m=await sharp(path.join(dir,file)).metadata();if(m.width!==256||m.height!==256||!m.hasAlpha)throw Error(`${id}/${file}: needs 256×256 alpha`)}
   const output=path.join(dir,'animated.avif');
   if(fs.statSync(output).size>60*1024)throw Error(`${id}: AVIF exceeds60KiB`);

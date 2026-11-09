@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [206, 129],
+      "radius": [41, 33],
+      "amp": 2,
+      "pivot": [179, 120]
+    },
+    {
+      "kind": "wave",
+      "center": [40, 114],
+      "radius": [31, 60],
+      "amp": 1.5
+    }
+  ],
+  "note": "Mõm dài cúi ngửi nhẹ; đuôi rậm giữ hình và chân giữ đất."
+}

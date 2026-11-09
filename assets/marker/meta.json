@@ -1,0 +1,46 @@
+{
+  "id": "marker",
+  "name": "marker",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "marker"
+    },
+    "vi": {
+      "text": "bút dạ"
+    },
+    "zh-Hans": {
+      "text": "马克笔",
+      "reading": "mǎkèbǐ"
+    },
+    "ja": {
+      "text": "マーカー",
+      "reading": "mākā"
+    },
+    "ko": {
+      "text": "마커",
+      "reading": "makeo"
+    },
+    "es": {
+      "text": "el rotulador"
+    },
+    "fr": {
+      "text": "le feutre"
+    },
+    "de": {
+      "text": "der Filzstift"
+    },
+    "id": {
+      "text": "spidol"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

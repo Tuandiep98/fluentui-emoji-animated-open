@@ -1,0 +1,46 @@
+{
+  "id": "tape-dispenser",
+  "name": "tape dispenser",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "tape dispenser"
+    },
+    "vi": {
+      "text": "đế cắt băng dính"
+    },
+    "zh-Hans": {
+      "text": "胶带座",
+      "reading": "jiāodàizuò"
+    },
+    "ja": {
+      "text": "テープカッター",
+      "reading": "tēpu kattā"
+    },
+    "ko": {
+      "text": "테이프 커터",
+      "reading": "teipeu keoteo"
+    },
+    "es": {
+      "text": "el dispensador de cinta"
+    },
+    "fr": {
+      "text": "le dévidoir de ruban adhésif"
+    },
+    "de": {
+      "text": "der Klebebandabroller"
+    },
+    "id": {
+      "text": "dispenser pita perekat"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

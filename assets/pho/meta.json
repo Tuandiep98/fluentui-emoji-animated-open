@@ -1,0 +1,46 @@
+{
+  "id": "pho",
+  "name": "pho",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "pho"
+    },
+    "vi": {
+      "text": "phở"
+    },
+    "zh-Hans": {
+      "text": "越南河粉",
+      "reading": "yuènán héfěn"
+    },
+    "ja": {
+      "text": "フォー",
+      "reading": "fō"
+    },
+    "ko": {
+      "text": "퍼",
+      "reading": "peo"
+    },
+    "es": {
+      "text": "el pho"
+    },
+    "fr": {
+      "text": "le pho"
+    },
+    "de": {
+      "text": "die Pho-Suppe"
+    },
+    "id": {
+      "text": "pho"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

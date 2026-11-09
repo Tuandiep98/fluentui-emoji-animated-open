@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [98, 194],
+      "radius": [25, 39],
+      "amp": 1.7
+    },
+    {
+      "kind": "wave",
+      "center": [157, 196],
+      "radius": [23, 39],
+      "amp": -1.4
+    }
+  ],
+  "note": "Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của tights."
+}

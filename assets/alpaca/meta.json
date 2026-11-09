@@ -1,0 +1,46 @@
+{
+  "id": "alpaca",
+  "name": "alpaca",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "alpaca"
+    },
+    "vi": {
+      "text": "con lạc đà alpaca"
+    },
+    "zh-Hans": {
+      "text": "羊驼",
+      "reading": "yángtuó"
+    },
+    "ja": {
+      "text": "アルパカ",
+      "reading": "arupaka"
+    },
+    "ko": {
+      "text": "알파카",
+      "reading": "alpaka"
+    },
+    "es": {
+      "text": "la alpaca"
+    },
+    "fr": {
+      "text": "l'alpaga"
+    },
+    "de": {
+      "text": "das Alpaka"
+    },
+    "id": {
+      "text": "alpaka"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. The front shoe laces shift gently; soles and shoe panels remain rigid.",
+  "hashes": {
+    "source.png": "8a66cdd39a0fc0cbdf04b42c520420042929c36cfe1122dfc24259af2df8125a",
+    "still.png": "75a68b0f92f4a85e46b5adcd35e798a423ec19ee67995ffe531a4070a788e33b",
+    "still.webp": "e85faf0b09442dfcd77d6e34f0c878c6f26d0e1c0774abd3b845801be286be19",
+    "animated.avif": "9088c1a18ba3a59781e2b6becfb1943d6b9a71c15e9d61fb8136182d45a7fa44",
+    "motion.json": "8164a7d4c89ad65e23ce61531aee402876c558de6e57ba6dd8755adeaad5b0ea",
+    "meta.json": "4e0581f525a95c56412f353beaeb01fd94da7c4e0c9429a46642d9649c8503fa"
+  }
+}

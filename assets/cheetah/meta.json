@@ -1,0 +1,46 @@
+{
+  "id": "cheetah",
+  "name": "cheetah",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "cheetah"
+    },
+    "vi": {
+      "text": "con báo săn"
+    },
+    "zh-Hans": {
+      "text": "猎豹",
+      "reading": "lièbào"
+    },
+    "ja": {
+      "text": "チーター",
+      "reading": "chītā"
+    },
+    "ko": {
+      "text": "치타",
+      "reading": "chita"
+    },
+    "es": {
+      "text": "el guepardo"
+    },
+    "fr": {
+      "text": "le guépard"
+    },
+    "de": {
+      "text": "der Gepard"
+    },
+    "id": {
+      "text": "citah"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

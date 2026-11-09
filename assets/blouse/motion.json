@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [128, 218],
+      "radius": [83, 24],
+      "amp": 2.6
+    },
+    {
+      "kind": "wave",
+      "center": [43, 78],
+      "radius": [25, 35],
+      "amp": -1.5
+    }
+  ],
+  "note": "Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của blouse."
+}

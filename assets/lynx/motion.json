@@ -1,0 +1,22 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [97, 42],
+      "radius": [24, 27],
+      "amp": 2.6,
+      "pivot": [107, 67]
+    },
+    {
+      "kind": "rotate",
+      "center": [153, 41],
+      "radius": [25, 27],
+      "amp": -2.6,
+      "pivot": [144, 67]
+    }
+  ],
+  "note": "Chùm lông tai rung nhẹ; giữ má rộng và đuôi ngắn."
+}

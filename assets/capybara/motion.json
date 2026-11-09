@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [108, 36],
+      "radius": [26, 20],
+      "amp": 3,
+      "pivot": [114, 53]
+    },
+    {
+      "kind": "press",
+      "center": [49, 83],
+      "radius": [36, 23],
+      "amp": 1
+    }
+  ],
+  "note": "Tai nhỏ rung một nhịp và thở nhẹ; đầu vuông, chân ngắn giữ rõ."
+}

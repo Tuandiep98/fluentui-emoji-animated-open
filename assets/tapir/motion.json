@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [55, 113],
+      "radius": [41, 44],
+      "amp": 2,
+      "pivot": [90, 125]
+    },
+    {
+      "kind": "press",
+      "center": [31, 151],
+      "radius": [23, 22],
+      "amp": 1.5
+    }
+  ],
+  "note": "Vòi ngắn cử động nhỏ; thân, chân và mảng màu giữ cố định."
+}

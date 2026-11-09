@@ -1,0 +1,14 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "wave",
+      "center": [200, 157],
+      "radius": [38, 66],
+      "amp": 2.8
+    }
+  ],
+  "note": "Đuôi khoang rung nhẹ; giữ các vòng màu và mặt đặc trưng."
+}

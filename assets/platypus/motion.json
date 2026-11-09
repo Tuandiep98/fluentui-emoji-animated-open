@@ -1,0 +1,20 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "press",
+      "center": [54, 122],
+      "radius": [42, 24],
+      "amp": 1.7
+    },
+    {
+      "kind": "wave",
+      "center": [214, 151],
+      "radius": [35, 31],
+      "amp": 1.8
+    }
+  ],
+  "note": "Mỏ và đầu nghiêng nhẹ; giữ đuôi dẹt và chân có màng."
+}

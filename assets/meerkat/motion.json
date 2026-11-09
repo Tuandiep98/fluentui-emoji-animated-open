@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [126, 50],
+      "radius": [43, 45],
+      "amp": 2,
+      "pivot": [128, 88]
+    },
+    {
+      "kind": "wave",
+      "center": [188, 222],
+      "radius": [39, 15],
+      "amp": 1.5
+    }
+  ],
+  "note": "Quan sát nhẹ sang một bên trong tư thế đứng; hai chân giữ điểm tựa."
+}

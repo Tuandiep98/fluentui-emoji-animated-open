@@ -1,0 +1,46 @@
+{
+  "id": "tracksuit",
+  "name": "tracksuit",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "tracksuit"
+    },
+    "vi": {
+      "text": "bộ đồ thể thao"
+    },
+    "zh-Hans": {
+      "text": "运动服",
+      "reading": "yùndòngfú"
+    },
+    "ja": {
+      "text": "ジャージ",
+      "reading": "jājī"
+    },
+    "ko": {
+      "text": "운동복",
+      "reading": "undongbok"
+    },
+    "es": {
+      "text": "el chándal"
+    },
+    "fr": {
+      "text": "le survêtement"
+    },
+    "de": {
+      "text": "der Trainingsanzug"
+    },
+    "id": {
+      "text": "baju olahraga"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "wallaby",
+  "name": "wallaby",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "wallaby"
+    },
+    "vi": {
+      "text": "con chuột túi nhỏ"
+    },
+    "zh-Hans": {
+      "text": "小袋鼠",
+      "reading": "xiǎo dàishǔ"
+    },
+    "ja": {
+      "text": "ワラビー",
+      "reading": "warabī"
+    },
+    "ko": {
+      "text": "왈라비",
+      "reading": "wallabi"
+    },
+    "es": {
+      "text": "el ualabí"
+    },
+    "fr": {
+      "text": "le wallaby"
+    },
+    "de": {
+      "text": "das Wallaby"
+    },
+    "id": {
+      "text": "walabi"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

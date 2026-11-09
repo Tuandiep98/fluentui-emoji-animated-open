@@ -1,0 +1,46 @@
+{
+  "id": "muffin",
+  "name": "muffin",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "muffin"
+    },
+    "vi": {
+      "text": "bánh muffin"
+    },
+    "zh-Hans": {
+      "text": "玛芬",
+      "reading": "mǎfēn"
+    },
+    "ja": {
+      "text": "マフィン",
+      "reading": "mafin"
+    },
+    "ko": {
+      "text": "머핀",
+      "reading": "meopin"
+    },
+    "es": {
+      "text": "el muffin"
+    },
+    "fr": {
+      "text": "le muffin"
+    },
+    "de": {
+      "text": "der Muffin"
+    },
+    "id": {
+      "text": "muffin"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

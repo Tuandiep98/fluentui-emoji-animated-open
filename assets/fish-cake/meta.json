@@ -1,0 +1,46 @@
+{
+  "id": "fish-cake",
+  "name": "fish cake",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "fish cake"
+    },
+    "vi": {
+      "text": "chả cá"
+    },
+    "zh-Hans": {
+      "text": "鱼饼",
+      "reading": "yúbǐng"
+    },
+    "ja": {
+      "text": "さつまあげ",
+      "reading": "satsuma age"
+    },
+    "ko": {
+      "text": "어묵",
+      "reading": "eomuk"
+    },
+    "es": {
+      "text": "el pastel de pescado"
+    },
+    "fr": {
+      "text": "la galette de poisson"
+    },
+    "de": {
+      "text": "die Fischfrikadelle"
+    },
+    "id": {
+      "text": "perkedel ikan"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

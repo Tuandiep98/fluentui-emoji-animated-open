@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. A small light reflection moves over the plastic; nozzle and bottle stay rigid.",
+  "hashes": {
+    "source.png": "127d3e16478ba4b350fc18c22f31ba3d323a012db1049b4646bd0b2911ecc805",
+    "still.png": "acdd177c7cb0350f8a568a002e5cfc6b77071d2bb722254320b14c6608772395",
+    "still.webp": "94339721430653a41aea0ecdf5b22f760db1ff2fcb62fc1a5802ba1fc2b2525c",
+    "animated.avif": "ed88643a2b5c7f58a2d576d6c117a2a16b8315d6930b867f384e830394109a60",
+    "motion.json": "a7e02844cc229959733ad97923354e150c818c456b02b48cb38b879bae315f63",
+    "meta.json": "426a46b3ddc9eb359c97f021f9e57ed0047d53daa7af2f965777dab50274e366"
+  }
+}

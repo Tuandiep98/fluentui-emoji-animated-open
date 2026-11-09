@@ -1,0 +1,21 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [76, 39],
+      "radius": [36, 28],
+      "amp": 2.3,
+      "pivot": [91, 68]
+    },
+    {
+      "kind": "wave",
+      "center": [186, 214],
+      "radius": [51, 14],
+      "amp": 1.8
+    }
+  ],
+  "note": "Tai và đuôi chỉnh nhẹ; chân sau giữ vị trí, không nhảy khỏi khung."
+}

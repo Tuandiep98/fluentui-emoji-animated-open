@@ -1,0 +1,46 @@
+{
+  "id": "meatball",
+  "name": "meatball",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "meatball"
+    },
+    "vi": {
+      "text": "viên thịt"
+    },
+    "zh-Hans": {
+      "text": "肉丸",
+      "reading": "ròuwán"
+    },
+    "ja": {
+      "text": "ミートボール",
+      "reading": "mīto bōru"
+    },
+    "ko": {
+      "text": "미트볼",
+      "reading": "miteubol"
+    },
+    "es": {
+      "text": "la albóndiga"
+    },
+    "fr": {
+      "text": "la boulette de viande"
+    },
+    "de": {
+      "text": "das Fleischbällchen"
+    },
+    "id": {
+      "text": "bakso"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

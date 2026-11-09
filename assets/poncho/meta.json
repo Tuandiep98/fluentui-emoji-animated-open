@@ -1,0 +1,46 @@
+{
+  "id": "poncho",
+  "name": "poncho",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "poncho"
+    },
+    "vi": {
+      "text": "áo choàng poncho"
+    },
+    "zh-Hans": {
+      "text": "套头斗篷",
+      "reading": "tàotóu dǒupéng"
+    },
+    "ja": {
+      "text": "ポンチョ",
+      "reading": "poncho"
+    },
+    "ko": {
+      "text": "판초",
+      "reading": "pancho"
+    },
+    "es": {
+      "text": "el poncho"
+    },
+    "fr": {
+      "text": "le poncho"
+    },
+    "de": {
+      "text": "der Poncho"
+    },
+    "id": {
+      "text": "ponco"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

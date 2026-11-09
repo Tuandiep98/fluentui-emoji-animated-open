@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Ánh sáng lướt mặt bánh; lát bánh, đế và topping không trượt.",
+  "hashes": {
+    "source.png": "a570eca7c0cf31c9ad7c19aa0604c6035414668d880dcb84994dd25bb8f599b4",
+    "still.png": "9f9467a9ce82e70a4ab20ba5ac09b73c77fb4cef6054ee988aeaad1e86a400a5",
+    "still.webp": "f3bb22a960cc072eb1ab35640849f620d1d6ca36b18b9045639362c35e33d163",
+    "animated.avif": "489a4fc28f27600a427d52adcacf58b8fb0835c5319407b6ddcbf2d693328ab8",
+    "motion.json": "979ecbd7d372384f73c8f447cfafaaf69e9ec63759884f38d1485fc37e2a8987",
+    "meta.json": "6fa2c4cb407d3e212b548365437e6ad34e1ad2b2a636905f9574ea17ed49619a"
+  }
+}

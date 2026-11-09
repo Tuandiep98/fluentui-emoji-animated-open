@@ -1,0 +1,46 @@
+{
+  "id": "caracal",
+  "name": "caracal",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "caracal"
+    },
+    "vi": {
+      "text": "con linh miêu tai đen"
+    },
+    "zh-Hans": {
+      "text": "狞猫",
+      "reading": "níngmāo"
+    },
+    "ja": {
+      "text": "カラカル",
+      "reading": "karakaru"
+    },
+    "ko": {
+      "text": "카라칼",
+      "reading": "karakal"
+    },
+    "es": {
+      "text": "el caracal"
+    },
+    "fr": {
+      "text": "le caracal"
+    },
+    "de": {
+      "text": "der Karakal"
+    },
+    "id": {
+      "text": "karakal"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Đỉnh muffin chuyển động cực nhẹ; phần giấy lót giữ cố định.",
+  "hashes": {
+    "source.png": "86b42783c30035b769f859bd9e919600e6535a495bfd8e33526e9a1c6de59d79",
+    "still.png": "08af7cb9f32f897e5c17192b7b5d274920b8f692e33dc3dbc972d8d53773fdb3",
+    "still.webp": "5e146ad6fca3abbb149554fb1d56b6c675f1c2dada6a3f6e01e7c78a20d1d96a",
+    "animated.avif": "b91e671fdc4fe0a7dce250636b30881314b6aa6d4cd5f10602675af45676a9d9",
+    "motion.json": "6cb89f6bf1013f6494622388e55e6bcd99710a32ac2f6203e05b2d8bcdae3291",
+    "meta.json": "0b7841128817236719400bdef31cb74f6e4d128777e0f6f52e9bb652fb4df762"
+  }
+}

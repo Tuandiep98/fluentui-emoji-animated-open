@@ -1,0 +1,46 @@
+{
+  "id": "hole-punch",
+  "name": "hole punch",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "hole punch"
+    },
+    "vi": {
+      "text": "cái đục lỗ giấy"
+    },
+    "zh-Hans": {
+      "text": "打孔器",
+      "reading": "dǎkǒngqì"
+    },
+    "ja": {
+      "text": "あなあけパンチ",
+      "reading": "anaake panchi"
+    },
+    "ko": {
+      "text": "구멍 펀치",
+      "reading": "gumeong peonchi"
+    },
+    "es": {
+      "text": "la perforadora"
+    },
+    "fr": {
+      "text": "la perforatrice"
+    },
+    "de": {
+      "text": "der Locher"
+    },
+    "id": {
+      "text": "pelubang kertas"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

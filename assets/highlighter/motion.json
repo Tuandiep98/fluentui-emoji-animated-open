@@ -1,0 +1,9 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [
+    "glint"
+  ],
+  "glintAlpha": 0.12,
+  "note": "A brief material highlight; the chisel nib and barrel keep their shape."
+}

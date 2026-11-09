@@ -1,0 +1,24 @@
+{
+  "fps": 16,
+  "preset": "still",
+  "fx": [],
+  "regions": [
+    {
+      "kind": "rotate",
+      "center": [
+        140,
+        80
+      ],
+      "radius": [
+        31,
+        26
+      ],
+      "amp": 3,
+      "pivot": [
+        136,
+        96
+      ]
+    }
+  ],
+  "note": "Cuộn bên trong quay rất ít; đế và răng cắt cố định."
+}

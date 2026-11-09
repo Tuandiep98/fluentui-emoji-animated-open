@@ -1,0 +1,13 @@
+{
+  "reviewedOn": "2026-11-09",
+  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Một khối bánh mì nảy rất thấp; giữ các cạnh giòn, không squash/stretch.",
+  "hashes": {
+    "source.png": "ef813e501114c563b3373855cdce9a326d6274328751a9133a976366434fbdf6",
+    "still.png": "80db4340087abd53b6670ae9b31f30a042d94cfb65a6d85e42268e2cb4c85299",
+    "still.webp": "227a85c70d9a98177dbfa7fc2c79faab6cb83e86378ffe45159b41fe38f5f16f",
+    "animated.avif": "dd4822aeff0505d8f995dcc784f1b9ea3a5787c4de622fcee3e1ebe2a7b2881f",
+    "motion.json": "50e3a446ca839dabb7ade2e524dacb96753100dc1df3f5a741c1b5901b02f16e",
+    "meta.json": "644bb611cdbe0fd1e51bce937ce6e803cb315490495236ce02d88edd8761a0ca"
+  }
+}

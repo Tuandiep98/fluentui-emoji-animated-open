@@ -1,0 +1,46 @@
+{
+  "id": "highlighter",
+  "name": "highlighter",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "highlighter"
+    },
+    "vi": {
+      "text": "bút đánh dấu"
+    },
+    "zh-Hans": {
+      "text": "荧光笔",
+      "reading": "yíngguāngbǐ"
+    },
+    "ja": {
+      "text": "けいこうペン",
+      "reading": "keikō pen"
+    },
+    "ko": {
+      "text": "형광펜",
+      "reading": "hyeonggwangpen"
+    },
+    "es": {
+      "text": "el subrayador"
+    },
+    "fr": {
+      "text": "le surligneur"
+    },
+    "de": {
+      "text": "der Textmarker"
+    },
+    "id": {
+      "text": "pena penyorot"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-b",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}

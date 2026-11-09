@@ -1,0 +1,46 @@
+{
+  "id": "chimpanzee",
+  "name": "chimpanzee",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "chimpanzee"
+    },
+    "vi": {
+      "text": "con tinh tinh"
+    },
+    "zh-Hans": {
+      "text": "黑猩猩",
+      "reading": "hēixīngxing"
+    },
+    "ja": {
+      "text": "チンパンジー",
+      "reading": "chinpanjī"
+    },
+    "ko": {
+      "text": "침팬지",
+      "reading": "chimpaenji"
+    },
+    "es": {
+      "text": "el chimpancé"
+    },
+    "fr": {
+      "text": "le chimpanzé"
+    },
+    "de": {
+      "text": "der Schimpanse"
+    },
+    "id": {
+      "text": "simpanse"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-100-a",
+  "addedAt": "2026-11-09",
+  "status": "ready"
+}
