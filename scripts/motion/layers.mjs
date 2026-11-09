@@ -1,8 +1,13 @@
 // Rigid parts rotate/slide around measured joints while the remaining artwork stays fixed.
+import { sampleTrack, validateTrack } from "./tracks.mjs";
 import { beat, settle } from "./presets.mjs";
 
 export function checkLayers(layers = []) {
   for (const part of layers) {
+    for (const [key,track] of Object.entries(part.tracks ?? {})) {
+      if (!["angle","x","y"].includes(key)) throw new Error("Unknown rigid layer channel");
+      validateTrack(track,key === "angle" ? -15 : -8,key === "angle" ? 15 : 8);
+    }
     if (
       !Array.isArray(part.polygon) ||
       part.polygon.length < 3 ||
@@ -30,7 +35,7 @@ export function checkLayers(layers = []) {
 
 export function layeredImage(data, layers, t) {
   const image = `<image width="256" height="256" href="data:image/png;base64,${data}"/>`;
-  if (!layers.length || t === 0 || t >= 0.88) return image;
+  if (!layers.length || t === 0 || (t >= 0.88 && !layers.some(part => part.tracks))) return image;
   const amount = beat(t, 0.06, 0.68) + 0.08 * settle(t, 0.68);
   const shapes = layers.map(
     (part, i) =>
@@ -46,9 +51,9 @@ export function layeredImage(data, layers, t) {
     .join("");
   const pieces = layers
     .map((part, i) => {
-      const angle = (part.angle ?? 0) * amount;
-      const x = (part.x ?? 0) * amount,
-        y = (part.y ?? 0) * amount;
+      const angle = part.tracks?.angle ? sampleTrack(part.tracks.angle,t*3) : (part.angle ?? 0) * amount;
+      const x = part.tracks?.x ? sampleTrack(part.tracks.x,t*3) : (part.x ?? 0) * amount,
+        y = part.tracks?.y ? sampleTrack(part.tracks.y,t*3) : (part.y ?? 0) * amount;
       return `<g transform="translate(${x} ${y}) rotate(${angle} ${part.pivot[0]} ${part.pivot[1]})"><g clip-path="url(#clip-${i})">${image}</g></g>`;
     })
     .join("");

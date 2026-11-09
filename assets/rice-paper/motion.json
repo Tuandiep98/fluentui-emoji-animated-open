@@ -1,14 +1,92 @@
 {
-  "fps": 16,
+  "fps": 24,
   "preset": "still",
   "fx": [],
   "regions": [
     {
       "kind": "wave",
-      "center": [204, 152],
-      "radius": [27, 64],
-      "amp": 2.2
+      "center": [
+        216,
+        160
+      ],
+      "radius": [
+        50,
+        95
+      ],
+      "amp": 7,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.25,
+          -1.5
+        ],
+        [
+          0.75,
+          7
+        ],
+        [
+          1.3,
+          -4
+        ],
+        [
+          1.9,
+          2
+        ],
+        [
+          2.4,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "kind": "wave",
+      "center": [
+        147,
+        221
+      ],
+      "radius": [
+        70,
+        34
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.45,
+          0
+        ],
+        [
+          1,
+          -4
+        ],
+        [
+          1.5,
+          2
+        ],
+        [
+          2.1,
+          -1
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
-  "note": "Mép bánh tráng rung rất nhẹ; giữ dạng tấm mỏng trong mờ, không thành tortilla."
+  "note": "Refinement: the translucent rice-paper leading edge flexes with a delayed lower-edge response; fixed central lattice, thin dry-sheet stiffness and transparency are preserved."
 }

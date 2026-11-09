@@ -1,20 +1,93 @@
 {
-  "fps": 16,
+  "fps": 24,
   "preset": "still",
   "fx": [],
   "regions": [
     {
       "kind": "wave",
-      "center": [128, 217],
-      "radius": [76, 25],
-      "amp": 2
+      "center": [
+        128,
+        217
+      ],
+      "radius": [
+        76,
+        25
+      ],
+      "amp": 4.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -1.1
+        ],
+        [
+          0.65,
+          4.4
+        ],
+        [
+          1.15,
+          -3.08
+        ],
+        [
+          1.65,
+          1.54
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     },
     {
       "kind": "wave",
-      "center": [111, 151],
-      "radius": [18, 32],
-      "amp": 1.8
+      "center": [
+        111,
+        151
+      ],
+      "radius": [
+        18,
+        32
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.28,
+          1
+        ],
+        [
+          0.73,
+          -4
+        ],
+        [
+          1.23,
+          2.8
+        ],
+        [
+          1.73,
+          -1.4
+        ],
+        [
+          2.33,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
-  "note": "Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của bathrobe."
+  "note": "Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.",
+  "pivot": "top"
 }

@@ -1,9 +1,10 @@
 {
-  "fps": 16,
+  "fps": 24,
   "preset": "still",
   "fx": [
-    "glint"
+    "board-stroke"
   ],
   "glintAlpha": 0.08,
-  "note": "Ánh sáng nhẹ trên mặt bảng trắng; khung đứng yên, không sinh chữ."
+  "note": "Refinement: a temporary writing stroke draws and clears on the board surface.",
+  "strokeColor": "#2787C7"
 }

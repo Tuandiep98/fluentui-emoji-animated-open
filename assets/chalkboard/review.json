@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Ánh sáng dịu ở một góc mặt bảng; không sinh chữ, khung đứng yên.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: a temporary writing stroke draws and clears on the board surface. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "242d139b2a7b227b23077c04236f11c10128cc710b02c629e224c0a9356c54ec",
     "still.png": "20101ad1847c6f474b8ca2415d47ad121c44bf3b300e2ce168d482fd60d68934",
     "still.webp": "42a2b8c9d9de76c79c34ce8e738c4921259d7be7ee78f26e0dd14b74de25a483",
-    "animated.avif": "4584faf30e5590746a7a9343baffa3ff6f3d36fa32064c7661d2c1f44ddd80d7",
-    "motion.json": "08e8dd57036c39cd48e0d7bfa7766d3165c1adc592ea3696a09c66f4601f3209",
+    "animated.avif": "f666ee4ad8885b06ab8701e810f642dee07396e95d8755e947aa63d11796ad78",
+    "motion.json": "2cfc68d0518f5a035ef030c41990940d50dc3bc339eebd8ff4fedc345cce9cca",
     "meta.json": "a8af5897cab44073a6044ff8d4967fc7bf5faa3764e503a94cacb046f7ed44c2"
   }
 }

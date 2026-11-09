@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Đầu dây kéo chuyển động nhỏ theo đường khóa; không mở rách thân hộp.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Cutout refinement for pencil-case: complete fixed base and independent moving part; painted overlap at joint. Per-part eased use gesture; rigid hardware/paper faces stay intact. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "2ba55bfd5819c1e200427b8cf17c48900e14fe30d56d93609bdf577e296f8008",
-    "still.png": "708868b67ec52ad0653dd16381988d373550280c4a5e664caa937f984058dbdf",
-    "still.webp": "9cd5f1411fe51e1907b34b235f497dfb71a371268c4343ed743112f5c5c1b747",
-    "animated.avif": "5cc3365718d13fa1c487e152b7901813ba3eaac9f2cc8da6965dd0d2045477fe",
-    "motion.json": "bd98cc9ac1fa5eeed0b11d93a96e1dfcfdd07689c0f8e380b42a4a45d6841adb",
-    "meta.json": "67f274334520313ac4f22d55b7f7b9d78e574d2800e943ad82f248ed08bd41f1"
+    "source.png": "a4c6b2fb747dea65b3ad75a5472c18f7c8c3e715590e17570967931b14c8848f",
+    "still.png": "19c8df5523eb6d649ee2b7da6aee40f7dc7152741612dbcc01abed28fc1c8fa8",
+    "still.webp": "4ec340896976ce51b3e0d6f73899ba113822d456d73fede425434fb702d90231",
+    "animated.avif": "f0a053b090e9c7feffd51ffed4ee167ad99b5584ef22197a830ad67673e2c61f",
+    "motion.json": "b748f9afc332b7933ea0c7a25bb6ab592d1404f6c0e0fcc0d453e80158864942",
+    "meta.json": "67f274334520313ac4f22d55b7f7b9d78e574d2800e943ad82f248ed08bd41f1",
+    "rig-source.png": "cf2ffdb6750abe0c35afa6fd4951aaf166605a5eba511bf5d1829df4493a5d6e"
   }
 }

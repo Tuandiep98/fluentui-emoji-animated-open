@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import { renderCutoutFrames } from "./cutout.mjs";
+import { poseTracks } from "./tracks.mjs";
 import path from "node:path";
 import sharp from "sharp";
 import { transform } from "./presets.mjs";
@@ -64,7 +65,7 @@ export async function renderFrames(
   const frames = (recipe.fps ?? 24) * 3;
   for (let frame = 0; frame < frames; frame++) {
     const t = frame / frames;
-    const p = transform(recipe.preset, t, recipe);
+    const p = { ...transform(recipe.preset, t, recipe), ...poseTracks(recipe.tracks, t * 3) };
     const fx = effects(id, recipe, t, box);
     const matrix = `translate(${f(pivot.x + p.x)} ${f(pivot.y + p.y)}) rotate(${f(p.rotation)}) scale(${f(p.sx)} ${f(p.sy)}) translate(${-f(pivot.x)} ${-f(pivot.y)})`;
     const frameData =

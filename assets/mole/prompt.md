@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Mũi động nhẹ và một bàn chân trước chỉnh nhỏ; giữ bàn chân đào đất lớn.
+Refinement: nose sniff then a digging-paw movement; distinct eased local tracks. Hidden/tiny ears and eyes are not enlarged or invented.
 
 The approved master is source.png; motion.json contains the measured final recipe.

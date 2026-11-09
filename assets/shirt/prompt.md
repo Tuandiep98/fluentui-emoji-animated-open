@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của shirt.
+Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.
 
 The approved master is source.png; motion.json contains the measured final recipe.

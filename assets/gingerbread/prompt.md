@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, friendly Fl
 
 ## Motion
 
-The right cookie arm waves as one rigid biscuit piece; body and icing stay fixed.
+Refinement: one eased rigid presentation tilt and soft settle; preserve baked/crisp food volume and toppings. No jelly deformation or detached cookie arm.
 
 The approved master is source.png; motion.json contains the measured final recipe.

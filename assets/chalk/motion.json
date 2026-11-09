@@ -4,5 +4,68 @@
   "fx": [
     "chalk-dust"
   ],
-  "note": "Một chấm bụi phấn rất thưa; viên phấn giữ hình khối."
+  "note": "Refinement: a clear eased use/presentation gesture, rigid silhouette and no rubber stretching.",
+  "pivot": "center",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        -2
+      ],
+      [
+        0.85,
+        7
+      ],
+      [
+        1.2,
+        7
+      ],
+      [
+        1.7,
+        -3
+      ],
+      [
+        2.25,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        -1
+      ],
+      [
+        0.8,
+        2
+      ],
+      [
+        1.2,
+        2
+      ],
+      [
+        1.8,
+        -1
+      ],
+      [
+        2.25,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
 }

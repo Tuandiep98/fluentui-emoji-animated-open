@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Small head sniff and tail-tip sway; long body and planted paws stay stable. Master background haze corrected with built-in image generation.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Species gesture: sniff. Cutout refinement: measured head joint, independent delayed ears and genuine open/closed eye artwork; all feet stay planted. Complete painted overlap at neck and ear roots. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "5d11d19269f23943a5bce828257e20c234f573be40345fd99949e22a69037a4e",
-    "still.png": "cf4906d77fa67f4af6ab3f24f0eb77375d96adfc009a2edb8814410c9cf7a563",
-    "still.webp": "3445a741672eca9796bf18e3d09b8f3d8c8167f81338f1d1fc186ec2ccdab733",
-    "animated.avif": "66d0f2eff5af286c0cb1e3b4a2539c83c579b42891285443369559f1b5bb4036",
-    "motion.json": "0d787dba03c225a665af5de5960ba3b0105f695801aace439aa97112be07fcb0",
-    "meta.json": "886b45b19afc69b73103c02307468af7035f7289c58bef8388c7966aff535cd0"
+    "source.png": "1e667206d3f07ad77164273ca13161991fd373dc81da6f2ddf09b18cc37f6a33",
+    "still.png": "babf43741fcdb72c18f13472cf7cae923bf5dd96dc18565991c851bbf09beaaf",
+    "still.webp": "a797070812c0ba1934edf70902d5d68c3c8d2775acd839c530b11f3a41ce83d7",
+    "animated.avif": "1481d2aa9054e9c2ccb9f86e284afe812adf42d25161b92abc78877df4058261",
+    "motion.json": "fd2520fa6298ca5847389ede21e64bcb473fe4ea213ac41617e342000b239274",
+    "meta.json": "886b45b19afc69b73103c02307468af7035f7289c58bef8388c7966aff535cd0",
+    "rig-source.png": "825490b0333917742a6749228f91bae2aee69f794b957bc32f50478a2efafea3"
   }
 }

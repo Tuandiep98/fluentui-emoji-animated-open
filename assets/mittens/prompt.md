@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Nghiêng trình diễn biên độ nhỏ; giữ số lượng đôi và các phần nối đúng hình.
+Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.
 
 The approved master is source.png; motion.json contains the measured final recipe.

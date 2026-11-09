@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Đỉnh muffin chuyển động cực nhẹ; phần giấy lót giữ cố định.
+Refinement: short steam from a freshly baked muffin; crumb and paper liner stay rigid instead of breathing like rubber.
 
 The approved master is source.png; motion.json contains the measured final recipe.

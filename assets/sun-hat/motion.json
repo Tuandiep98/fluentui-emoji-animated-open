@@ -1,20 +1,93 @@
 {
-  "fps": 16,
+  "fps": 24,
   "preset": "still",
   "fx": [],
   "regions": [
     {
       "kind": "wave",
-      "center": [128, 164],
-      "radius": [105, 24],
-      "amp": 1.8
+      "center": [
+        128,
+        164
+      ],
+      "radius": [
+        105,
+        24
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -1
+        ],
+        [
+          0.65,
+          4
+        ],
+        [
+          1.15,
+          -2.8
+        ],
+        [
+          1.65,
+          1.4
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     },
     {
       "kind": "wave",
-      "center": [176, 124],
-      "radius": [24, 24],
-      "amp": 1.6
+      "center": [
+        184,
+        147
+      ],
+      "radius": [
+        40,
+        50
+      ],
+      "amp": 6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.32,
+          1.5
+        ],
+        [
+          0.77,
+          -6
+        ],
+        [
+          1.27,
+          4.199999999999999
+        ],
+        [
+          1.77,
+          -2.0999999999999996
+        ],
+        [
+          2.37,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
-  "note": "Vành/chóp mũ chuyển động nhỏ theo chất liệu; giữ form, không co giãn toàn bộ chiếc mũ."
+  "note": "Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.",
+  "pivot": "top"
 }

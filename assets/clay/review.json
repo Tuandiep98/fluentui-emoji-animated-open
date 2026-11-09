@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Lõm bề mặt nhẹ rồi trở lại; giữ màu và thể tích khối đất sét.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: a soft clay lump compresses as a whole with volume-preserving squash and settles, plus a small surface indentation; this deformation is restricted to soft clay. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "7b3d14f2db0b5c2b4beb0497b951e635c3500b8e4a263ce29dd8290e2d64a22b",
     "still.png": "6a3f35a9e64fa8ab0a8497c9b1882d58d3262cb89ea7de58f0acd6b3da046f3a",
     "still.webp": "c77b6b3ad4a74949b6e9e8623c0a0657d3d4e9a7a63b404df89fee2161912de1",
-    "animated.avif": "335c9ca965e63c3ce086cab99d288aecd18d6278116235a414dd7c5e72e5f251",
-    "motion.json": "23d1d808223e4185602c25f6af1c829f361f04a8dd5ca45ead7d0fba9d79bfdf",
+    "animated.avif": "d4c017840ee49563b7807aa1240db507efc719a66b4a7a0ca389d17c66ee04b1",
+    "motion.json": "c9ec02f8acf48f72229ef6d9953c0bcfc46617e5f330973b0cf3f3ec94d369c1",
     "meta.json": "f700767ee714d13850684ecada2a0bc70bb9c9c9c6f5bd95ce5c22420660f47d"
   }
 }

@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Small head sniff; armor scales and feet remain stable.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: head sniff while armor and feet stay fixed; distinct eased local tracks. Hidden/tiny ears and eyes are not enlarged or invented. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "6b26c8a766669a9db80aac4ce9eb50abceae7ec6b59c036dbd243be295bef669",
     "still.png": "1d1a9a99caa8a9c32997f96a6bf04546862cfe44f5e55d704454a10eaea6c52d",
     "still.webp": "37451307d79421a06e5687db38ca89db8a1123420d960576bebe948790c84676",
-    "animated.avif": "803a1ebe42eb83d141033857aec0620201d34bcf98158a9703a264d97dc803ca",
-    "motion.json": "a1d3e65471737b738d20b867256ab32c642007b9b7ba7f543e962df23dda7b3f",
+    "animated.avif": "359a047ed5bf60db48b4a5e85721cde998a7673f386c1beeb9f3b7dca861fa61",
+    "motion.json": "b8eb8a5a2d9b28c8075258962c955e16f9220061ef01bde329e668e274a5c3f2",
     "meta.json": "68e8c2aa4fa21124ca59f4b6ce91a9d70e7ed97d579298abe4c45e17bae66031"
   }
 }

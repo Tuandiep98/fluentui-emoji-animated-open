@@ -29,7 +29,14 @@ export function effects(id, recipe, t, box) {
     front = "",
     glint = "";
   for (const name of fx) {
-    if (name === "sparkle" || name === "twinkle") {
+    if (name === "board-stroke") {
+      const u = Math.max(0, Math.min(1, (t - 0.12) / 0.32));
+      const opacity = bell(t, 0.04, 0.86);
+      const x1 = box.left + box.width * 0.24, x2 = box.left + box.width * 0.76;
+      const yy = box.top + box.height * 0.50;
+      const color = recipe.strokeColor === "#2787C7" ? "#2787C7" : "#F3EFE2";
+      front += `<path d="M${n(x1)} ${n(yy)} Q${n(cx)} ${n(yy - 12)} ${n(x2)} ${n(yy)}" pathLength="1" stroke-dasharray="1" stroke-dashoffset="${n(1-u)}" stroke="${color}" stroke-width="5" stroke-linecap="round" fill="none" opacity="${n(opacity)}"/>`;
+    } else if (name === "sparkle" || name === "twinkle") {
       for (let i = 0; i < (name === "twinkle" ? 2 : 3); i++) {
         const x = box.left + box.width * (0.18 + random() * 0.64);
         const y = box.top + 12 + random() * Math.min(28, box.height * 0.2);

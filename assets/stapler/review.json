@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. The upper handle presses around its rear hinge; base and magazine remain still.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Cutout refinement for stapler: complete fixed base and independent moving part; painted overlap at joint. Per-part eased use gesture; rigid hardware/paper faces stay intact. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "4d242a9c5552d135b3765d26b9be2b043ccea48c07204f997d52163ef2008bbd",
-    "still.png": "5631c6ac3ea78dac98e66df01a5a7a719ef79e8d887dae650916841a39379f14",
-    "still.webp": "977ed95922d7767b5a20b9fee7145c65fbd6d8b7bfc3e629e39a18b990d93c4b",
-    "animated.avif": "501fbbfd088fad1255fea7812ac52e986d58eb5365eaad3542861e4957fa2d18",
-    "motion.json": "45420a0e39b2f947879c87674dc6dec399e71ced6bd4178b63d13db7a130955f",
-    "meta.json": "a060b3bd3c331d787c4b5415e000cf464d0b6b892be4dd0bd2f0d6ce7f49afb1"
+    "source.png": "841f0e69949dc878317f6187e982589ee658aa948fd0d94ebe931d2bf50b00fc",
+    "still.png": "81fbc71183508c15e393a6243b89e53a9dc3e641c6d1f9f04c4d7495342922a1",
+    "still.webp": "d00c7f7426d74de41887bf44748664aa0881e05b569240bf27e0a4bb41861186",
+    "animated.avif": "2a1691c0d152478c956d4bc2d2c30811d58ccd026c9b20a1769ba01a62892a13",
+    "motion.json": "18627a99f1d88d61aea532b895b99301b610ef1fd721d8a04f9cee7a5c3d7d85",
+    "meta.json": "a060b3bd3c331d787c4b5415e000cf464d0b6b892be4dd0bd2f0d6ce7f49afb1",
+    "rig-source.png": "68b5cecfa598b4469ed6c18129eea1b7f2ae064c6cd8458cf7db33ef23551ae3"
   }
 }

@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Ánh sáng dịu ở một góc mặt bảng; không sinh chữ, khung đứng yên.
+Refinement: a temporary writing stroke draws and clears on the board surface.
 
 The approved master is source.png; motion.json contains the measured final recipe.

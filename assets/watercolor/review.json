@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. A brief reflection across the palette; colored paint pans and lid stay fixed.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Cutout refinement for watercolor: complete fixed base and independent moving part; painted overlap at joint. Per-part eased use gesture; rigid hardware/paper faces stay intact. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "fa8a7f68ea76bfe259a4381c28e9ff76c2a89d13f16efb416a71ee24d1c756e2",
-    "still.png": "95f6bb6de9deac0c2b80a5191d83afbee22fe9b1f106e0df528e400a32b1b9c4",
-    "still.webp": "42b830a38ce883922204a2675c01aa59c3ac6e0bc92b8678ec595d4026d36d8b",
-    "animated.avif": "fa08c68497d4a4fe73574e02e2340cd17dfc63039f1c664f2ac30001c5ca01df",
-    "motion.json": "ebc0f8ca03bdc647e9a45edbc1a6463b013fd17d73dc33f2dbecdf0897ecb12e",
-    "meta.json": "88588d2ac3b03a06de2138d30b1afbf496c7a2cb8fcfb985cce64c69c4cabd92"
+    "source.png": "485af300919099629b94734e6b837676d5683f5d71552ea2c82f3ecf1f67879b",
+    "still.png": "cbb404c8b310db166ac73680269f40b7011d5ce8f1e5abb4c3a9c13bc1a1a0e7",
+    "still.webp": "7894844df9dbdd90a25db2dab48c031ee085e724e696a16d3049ad8161ef62f9",
+    "animated.avif": "4009bdea85ba596c8fc7eec2f32b07e5b3b2454e8826c9224a64ca570198f2b1",
+    "motion.json": "684554a7ee6e0ed749a4f122a60bc97f793a149b05f438d6b646546f18d12e45",
+    "meta.json": "88588d2ac3b03a06de2138d30b1afbf496c7a2cb8fcfb985cce64c69c4cabd92",
+    "rig-source.png": "8d2823fba37cce1af5a8472c729af812812301597b6fa149862e0327899bd8e0"
   }
 }

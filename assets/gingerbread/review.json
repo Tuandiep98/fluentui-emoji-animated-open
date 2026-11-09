@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. The right cookie arm waves as one rigid biscuit piece; body and icing stay fixed.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: one eased rigid presentation tilt and soft settle; preserve baked/crisp food volume and toppings. No jelly deformation or detached cookie arm. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "9e59094b3a91a4f675fe42bd111daadccfb6c52bb345d96ab58fc5d3973412f7",
     "still.png": "3018f0dcf84e5d3f519bf80a98914baf8d6d6763b18482b856a14fa77f60d924",
     "still.webp": "5c640c1539a46139e43d813ef5e1c3098c0a2f98a5bd6cdd9e1e8a80dc8f0be9",
-    "animated.avif": "34638da84614e87d8a8d3ea8cf94d4cf6093a4ec25daec145af029eb6d497eda",
-    "motion.json": "f180e00812d41ed599c7223ea4b01f81731583879d764842c14ad460a71afdfa",
+    "animated.avif": "33fe7ba0af439b0157862bb69a0dc3e2d3162c6d2be80a1352fe2a668e759676",
+    "motion.json": "d2489ae7c494055e0a6d748cc52a857e74e490f732bc3e56223e77fac929ef40",
     "meta.json": "42a7754feb8ba551a46c4c2701421df312f130359d93c5b62ff1dea31f1e0f9e"
   }
 }

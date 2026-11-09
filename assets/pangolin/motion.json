@@ -1,15 +1,54 @@
 {
-  "fps": 16,
+  "fps": 24,
   "preset": "still",
   "fx": [],
   "regions": [
     {
       "kind": "rotate",
-      "center": [48, 155],
-      "radius": [37, 29],
-      "pivot": [71, 147],
-      "amp": 3
+      "center": [
+        48,
+        155
+      ],
+      "radius": [
+        44,
+        34
+      ],
+      "pivot": [
+        71,
+        147
+      ],
+      "amp": 9,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -2.25
+        ],
+        [
+          0.65,
+          9
+        ],
+        [
+          1.15,
+          -6.3
+        ],
+        [
+          1.65,
+          3.15
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
-  "note": "Small head sniff; armor scales and feet remain stable."
+  "note": "Refinement: head sniff while armor and feet stay fixed; distinct eased local tracks. Hidden/tiny ears and eyes are not enlarged or invented."
 }

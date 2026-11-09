@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Lõm bề mặt nhẹ rồi trở lại; giữ màu và thể tích khối đất sét.
+Refinement: a soft clay lump compresses as a whole with volume-preserving squash and settles, plus a small surface indentation; this deformation is restricted to soft clay.
 
 The approved master is source.png; motion.json contains the measured final recipe.

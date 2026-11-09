@@ -1,8 +1,10 @@
 // Small per-part puppet warps preserve a generated sticker's texture without moving its whole body.
+import { sampleTrack, validateTrack } from "./tracks.mjs";
 import { beat, settle } from "./presets.mjs";
 
 export function checkRegions(regions = []) {
   for (const r of regions) {
+    if (r.keyframes) validateTrack(r.keyframes, r.kind === "rotate" ? -15 : -8, r.kind === "rotate" ? 15 : 8);
     if (!["press", "wave", "rotate"].includes(r.kind))
       throw new Error("unknown regional motion");
     if (
@@ -25,7 +27,7 @@ export function deformPixels(input, width, height, regions, t) {
   const fields = regions.map((r) => ({
     ...r,
     value:
-      r.kind === "press"
+      r.keyframes ? sampleTrack(r.keyframes, t * 3) : r.kind === "press"
         ? r.amp * (beat(t, 0.08, 0.5) + 0.15 * settle(t, 0.5))
         : r.amp *
           Math.sin(2 * Math.PI * (r.cycles ?? 1) * t) *

@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-A brief material highlight; the chisel nib and barrel keep their shape.
+Refinement: a clear eased use/presentation gesture, rigid silhouette and no rubber stretching.
 
 The approved master is source.png; motion.json contains the measured final recipe.

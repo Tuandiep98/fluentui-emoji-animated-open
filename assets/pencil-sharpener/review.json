@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Ánh sáng lướt trên lưỡi kim loại; giữ lỗ gọt và vỏ cố định.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: rigid inspection tilt with metal reflection. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "a3ece779e1b02b1968a071ea7ce4fa131a20c582d904cf53a713cb4be1f6fe59",
     "still.png": "dfd21696cc911ed2bcdc3e51c9ed06e34a768ddda8a7da82ce3a623582286c7e",
     "still.webp": "1b7d730c77edad83d1583dfdc3eabe17a6228f5ebbe0fe3168faba50058b770c",
-    "animated.avif": "39b08aa7c8e35e506d8e6e776277c20e448a596d6e61aa9e398a723df1c3f884",
-    "motion.json": "730554615254f6a6ec75a47552dbef30f641eed225c4bd586dd4d65c9ec45a2e",
+    "animated.avif": "c07e4146b0ec49e37283c335354336e36b5480fb24cdd04d6b51f561f73d7318",
+    "motion.json": "426463968dad75f443d55c2c426876c40fc965e028f5e911c20a996e000d3356",
     "meta.json": "8b8871e43af1f7f5ff6d45ec3d896faaf0d0b382b6ca90e7aa83c13b27210fc5"
   }
 }

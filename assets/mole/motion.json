@@ -1,21 +1,96 @@
 {
-  "fps": 16,
+  "fps": 24,
   "preset": "still",
   "fx": [],
   "regions": [
     {
       "kind": "press",
-      "center": [87, 146],
-      "radius": [24, 22],
-      "amp": 1.5
+      "center": [
+        87,
+        146
+      ],
+      "radius": [
+        28,
+        26
+      ],
+      "amp": 5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -1.25
+        ],
+        [
+          0.65,
+          5
+        ],
+        [
+          1.15,
+          -3.5
+        ],
+        [
+          1.65,
+          1.75
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     },
     {
       "kind": "rotate",
-      "center": [64, 175],
-      "radius": [35, 28],
-      "amp": 2,
-      "pivot": [90, 166]
+      "center": [
+        64,
+        175
+      ],
+      "radius": [
+        41,
+        33
+      ],
+      "amp": 9,
+      "pivot": [
+        90,
+        166
+      ],
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.32,
+          2.25
+        ],
+        [
+          0.77,
+          -9
+        ],
+        [
+          1.27,
+          6.3
+        ],
+        [
+          1.77,
+          -3.15
+        ],
+        [
+          2.37,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
-  "note": "Mũi động nhẹ và một bàn chân trước chỉnh nhỏ; giữ bàn chân đào đất lớn."
+  "note": "Refinement: nose sniff then a digging-paw movement; distinct eased local tracks. Hidden/tiny ears and eyes are not enlarged or invented."
 }

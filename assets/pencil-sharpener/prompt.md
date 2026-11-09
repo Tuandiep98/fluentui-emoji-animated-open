@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Ánh sáng lướt trên lưỡi kim loại; giữ lỗ gọt và vỏ cố định.
+Refinement: rigid inspection tilt with metal reflection.
 
 The approved master is source.png; motion.json contains the measured final recipe.

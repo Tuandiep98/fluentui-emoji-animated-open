@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Đuôi dày quét chậm; giữ hoa văn và tỷ lệ thân.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Species gesture: alert. Cutout refinement: measured head joint, independent delayed ears and genuine open/closed eye artwork; all feet stay planted. Complete painted overlap at neck and ear roots. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "64bf23165f5d3bfeab294019be52f594a1840d04f0a8c723a5a6c16fe2728032",
-    "still.png": "3957f7c516a623faa7aed553496feb04b0b0f38b0776d6dae71f8515fc5a9194",
-    "still.webp": "5c34d0552d5594d178836c4dc64aad9574ec311b6d3641f3ec59a8ff9df61e9f",
-    "animated.avif": "8e367452d09ca92993350c50cc97e51af7995fdebe48b0c68e4f9b455839a45a",
-    "motion.json": "1b91652d0fe62a4ffb36482cd4306850cd51f0ea3e4fe616899ac35af590ea35",
-    "meta.json": "5804a719ec260d49401bde382f19801c17567121dedbeb6a47a3e66df53af773"
+    "source.png": "d125d8f7c486f3fb0f085ba4adc9fc483c80acd3c756e8beae542f1a7a70069d",
+    "still.png": "ba02fc8384223de3178890079f76b2d52fa7566c248e4a415930366073d164d0",
+    "still.webp": "8b4282ecc79f79b5c92ca5130b2956da5f5b9446fe4ecc262391f80ccd4edb32",
+    "animated.avif": "4b7a7d0cc20fb262cee9232606cc0638297d84f9fd52683d33106f389e554dde",
+    "motion.json": "06fe49dbcc7ad39f0fd310a7489e765d546c87f6cd1aff807513587f0f281672",
+    "meta.json": "5804a719ec260d49401bde382f19801c17567121dedbeb6a47a3e66df53af773",
+    "rig-source.png": "fc5b25d7495b034e331c4a99e6b020562ecdbdbaf5f1aaddb64da40510c3602f"
   }
 }

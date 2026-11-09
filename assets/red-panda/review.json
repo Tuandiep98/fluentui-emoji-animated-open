@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Small tail sweep; face, torso and planted paws stay still.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Species gesture: calm. Cutout refinement: measured head joint, independent delayed ears and genuine open/closed eye artwork; all feet stay planted. Complete painted overlap at neck and ear roots. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "e1b88600bd4924a7def2c4bd9a0f3e73a80b660c6f2d37335c8b486ccbfdbd81",
-    "still.png": "5b27bef83d26bdd02235f8a103a12864fca465d37759b4c1e109c3bc2b04ad0a",
-    "still.webp": "1512ab8117b9555205b49b64f6069fdf0b35e4e82bbeb2e3691c1111bcc4a8b3",
-    "animated.avif": "d8a746709edf2d8b2d49e11bde1bc0a0dcf16d5c63eb0c4e5c4d8a936b3583f9",
-    "motion.json": "7c0af3d1a853bd3ca0ef2e5f9e96e9b68ba2e91fea9ecfb00c917603bd8e16d7",
-    "meta.json": "f12f085042e3025e0577d388f0566cc05f4ca84792704aabf6f35aa30fbbf971"
+    "source.png": "b574618ccc036dad6fe120fd2051946cd3338af2ecfd89520308db8aaf50fe9a",
+    "still.png": "c693a78ba0207bb1a3b124d08514f5fac5c14106418f09f6d60bba4302931a30",
+    "still.webp": "89f53b0673ba60f5c4683b14bea83e62f825df07d16315f6ca889bcced30134e",
+    "animated.avif": "84a729238a73452ba53b018659ca67d134f3d0d3b41853fcfdeb549c313c6176",
+    "motion.json": "7aebedeb060b9c1331d3dcb842b988bf87a01b7015c091e4a3cf379f7cf68b56",
+    "meta.json": "f12f085042e3025e0577d388f0566cc05f4ca84792704aabf6f35aa30fbbf971",
+    "rig-source.png": "908caab3018017922c3cf57a37d3952f0c18b3e0045c0f8ad4917062fc303be2"
   }
 }

@@ -1,7 +1,70 @@
 {
   "fps": 16,
-  "preset": "nod",
+  "preset": "still",
   "fx": [],
   "amp": 0.14,
-  "note": "Một nhịp nghiêng có điểm tựa; không biến cục lau thành miếng mút mềm."
+  "note": "Refinement: a clear eased use/presentation gesture, rigid silhouette and no rubber stretching.",
+  "pivot": "center",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        -3
+      ],
+      [
+        0.85,
+        10
+      ],
+      [
+        1.2,
+        10
+      ],
+      [
+        1.7,
+        -4
+      ],
+      [
+        2.25,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.2,
+        -1.25
+      ],
+      [
+        0.65,
+        5
+      ],
+      [
+        1.15,
+        -3.5
+      ],
+      [
+        1.65,
+        1.75
+      ],
+      [
+        2.25,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
 }

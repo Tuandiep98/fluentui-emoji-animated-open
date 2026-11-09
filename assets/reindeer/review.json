@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Tai chuyển động nhỏ; gạc giữ nguyên nhánh và không rung như cao su.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Species gesture: browse. Cutout refinement: measured head joint, independent delayed ears and genuine open/closed eye artwork; all feet stay planted. Complete painted overlap at neck and ear roots. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "9719d1c74c70d3bc64a06eeb1670584a08b35c781022c398e0b1f42071469df8",
-    "still.png": "e5c9b7c5d4b5367c31511fbc28f8aa76a71d8b19c3a3ed00be4d85f83907ed29",
-    "still.webp": "ba53bdd57b42a5ec67de773d408b4867c9855395c4a15b16db53d083ac13186d",
-    "animated.avif": "c06ff79bef83fb61d4cfbf023fff4347314a9457135df39c4b3fe39780bc10d3",
-    "motion.json": "0e65384922d52a9c916be0277077f98d089fac9e64dc6898922e2f93cee24151",
-    "meta.json": "0de4e33dc4eef12b43753f9c23378bbae6a763bb5897e4b933d1bed5f497a8ee"
+    "source.png": "e138c9ce0badf710579d0f5ff2d8c9dee7abe3a7ff55509f5f24d737a2eb670f",
+    "still.png": "6f6c34c864b9157d9566812b56f563d8f4c6df24b5f15d1af74fc0921712fb01",
+    "still.webp": "442555ab58a014c800c8be9be494805e382fbb72eaafb06eb05cce2f11541fba",
+    "animated.avif": "7659d1ac099976d7317f48b30244f0cbef2e1b8b99a5ec6c97c66043628682eb",
+    "motion.json": "e6ec402c19a71631c2c088175c1bc00882d0a39671bddff17f48582c9f61d210",
+    "meta.json": "0de4e33dc4eef12b43753f9c23378bbae6a763bb5897e4b933d1bed5f497a8ee",
+    "rig-source.png": "233ac500a170a2270f304c6513732a4958988f51dbf30329a6a7a7b29c2bb5b5"
   }
 }

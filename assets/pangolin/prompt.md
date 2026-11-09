@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, friendly Fl
 
 ## Motion
 
-Small head sniff; armor scales and feet remain stable.
+Refinement: head sniff while armor and feet stay fixed; distinct eased local tracks. Hidden/tiny ears and eyes are not enlarged or invented.
 
 The approved master is source.png; motion.json contains the measured final recipe.

@@ -12,7 +12,7 @@ const categoryCounts=new Map();for(const e of entries)categoryCounts.set(e.categ
 $('.filters').innerHTML=`<button data-category="all" aria-pressed="true">All emoji <span>${entries.length}</span></button>`+Object.keys(categoryNames).filter(key=>categoryCounts.has(key)).map(key=>`<button data-category="${escape(key)}" aria-pressed="false">${escape(categoryNames[key])} <span>${categoryCounts.get(key)}</span></button>`).join('');
 let category='all',shown=24,selected=null,detailPlaying=false;
 const store={get(k){try{return localStorage.getItem(k)}catch{return null}},set(k,v){try{localStorage.setItem(k,v)}catch{}}};
-const paths=(id,ext)=>`assets/${encodeURIComponent(id)}/${ext==='avif'?'animated.avif':`still.${ext}`}`;
+const paths=(id,ext)=>'assets/'+encodeURIComponent(id)+'/'+(ext==='avif'?'animated.avif':'still.'+ext)+(byId.get(id)?.revision?'?v='+byId.get(id).revision:'');
 function setTheme(dark){document.body.classList.toggle('dark',dark);$('#theme').setAttribute('aria-label',`Switch to ${dark?'light':'dark'} theme`)}
 setTheme(store.get('fluent-open-theme')?store.get('fluent-open-theme')==='dark':matchMedia('(prefers-color-scheme: dark)').matches);
 $('#theme').addEventListener('click',()=>{const dark=!document.body.classList.contains('dark');setTheme(dark);store.set('fluent-open-theme',dark?'dark':'light')});

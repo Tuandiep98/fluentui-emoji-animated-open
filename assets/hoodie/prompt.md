@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, friendly Fl
 
 ## Motion
 
-Hem and one sleeve sway softly; neckline and pocket remain fixed.
+Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.
 
 The approved master is source.png; motion.json contains the measured final recipe.

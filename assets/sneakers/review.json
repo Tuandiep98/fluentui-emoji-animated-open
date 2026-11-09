@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. The front shoe laces shift gently; soles and shoe panels remain rigid.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "8a66cdd39a0fc0cbdf04b42c520420042929c36cfe1122dfc24259af2df8125a",
     "still.png": "75a68b0f92f4a85e46b5adcd35e798a423ec19ee67995ffe531a4070a788e33b",
     "still.webp": "e85faf0b09442dfcd77d6e34f0c878c6f26d0e1c0774abd3b845801be286be19",
-    "animated.avif": "9088c1a18ba3a59781e2b6becfb1943d6b9a71c15e9d61fb8136182d45a7fa44",
-    "motion.json": "8164a7d4c89ad65e23ce61531aee402876c558de6e57ba6dd8755adeaad5b0ea",
+    "animated.avif": "9bbc2e31fcc1ed5d5780ceab46059243cc54519b69fdc37c551cf28922ea9161",
+    "motion.json": "b9830550252aa2a39e68cbf00b928df89a1cfd6790578eece9f2dfeb20a5143b",
     "meta.json": "4e0581f525a95c56412f353beaeb01fd94da7c4e0c9429a46642d9649c8503fa"
   }
 }

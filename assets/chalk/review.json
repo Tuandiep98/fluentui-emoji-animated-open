@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Một chấm bụi phấn rất thưa; viên phấn giữ hình khối.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: a clear eased use/presentation gesture, rigid silhouette and no rubber stretching. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "a30da64584cbd9b66f56045f62d532870738f7ea8b3b7c7e5c981dab14d4674e",
     "still.png": "c1ba810c1d66b802f85ab4213a0626ec3a844dfe2e5a24b2192ab88b4a2839f5",
     "still.webp": "0751eaea9aa829d773df67e7889ef64a2b7dd2fcac46a77142fe77ce9851921a",
-    "animated.avif": "785c3919f15fd723950f9ef4f261f5ceaeba5592c4604c81b92a2c92c7267b74",
-    "motion.json": "8a26e0dba89c62d89494edaea4366527208c37c9c3f83a3f417bf30203277911",
+    "animated.avif": "1b1ed0996683d2aa6bf042efc308b2f15a05b97d0914659b56fcb243d80841e4",
+    "motion.json": "8dbccb81346779ed5625ead7cd7eabf91c51cbdb44a342aa79bd83599755ca94",
     "meta.json": "f6a02a75e144ab3bdbaf53f83696fcbe96cfa994e468714d4cd16e97b0bd864e"
   }
 }

@@ -166,3 +166,7 @@ Microsoft's upstream project is separately [MIT licensed, copyright Microsoft Co
 ### Capybara cutout motion study
 
 [Compare the old and new animation live](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/capybara/). The capybara asset now uses six separately painted parts, independent head/ear/eye tracks and a transparent 24fps AVIF. All source parts are embedded in `assets/capybara/motion.json`; the website only loads rendered images.
+
+### Motion refinement: the latest 100 words
+
+[Compare all 100 before and after](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/next100/). Reviewed 100: refined 81 and retained 19 appropriate existing animations. The update includes 35 painted cutout rigs and 46 timed material/use gestures. Animal timing differs for sniffing, alert ears, browsing, curiosity, nods and heavy horns; rigid hardware keeps its shape. Vocabulary and translations are unchanged. Optional rig-source.png preserves the original generated parts atlas; its hash is included in review metadata. The browser only downloads rendered PNG/WebP/AVIF, never authoring rigs.

@@ -5,10 +5,47 @@
   "regions": [
     {
       "kind": "wave",
-      "center": [102, 119],
-      "radius": [43, 27],
-      "amp": 2.3
+      "center": [
+        102,
+        119
+      ],
+      "radius": [
+        43,
+        27
+      ],
+      "amp": 5.06,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -1.265
+        ],
+        [
+          0.65,
+          5.06
+        ],
+        [
+          1.15,
+          -3.5419999999999994
+        ],
+        [
+          1.65,
+          1.7709999999999997
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
-  "note": "The front shoe laces shift gently; soles and shoe panels remain rigid."
+  "note": "Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.",
+  "pivot": "top"
 }

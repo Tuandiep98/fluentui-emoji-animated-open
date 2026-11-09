@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của blouse.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "03a31ce2fc043edc9c4950949e30e20ebe0b29c01bdb6685d685240918f80489",
     "still.png": "99da63aa9dbf8096b12d4a71379944f4a48627f6ba2cc8da57a164bc55540f55",
     "still.webp": "764ac78e5c4459de3dda26a83960b8fa0bea539eaa604865cca2c285570d60b7",
-    "animated.avif": "aec3df8fb202ec7042418b273d941005baabe3295e443af0bfd11abaf058f6b3",
-    "motion.json": "221c357d476402d75b38518c52d2ffbcf0f1d4bc80c709f2b288f21e43b0e3f6",
+    "animated.avif": "4ab364e9a7825f1c050d39d82155fa8e96db1dc9bc37273ff3dffc92293b6b43",
+    "motion.json": "b6702d4d3f26e91b2e955792a3e1f2a2a028d66d08856f891bb56042ca4c4c30",
     "meta.json": "5620cade515dbb23d82f479e525fec812b8603067184a9d95e9e7faa34ac7b88"
   }
 }

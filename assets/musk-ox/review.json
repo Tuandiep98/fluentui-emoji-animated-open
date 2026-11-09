@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Lông ở rìa thân đung đưa nhẹ; hai sừng và móng giữ ổn định.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Species gesture: heavy. Cutout refinement: measured head joint, independent delayed ears and genuine open/closed eye artwork; all feet stay planted. Complete painted overlap at neck and ear roots. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "12196d9d76ace1e52980e39216047c739be1731086b314eac7f5879e8bbbf8fe",
-    "still.png": "0588012c1c120aa5ba978d9a8c7f84402c8f44e812dcf64f8572ac77b2b8b758",
-    "still.webp": "2da5509765001b61aada954bbb16d24f96b0cfd17a301e9a742ae390c253de0b",
-    "animated.avif": "264d209874227cc01fd27ffa103bfd05955f7440774cea268dc75a5eb58d2fd9",
-    "motion.json": "20bf4e6a290fd7506f71b7eeaa0faae5d9439d1e0d91dc45ca7eb3b3ae98e202",
-    "meta.json": "63fa3010da576341b842badab05ed8ab62f3ec5dbf1777454b93a2e6b087d423"
+    "source.png": "c2a4c86dc6e90b6aea45f09fe417cc53575558f79d6c4e9f5d1d3f0fc4ac4c36",
+    "still.png": "cbd60973bbfb36cec0f6f3897593ccc7fcd9832ac54e5b5b9a76b7fd0c161943",
+    "still.webp": "e64c02b38d938d565a05e70099e9674ce8ebb26820071f055e21166f09ab40ce",
+    "animated.avif": "9e51448a802394bbc7fd27ec2abaaa2da2bd1cd4b32d52ae3a160e6a01b2d862",
+    "motion.json": "0d63f80654e8d3ede9c26f7d4b1ceed9e8b05fde36070e8e7e2d99dd886f19b3",
+    "meta.json": "63fa3010da576341b842badab05ed8ab62f3ec5dbf1777454b93a2e6b087d423",
+    "rig-source.png": "0b710151acf8ffcf508dfbe4480be16bb5f11e9d51f1bbbf7a76290135125102"
   }
 }

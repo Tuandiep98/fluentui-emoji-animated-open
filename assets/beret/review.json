@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Vành/chóp mũ chuyển động nhỏ theo chất liệu; giữ form, không co giãn toàn bộ chiếc mũ.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "d723882c4812ac4b219d1b024af788d9b31c55a61e9bd5e690a0fd40efdd258a",
     "still.png": "3bc00f8f917b35aa9c78939eeca571e469cfbb7052295c287fb569db731d08a3",
     "still.webp": "bb235be20dd20a8a7c2c3a93425929c8343b4a38d12d91000dab7329f8ea573a",
-    "animated.avif": "e37b23f956b189195b02cc05fbc1d1e07ebfee25084a5ac07c1ce0a35bb11b66",
-    "motion.json": "eb24db90033a60b5f81f01b8b8faa1a9a3a42b32bf7f7cd2cb31cd6d1ce497e6",
+    "animated.avif": "e5a806b914cc3013398196ad8aedd862530af138a405e8d31fe6780e68e3cbae",
+    "motion.json": "084f8ed94b2cbe9935e4817f58fc34e777eb0a5d6be9631e9d24aafa154a8932",
     "meta.json": "ebf788824d6b98eafdee676bbb8e3d7dfbf26f8f03ab491ab843282b4508cdf9"
   }
 }

@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-A small light reflection moves over the plastic; nozzle and bottle stay rigid.
+Refinement: flexible bottle compresses slightly and settles; nozzle remains attached.
 
 The approved master is source.png; motion.json contains the measured final recipe.

@@ -54,20 +54,23 @@
         "still.webp": "assets/aardvark/still.webp",
         "animated.avif": "assets/aardvark/animated.avif",
         "motion.json": "assets/aardvark/motion.json",
-        "meta.json": "assets/aardvark/meta.json"
+        "meta.json": "assets/aardvark/meta.json",
+        "rig-source.png": "assets/aardvark/rig-source.png"
       },
       "sha256": {
-        "source.png": "e052975304ba07ab59755da2e1d1f75b1aae6a5e26f42badc508ab0d54dc53b9",
-        "still.png": "1c717b25bd0a184977e331790694f1a0d75cbcd1d3f22e69e2892cc99f1e54a1",
-        "still.webp": "04b168e7da921f5c2caefe856062546b90b86d9aa9036acf790bc9dc304ded1d",
-        "animated.avif": "b1601d6fb139e106e13b02a41ba17d1ef7b8d108f4cf9543581aa838dc6c2253",
-        "motion.json": "b74eb1c241f3c67bb763538c921516dcba2e5e81ee8dc14481bab655ce56cba0",
-        "meta.json": "99a90fae12249a2a6ed74d73d5dcf0feed7b5befa4aaa900b54f2d293c2f19df"
+        "source.png": "b8924ebc5d8533bd4b4b80b0d2b885dd0e4a9d5d02d828d798ff326229a8dfbb",
+        "still.png": "2e2e4b0f6b75da59ef8c07579542bd65c55112ba3379369d4398993d606571bd",
+        "still.webp": "22625a123b4435197c215e4564f7a07ff4528e9bb25a8c8c99e44e83049d4fce",
+        "animated.avif": "88241063f4713da18592e71b4ebef487f9bde46e0aed789fd974a9c11135d4e8",
+        "motion.json": "5dbc05848fdfeeac95f3aae19372c6414db14fbb7128758ead9ca332557ac8a0",
+        "meta.json": "99a90fae12249a2a6ed74d73d5dcf0feed7b5befa4aaa900b54f2d293c2f19df",
+        "rig-source.png": "ea883760cfc98315b265efa0be200191cba1b223dfa20dd7efe8c90b77ef6d98"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 27377
+      "animationBytes": 59877
     },
     {
       "id": "adhesive-tape",
@@ -126,14 +129,15 @@
         "source.png": "df0b61f1e381ed00bc526c494cf8ce5594dc92e1d92c6b00438dfaf3bb0869f1",
         "still.png": "ff426149059f69a9b6c1dec4ecf8b66a7efd3689797c8d46a391b5b179162c28",
         "still.webp": "52a294bdb9af67ec66fadf2d3ec0ce556760028eafc996a0266134f193693cde",
-        "animated.avif": "55a43a1b8a71494915272d15befee7443147dbf6e4d0dd3a342624618f5bb753",
-        "motion.json": "58a67d4c6cccb47c309920975d6eb7ae17db4f4f8697c8d34bc0c0797c18fad2",
+        "animated.avif": "83d0bcae149b0104230b1663cced944bc066495a396c3062b42a0695252b7a97",
+        "motion.json": "ecf35dedc600db177fc375f51326e9195db47dc1779b8530ff35075f36433104",
         "meta.json": "15dfff44a9fa06915824fc2fb9f06d6d4a2b8149652afea69aca625487f9f7cb"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "still",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 27021
+      "animationBytes": 47184
     },
     {
       "id": "alpaca",
@@ -186,20 +190,23 @@
         "still.webp": "assets/alpaca/still.webp",
         "animated.avif": "assets/alpaca/animated.avif",
         "motion.json": "assets/alpaca/motion.json",
-        "meta.json": "assets/alpaca/meta.json"
+        "meta.json": "assets/alpaca/meta.json",
+        "rig-source.png": "assets/alpaca/rig-source.png"
       },
       "sha256": {
-        "source.png": "7b709a10cf9b0158b7fe057af6ae5c987d179bdf4ecfd64cb0b2ac44b67f676f",
-        "still.png": "849136e5c287def6b6166a5867afe8562cf416a84e5921acaa40226f1b790965",
-        "still.webp": "965a73bb5932b3d64740e496875a86dbdf7d805742336a890f603aff1d87e2e8",
-        "animated.avif": "b4dc05f078fb0153c786db9de09b515992061b49b93a8f653f4bcc8ffbd4dbb6",
-        "motion.json": "6c13bea0c04845780a79755019806cad9114c7ee227953207f523893c7376ca5",
-        "meta.json": "acd5505e6c724c43eae9f708f7806fb6cbafd59255f2ddb3bd8b0103a8d19a05"
+        "source.png": "1bd0a571cdbd69e170986760f2e1c13d73641c807dcfb5cf0f20bc2c1fddeac1",
+        "still.png": "923314536f5c4fd1840fa10c4fe95e09e149d5620358081e6e9debb573367deb",
+        "still.webp": "b73cc5315a2c6ede92126cd87bd63a3ce79ce1d3bb4f09320a8feec74abc4af8",
+        "animated.avif": "06d78df4c36cc31b9ae6eb08f3aca1e681b7e51dd55431e24270e7b7d21349ec",
+        "motion.json": "a0fd1deb713d89f1cdc5be4d5a22a549f62c24225a0fb1d87911ccd0ac9c968b",
+        "meta.json": "acd5505e6c724c43eae9f708f7806fb6cbafd59255f2ddb3bd8b0103a8d19a05",
+        "rig-source.png": "bc950691ac0fafb5731e126a41bf53f86ac4a1e492e62c957209e0cae4bd98f2"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 18374
+      "animationBytes": 42195
     },
     {
       "id": "anteater",
@@ -252,20 +259,23 @@
         "still.webp": "assets/anteater/still.webp",
         "animated.avif": "assets/anteater/animated.avif",
         "motion.json": "assets/anteater/motion.json",
-        "meta.json": "assets/anteater/meta.json"
+        "meta.json": "assets/anteater/meta.json",
+        "rig-source.png": "assets/anteater/rig-source.png"
       },
       "sha256": {
-        "source.png": "a9cafb65d5a7e058ab4da3bc4d8776e37ffabd1c058a8b0ae48e2fed688e0eaf",
-        "still.png": "1bda33381db306a3319e7abcd29827d5c4be5ca66b53b926d3150d8f7764d0b6",
-        "still.webp": "20087c6788797f7faf4b42a7587a1dfe93d0c8863acd96954f3c213ac7452a20",
-        "animated.avif": "c2af50b4ad94c74c2eed9723098bf3faaabbe8dede2bc3e399e7bb12cf6974c5",
-        "motion.json": "d6669159210ab2cc7bf3d94553c9702ef675f822cbf5b3ddcba5abd2f44a6733",
-        "meta.json": "6952cf18e8d8443ddd445c3516f171f2bc7b87b9715e674bbe440939d895c722"
+        "source.png": "97ada9066f1fde576bc8e7cb1682d741793ae0b773be316207563efc40cdc3bc",
+        "still.png": "e141859864c122ad928d2cf5fb44e993edc5ae96609798dd94ba4bbbba21fa91",
+        "still.webp": "82aeb9fb9f945cdafb7eec4846563a30aef8d1c59775b7d4d4c761f60f5d4bc7",
+        "animated.avif": "bfa3b615711197bdd1393cb9a390094f4d9e0cadd8b98b836248bcc809dd16e3",
+        "motion.json": "ae7a9c4caf94cdbdb5fa4793ac7126135c30e031733f51ef69ac6920a885019c",
+        "meta.json": "6952cf18e8d8443ddd445c3516f171f2bc7b87b9715e674bbe440939d895c722",
+        "rig-source.png": "d7051eda45819fbdd58aaa86b295b2916ef11fdf5b33a20d1b1e458b46e4ffe4"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 19525
+      "animationBytes": 29498
     },
     {
       "id": "apple-tree",
@@ -328,6 +338,7 @@
         "meta.json": "7b01e88fd5e28ffb874a03c51479bd8c67ee48b2a091378cb8ab375afb3eb206"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 25887
@@ -393,6 +404,7 @@
         "meta.json": "4bdc387ff48c3961f3b36c79207df815060fadd820faabe2ab565f8cc24922f5"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 35504
@@ -458,6 +470,7 @@
         "meta.json": "ec23368021bc98fdbd229047e38cfad21e74c3b07c4c24da941d9e01e8f573cb"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 27560
@@ -513,20 +526,23 @@
         "still.webp": "assets/armadillo/still.webp",
         "animated.avif": "assets/armadillo/animated.avif",
         "motion.json": "assets/armadillo/motion.json",
-        "meta.json": "assets/armadillo/meta.json"
+        "meta.json": "assets/armadillo/meta.json",
+        "rig-source.png": "assets/armadillo/rig-source.png"
       },
       "sha256": {
-        "source.png": "593454290aeec14620fba5584e6ecd580c94001e927e178d7d4ff7385143b2bb",
-        "still.png": "b3200d9c18e5165dbaedda2d196697bc198ebbe3d436fc26c33d6bc3d47a90d3",
-        "still.webp": "bfb1ce358659a7acceff8fa8fb535b506278a4bc326fdb1df34a13c28526c608",
-        "animated.avif": "dcd93e9c6d7c044a43edc6f9d919090d71368aa6ef9a269294aec2dd5c2ecdb2",
-        "motion.json": "24088a479e7876ef7daeffdc46d67992763b46b56ac6f635c4ebc8ecbcdcf4b3",
-        "meta.json": "b4a4844c4a90616963fd9142be74c3cd96872faddb14e0cccd3aaac63e3d9480"
+        "source.png": "b95d4dd49ac66629b510851e555b3f2d2295d65d5ed37ae7546b2f997e7d6c96",
+        "still.png": "ac34509bf6bd83ae8962f19c413475138713625253f19492994dc9f13ebe4f64",
+        "still.webp": "ba8ebd4a24b39f1e6f2a5cab297f6243d86ea5808d6cd9554403d58d8d5f6db2",
+        "animated.avif": "a4b7b234bd0008efb3c843a76cab76d2fe4b2ed049b445436910bed3ab0ef6c0",
+        "motion.json": "9999a4c0988180906c49aa36cf7086a93cb045fef8a4a5ce6a7030248c002794",
+        "meta.json": "b4a4844c4a90616963fd9142be74c3cd96872faddb14e0cccd3aaac63e3d9480",
+        "rig-source.png": "d8140744334687294e9509033a73643553435da05271f7a2449577d8a989958a"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 21351
+      "animationBytes": 32016
     },
     {
       "id": "armchair",
@@ -589,6 +605,7 @@
         "meta.json": "e8f1a950f1b4f3ecd1fa98f247f22eb618453466f25871c06446c1f9e7e7053c"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17434
@@ -654,6 +671,7 @@
         "meta.json": "5e77a4652a15a62dc2cf9e8045cbe087b55adc2e7c00e634349bd3833e21a755"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 43354
@@ -719,6 +737,7 @@
         "meta.json": "e321e45848c301126afa2212910badebf8f8a9fd03f0c4af8f5c1804fdd8e8bb"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17748
@@ -785,6 +804,7 @@
         "meta.json": "56deb2f6d2883531b25328ef3ed2847d1425823a664022075f4d8dc9d8c6ef17"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 52062
@@ -850,6 +870,7 @@
         "meta.json": "0bb8d961edfc60cf9ea709faf49076693eb8b8cc49518592ce817deb1e16a3d4"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 24571
@@ -915,6 +936,7 @@
         "meta.json": "5d35494baf4de46dcd0f80ef94ac8dd91fb76952f5159659badb670e8ec3b95a"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 12676
@@ -980,6 +1002,7 @@
         "meta.json": "20739cc4dee41d88d8307572ffbea58b5e356786a109b9de3c53a418dcda67ab"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16890
@@ -1045,6 +1068,7 @@
         "meta.json": "d73da0c2c9fd56ee98903d3dfe47af980502e9518f955ea58c49d1fb2583b4b5"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 12,
       "duration": 3,
       "animationBytes": 48624
@@ -1110,6 +1134,7 @@
         "meta.json": "37812a2b5a06d08e48211699c97a2a902aea815943b96952eb8023c088689e15"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 44232
@@ -1175,6 +1200,7 @@
         "meta.json": "885e5279c5d408fe35bf3188dc12b6759c55e94bddb46bb8c3c8e7e27c3d7560"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 34295
@@ -1240,6 +1266,7 @@
         "meta.json": "9f5e47b484f8549ce634b02d8bf5c5da10923a72f1dbaaf5ac4ac0348f9d912d"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17011
@@ -1301,14 +1328,15 @@
         "source.png": "766492a86d924816c85e431b7beffd639a24a33a40aec59ef6f6bdae0b8759b7",
         "still.png": "103d1e6fe02d89d372339685cd62d1de2ee62bfd3c8c97bf5319355f50eec58f",
         "still.webp": "cf4756dd53b072c613da66f8d413b996cf2b60337b1bf386c6c54eb5756e3349",
-        "animated.avif": "8fea724676f5ced4df0e84ee53c4ee8c8351814231b3a775fc63a5045c50ec5a",
-        "motion.json": "6ca18708124677dd0e0ff0c19b41ec3b18d43a02a8f7ad56ac62e3238c4a70a4",
+        "animated.avif": "7ebf558267a241b680a49be6c5a940b7372a0272f4ac749a44ce4fdb401edb87",
+        "motion.json": "3a38c31e6d2bbd4851720f27ecf9a7199d281649023e1b14078284de5cf97347",
         "meta.json": "85315d4bba344602483ac669ca1903908756bc2d7685859fe9d19ffdce31d5b8"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 17710
+      "animationBytes": 22881
     },
     {
       "id": "bathroom",
@@ -1371,6 +1399,7 @@
         "meta.json": "4d173f84f194735774ab1406b547acef731ae97c9c563a0a48f8cb3573a6420f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 21346
@@ -1432,14 +1461,15 @@
         "source.png": "737c0171fe8e883e8b0c6bcc169898fe1b71c2bede759ca05aaf80d81bc26afa",
         "still.png": "bf46788b9a9266e45ae6e32e26a3904fe606698ab13ac9309ab78eb2324f7768",
         "still.webp": "f5c91c996e35b456f0190431c685840da3658e5bd8ab26bd99fa7929e5bfd8b0",
-        "animated.avif": "d90203f6111226dca8033d57b22f8da708c5696925328157ff508b13ac714ba6",
-        "motion.json": "facd9d9a7130819171f42208e2e811d575271c52c2736b90ffb4137fb603362d",
+        "animated.avif": "9cbe45f6a1667689c05cd96dbffe7b2c43acec851f63f4cddfa26277675e4c73",
+        "motion.json": "f21eefdde31ae1591c5101abeecc7d8e27c2b01db6cdc29e59298b2d63b826cc",
         "meta.json": "3d08c3d57d4ddd78fe35418fe017524c025749f019dfd8993b6620616cacaae6"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 25389
+      "animationBytes": 38946
     },
     {
       "id": "bedroom",
@@ -1502,6 +1532,7 @@
         "meta.json": "9a3e6b0ae5397741481f7d3d101deb36bffbc163d7f5a5b5c7d15f29cea5acc6"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 18614
@@ -1567,6 +1598,7 @@
         "meta.json": "92a1248112989a784039c2980cf54a28d2d76f44fc8d938424e9bf135b9e05a7"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 12531
@@ -1632,6 +1664,7 @@
         "meta.json": "559a1ccd0f88ce2deced04414f23b60a5064f90ef228639033ff38b5f3552340"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 51505
@@ -1697,6 +1730,7 @@
         "meta.json": "7d129d61632d0fd925522cc5d400ba20aba0c158ed66881da9400ed0f2229bb6"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 25416
@@ -1758,14 +1792,15 @@
         "source.png": "d723882c4812ac4b219d1b024af788d9b31c55a61e9bd5e690a0fd40efdd258a",
         "still.png": "3bc00f8f917b35aa9c78939eeca571e469cfbb7052295c287fb569db731d08a3",
         "still.webp": "bb235be20dd20a8a7c2c3a93425929c8343b4a38d12d91000dab7329f8ea573a",
-        "animated.avif": "e37b23f956b189195b02cc05fbc1d1e07ebfee25084a5ac07c1ce0a35bb11b66",
-        "motion.json": "eb24db90033a60b5f81f01b8b8faa1a9a3a42b32bf7f7cd2cb31cd6d1ce497e6",
+        "animated.avif": "e5a806b914cc3013398196ad8aedd862530af138a405e8d31fe6780e68e3cbae",
+        "motion.json": "084f8ed94b2cbe9935e4817f58fc34e777eb0a5d6be9631e9d24aafa154a8932",
         "meta.json": "ebf788824d6b98eafdee676bbb8e3d7dfbf26f8f03ab491ab843282b4508cdf9"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 19269
+      "animationBytes": 28214
     },
     {
       "id": "bird-feeder",
@@ -1828,6 +1863,7 @@
         "meta.json": "ee5a29c594d25670e0e2ffd15c6297231b9512322aa562d57cec70fed5a44b52"
       },
       "preset": "swing",
+      "motionType": "swing",
       "fps": 16,
       "duration": 3,
       "animationBytes": 47872
@@ -1893,6 +1929,7 @@
         "meta.json": "9b6314421ae2d7c6d9ff2cc4c4795363398aa97997e37ae2166af8fef8f7ade2"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 26328
@@ -1958,6 +1995,7 @@
         "meta.json": "5a1f3768e48a4c443ca2d1d795ec4ddd2edd715eb6614319b0ce0c4f930d5b6e"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 20809
@@ -2023,6 +2061,7 @@
         "meta.json": "f7d88d7de3d9053b7c3d70ded90f9a77d8650bc915adf3778d9a698acb7f95ef"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 49844
@@ -2088,6 +2127,7 @@
         "meta.json": "4dcbb012c407e30e5ccbc3d7b2b16a0cadd256cab1aefdb88751a40f9d84d7eb"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 34043
@@ -2153,6 +2193,7 @@
         "meta.json": "972ea0a86d3d814324cb03eccd65b8639d31248c222bdbb64db6ff2f366b5dc8"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 34333
@@ -2218,6 +2259,7 @@
         "meta.json": "e335bd6857bdec218860f214b44c6968e7b69b41ed2b4acdd7d5f85215cf86d9"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 14153
@@ -2283,6 +2325,7 @@
         "meta.json": "104a2fcdcc4565eda2bf93eb9819091a314ab61ec89c0568cf1551875334806d"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 15668
@@ -2344,14 +2387,15 @@
         "source.png": "03a31ce2fc043edc9c4950949e30e20ebe0b29c01bdb6685d685240918f80489",
         "still.png": "99da63aa9dbf8096b12d4a71379944f4a48627f6ba2cc8da57a164bc55540f55",
         "still.webp": "764ac78e5c4459de3dda26a83960b8fa0bea539eaa604865cca2c285570d60b7",
-        "animated.avif": "aec3df8fb202ec7042418b273d941005baabe3295e443af0bfd11abaf058f6b3",
-        "motion.json": "221c357d476402d75b38518c52d2ffbcf0f1d4bc80c709f2b288f21e43b0e3f6",
+        "animated.avif": "4ab364e9a7825f1c050d39d82155fa8e96db1dc9bc37273ff3dffc92293b6b43",
+        "motion.json": "b6702d4d3f26e91b2e955792a3e1f2a2a028d66d08856f891bb56042ca4c4c30",
         "meta.json": "5620cade515dbb23d82f479e525fec812b8603067184a9d95e9e7faa34ac7b88"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 19392
+      "animationBytes": 25020
     },
     {
       "id": "board-eraser",
@@ -2410,14 +2454,15 @@
         "source.png": "ac330366d924069ccabf6fffe0d066a04de12d3f762b27f50c267e4459cb7454",
         "still.png": "a1ce0e7dc58ee9bdff69fef00747f319d5a5c10399abd88f4dc2f032d1a0ad28",
         "still.webp": "dc31bb129935305220f8a430c4a6d6c4a324e343a8f1cce272155ae260c5adc0",
-        "animated.avif": "021ddb607524494628dfe118f8ba68cd0b6a031dc2934272d7b572df3a12c063",
-        "motion.json": "6f62958520344f842bbf1eabc15077125f736aafa2f52931559ff237e31ff0c7",
+        "animated.avif": "0746d7c56da8ac7d24a8d6ce36e973310e1175989ad2d35e218cc705493e4719",
+        "motion.json": "ea89b2961e01a47aa81c490356ceb0f9471328e8b93b97037aa17088a1f829e8",
         "meta.json": "27be6c039f918e51273889af02aa2606bd88580035aae1a7105fabb2509d5c4d"
       },
-      "preset": "nod",
+      "preset": "still",
+      "motionType": "gesture",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 33596
+      "animationBytes": 59375
     },
     {
       "id": "boiled-egg",
@@ -2480,6 +2525,7 @@
         "meta.json": "6bd246bc0e5c20a8eef917e8ecd0a3e96a301bf06186529b56c74d2ce4fd6baa"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 35408
@@ -2545,6 +2591,7 @@
         "meta.json": "41a8cbba455a7750756f7ae0e4c053235968b660eef88f6756836da4950f945b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16576
@@ -2610,6 +2657,7 @@
         "meta.json": "75f0697a57998973db33b71d23a9dfa46de58744b1993fcfc2b6913e34fa71c0"
       },
       "preset": "rock",
+      "motionType": "rock",
       "fps": 12,
       "duration": 3,
       "animationBytes": 38608
@@ -2675,6 +2723,7 @@
         "meta.json": "197527d5173a8df100e01bdad020ba51c2eddc851c46703bf99dcf88fa4abae4"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 25972
@@ -2741,6 +2790,7 @@
         "meta.json": "0aaec8fcc80c56947aa541e4da7474b2a48d83248dd88d2fab877807fb7a13c6"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 28617
@@ -2806,6 +2856,7 @@
         "meta.json": "86e6b4e528bcd793244f2ab2fd5a92eee0a621b6a30e99b983ebaa0c0d85762c"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 19425
@@ -2871,6 +2922,7 @@
         "meta.json": "d5d5230a57a9a5da36d6e9f6093dc8b98f7039b34eedb6b04a404f6e00c9141f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 24210
@@ -2936,6 +2988,7 @@
         "meta.json": "e7bbdf49b58eb0ff326b5883d37298bc9bd3a454639121a273d97df35f086c7b"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 51390
@@ -3001,6 +3054,7 @@
         "meta.json": "72d85f2eaf4b50ccee4f4e90dd5a8b2a6dc935376e99d5284db06aef676ce00d"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16027
@@ -3067,6 +3121,7 @@
         "meta.json": "ed12c712966a69c7e9c3ccf07bb0e64f73d2273e20d33978e2d1d6dfcfdab39f"
       },
       "preset": "still",
+      "motionType": "cutout",
       "fps": 24,
       "duration": 3,
       "animationBytes": 56838
@@ -3122,20 +3177,23 @@
         "still.webp": "assets/caracal/still.webp",
         "animated.avif": "assets/caracal/animated.avif",
         "motion.json": "assets/caracal/motion.json",
-        "meta.json": "assets/caracal/meta.json"
+        "meta.json": "assets/caracal/meta.json",
+        "rig-source.png": "assets/caracal/rig-source.png"
       },
       "sha256": {
-        "source.png": "14253f819b904a3f12adf32d6f9ed0c1b6a1a5bc1f8f78c35550e0c7974c5969",
-        "still.png": "b1a9709ace5b3d5c91a81994ba664e7812714aafd41e104bb4f861ba7e176356",
-        "still.webp": "6e0a9d56098d2eb04e7126d030aec2b1bf55471431f40a68bd7d9d8a7bc2ac0e",
-        "animated.avif": "c6f0e379170db9fdecb3801aa9fe256c2fed824e5c668ff3cf837306495c3a02",
-        "motion.json": "63ff2bbf1dd43fec071c7a30f5d4ea87084c1bc7e0f16094388ef86b7c87036d",
-        "meta.json": "651a201abafc2753cb8d067293bbba9785fde3e6755b6b68e10cc23fbcc833b4"
+        "source.png": "07baedcc0fd5bc896b7ba65f6a65c3b8d786633b5930dc4c7d806a7d2f79a6b7",
+        "still.png": "1b039361c2c6fd9bcfa570a8ccf6651cf1f58ea2d439cba38487828857cba295",
+        "still.webp": "849876b9f39010055b71a7bea62a9baf322be68b7bc1b3a44dbd953acdda88b2",
+        "animated.avif": "83f07a817872535a88902d57fb1cb8d07d63b4a2ce2a58ce748edadd09589c68",
+        "motion.json": "8b6d2782eac1016e52b888b3024f33e8c19992c0cb23f985b3804cef9701e667",
+        "meta.json": "651a201abafc2753cb8d067293bbba9785fde3e6755b6b68e10cc23fbcc833b4",
+        "rig-source.png": "b4eeaf8e96feec5501fa9b3c95fd07c5a887757c438f15c212f8ff99434b93d1"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 17385
+      "animationBytes": 37120
     },
     {
       "id": "cardigan",
@@ -3194,14 +3252,15 @@
         "source.png": "197d4db3fa402dd18608b6afd3142da9a208294121ed01464d6c9c561d6f9cb7",
         "still.png": "3ff7f4d67459e1789cb95b050e279463d23e76789864cdfb961305c9fd1d8af1",
         "still.webp": "b270d6a308ab69bc8e497fcf580393968452f84221e71461528770dfb58aaf17",
-        "animated.avif": "9683c8fb7b73cc4331a8cda4a9fdc2d28a92c59cc9a307feec11279f1f693b6e",
-        "motion.json": "b0bf20cef9fe50b0b8d7cfc5a03fcfe23033d63be8f01162d1b86ebd560d26b8",
+        "animated.avif": "ad1aee42e89a678693e7fda6e30f09f3ceb7e51ac6fa80b833e503d7a7273518",
+        "motion.json": "2e3207dbec05ed41b1044b8b68a2a5cc20a8355308ced78d685bf2f3951eedae",
         "meta.json": "61b3f31ddba76c9a6d8d988309c272c8ec60abacb4938fe561c550a95b0a5214"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 29817
+      "animationBytes": 35905
     },
     {
       "id": "carpet",
@@ -3264,6 +3323,7 @@
         "meta.json": "57deefceb43f2d8c6adcdb0172e20fcb42c9279c386abdac2f96b0bd3973b5da"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 23397
@@ -3329,6 +3389,7 @@
         "meta.json": "f1cce88ff4dd66c4b7d31d01c7dae90f025739c63ca27dea16b20e021a72e8ef"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 51693
@@ -3394,6 +3455,7 @@
         "meta.json": "588b53f41633613a084bdd986bbcf14eccd9cc84db4899e993aebf9997c08f44"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 58938
@@ -3459,6 +3521,7 @@
         "meta.json": "5407780c0d94879de85283bcbbac32caaf077a653a6db34b79ff43bac1cc785b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 12911
@@ -3524,6 +3587,7 @@
         "meta.json": "7399bb8a6034313ccff131c382e8d44714bb1ea73e0c02f217eea9bd32818504"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 28980
@@ -3589,6 +3653,7 @@
         "meta.json": "b33733c532b4c867ecba7b205e18f0ea64eb97749045bc335f76001cf4a01e67"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 23285
@@ -3650,14 +3715,15 @@
         "source.png": "a30da64584cbd9b66f56045f62d532870738f7ea8b3b7c7e5c981dab14d4674e",
         "still.png": "c1ba810c1d66b802f85ab4213a0626ec3a844dfe2e5a24b2192ab88b4a2839f5",
         "still.webp": "0751eaea9aa829d773df67e7889ef64a2b7dd2fcac46a77142fe77ce9851921a",
-        "animated.avif": "785c3919f15fd723950f9ef4f261f5ceaeba5592c4604c81b92a2c92c7267b74",
-        "motion.json": "8a26e0dba89c62d89494edaea4366527208c37c9c3f83a3f417bf30203277911",
+        "animated.avif": "1b1ed0996683d2aa6bf042efc308b2f15a05b97d0914659b56fcb243d80841e4",
+        "motion.json": "8dbccb81346779ed5625ead7cd7eabf91c51cbdb44a342aa79bd83599755ca94",
         "meta.json": "f6a02a75e144ab3bdbaf53f83696fcbe96cfa994e468714d4cd16e97b0bd864e"
       },
       "preset": "still",
+      "motionType": "gesture",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 19685
+      "animationBytes": 50963
     },
     {
       "id": "chalkboard",
@@ -3716,14 +3782,15 @@
         "source.png": "242d139b2a7b227b23077c04236f11c10128cc710b02c629e224c0a9356c54ec",
         "still.png": "20101ad1847c6f474b8ca2415d47ad121c44bf3b300e2ce168d482fd60d68934",
         "still.webp": "42a2b8c9d9de76c79c34ce8e738c4921259d7be7ee78f26e0dd14b74de25a483",
-        "animated.avif": "4584faf30e5590746a7a9343baffa3ff6f3d36fa32064c7661d2c1f44ddd80d7",
-        "motion.json": "08e8dd57036c39cd48e0d7bfa7766d3165c1adc592ea3696a09c66f4601f3209",
+        "animated.avif": "f666ee4ad8885b06ab8701e810f642dee07396e95d8755e947aa63d11796ad78",
+        "motion.json": "2cfc68d0518f5a035ef030c41990940d50dc3bc339eebd8ff4fedc345cce9cca",
         "meta.json": "a8af5897cab44073a6044ff8d4967fc7bf5faa3764e503a94cacb046f7ed44c2"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "still",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 12373
+      "animationBytes": 15972
     },
     {
       "id": "chayote",
@@ -3786,6 +3853,7 @@
         "meta.json": "90f03b565fa09c80ffea169dc677ca4b1844c840d44e20121e83ce9fc2f70f43"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 49461
@@ -3852,6 +3920,7 @@
         "meta.json": "6fa2c4cb407d3e212b548365437e6ad34e1ad2b2a636905f9574ea17ed49619a"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 13446
@@ -3907,20 +3976,23 @@
         "still.webp": "assets/cheetah/still.webp",
         "animated.avif": "assets/cheetah/animated.avif",
         "motion.json": "assets/cheetah/motion.json",
-        "meta.json": "assets/cheetah/meta.json"
+        "meta.json": "assets/cheetah/meta.json",
+        "rig-source.png": "assets/cheetah/rig-source.png"
       },
       "sha256": {
-        "source.png": "365b0cc047950c1de5705482e88d4357cb482d043fa28590bb34be0ac0b16531",
-        "still.png": "a4347cfc11f9488f471d4321f5ecbf86e327d32e9e3690e1a00a59288d78cef2",
-        "still.webp": "bbf927aa5a3b0498631c0b9aa7eb8684db34a51a5fbf287fa8fc3c1fe3d532e5",
-        "animated.avif": "bf032567fd964245549c09a2b0ef4c2a8c672351b3022985ba26efac5318947e",
-        "motion.json": "c1c38d021edd300d09c594204f7ffc8f082b22fec0f336d9df81a8eed4d39282",
-        "meta.json": "20b351297169b58d0e60adb30b209e7dc213ca848ff95a013ba32b9f46bc087e"
+        "source.png": "22f0de45da5d5568a51a68e6146fbc4524c3940c6a4decaf0e4a61b7ebf44131",
+        "still.png": "5b15485995beb4aea33a12d8de600c8a07171d1c758d18c70d754436bcd167dd",
+        "still.webp": "6c67f6902fcb4ae1ce3934a612918809d2cb03cada4755c24fd737c5215edd72",
+        "animated.avif": "cd10842af85b6ddde5b3b80b5129b707897694139aab688a65233c34965c140a",
+        "motion.json": "d32ebcd632b676cd85d3b1c81b4da37b1898d5c307fe2a4af0975aa2f439510a",
+        "meta.json": "20b351297169b58d0e60adb30b209e7dc213ca848ff95a013ba32b9f46bc087e",
+        "rig-source.png": "00522962b3fcadbd29f62e2686157bfa4954fea5d71230f97f5474846c318950"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 30541
+      "animationBytes": 54921
     },
     {
       "id": "chefs-hat",
@@ -3979,14 +4051,15 @@
         "source.png": "db9e4521fa09242a6890e6f828e66928faafd6b56bbc1292dec0a9a7f1aee353",
         "still.png": "490f37e60dd836493f347f2d4df247ea525e9b5ccc7d90723e668d3279407e62",
         "still.webp": "311b18c7671d2c9dffa442daa4adb5cb28b05dae14c11f2daa4c2946f43d2fce",
-        "animated.avif": "981dc8572a42fd3ac479d5fad6310e3934717487fb19b1a446b898335fefdc24",
-        "motion.json": "f77fd09294f7a017dafc058af55a57a5bd40f8ea3146abae3b62c49b51835bcf",
+        "animated.avif": "bf2d8720be46aba9d2f7e5e4de2130c945b168aa642862ddc4c238c3acd7485f",
+        "motion.json": "d2e4089e39d8f8a4db70cc79b3bc9098fb38ef9da98c93c1ebf3a6296ea76f99",
         "meta.json": "17aa1b163aab368363e9934280295265d6e9d815903c55e10a57e0ba1e9749e9"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 20,
       "duration": 3,
-      "animationBytes": 13466
+      "animationBytes": 28864
     },
     {
       "id": "chimney",
@@ -4049,6 +4122,7 @@
         "meta.json": "9e7404922d0cf7a84f5a60c685f0edbc99c90e08fe6f627cc98eb29f9544b2b4"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 19589
@@ -4104,20 +4178,23 @@
         "still.webp": "assets/chimpanzee/still.webp",
         "animated.avif": "assets/chimpanzee/animated.avif",
         "motion.json": "assets/chimpanzee/motion.json",
-        "meta.json": "assets/chimpanzee/meta.json"
+        "meta.json": "assets/chimpanzee/meta.json",
+        "rig-source.png": "assets/chimpanzee/rig-source.png"
       },
       "sha256": {
-        "source.png": "63cd6176ad7ed31232ca9d200435dc12febb2ffff55d1487b6ba999869e8b5fd",
-        "still.png": "36826cd96c0441eb32cf3dbd37ac8465d776317b25e43a2761be7d92a64742e7",
-        "still.webp": "8c4a7c4257ac89def7f95f6665ad405a81dccf28da5b3b2aacfaa894d5ec6fdb",
-        "animated.avif": "82c59494a9be80574ef266d9f33c98494191c17631c1de443f5e65a0ac3c6540",
-        "motion.json": "288b3271f172a071cf3b6b7ad508fa2504084e8410a3c4b5ea9372fb888b02df",
-        "meta.json": "1c43e33d64e9bed4311a34e76c259fbc24b290350e60929cc502e0cfab7cd234"
+        "source.png": "06412e816dc48114884a24c1cf6dce1f0b36152154661813133ca70288828513",
+        "still.png": "4e9ee181b303d350da6bdef4e0bd2a0b07a0e70b3767d93a8e453ef3883c386f",
+        "still.webp": "cbbe80c0c888c05910412a3522a262ea801565042fa7faef9ad690f44942efd2",
+        "animated.avif": "47254ff6452965708daf0aa26ba7cc10e99362063188ce12b362627fe0adb3ac",
+        "motion.json": "c87b7f92ce5c9a3cbe48bd8c772d8cc49f00ae74d1922af2d0412e88547707aa",
+        "meta.json": "1c43e33d64e9bed4311a34e76c259fbc24b290350e60929cc502e0cfab7cd234",
+        "rig-source.png": "751f62087f9e8b632834a186ce09904c7d5f12697f3e270a350fe185fca772a6"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 22730
+      "animationBytes": 47881
     },
     {
       "id": "chinchilla",
@@ -4170,20 +4247,23 @@
         "still.webp": "assets/chinchilla/still.webp",
         "animated.avif": "assets/chinchilla/animated.avif",
         "motion.json": "assets/chinchilla/motion.json",
-        "meta.json": "assets/chinchilla/meta.json"
+        "meta.json": "assets/chinchilla/meta.json",
+        "rig-source.png": "assets/chinchilla/rig-source.png"
       },
       "sha256": {
-        "source.png": "9618be9285b9c4353fc0fbf53b9088c9614bb3b140dd04b38d08ed7a19a04684",
-        "still.png": "9b1f6a5b246b8efbd0ce818559885f634c8b83f5e04412c4ffad2fcd923e4848",
-        "still.webp": "eeaa6d04233a4db50d40be3b5fa9b0efb60b3c7ce93f6265b30deac8d5ca6b24",
-        "animated.avif": "7f5967b1c15ca2d5d8b056a7e105d6881214bda317507a64d734222f46aad00d",
-        "motion.json": "0b1a37a5fc99a6a7d759117fe07819fcb65e1987e9003115a211fd5f26002e45",
-        "meta.json": "6b6e401a2f00986ea7216220599578b94cbb94294218c40ac94e48b95edd322c"
+        "source.png": "c3275b152632bae2da7356dd28a0f2425c5662c473504da7a0ab53d925bae338",
+        "still.png": "0a92c7f488cb88de203d2eb724690b5f2ebda436e40a026b9f4bd6fc91a87175",
+        "still.webp": "d6cb1f077e220c780af20e91f4aafb44bf01b8a3bbd4f3cfabe2edc79ed3bba1",
+        "animated.avif": "35f46cf537ee957fb9cf8bb7c404368e9fdba06f3969842574dfbe0c1bdbb455",
+        "motion.json": "aadf3d6c154734ba60dcbf79677df7060d340a394e1a702f195399dcfdbfa2f8",
+        "meta.json": "6b6e401a2f00986ea7216220599578b94cbb94294218c40ac94e48b95edd322c",
+        "rig-source.png": "4e82dfa491a963801531d3c11cf28aa20dd1c628d8c02ffe8c0971eea7ecc9e4"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 28078
+      "animationBytes": 54006
     },
     {
       "id": "clay",
@@ -4242,14 +4322,15 @@
         "source.png": "7b3d14f2db0b5c2b4beb0497b951e635c3500b8e4a263ce29dd8290e2d64a22b",
         "still.png": "6a3f35a9e64fa8ab0a8497c9b1882d58d3262cb89ea7de58f0acd6b3da046f3a",
         "still.webp": "c77b6b3ad4a74949b6e9e8623c0a0657d3d4e9a7a63b404df89fee2161912de1",
-        "animated.avif": "335c9ca965e63c3ce086cab99d288aecd18d6278116235a414dd7c5e72e5f251",
-        "motion.json": "23d1d808223e4185602c25f6af1c829f361f04a8dd5ca45ead7d0fba9d79bfdf",
+        "animated.avif": "d4c017840ee49563b7807aa1240db507efc719a66b4a7a0ca389d17c66ee04b1",
+        "motion.json": "c9ec02f8acf48f72229ef6d9953c0bcfc46617e5f330973b0cf3f3ec94d369c1",
         "meta.json": "f700767ee714d13850684ecada2a0bc70bb9c9c9c6f5bd95ce5c22420660f47d"
       },
-      "preset": "still",
-      "fps": 16,
+      "preset": "jelly",
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 13876
+      "animationBytes": 41604
     },
     {
       "id": "coaster",
@@ -4312,6 +4393,7 @@
         "meta.json": "78787e74ad227054eabdfb63d530e61a37f096c45ca357ca25d1349f90637936"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 28824
@@ -4377,6 +4459,7 @@
         "meta.json": "7d9438bfdbbd72950b0f25463e523dc296682b08aa05019f1ee2cc276412d8a9"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 23258
@@ -4442,6 +4525,7 @@
         "meta.json": "2b2409c93b9d4f8cb74d08f5bf30a455fb9037b087b8ee1e192607e8d39a3ab5"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 22152
@@ -4507,6 +4591,7 @@
         "meta.json": "3f6c7a0ca49b818df1a79266d53b8e6f6b7ead6475961b3e5225616c037da09a"
       },
       "preset": "rock",
+      "motionType": "rock",
       "fps": 12,
       "duration": 3,
       "animationBytes": 53952
@@ -4568,14 +4653,15 @@
         "source.png": "e8da4bccfa64f356c846a7acf40142729fa65b1080021d78672d54bd4def989b",
         "still.png": "b1564faebcb671b7db53a01c0cc8b6c929a27e855153cb723d8506dd16189855",
         "still.webp": "fa3bd95c75550621242e0fce8080e882fbb5eed054acc779771a6ddaa1867262",
-        "animated.avif": "d27459c8320ad2e58a57d7ee6aa9ee0105597179c2fb6f5a62d3a8601489f126",
-        "motion.json": "65f2ddbc86b7dfe8fce82f9bbf683f20ab6145a191ddf892b2a1464c289878df",
+        "animated.avif": "99932f9e35bd90bb3761d60aa364278a3bb5c51e045ac8dcce09aff204353d67",
+        "motion.json": "7e6f126f0e21b71ba55c49d12b978f4707df194235dd79b6d3992111459804e1",
         "meta.json": "b29a01d6dd188be9208903c1f4f3de9723a2d633ce2ea082e8d952c11a1f3e89"
       },
-      "preset": "nod",
-      "fps": 16,
+      "preset": "still",
+      "motionType": "gesture",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 32966
+      "animationBytes": 48676
     },
     {
       "id": "compost-bin",
@@ -4638,6 +4724,7 @@
         "meta.json": "4c02628b1cd2f2edd75e3073dc2bc143c03a446802b5199099b32be0bd874133"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 19192
@@ -4703,6 +4790,7 @@
         "meta.json": "a7ec3e536ba2433555d79d172f906040ebec2bcdd8dbccc69c27917176a0e3ad"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 19687
@@ -4768,6 +4856,7 @@
         "meta.json": "131842d98db8ca1248fee08f180ff8d3718854b9cf70e9687ccc30719746ad9f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 22866
@@ -4834,6 +4923,7 @@
         "meta.json": "b16787802ffc7da886e3b09e8325096ee075f48d575b31f6102ba46559a08536"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 24982
@@ -4899,6 +4989,7 @@
         "meta.json": "6b581a50704d53a5525ed377ff021c4121855e5848f4f908e04eafafffe15323"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 34087
@@ -4964,6 +5055,7 @@
         "meta.json": "5ba2ee83fa2b517a204069e3b5b2c4c0d2f67089a8597ffb21cf60951e543df3"
       },
       "preset": "pour",
+      "motionType": "pour",
       "fps": 16,
       "duration": 3,
       "animationBytes": 47528
@@ -5029,6 +5121,7 @@
         "meta.json": "17eb61b6b122bed26fbab5ad93799148f58152da42f8791664abc50287924deb"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 21215
@@ -5095,6 +5188,7 @@
         "meta.json": "644bb611cdbe0fd1e51bce937ce6e803cb315490495236ce02d88edd8761a0ca"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 53231
@@ -5160,6 +5254,7 @@
         "meta.json": "9d35edefbd139321c17c152b8116f6772fe4a706e9a130742519e1ea06bbc522"
       },
       "preset": "rock",
+      "motionType": "rock",
       "fps": 12,
       "duration": 3,
       "animationBytes": 46219
@@ -5225,6 +5320,7 @@
         "meta.json": "e1f59ddf10ebaffbc16bb4536894d21d9adb184b360733150c0c6ba39e690f2f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 14819
@@ -5290,6 +5386,7 @@
         "meta.json": "448dc65c2a9fce7d74b95aac2d6ad7b17e7fd6d943686ef80b36138ae356c4d9"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 41646
@@ -5355,6 +5452,7 @@
         "meta.json": "416a4ee9a20dcd964004b1d32d6867cb4c0299fb9cae0decb8bd11132286ea37"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 14302
@@ -5420,6 +5518,7 @@
         "meta.json": "4fac67268f5120e02de79a3694fcf9e263a2e90e4ebc4f569fe859818785721b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16930
@@ -5485,6 +5584,7 @@
         "meta.json": "54143806c3d5c872832eb1ae083b070081a8720ee1ccef2b3ec037827beca56b"
       },
       "preset": "sway",
+      "motionType": "sway",
       "fps": 16,
       "duration": 3,
       "animationBytes": 47990
@@ -5550,6 +5650,7 @@
         "meta.json": "a34172cbb99f213d6ce0909440ab71ba6e29c4758b3aa1d54191de570bb9356a"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 49670
@@ -5615,6 +5716,7 @@
         "meta.json": "dd70bad1e00ff2e58428ba69ccb7a2b3986f2151c7efc48f8559061849684afe"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 12,
       "duration": 3,
       "animationBytes": 43632
@@ -5680,6 +5782,7 @@
         "meta.json": "68fc623b273e4a42124dbeddbfc7d644dce867c833471b78cc1ec8322448ea91"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 45280
@@ -5745,6 +5848,7 @@
         "meta.json": "449bd03231f216d64533d6994a6e2cf0d7b3a9fd021ecb9f1c38314319194483"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 36410
@@ -5810,6 +5914,7 @@
         "meta.json": "66a29333140260af17b48c69d19215ac51f91c44cefcac6c0beacd6dc0003b46"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 18494
@@ -5875,6 +5980,7 @@
         "meta.json": "e0a6a21a5fe99e9dc7e83ddac6aeebf3b0341cd15ca1a5b0a0e3616e37829afd"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 18448
@@ -5940,6 +6046,7 @@
         "meta.json": "cbd43dc4afd4c6746ae590acd9cb1633a8466f608e7fa139b8e1f18b5c55f68d"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 24829
@@ -6005,6 +6112,7 @@
         "meta.json": "018021d2902e613813a39a050de5275bf7ecdcd4043c6fd49290ca7bd3cb41de"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 19112
@@ -6070,6 +6178,7 @@
         "meta.json": "fd90d155a5319f71345dc3d4a6a1aee8b2c0e00fc4addd08716e1e80d2360317"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 12531
@@ -6135,6 +6244,7 @@
         "meta.json": "a6e6ed64e4a62759d975ebf640db73e776a7fe79d348192fa0f8069cb8c66b7a"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 13620
@@ -6200,6 +6310,7 @@
         "meta.json": "29854cc00b002c391c3eab7c65990f2367171bca5d0852b44c29afeeb62270e3"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16647
@@ -6265,6 +6376,7 @@
         "meta.json": "6cdbab5a9d52e7bcdc680684acff9e5b78a77b8ce7010c75020db9ae468031f1"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 60167
@@ -6330,6 +6442,7 @@
         "meta.json": "a40833208b54c275341a6fc6b062b1fa8d62eb4f77200b08af2a0177b156807a"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17150
@@ -6395,6 +6508,7 @@
         "meta.json": "43bb22dc64914e566c80261e5d58f0c288da7b13f0e1d284b5fea7f0d5c72c20"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16181
@@ -6460,6 +6574,7 @@
         "meta.json": "90d8668166e24cc9f592584ef9f235be7efb19b725b95f9cfb9ce2c845b10ad4"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 49982
@@ -6521,14 +6636,15 @@
         "source.png": "2e140cbafc91222d76586e4b32b2532b41fb8d6679725694055500be208667aa",
         "still.png": "ce95a2b439e80dadcb61147d52d3aa075ed601e91b521837fcc931a10d230f37",
         "still.webp": "8ad75d1232d44d97d2ad8d9327c44e42d580d2464b9f531a440cbae98e8278da",
-        "animated.avif": "47d2a1155701ecef34653e4b1eace9712efa575bfea25b9bba046f948b9a7e07",
-        "motion.json": "cb10416ff7f5ed79a0550bec68aee002fd623f489afe81faa3bc73b38c02a75a",
+        "animated.avif": "62cf96ce72478583e612f45aca292665d7a4254772b387fef7956bf9252f0ceb",
+        "motion.json": "debb44cb0b1f68846a7401435742b1a37899f7d25237d8c240f825b114dc0786",
         "meta.json": "11bb31f49518ff2ad92310a2de75ae3ac69bca2d38e42be84e40ef41fe734bd9"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 23598
+      "animationBytes": 42750
     },
     {
       "id": "echidna",
@@ -6587,14 +6703,15 @@
         "source.png": "87b74f46dd6711372b84ff68cf6c5b27c0690cbdd86e933ea8e8f84de1afbd78",
         "still.png": "25fd844d25737c3d4c07bbe255a9582c884fc1f3445740d3497c4423c196be85",
         "still.webp": "283f3ad9d376961304764068c55f54b5c42a51a65cd46afb1711d60186ef07b6",
-        "animated.avif": "b6711e6a70b530bbcca3386558fa557519989a2bbdf55b6a909ab66ea9bfb41d",
-        "motion.json": "3535430a77c8183a7fa237902f398dfa9ba85d42c83073de9654d9f08375ed6f",
+        "animated.avif": "5bdedaff49950acd865f476fc714e6be3e50e41e551760e508e1a679d0b69d45",
+        "motion.json": "cf81a48371caa73ddcf49a3a77086ff9bd414e4b7468b9899037479842d96c19",
         "meta.json": "8ad56cc0d769be8247d0a3b7e237ba87dc594c125ddcf5a2c82a8b9da445da7d"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 29394
+      "animationBytes": 48048
     },
     {
       "id": "eraser",
@@ -6653,14 +6770,15 @@
         "source.png": "50051966f719b1ee0863e155e8746d2426661516c99ca5a3282d8b805fbead4a",
         "still.png": "2bf2c8f741a11be1dc1387227d910e5298822cbc78ad43b26c4deec1f8af356e",
         "still.webp": "86d0a600048e90adfc0ebe2078ef105a74624be55f36e47fca08a61f03c44e2b",
-        "animated.avif": "ba82dc7abd5c294f87a0098afe578a8a9ee06a9f5283a1872506dee9b496a184",
-        "motion.json": "c4179fa80c6201d64651efce7d8cd85e39012c0b02e0095b1a16b8ea6464be0c",
+        "animated.avif": "747062dd86d0f09ba3a569726be4bbdc070fe20826cfa442012e0b098e8bf18a",
+        "motion.json": "04bcaf1bd6719681b18ec738d76d730c7c3c7e46b4ce00abaa4717b052240750",
         "meta.json": "3d4feaaf613083c823e95ea912e863b9ca5809ae1e1b67c012d23ed030711fcc"
       },
-      "preset": "nod",
-      "fps": 16,
+      "preset": "still",
+      "motionType": "gesture",
+      "fps": 20,
       "duration": 3,
-      "animationBytes": 27900
+      "animationBytes": 59248
     },
     {
       "id": "fence",
@@ -6723,6 +6841,7 @@
         "meta.json": "f60277dff78724e667c6989931deeac8bcb358cf3ea776271e8258b058cb5bb4"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17610
@@ -6788,6 +6907,7 @@
         "meta.json": "5cf3e01da5eda1cb514c656c3f53ee870a77b98d9b03259b83d2b2d3f01461be"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 51649
@@ -6843,20 +6963,23 @@
         "still.webp": "assets/ferret/still.webp",
         "animated.avif": "assets/ferret/animated.avif",
         "motion.json": "assets/ferret/motion.json",
-        "meta.json": "assets/ferret/meta.json"
+        "meta.json": "assets/ferret/meta.json",
+        "rig-source.png": "assets/ferret/rig-source.png"
       },
       "sha256": {
-        "source.png": "5d11d19269f23943a5bce828257e20c234f573be40345fd99949e22a69037a4e",
-        "still.png": "cf4906d77fa67f4af6ab3f24f0eb77375d96adfc009a2edb8814410c9cf7a563",
-        "still.webp": "3445a741672eca9796bf18e3d09b8f3d8c8167f81338f1d1fc186ec2ccdab733",
-        "animated.avif": "66d0f2eff5af286c0cb1e3b4a2539c83c579b42891285443369559f1b5bb4036",
-        "motion.json": "0d787dba03c225a665af5de5960ba3b0105f695801aace439aa97112be07fcb0",
-        "meta.json": "886b45b19afc69b73103c02307468af7035f7289c58bef8388c7966aff535cd0"
+        "source.png": "1e667206d3f07ad77164273ca13161991fd373dc81da6f2ddf09b18cc37f6a33",
+        "still.png": "babf43741fcdb72c18f13472cf7cae923bf5dd96dc18565991c851bbf09beaaf",
+        "still.webp": "a797070812c0ba1934edf70902d5d68c3c8d2775acd839c530b11f3a41ce83d7",
+        "animated.avif": "1481d2aa9054e9c2ccb9f86e284afe812adf42d25161b92abc78877df4058261",
+        "motion.json": "fd2520fa6298ca5847389ede21e64bcb473fe4ea213ac41617e342000b239274",
+        "meta.json": "886b45b19afc69b73103c02307468af7035f7289c58bef8388c7966aff535cd0",
+        "rig-source.png": "825490b0333917742a6749228f91bae2aee69f794b957bc32f50478a2efafea3"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 19759
+      "animationBytes": 47987
     },
     {
       "id": "fig",
@@ -6919,6 +7042,7 @@
         "meta.json": "997131804f4bd62fc98afa53a70927134a0aba31a7a19d66bec67282006a8fdf"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 51938
@@ -6985,6 +7109,7 @@
         "meta.json": "3479f3476a937a3077c8fee3fafa8eef9e29413bf3bd8d82ba3818aaaf779615"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 28164
@@ -7051,6 +7176,7 @@
         "meta.json": "e74aeabb385e6edea67440393555de3c0aee16d6b78fb5d7acf2006836fedbce"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 26526
@@ -7116,6 +7242,7 @@
         "meta.json": "63c01673e25f7fd028fb4b8e16b0170d3ad368ee4a78710cb80266c659a730fd"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 18713
@@ -7181,6 +7308,7 @@
         "meta.json": "9b7a9fc9298c55419ac6b1e2db25959f847326491f04f2323da8aef833d4e00b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 23848
@@ -7246,6 +7374,7 @@
         "meta.json": "c7a3a556b13470869b78a7c66e7529b53adcc27c15c1dd38fa6ab90eee30f0cb"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 53262
@@ -7311,6 +7440,7 @@
         "meta.json": "1ece27dd742e9e5a3ab5951a4b1afdafd55159ab2bd51ee9fb7cdbe504f758c9"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16513
@@ -7376,6 +7506,7 @@
         "meta.json": "51ae13b6e7d835f59b95356eee183de762e806d9003f387e12aae0e87a9118d0"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 26505
@@ -7441,6 +7572,7 @@
         "meta.json": "55b77bd45ed941b40e0abe740e43b1eb46db15edc5c80e7898bba584d8c53309"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 21791
@@ -7506,6 +7638,7 @@
         "meta.json": "51f498ca04ba302874ed830fb74489392ead01947fd9dcec824ea2502e62565e"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 28790
@@ -7571,6 +7704,7 @@
         "meta.json": "c41f80a9a46a9a2d965034d57a155ee2007dccfd83614df36e181c87210ba6c7"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 35854
@@ -7636,6 +7770,7 @@
         "meta.json": "6680db56b07493d5667a34bfa2f96fb032c7971e8da69f2a5ed6da757a7f80d1"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16961
@@ -7701,6 +7836,7 @@
         "meta.json": "5d83591ad370beb5e80a05aa60118360775c72e01f5d4e10593d541225339dc5"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 20462
@@ -7766,6 +7902,7 @@
         "meta.json": "5b1a885b5095985934dbce67096b9347f8dc0002a669aabfd47be119556476fe"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 26470
@@ -7831,6 +7968,7 @@
         "meta.json": "89b8add13fb87041ae03ab15f236a11aa980a3035d58bc5a18969476d9ca738b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 21248
@@ -7896,6 +8034,7 @@
         "meta.json": "3fe9b899db6c8aaea9100e497d0f92bf637d785cd81cb58ee21983c86873797b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 22890
@@ -7957,14 +8096,15 @@
         "source.png": "9e59094b3a91a4f675fe42bd111daadccfb6c52bb345d96ab58fc5d3973412f7",
         "still.png": "3018f0dcf84e5d3f519bf80a98914baf8d6d6763b18482b856a14fa77f60d924",
         "still.webp": "5c640c1539a46139e43d813ef5e1c3098c0a2f98a5bd6cdd9e1e8a80dc8f0be9",
-        "animated.avif": "34638da84614e87d8a8d3ea8cf94d4cf6093a4ec25daec145af029eb6d497eda",
-        "motion.json": "f180e00812d41ed599c7223ea4b01f81731583879d764842c14ad460a71afdfa",
+        "animated.avif": "33fe7ba0af439b0157862bb69a0dc3e2d3162c6d2be80a1352fe2a668e759676",
+        "motion.json": "d2489ae7c494055e0a6d748cc52a857e74e490f732bc3e56223e77fac929ef40",
         "meta.json": "42a7754feb8ba551a46c4c2701421df312f130359d93c5b62ff1dea31f1e0f9e"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "gesture",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 29160
+      "animationBytes": 56083
     },
     {
       "id": "glue-bottle",
@@ -8023,14 +8163,15 @@
         "source.png": "127d3e16478ba4b350fc18c22f31ba3d323a012db1049b4646bd0b2911ecc805",
         "still.png": "acdd177c7cb0350f8a568a002e5cfc6b77071d2bb722254320b14c6608772395",
         "still.webp": "94339721430653a41aea0ecdf5b22f760db1ff2fcb62fc1a5802ba1fc2b2525c",
-        "animated.avif": "ed88643a2b5c7f58a2d576d6c117a2a16b8315d6930b867f384e830394109a60",
-        "motion.json": "a7e02844cc229959733ad97923354e150c818c456b02b48cb38b879bae315f63",
+        "animated.avif": "d84b7764c9b0d3e794eb656dae7c151acb48f6fcab7402873450f4fc31c16a8b",
+        "motion.json": "15a19e7715a52726cd1ec1bc3f6a8196b4cc69bed0838261f9df25cd2ccf4874",
         "meta.json": "426a46b3ddc9eb359c97f021f9e57ed0047d53daa7af2f965777dab50274e366"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 10315
+      "animationBytes": 54683
     },
     {
       "id": "glue-stick",
@@ -8083,20 +8224,23 @@
         "still.webp": "assets/glue-stick/still.webp",
         "animated.avif": "assets/glue-stick/animated.avif",
         "motion.json": "assets/glue-stick/motion.json",
-        "meta.json": "assets/glue-stick/meta.json"
+        "meta.json": "assets/glue-stick/meta.json",
+        "rig-source.png": "assets/glue-stick/rig-source.png"
       },
       "sha256": {
-        "source.png": "8a5d8b604f6bf288e8b0fc9bf13106ab597867049ad03c35a7b934558d4beb49",
-        "still.png": "bf02c7a4250c59654fc47257b5bd31aa8759734560a0d7bf2856c8b4d3537157",
-        "still.webp": "ef3f46a3317968fca6a5ede9c3806ad4c7ab4b5838e376e3e3d81b1ec4020e3a",
-        "animated.avif": "072f9f9a6b14efedf92eee0b2a7a934d23c64c0e8803325efa22849e76ac6c05",
-        "motion.json": "11caefbfbdecf5108443a57193c7b140105a895cf8ec8bb6b748b7545eb318ac",
-        "meta.json": "d1817ce9756b004641fa3958ee2ef98a8175127c8bea5730d780c4ba1627bf98"
+        "source.png": "fa59fe2e07e38adf4d1bd04ff28789e3907e9398cdf311845ce52d6bcdc01e17",
+        "still.png": "a01b9546173d47322f023e0a071705cd9377f6923149b6022fb32baa2b12fd21",
+        "still.webp": "f8e71a9f57c08dcf4079e3e58953506c27a03e5fe8ad6227285f7ce8803d028b",
+        "animated.avif": "274e2882a261a13fefbad5bd82445588a06c7be3b3fa92801c3eac437dce880a",
+        "motion.json": "6ad0b7b7bb580a4d845687bf962fa6fd09f4a142787895dbc670a43be5b0694d",
+        "meta.json": "d1817ce9756b004641fa3958ee2ef98a8175127c8bea5730d780c4ba1627bf98",
+        "rig-source.png": "c3c812e5354877a14b816d3f368fadd9b995f024a262a909a14573509be36350"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 12388
+      "animationBytes": 18278
     },
     {
       "id": "gooseberry",
@@ -8159,6 +8303,7 @@
         "meta.json": "c68aa0b81e03a4d857feb81944159c9a66a5f65e290f753693ef86979a712581"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 41120
@@ -8224,6 +8369,7 @@
         "meta.json": "17c3e6a994ccf796e5e633ea51018f949e384323dbf569b00ba5571fb5567a12"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 30308
@@ -8289,6 +8435,7 @@
         "meta.json": "bc376fb3d40ee9aeb663dba39e7fbaafc290d3c2708bebc1c43c6b8cfdffffdb"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 59446
@@ -8354,6 +8501,7 @@
         "meta.json": "8b911c9897e2acfb26c32ec7fe787a1a6d34e5657e498c9037872a8a699809f2"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 21178
@@ -8419,6 +8567,7 @@
         "meta.json": "d8345b4ad5ffb0d95d7caeabada23a64b4d3f696b71cf758660519413ab4ee34"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 23563
@@ -8484,6 +8633,7 @@
         "meta.json": "3755d96d1fb46a66cce180bd33d3cd8834b928042ef4242e6cbed4d1af84dd1d"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 53142
@@ -8549,6 +8699,7 @@
         "meta.json": "7d85b226e67297d3c8c1070e29a92660fa84368f79a48445294ae029fe97224f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 15940
@@ -8614,6 +8765,7 @@
         "meta.json": "c3aa423f096f01cf4a56bec0c3c4561f783628c03c3ac04d4bc17cb52621bb03"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 20445
@@ -8679,6 +8831,7 @@
         "meta.json": "14ba8b1203009e5fa972f36c0bacccaacbe258d48110924a08395ffd362b2b6d"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 38354
@@ -8744,6 +8897,7 @@
         "meta.json": "f6698d2e154404cd661913540a8f6b05f02c7e681509d1b0fd47edc42ee1544f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 21439
@@ -8809,6 +8963,7 @@
         "meta.json": "2b9145e34773ddac4d60e6ae63ee3ee6ae43c133532dcb5260ac67fd55c7e3d6"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 20888
@@ -8870,14 +9025,15 @@
         "source.png": "000a2ae9c220a5a6320b6916c0b2bad7bf53e0455156f150df34b73f8ab34a5a",
         "still.png": "e6cc95e69502371e588446f6f1edb20883b94dc4f958b000b662bb5eba75b7a4",
         "still.webp": "3246d52a1d182d4b384d73f9768056b2d0eaeb1e93fb2e680bf3e2a878560dae",
-        "animated.avif": "b65603d9868c0e96e4ce66ab79d7307201ca411c099550d2a97e64cfef38ab91",
-        "motion.json": "69c0896c848040745af88284c5882e4219a06245fcf4aa70dd909141ee64451f",
+        "animated.avif": "ff0f8f59ab6db64727e6e1454a2db64ec805bf9fcce6aba964f6322f00735c6a",
+        "motion.json": "6713350e16082c455dbc3e974ee01df202012e5f437929ed3380908ec1192b56",
         "meta.json": "facd8b9f2a7ee597236d5a5112350e8354ec80f16e3d833383588732eae22c40"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "gesture",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 15143
+      "animationBytes": 56699
     },
     {
       "id": "hinge",
@@ -8940,6 +9096,7 @@
         "meta.json": "0313d1972c2ba379b60b2f595fab47f51448400f66a3a4dcc698be4be60506b5"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 18618
@@ -8995,20 +9152,23 @@
         "still.webp": "assets/hole-punch/still.webp",
         "animated.avif": "assets/hole-punch/animated.avif",
         "motion.json": "assets/hole-punch/motion.json",
-        "meta.json": "assets/hole-punch/meta.json"
+        "meta.json": "assets/hole-punch/meta.json",
+        "rig-source.png": "assets/hole-punch/rig-source.png"
       },
       "sha256": {
-        "source.png": "6036d4a7fa6f27f9cb879f3d6b0aa6db47f42575f3520d34048ff52e598c53b4",
-        "still.png": "7f2c0ea0e465adb4dde5b015889975c875944ef68fd7f6c33e17634787b9073f",
-        "still.webp": "35f548c5e4dd7d4deed1d75d254acebe58ececf12424606ae75fa04bc01fa42e",
-        "animated.avif": "3a788a5dc981e83af437b2384f3bbc52d8181eef83c03d50b1b140efaa95134b",
-        "motion.json": "2e674a3aea9130b6ac8cf994ab905d13bd6d45be4aabad35ef4f4f83f10e08e1",
-        "meta.json": "46b4263bb5f35d26635b6d3bdf5f94e7f36abad45cc0497260b9da53c324d3af"
+        "source.png": "8a382c3f9a6637ff38cbc54f4d7234d0c72b84f3fb565e910faf80fee18ff9e9",
+        "still.png": "83fbea294d00ea3669e79bdd374f5f6b34ca5fedf1f7590d80b9bd3ee1fda0d3",
+        "still.webp": "93b28f832439e5e86dff5f9e52e26478a81b9279cc74f57da9be6b40b4b671c1",
+        "animated.avif": "1badd415c684efd8aaeba716f0eb2c6310a151aa67ae98d7163378baf6f94679",
+        "motion.json": "eecb940b9b35dfa90d10f1cb3c7bd3a8f6f40d8f26d9c9d903ebf5e7e902f7c4",
+        "meta.json": "46b4263bb5f35d26635b6d3bdf5f94e7f36abad45cc0497260b9da53c324d3af",
+        "rig-source.png": "2362849e9eaaf2377619315626bf13e31e450a8702d73c075895ff78f77bb61d"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 51793
+      "animationBytes": 39069
     },
     {
       "id": "hoodie",
@@ -9067,14 +9227,15 @@
         "source.png": "23c6a028a57818ba6122008569b83c5fd77d5c9bc4d7b3d9faa9c3db0d706ff8",
         "still.png": "ee05979f54cef1d20224dd8d29a164808ae9b2f8adc97f3dba557a848d0f38d2",
         "still.webp": "7f6e849c223e20f5a23078aff0ca93bbdf2003b08a3c74cd2657fea0a5718e56",
-        "animated.avif": "6354f16a31f07d4bd9841a39a1ad7e0575343b665bed0e9ea3caeb9ee2cb1798",
-        "motion.json": "2305c9c58001dd020474f00ff1b68551ac7b9f7748f4c9e9f165c38468364cb2",
+        "animated.avif": "c8a5453db7fae9e1caecc484a072f2b7432da7eba1b9a7c95ae05ea1ea8ac9f4",
+        "motion.json": "2224550f4f3760eabd4bd48c785978afbb02b9e3a669c38fc7a27028955d42f6",
         "meta.json": "1ddffbabbcbe8434affc446c71e7c570ed5a2d72e83fd6749a4f1687db10a124"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 21619
+      "animationBytes": 29800
     },
     {
       "id": "jacket",
@@ -9133,14 +9294,15 @@
         "source.png": "8456f9c069f48f4a64a4ae1db04ae0a09b92dc492fea7f7bcdbc638b8531159a",
         "still.png": "8849d8e1e1724e13710fedf0043fe69bf890712ec31dfe5316042b1dbc4c9dc6",
         "still.webp": "4fa6c2995f44b753b1c189b6dc2ac5554d3efe1b8e5d68da1b98de928a84b31e",
-        "animated.avif": "ca6e4756abede3bc8e5f93d3debf71a685cda99497a5f45a2605da76e6eccff7",
-        "motion.json": "740659e6dbd19c499de11b3f73529970d66ab11ba9b9971f87dd04dde0b6c9bb",
+        "animated.avif": "ef124828d67be556efafc3e579cf168cc2634cbab0bb25f97b18b74e9dbd651a",
+        "motion.json": "d909c409a6e1daf7d00893f520dc8c15aad545443dcf188d2ef938811ac3c00f",
         "meta.json": "6c173133d412372da646648ebf619b03a7457e257df277add7e3c48b19b069f3"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 18797
+      "animationBytes": 23382
     },
     {
       "id": "jackfruit",
@@ -9203,6 +9365,7 @@
         "meta.json": "a25e2633bb53d1ecdd4f41de9f80b70dc5f53f08c98e515ebd41f78c4660a619"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 55066
@@ -9268,6 +9431,7 @@
         "meta.json": "27902fdae4bc3e043b26a81d0f6ae732b5d36e7d0ba7c7e92e3a1afde69d8df8"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 25083
@@ -9333,6 +9497,7 @@
         "meta.json": "3d3ed72f62921a7d5807aef4ef0c4335de629d0a8bc3fc6212abac75a59acbfd"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 19342
@@ -9398,6 +9563,7 @@
         "meta.json": "23d447424bf17bc20b8939750621d14028faecae738b4f509e8b1f81508f4c03"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 43312
@@ -9463,6 +9629,7 @@
         "meta.json": "63787dca279d3dcd3e7b1842c5bbdd82b8a1d18ef04dfe0e1cd4ad4fe7d7687f"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 42460
@@ -9529,6 +9696,7 @@
         "meta.json": "90d9beff6cb2c83bbad286fda95cd0e60d2b72e75548092c99a6eb0c09561e6c"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 25144
@@ -9594,6 +9762,7 @@
         "meta.json": "96a3c8f1b6da79361574fc0a08f2f4b055f4881475d0676f57da10ae03f2fa72"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 18627
@@ -9659,6 +9828,7 @@
         "meta.json": "7973645ae165aa1d3f4d52a5da6760f422598b4f89baea79a9061cbe9b3b9a46"
       },
       "preset": "sway",
+      "motionType": "sway",
       "fps": 16,
       "duration": 3,
       "animationBytes": 54960
@@ -9724,6 +9894,7 @@
         "meta.json": "82600be11e00a96b69513129efa18524ce74b8f14f063540bc80f81316ab35ed"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 28923
@@ -9789,6 +9960,7 @@
         "meta.json": "d885b2771fde215d426b5ef0ee1a5e8921dbf7b7598301e7e2ca1c3f8e8b5e37"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 23449
@@ -9850,14 +10022,15 @@
         "source.png": "717da0a8149c8c3670529ee595da6ae62b75a4c5e4b4d2cee5dc9261edf93164",
         "still.png": "f066758505e0f63549338bc370d1651ce45f460a59880d2aea8803cd1673756a",
         "still.webp": "16534124e2dfa3ec1c427dafaf28db929ff1e97fd1c9a27ae0a7fe8822b4bfbb",
-        "animated.avif": "717321476375d43aafa3927675fa9aeafa2d590ce4e047511f2b58f12da35263",
-        "motion.json": "8575efbb18d6805cf4d4d010b48bc98d607d7dc773a4e51228c824b355ae0f08",
+        "animated.avif": "cb4a25ed681c2985cb5da8b038d47626b5bc1e185941997c1fdc34d02c9c8753",
+        "motion.json": "bdb4caa84a2c973dcddba77ee805e5b56a4405712635b8620e7781aef2718231",
         "meta.json": "fd9a910c44a1a1a73295d1545e3f47d6d1abcb29f63073e483d87c79816e384e"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 20,
       "duration": 3,
-      "animationBytes": 14629
+      "animationBytes": 22069
     },
     {
       "id": "lemonade",
@@ -9920,6 +10093,7 @@
         "meta.json": "00b441ef50c07a4ff36a33d4fb5c737e0cd4fcdb891f85f1e182c4583805d93d"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 20306
@@ -9975,20 +10149,23 @@
         "still.webp": "assets/lemur/still.webp",
         "animated.avif": "assets/lemur/animated.avif",
         "motion.json": "assets/lemur/motion.json",
-        "meta.json": "assets/lemur/meta.json"
+        "meta.json": "assets/lemur/meta.json",
+        "rig-source.png": "assets/lemur/rig-source.png"
       },
       "sha256": {
-        "source.png": "ba24295c4d09deb30d9542d50738c5cc217b903eccffba37d3fc5bbac031d893",
-        "still.png": "f81b41874cc2e112e248bb34732cf3973d4c08b7265f785d62a35d43f73f5128",
-        "still.webp": "3a6cd05db3fc802561df8e38d01e36c24d78dba73cc49845e303ad41edc423f1",
-        "animated.avif": "ddca1552523d29fc4a5554388d56ae35402d2393aae954eaa165b0bd1e7a8121",
-        "motion.json": "67474d6d2f0becf3900cb31ecc6eedf38caef2ff861d179ac32ba16a4d3ba4db",
-        "meta.json": "56b731ab7b9c7d272b4e1df21567af2f023c83ce45a4d37d3157acf50f8931ed"
+        "source.png": "bf8b531afad54222bb17ccc19748af44b2f7a9656a160d0610072fc63a932d16",
+        "still.png": "6bda22a3675e2409c1c0c9947226c2e7381afcc35a3d2cb3a339054b54de8a55",
+        "still.webp": "818cafa35daa99efa914b2de28ec3f5e4d58c842a928532912256f4cde0064d9",
+        "animated.avif": "dff5aaa47fed5613e1259def1863654b52fd15f7a8aa1284899b81e7da22443b",
+        "motion.json": "ecabf1b08b0df048bb88a83643dc44a47198af2912d50563a57176410b25b6f2",
+        "meta.json": "56b731ab7b9c7d272b4e1df21567af2f023c83ce45a4d37d3157acf50f8931ed",
+        "rig-source.png": "5b665c01336b6524f46dab529ae72bed13bfd8aae006742553075e43564d8134"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 26372
+      "animationBytes": 59734
     },
     {
       "id": "lettuce",
@@ -10051,6 +10228,7 @@
         "meta.json": "babe1756e6efa8e49befa70ab833f33ca8b0b18fcaf5b4fb8246214d0aeb837d"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 25792
@@ -10116,6 +10294,7 @@
         "meta.json": "e16231d2f224a8159d86e16beb7eb427a9b0a9d613ee2a984444240238217517"
       },
       "preset": "rock",
+      "motionType": "rock",
       "fps": 12,
       "duration": 3,
       "animationBytes": 50301
@@ -10181,6 +10360,7 @@
         "meta.json": "e28e5e477d810ab9de09ec33c15bd9ae5016ce1ef0ff69b7011db9c5e58807b9"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 21311
@@ -10247,6 +10427,7 @@
         "meta.json": "a0564bd4cd74a8c9bea9c231dfe0d7659b0a13d72fec90c1e4ce017f6b8dce3e"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 17864
@@ -10312,6 +10493,7 @@
         "meta.json": "f8de5bcf6b73453b8da7a2553cbb572ef05f8b441ae0ddad932e91b4e6732f92"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 40222
@@ -10377,6 +10559,7 @@
         "meta.json": "323970e253c7ad6742ddc9ccb0990c33434c4f63f62d3dce4b30b2fd1a4284f3"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 47815
@@ -10442,6 +10625,7 @@
         "meta.json": "d5c8c936c071a415c3bf529271f0ea625b380b9a0b8326c163c0633ab8c3bfd0"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 42652
@@ -10497,20 +10681,23 @@
         "still.webp": "assets/lynx/still.webp",
         "animated.avif": "assets/lynx/animated.avif",
         "motion.json": "assets/lynx/motion.json",
-        "meta.json": "assets/lynx/meta.json"
+        "meta.json": "assets/lynx/meta.json",
+        "rig-source.png": "assets/lynx/rig-source.png"
       },
       "sha256": {
-        "source.png": "5d1c856d56d76319e579269600dbebf184209331ea6303586b65a401b80f12b2",
-        "still.png": "4e2be6244b8e6ad18c88cda37bacd67f53a2ee8c3787c54efd2bc88d2233bddf",
-        "still.webp": "fcee2c5855226ad58a8cbbe6896ac2ddd7e2a70db6a5acb8f84b7e9335beb130",
-        "animated.avif": "ce6c0c7fb77198af7b207d76159e8119e8896c63c49f51fb364feab3df49fd2a",
-        "motion.json": "83aaa11c0d66f0a214006ffbd86fb736143e804e5ee44357bfdce6842a0558db",
-        "meta.json": "db21dda7896f4c944ee4ae505206a253f51dc5dc7745ee2cc0a16bfa10837d2a"
+        "source.png": "4727e9a028c3ac1c79c407cb3f477734e7736848124c368bc98d655decf43113",
+        "still.png": "3398236e212be56bfbd2b1be413a1a4169b0b171f65932fc6c66da5a55d91c9d",
+        "still.webp": "5dda83099e6d5cf5502c6c90a8d7b185f665eed15465aec83ff2fd65eb092d29",
+        "animated.avif": "cc328dde5b29755a1c9fee2b8fd632ddb0a001020e2f4047ee72395371cf6c48",
+        "motion.json": "1234ebe1e8e1bffd3c4e4006875b9cd338dc137888fb4c07acbb199861a93540",
+        "meta.json": "db21dda7896f4c944ee4ae505206a253f51dc5dc7745ee2cc0a16bfa10837d2a",
+        "rig-source.png": "751506c20e4f6a2cbd07bddb88b91d994479de25d0824f76e8edc22a0cbc1237"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 23249
+      "animationBytes": 43298
     },
     {
       "id": "macaroni",
@@ -10574,6 +10761,7 @@
         "meta.json": "0dcd07dc76f4cb88d634ed473077f0952165546ccd18d7148f1078252c358bda"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 42234
@@ -10629,20 +10817,23 @@
         "still.webp": "assets/mandrill/still.webp",
         "animated.avif": "assets/mandrill/animated.avif",
         "motion.json": "assets/mandrill/motion.json",
-        "meta.json": "assets/mandrill/meta.json"
+        "meta.json": "assets/mandrill/meta.json",
+        "rig-source.png": "assets/mandrill/rig-source.png"
       },
       "sha256": {
-        "source.png": "3a75a077bd1ecb95eb2a843d6205f96ec93fc73e45d562b316ec8d11c32d895c",
-        "still.png": "009cf1b2141f0d52828f7cc0f6dd09c99d2bfe177d76b59f512d6498c7cc0b98",
-        "still.webp": "6c412ef221d3e25f6b1b6a26277e4f7d956b41692fc33fc0c9531b04614781d7",
-        "animated.avif": "f6bf15405f4105daf38527a1716c1fd60778354a802e4364080335c082ebcc35",
-        "motion.json": "1d811bc499e30229303e0fbacd65603b89af5f67aa3127cd3e9f90682f25a93b",
-        "meta.json": "803b1e3d6c00c6486ad1771e50fd02e5f3990cba496f2b5bdf84a0cefc073690"
+        "source.png": "9ad0ee53f30533e647fe5fcad22cd43d958aee16ae74cc628dc33c463a709c46",
+        "still.png": "4bda010dd9de5cb3c9eb18385b429577b2af4300d4b0a49d016499351d9c5ea3",
+        "still.webp": "889267cdf98fac89b3dadfdc3106cc9d545c2c2247c0cb932d8d33c2ee5cf92a",
+        "animated.avif": "fbd5f4a098d99006da64a699bba21ad93403c93221c20ba2150fbe72b9fc79fc",
+        "motion.json": "caf75c3a330e3adc88332658ba3fd1839e17d3b35a50dab3480ae56b50f8ef43",
+        "meta.json": "803b1e3d6c00c6486ad1771e50fd02e5f3990cba496f2b5bdf84a0cefc073690",
+        "rig-source.png": "ae0176ef22484ff7c8ba4090cd434439a7cdef37862a427e7f77bfe3094d3de4"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 19627
+      "animationBytes": 48033
     },
     {
       "id": "mangosteen",
@@ -10705,6 +10896,7 @@
         "meta.json": "184a55d38f6af1f6baefa8a4f26d6f35f7c36e5dd06ac12cde0114d33763863e"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 49215
@@ -10770,6 +10962,7 @@
         "meta.json": "fd2ceaf6d0d8f5f2dec03519397d07d250a12ba65dcaafe47a823cfed747ff52"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 56312
@@ -10825,20 +11018,23 @@
         "still.webp": "assets/marker/still.webp",
         "animated.avif": "assets/marker/animated.avif",
         "motion.json": "assets/marker/motion.json",
-        "meta.json": "assets/marker/meta.json"
+        "meta.json": "assets/marker/meta.json",
+        "rig-source.png": "assets/marker/rig-source.png"
       },
       "sha256": {
-        "source.png": "51077b9dbf6b5fa4e4407860b276ea5af9e0fa7a1379a9df06c243ed33833967",
-        "still.png": "247fd258c83506f4b272e3d0dcfb0b0f42efa6810b7cbc2c70842937ba554244",
-        "still.webp": "bbdaf558e7d726f58d735505c9d01057cd3c60a2a6b1a26502248e048d4bf3af",
-        "animated.avif": "ccf92898ee56cc02bc5264cc5898d7f2a773cfbe88264f8826ff92e7d34f2bc3",
-        "motion.json": "3000e5952dab82807c4bacddd33512c6f3c792db5712ee5f5550269324106862",
-        "meta.json": "eb8b98842bfd607fe5de753d5c8a5cb8fa867a5567b7cbe29652bc0d3d6a3f50"
+        "source.png": "ea1600a8a1ab8d456558bffad7f5a92d57f287d846c38f8611482b8a942ac326",
+        "still.png": "f1569965e9af52ca4be740da3a1af392ff5168800646a776613b8783d04f8fb7",
+        "still.webp": "b94aae1c11f81adcec3630d310cb1f95cab7c8792d98873554b361fb32b69eba",
+        "animated.avif": "c8dd5e100f7c98a34fb7b60ee9e11ee737e1bc41ec8bc2cc6ce2c1fb770e0c14",
+        "motion.json": "459206bfe3f355a5e72cd1244840acfdd4ae64fc6557b56307d7e57454b7349e",
+        "meta.json": "eb8b98842bfd607fe5de753d5c8a5cb8fa867a5567b7cbe29652bc0d3d6a3f50",
+        "rig-source.png": "e6ca189a5627117ee5c53181360797c3ca62d67478ad65255d75c67ef2982886"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 30094
+      "animationBytes": 25118
     },
     {
       "id": "marmalade",
@@ -10901,6 +11097,7 @@
         "meta.json": "9b722aa49f2dc8e4f78510a4283cf7177dc6681abead98f186b5c72124730fe5"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 29556
@@ -10966,6 +11163,7 @@
         "meta.json": "cee25cb8fb64be7c8995a665f2eb7952ce22179d15189d77714f9abba47bb46f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 20498
@@ -11031,6 +11229,7 @@
         "meta.json": "3fff27e2ef7ffc8ea5009d4aa66a9818bbdd6432b6d4f4dde6813e5575e05416"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16487
@@ -11096,6 +11295,7 @@
         "meta.json": "d4c1e9819452b8d5284bd218f99fd353a68509a82c3cd3ab04bcea7d0a49764e"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17494
@@ -11161,6 +11361,7 @@
         "meta.json": "008396db7294d7c746d86f12b9075e444858c974cc2dc20dc511eba2d381edb2"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 38069
@@ -11227,6 +11428,7 @@
         "meta.json": "dff91af1503dc4a8e7c3afca585a6df6e57292a99063d53d9dca89d4fb2dd14c"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 49357
@@ -11282,20 +11484,23 @@
         "still.webp": "assets/meerkat/still.webp",
         "animated.avif": "assets/meerkat/animated.avif",
         "motion.json": "assets/meerkat/motion.json",
-        "meta.json": "assets/meerkat/meta.json"
+        "meta.json": "assets/meerkat/meta.json",
+        "rig-source.png": "assets/meerkat/rig-source.png"
       },
       "sha256": {
-        "source.png": "6ff32bbb804e36bef1cffa8f7764f3d56643465415ce693ac50e54086ad26356",
-        "still.png": "282392f723d12558058e075812396e4bdaa9c65c3af287d4aaf2e83c5a4dfd08",
-        "still.webp": "a21b7dc8a545826b676eb4a59a8149526c0fcbad53743dd120e14361ab75b872",
-        "animated.avif": "edc9663f46cdcda3722ecf48b2d70f9244a655163ef1bb7ed71dfe756dec3e17",
-        "motion.json": "127ce9f3a13c40f4c5bfb3f061f5ef706d76570ee8747a235b87d14b5e12f3a9",
-        "meta.json": "d10c0916fe07a54eb9dc173d1cf7322e42bd54a29f3948de71860d4d992bd087"
+        "source.png": "281628ea47665649c248e15e613cb83089a915fcf6fd5ff5fd54ac5b9f66cb3c",
+        "still.png": "ccff75ae9aea4d08ee5c64ad7e5f4b7cabedcbcc5a2b61e77de8b02802b6597f",
+        "still.webp": "c53a255143177677a070fa90767d277faa88ee659bfdb635f16fccb71e63d3a6",
+        "animated.avif": "6c7b784ced47d9e65bb88bb19298a6bf1daf10c00a9eff35453c2725b7ab0dc0",
+        "motion.json": "21da0920ec60f3b837fb4733744fd4c2d4092348fe6e35b4b15833c967d06e6f",
+        "meta.json": "d10c0916fe07a54eb9dc173d1cf7322e42bd54a29f3948de71860d4d992bd087",
+        "rig-source.png": "6d20a71644321481ab27def1fbbcd269f590672e97885e5986e4e747040f4610"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 18164
+      "animationBytes": 41665
     },
     {
       "id": "microwave",
@@ -11358,6 +11563,7 @@
         "meta.json": "447059e5de4427c8f58d750214ff61bb9450e5cfdce4ef31bc66e228396a0726"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 14023
@@ -11423,6 +11629,7 @@
         "meta.json": "1a70dccfb63f07fb507ca70dccdae871dc9fc806842b59e98f98384494152246"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 15787
@@ -11484,14 +11691,15 @@
         "source.png": "5af5d8b9041aca083f88b0508577c4ecc90511439f3500e90a2a54930187cdc8",
         "still.png": "aefe91364845f068e852ef8903724b6e01e5a9222e8b67cbec6ea71f64902a7e",
         "still.webp": "4c1e8e15d514c40b92c98f095d056d67bda57c3140bae34858d64ccb3cd3cf64",
-        "animated.avif": "5f0d56fe5c532cb98f917df0323aa307a270c4e85761d7333014d70a84e9cf58",
-        "motion.json": "ef7f9a02e8abaae002b430d6ef31fdfcec8758966b4d6d5822f4faa40e172190",
+        "animated.avif": "edbf2b9d895b023aae026e38ad24e4ad100b2ccb37986441d5dce754bc92446b",
+        "motion.json": "c014b04c5c6cd79f203252b7abf7c3a40f0aa72f6306ebe39a5752bf62f6a3c0",
         "meta.json": "16de7df9f476a3d49d26fbe9e8064322d6859c7c731e0d18da166898b14a7149"
       },
-      "preset": "nod",
+      "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 49247
+      "animationBytes": 36627
     },
     {
       "id": "mixing-bowl",
@@ -11554,6 +11762,7 @@
         "meta.json": "fbcde21871fbf94597069d4636b5a8c83564b2a0bc136ca5f4c851e2c0161c4e"
       },
       "preset": "rock",
+      "motionType": "rock",
       "fps": 12,
       "duration": 3,
       "animationBytes": 36527
@@ -11615,14 +11824,15 @@
         "source.png": "26799d5666b4793d7a75f7a3b1d8df3008539c6df0e9290a9540c31733f36058",
         "still.png": "2363f404f008a206877ba7e3c56decda91e5b8bf3a4f3512ca96ad793ae761ab",
         "still.webp": "5024374be496060e3721a5a3ba08b91d3252c6d2eb291028c05fab096319bd0f",
-        "animated.avif": "2549e87efbea8aa9287cf62e5d9004a1249c31d7957d9fd3351bcc90c5822b58",
-        "motion.json": "ff2204212e6e43fd4b83e4f25d295835caf40d231594d74313b3ccf4830b5c85",
+        "animated.avif": "a929b003dbd43d2ae6adcdc22f8b5a133e8d1cd9a05b1e0607809d241ee523e0",
+        "motion.json": "582f4da69fcb035b6518b880e7e507f357f9be1402612d23810c14b67ec31b0a",
         "meta.json": "69bca6730f79f6b01a9228adc2dca7eef95fcbb8cfe4404d64f7354758b63963"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 18243
+      "animationBytes": 28915
     },
     {
       "id": "moss",
@@ -11685,6 +11895,7 @@
         "meta.json": "5439b8e7e1c5f2f9b5337e168b0ee0117e220e16bd30ba1babb15e32453f2c7b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 28330
@@ -11746,14 +11957,15 @@
         "source.png": "86b42783c30035b769f859bd9e919600e6535a495bfd8e33526e9a1c6de59d79",
         "still.png": "08af7cb9f32f897e5c17192b7b5d274920b8f692e33dc3dbc972d8d53773fdb3",
         "still.webp": "5e146ad6fca3abbb149554fb1d56b6c675f1c2dada6a3f6e01e7c78a20d1d96a",
-        "animated.avif": "b91e671fdc4fe0a7dce250636b30881314b6aa6d4cd5f10602675af45676a9d9",
-        "motion.json": "6cb89f6bf1013f6494622388e55e6bcd99710a32ac2f6203e05b2d8bcdae3291",
+        "animated.avif": "f566e5d883ade39ea1a9dc7262b83c7e21f7e998ecb99aa04bea8aee62ce59a2",
+        "motion.json": "3d3737749eb8f8f352100466522281b397d43d7d8bf0654d2046526cb70c38e0",
         "meta.json": "0b7841128817236719400bdef31cb74f6e4d128777e0f6f52e9bb652fb4df762"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "still",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 23258
+      "animationBytes": 28064
     },
     {
       "id": "mug",
@@ -11816,6 +12028,7 @@
         "meta.json": "eb07542239e658a59f1c0d4be5db501f1a3e83cab6aba95db9fa4d1b7e4598d6"
       },
       "preset": "rock",
+      "motionType": "rock",
       "fps": 12,
       "duration": 3,
       "animationBytes": 52660
@@ -11881,6 +12094,7 @@
         "meta.json": "0eb1eb02dbbc6747dfdbd08f1bb3f987386e98eec6c73f5e82bcd8b187a7f504"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 26198
@@ -11936,20 +12150,23 @@
         "still.webp": "assets/musk-ox/still.webp",
         "animated.avif": "assets/musk-ox/animated.avif",
         "motion.json": "assets/musk-ox/motion.json",
-        "meta.json": "assets/musk-ox/meta.json"
+        "meta.json": "assets/musk-ox/meta.json",
+        "rig-source.png": "assets/musk-ox/rig-source.png"
       },
       "sha256": {
-        "source.png": "12196d9d76ace1e52980e39216047c739be1731086b314eac7f5879e8bbbf8fe",
-        "still.png": "0588012c1c120aa5ba978d9a8c7f84402c8f44e812dcf64f8572ac77b2b8b758",
-        "still.webp": "2da5509765001b61aada954bbb16d24f96b0cfd17a301e9a742ae390c253de0b",
-        "animated.avif": "264d209874227cc01fd27ffa103bfd05955f7440774cea268dc75a5eb58d2fd9",
-        "motion.json": "20bf4e6a290fd7506f71b7eeaa0faae5d9439d1e0d91dc45ca7eb3b3ae98e202",
-        "meta.json": "63fa3010da576341b842badab05ed8ab62f3ec5dbf1777454b93a2e6b087d423"
+        "source.png": "c2a4c86dc6e90b6aea45f09fe417cc53575558f79d6c4e9f5d1d3f0fc4ac4c36",
+        "still.png": "cbd60973bbfb36cec0f6f3897593ccc7fcd9832ac54e5b5b9a76b7fd0c161943",
+        "still.webp": "e64c02b38d938d565a05e70099e9674ce8ebb26820071f055e21166f09ab40ce",
+        "animated.avif": "9e51448a802394bbc7fd27ec2abaaa2da2bd1cd4b32d52ae3a160e6a01b2d862",
+        "motion.json": "0d63f80654e8d3ede9c26f7d4b1ceed9e8b05fde36070e8e7e2d99dd886f19b3",
+        "meta.json": "63fa3010da576341b842badab05ed8ab62f3ec5dbf1777454b93a2e6b087d423",
+        "rig-source.png": "0b710151acf8ffcf508dfbe4480be16bb5f11e9d51f1bbbf7a76290135125102"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 23888
+      "animationBytes": 39573
     },
     {
       "id": "napkin",
@@ -12012,6 +12229,7 @@
         "meta.json": "70e9e50d3576093394b48adc5706e401c587905030086425113cf363ad31ee7a"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 22188
@@ -12077,6 +12295,7 @@
         "meta.json": "6a7fe326d07a29874ec9db6a2ae69fd04d7ba74c944aba44966b260eedef3c3b"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 36449
@@ -12138,14 +12357,15 @@
         "source.png": "810a6419446395b9a5fe841a9b1fdc61601fc7ca6961e5e8b016a7bddaa61c1f",
         "still.png": "24610017577c3f13a2af79f62af6bd796d7fe968213ed66b80d684679d9b129a",
         "still.webp": "5bdc8e79c043e92b7021dc14fb9476d94baf47565fe32c30f938c5359bf30693",
-        "animated.avif": "537f19bec64d450ae727687c7784188f82ef996fa23a81e524efe353d7ff27ef",
-        "motion.json": "1b526a420640fb2f6eb0614b7a4330569baf9965885e55a7b317a11060e4b722",
+        "animated.avif": "68c5c12e49d6702a400d5edf9cf6b0901444debf4853cc477f78d393cbc4f2a6",
+        "motion.json": "47a82a75fc760757ca3ae0d851c7d35e8813e44bd11b8f97ee25cf458de0bdea",
         "meta.json": "df0a12779120d83810e3f592a3b1f4c519ec4b087ed22189c0d8d6099bc12395"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 14292
+      "animationBytes": 20147
     },
     {
       "id": "oak-tree",
@@ -12208,6 +12428,7 @@
         "meta.json": "188bd490c1b0dd1f5f8827f9b0264e85c3e97bd19b1e6f2a83f8e12fc65d05a2"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 29835
@@ -12273,6 +12494,7 @@
         "meta.json": "c4d2603ec240405760ac61279cec433f320e65a6d1190e9bfb33cc26bd7be1ad"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 25761
@@ -12328,20 +12550,23 @@
         "still.webp": "assets/okapi/still.webp",
         "animated.avif": "assets/okapi/animated.avif",
         "motion.json": "assets/okapi/motion.json",
-        "meta.json": "assets/okapi/meta.json"
+        "meta.json": "assets/okapi/meta.json",
+        "rig-source.png": "assets/okapi/rig-source.png"
       },
       "sha256": {
-        "source.png": "527091387c7e3da2dd4b5a244419f5dbd88dc73e7cb307246cf26f6c2bbaff9d",
-        "still.png": "fab06443a0f502f8c4dd070e726583e6ccf9b9492aa3b08806b1cc2b29219dc0",
-        "still.webp": "e54a2bb9b47d49750e0ede0832e9a1eee71399fc2c1bf643944d92b9510fef73",
-        "animated.avif": "fc1a362b3327eb13f25cc9eb7a75de31415ddb24ec946c1084782e091fff674e",
-        "motion.json": "697074eddb8871902dd682f310ce04d1014fde4540c2d0f9b7f9840745f272ce",
-        "meta.json": "f97ef6f219f6024facd8dc3a6775b81d92f20a046ace6aba2057cca20b697ca3"
+        "source.png": "d296da9e2137459f07988db986208dbe541088b4ac1fd427cdf421262f0b4a6b",
+        "still.png": "35f805bc99fa2aa9096cd9b22ca30f824052fe7ad403c5665c352d35fc2da41d",
+        "still.webp": "839d241f2c11a4380b75bfd5a3f047c5c2ad29a0c24acb557a213379a34b6bf6",
+        "animated.avif": "5743fe043fb3699335675526a718ea18d44af036a8b1ef2a1b283b84703777f6",
+        "motion.json": "8fa3fb5f81d7951e14b1c5e53120b2d043bd3e4512d5b101cc986d5d63a10ade",
+        "meta.json": "f97ef6f219f6024facd8dc3a6775b81d92f20a046ace6aba2057cca20b697ca3",
+        "rig-source.png": "6b62831eb4029f4f28023e9d8a4495f1db9bf3d18a2753035a07e85e1684b583"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 21332
+      "animationBytes": 43227
     },
     {
       "id": "okra",
@@ -12404,6 +12629,7 @@
         "meta.json": "84e8b9829667308f21957da78cb0ba52ff692e13feeb131dee48a39b4765b3ff"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 59688
@@ -12469,6 +12695,7 @@
         "meta.json": "451bbd9aee6d75ee5284640fb3e025184b1a4dac876262632b480fd382847c39"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 21171
@@ -12534,6 +12761,7 @@
         "meta.json": "1a397c55c085072783fa499d55a17981264d1e97876d062491c96d2f0219b902"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 22391
@@ -12599,6 +12827,7 @@
         "meta.json": "9b13cf4dc2b9076c5709a8029ca788280e51af42cf43c4f5a01e3d622bcde73c"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16185
@@ -12664,6 +12893,7 @@
         "meta.json": "c2b67a869c9d5816038b3ff18b504f3e9b6e197a39d706288c5a8c0c62f6972f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 14559
@@ -12725,14 +12955,15 @@
         "source.png": "76be5bf00c9e32c19a8372189e7e17318131c66f04f7d7449a1546244a2865a0",
         "still.png": "ba2fbc7d28bddb00c8b3dc22cf839265adbcc6c042dbd913f519132055f2f2bf",
         "still.webp": "418019feea25f8403313c2a3dc25ff226db4a36c6c3c856332af012bc2410dca",
-        "animated.avif": "13e46f49fa67f2eb2a836e05840a9bdd01fabfab4b03d9f31587126b51d9c0d8",
-        "motion.json": "a0ebea9fd94a3d58c532262a5b7680d4555ef3fa574730fbb9a5d2ce6344ecda",
+        "animated.avif": "5ddc913c2d6b67c597daa19306e343e12f42b8d4f276b436f3aa06d70fc8c0e2",
+        "motion.json": "067a574707995052846a4c2291f4e65152edd928bc776fa1ede2f2154304b9d3",
         "meta.json": "d4e7000a915828feb6f8a429ffc11e00701bc4d9c9ef86b25b09f60d541505a9"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 19092
+      "animationBytes": 38302
     },
     {
       "id": "paint-tube",
@@ -12785,20 +13016,23 @@
         "still.webp": "assets/paint-tube/still.webp",
         "animated.avif": "assets/paint-tube/animated.avif",
         "motion.json": "assets/paint-tube/motion.json",
-        "meta.json": "assets/paint-tube/meta.json"
+        "meta.json": "assets/paint-tube/meta.json",
+        "rig-source.png": "assets/paint-tube/rig-source.png"
       },
       "sha256": {
-        "source.png": "69b7ae010e0675e03b7c5bc7085c22e0067f3aa4812d3a4b4aaffd1f02619b0f",
-        "still.png": "f63c82e10bb7eed30cdf0307915f0721f296df3fd8c88af8360756968c28331f",
-        "still.webp": "3efc09f24fe760104ff592e6edb79280441914b63dcbc596567c0fc7c4874265",
-        "animated.avif": "6d607effbc1b6776156275861e603a713ff9a2eb43bc931d9d1f0927871b11a4",
-        "motion.json": "7fb05479425886aa9a11a9b2ae9b80346e8772688e16118c0281ea30734094df",
-        "meta.json": "822bf7f4cff3fa339ded88cfef8dd1dcfbd9930611396d40f59f3f6ed66d3f81"
+        "source.png": "f5f0973f745a93b5960ba0fae065b3d1e84c3bd4ae6469116ba6aa3187a73bde",
+        "still.png": "c0a550e1e1ac26a14adebd08b55afd8a54174661f1d51ba1e55bbc6b07d8a0f3",
+        "still.webp": "67d72b7d5c86e73e16fdc8a0c4430a4ea95c6752d41759e9559d6168b132947c",
+        "animated.avif": "94a35e4c3c0e4faffb26c27b7b21da9f119c7537c2d069e40b003b32830bd6c7",
+        "motion.json": "16afe972cb1d74a8046564aa198dbd5460a0bb56db9d2136e126bd0bafee854d",
+        "meta.json": "822bf7f4cff3fa339ded88cfef8dd1dcfbd9930611396d40f59f3f6ed66d3f81",
+        "rig-source.png": "b8224a4d4e07a19a895048f6042eab299dc2d407ef960d9952c1cfd1fa650ddd"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 15512
+      "animationBytes": 23383
     },
     {
       "id": "pajamas",
@@ -12857,14 +13091,15 @@
         "source.png": "8a9af944192e59b527ae51d42964000ba4491d73c58597aa7063c4c053e78ba9",
         "still.png": "9c55905d745c693994912ed349358a6b1f33fa81dc2f1b74feb75610c4116189",
         "still.webp": "d0c659f7fe0f77def7fb115f2d327e3307424100c78df9d50a31f7758b2156ef",
-        "animated.avif": "3e3e424b1093de2310820a9c80eae98a44e186324d639f652c20d0a0297b9139",
-        "motion.json": "505ca9e71cc23cabb2dfee84973c899f1c5f55a5628e448f5ee7e38ae6947157",
+        "animated.avif": "e93b21e907cb51e9dbd4233952d9c0358463035bd37119de431e928efcbdac56",
+        "motion.json": "f5bbd67976c60f553ee2bb5dd7b529c2b65830382cd2ddc8f1929a3a1dccb78d",
         "meta.json": "45eea11580a3387a8854a5f01286f6a4c2137bfc89bcb52c3ef4eafa4ea0e619"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 20,
       "duration": 3,
-      "animationBytes": 20338
+      "animationBytes": 25543
     },
     {
       "id": "pangolin",
@@ -12923,14 +13158,15 @@
         "source.png": "6b26c8a766669a9db80aac4ce9eb50abceae7ec6b59c036dbd243be295bef669",
         "still.png": "1d1a9a99caa8a9c32997f96a6bf04546862cfe44f5e55d704454a10eaea6c52d",
         "still.webp": "37451307d79421a06e5687db38ca89db8a1123420d960576bebe948790c84676",
-        "animated.avif": "803a1ebe42eb83d141033857aec0620201d34bcf98158a9703a264d97dc803ca",
-        "motion.json": "a1d3e65471737b738d20b867256ab32c642007b9b7ba7f543e962df23dda7b3f",
+        "animated.avif": "359a047ed5bf60db48b4a5e85721cde998a7673f386c1beeb9f3b7dca861fa61",
+        "motion.json": "b8eb8a5a2d9b28c8075258962c955e16f9220061ef01bde329e668e274a5c3f2",
         "meta.json": "68e8c2aa4fa21124ca59f4b6ce91a9d70e7ed97d579298abe4c45e17bae66031"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 21337
+      "animationBytes": 36259
     },
     {
       "id": "pansy",
@@ -12993,6 +13229,7 @@
         "meta.json": "0c79c5541b489e630f618edd7a7469fb91c2e3efb6ae2b1b0645161c5a59b84c"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 28569
@@ -13058,6 +13295,7 @@
         "meta.json": "f1d47bdc740f36a52efdf74a66530169100fdcb3328dd31041f37d31c3cb9307"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 55108
@@ -13113,20 +13351,23 @@
         "still.webp": "assets/paper-crane/still.webp",
         "animated.avif": "assets/paper-crane/animated.avif",
         "motion.json": "assets/paper-crane/motion.json",
-        "meta.json": "assets/paper-crane/meta.json"
+        "meta.json": "assets/paper-crane/meta.json",
+        "rig-source.png": "assets/paper-crane/rig-source.png"
       },
       "sha256": {
-        "source.png": "e1ac345a09282c185911d8c3c2cc9209ffeca84cc43c7efea5f240538d29f678",
-        "still.png": "78e3c787c4875979b3e628aa686f4e4b5f974babddd996718c55b3fd842f9e33",
-        "still.webp": "48504d994637662efdcf40ecbc96f587f2b30557a9cb3b275dbd494f1230f3ed",
-        "animated.avif": "9e956bd9a1da9eb152a66f8907a7e808be925c96cf8623359301ec02b8649015",
-        "motion.json": "3c34c3c5aa36d2922890628fffde81ddd8209e68e1572460b1d0e3360126abe8",
-        "meta.json": "225afc128311a1d37bdd8cdabcb651601ec7ca8cf7fbc49fb230a49e17bf4bb3"
+        "source.png": "c3ab22bdbce1db9fa632798ac4813c5152d7f074a8d76d2e9664dbe86a147117",
+        "still.png": "1611442b2e50ada87bb9b8047485b1068f0ddb608cb44c76c4dc3e7a617371d6",
+        "still.webp": "9c46a3d424ad91ca78f1f454fe28d62c5042eaaa6d460ec45b263fa751048251",
+        "animated.avif": "f8b0ebfd7e6e5282accc6c53623d0966f959cac6288495480a3bc77a6ff33584",
+        "motion.json": "faac8cb494a51d4d8a6f6fe42915dbf1cdae32faaed13f37377d6f1d6dc25ea3",
+        "meta.json": "225afc128311a1d37bdd8cdabcb651601ec7ca8cf7fbc49fb230a49e17bf4bb3",
+        "rig-source.png": "0c01379e28198318c71ba8b1c8fa4194888ae5c44abfad4f040763bfba275629"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 21223
+      "animationBytes": 33649
     },
     {
       "id": "passion-fruit",
@@ -13189,6 +13430,7 @@
         "meta.json": "9663ebbd3f4485ac6a7f1ea6f91fff7ef985f92e03531196feae01f5ea0c3ae5"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 52327
@@ -13254,6 +13496,7 @@
         "meta.json": "3bf3cdd599fc3854858bb82407ce7ddfb725ec23c66159a4986b4e0296d685a2"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 23010
@@ -13319,6 +13562,7 @@
         "meta.json": "f40e2704e6376e50be707a49ea4619d67b3613ac81c077fff5d1d4504eb46e8e"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 56229
@@ -13374,20 +13618,23 @@
         "still.webp": "assets/pencil-case/still.webp",
         "animated.avif": "assets/pencil-case/animated.avif",
         "motion.json": "assets/pencil-case/motion.json",
-        "meta.json": "assets/pencil-case/meta.json"
+        "meta.json": "assets/pencil-case/meta.json",
+        "rig-source.png": "assets/pencil-case/rig-source.png"
       },
       "sha256": {
-        "source.png": "2ba55bfd5819c1e200427b8cf17c48900e14fe30d56d93609bdf577e296f8008",
-        "still.png": "708868b67ec52ad0653dd16381988d373550280c4a5e664caa937f984058dbdf",
-        "still.webp": "9cd5f1411fe51e1907b34b235f497dfb71a371268c4343ed743112f5c5c1b747",
-        "animated.avif": "5cc3365718d13fa1c487e152b7901813ba3eaac9f2cc8da6965dd0d2045477fe",
-        "motion.json": "bd98cc9ac1fa5eeed0b11d93a96e1dfcfdd07689c0f8e380b42a4a45d6841adb",
-        "meta.json": "67f274334520313ac4f22d55b7f7b9d78e574d2800e943ad82f248ed08bd41f1"
+        "source.png": "a4c6b2fb747dea65b3ad75a5472c18f7c8c3e715590e17570967931b14c8848f",
+        "still.png": "19c8df5523eb6d649ee2b7da6aee40f7dc7152741612dbcc01abed28fc1c8fa8",
+        "still.webp": "4ec340896976ce51b3e0d6f73899ba113822d456d73fede425434fb702d90231",
+        "animated.avif": "f0a053b090e9c7feffd51ffed4ee167ad99b5584ef22197a830ad67673e2c61f",
+        "motion.json": "b748f9afc332b7933ea0c7a25bb6ab592d1404f6c0e0fcc0d453e80158864942",
+        "meta.json": "67f274334520313ac4f22d55b7f7b9d78e574d2800e943ad82f248ed08bd41f1",
+        "rig-source.png": "cf2ffdb6750abe0c35afa6fd4951aaf166605a5eba511bf5d1829df4493a5d6e"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 24299
+      "animationBytes": 19251
     },
     {
       "id": "pencil-sharpener",
@@ -13446,14 +13693,15 @@
         "source.png": "a3ece779e1b02b1968a071ea7ce4fa131a20c582d904cf53a713cb4be1f6fe59",
         "still.png": "dfd21696cc911ed2bcdc3e51c9ed06e34a768ddda8a7da82ce3a623582286c7e",
         "still.webp": "1b7d730c77edad83d1583dfdc3eabe17a6228f5ebbe0fe3168faba50058b770c",
-        "animated.avif": "39b08aa7c8e35e506d8e6e776277c20e448a596d6e61aa9e398a723df1c3f884",
-        "motion.json": "730554615254f6a6ec75a47552dbef30f641eed225c4bd586dd4d65c9ec45a2e",
+        "animated.avif": "c07e4146b0ec49e37283c335354336e36b5480fb24cdd04d6b51f561f73d7318",
+        "motion.json": "426463968dad75f443d55c2c426876c40fc965e028f5e911c20a996e000d3356",
         "meta.json": "8b8871e43af1f7f5ff6d45ec3d896faaf0d0b382b6ca90e7aa83c13b27210fc5"
       },
       "preset": "still",
+      "motionType": "gesture",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 24328
+      "animationBytes": 59587
     },
     {
       "id": "pepper-shaker",
@@ -13516,6 +13764,7 @@
         "meta.json": "c08c993034b53bc8470d2e5df5e2b89c2a76853e6f3bf7e024bb2e169acc2ae7"
       },
       "preset": "rattle",
+      "motionType": "rattle",
       "fps": 12,
       "duration": 3,
       "animationBytes": 29959
@@ -13581,6 +13830,7 @@
         "meta.json": "4b23880a904c6a4ff6f12e9af03b4a45c5d7a4799fef85ee93710e529f4732eb"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 37368
@@ -13646,6 +13896,7 @@
         "meta.json": "6a8f0d93aae5a77feaf48e09184968f33fedf0e0e7c7341b59dc7c9b7cc1123b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17681
@@ -13712,6 +13963,7 @@
         "meta.json": "40fac6f09a2d97fffe8e48c22b4d7e28e925207d522969bd13e2a7d266d9dbdd"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 24399
@@ -13767,20 +14019,23 @@
         "still.webp": "assets/pika/still.webp",
         "animated.avif": "assets/pika/animated.avif",
         "motion.json": "assets/pika/motion.json",
-        "meta.json": "assets/pika/meta.json"
+        "meta.json": "assets/pika/meta.json",
+        "rig-source.png": "assets/pika/rig-source.png"
       },
       "sha256": {
-        "source.png": "c68f7bd9795fb9c00fadd9fb2942c937011ecd2965fe00f7b9500fc084581f24",
-        "still.png": "d46fb67a0a8e86fa575cb4956904990c9329139f2fb16763c678f701b5b6a866",
-        "still.webp": "cc5a9f1f00cbf5a9f8774ad6d036bb7050f3f1bab804a330d9506fc7ec82af4a",
-        "animated.avif": "f02c8f6c412321bb118910a1c514a748a20660ed2880bb09347a9bcbcd72b96f",
-        "motion.json": "7333d078892f589b8cbad340c130c1c9b50133b02218bcbff8e13afb2ad397ad",
-        "meta.json": "268d88feb072492c2985c100372416a38a1a0929f68173874bb2c7e6871f5d47"
+        "source.png": "ac43c4f35b764519025603f3bdc3f1b13c311b91197410f23e92fa03bd6800b3",
+        "still.png": "e8732dc5aef760a59b8f55486c050367c419845af260ae795f4b50a5c2cbe409",
+        "still.webp": "d053d55232b61211511797652a0638b495e807aeb99f204f0fb67ea0975dee96",
+        "animated.avif": "07277133051a79b5b18c761609ca7fb20811e3155e0aa1b2f7c1de74238c48e4",
+        "motion.json": "a61802381f9fb63bccddd6c9e315734ce95ed81c7e86c7c2690fd088f51b6fe5",
+        "meta.json": "268d88feb072492c2985c100372416a38a1a0929f68173874bb2c7e6871f5d47",
+        "rig-source.png": "5cb7b490727159a3069a1e12f567b72d5a051c2b780f47aa7a2c3d844896cfbc"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 27451
+      "animationBytes": 45536
     },
     {
       "id": "pillow",
@@ -13843,6 +14098,7 @@
         "meta.json": "0f3b0586bee17aa4ee219c3627295306fc34c340d8eec7cc61753d48f2287c8f"
       },
       "preset": "jelly",
+      "motionType": "jelly",
       "fps": 16,
       "duration": 3,
       "animationBytes": 32864
@@ -13908,6 +14164,7 @@
         "meta.json": "c785c00d748f7e5b70f27bc60f18b37c25502a826a7ad40b8fa97d411e4f7e88"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 11649
@@ -13973,6 +14230,7 @@
         "meta.json": "05f26ac120d3bf6493fb075721ec2e6c01d76dc7496fa8c9ec22d4ddac192234"
       },
       "preset": "pour",
+      "motionType": "pour",
       "fps": 12,
       "duration": 3,
       "animationBytes": 50990
@@ -14038,6 +14296,7 @@
         "meta.json": "ecbebbbc0ca5d773d29ae8cfa1c88da909c10842e09bf7977f50e47b8642335d"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 25485
@@ -14103,6 +14362,7 @@
         "meta.json": "d6ee7fa9c068a986b292bb93f8209803787ce65a97d6024960a5191762a7947a"
       },
       "preset": "rock",
+      "motionType": "rock",
       "fps": 12,
       "duration": 3,
       "animationBytes": 38374
@@ -14158,20 +14418,23 @@
         "still.webp": "assets/platypus/still.webp",
         "animated.avif": "assets/platypus/animated.avif",
         "motion.json": "assets/platypus/motion.json",
-        "meta.json": "assets/platypus/meta.json"
+        "meta.json": "assets/platypus/meta.json",
+        "rig-source.png": "assets/platypus/rig-source.png"
       },
       "sha256": {
-        "source.png": "553b8b2435a619f9ce680002f8626ef82efa4330c6c594e5efdccddc560db3ab",
-        "still.png": "32b9ec6d9cb265afb0af3a15a1b47311e21739f35be6cf43e7feffe4b27915ef",
-        "still.webp": "7cc7c9f52fd3fd522f306f160194120206621ba9fd640ec65d2c735656a8b80f",
-        "animated.avif": "00f2b71775e94277c6f6334981ec2a25a56e1f6dd76f0795c4db00ab117afbaa",
-        "motion.json": "0e5eb0c1197441abb3b67318c81c9847aec23868fd919cc09aa4590f1424fdfe",
-        "meta.json": "65878a30899b686d40e7183b80b82168d81211d1de4305d1467919b347d851b4"
+        "source.png": "0dd03eeba8a66f0d46244c253822ab4b79f53b6a8ff90e13a64e95ec95763fa6",
+        "still.png": "144d3c6d03183705ecb7136e8afc5efdec95566a40ff0bec7d23138af436f522",
+        "still.webp": "020b18f4f1f357036ca6f4d1eddf5546de70ca559a7ad80a569feab0e4a7af1b",
+        "animated.avif": "6028ec1eb38a9ba242d27bf1d0ba4b79a835710d92b4db2996af7800353900ff",
+        "motion.json": "004d401a75060d890257f18094e99241b6e3344208494c693cb47809517ba834",
+        "meta.json": "65878a30899b686d40e7183b80b82168d81211d1de4305d1467919b347d851b4",
+        "rig-source.png": "991a583a84667280be641bd7bf8794e612779fd751b826f15d3953c582d5a08f"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 17774
+      "animationBytes": 34192
     },
     {
       "id": "plum",
@@ -14234,6 +14497,7 @@
         "meta.json": "79e2209becf08b33a12c05f015e0300efe1a5aaa980866e799000ffc2081270a"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 37916
@@ -14299,6 +14563,7 @@
         "meta.json": "75ea44c0bef517ccf1800e1a0779aaeccaa15ac7259bb224b42c5610e3d4e01f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 14791
@@ -14364,6 +14629,7 @@
         "meta.json": "20bde1fe8ea5ba0b86200cc9fc2a388e6918320f2c8049803031de7ff82b0555"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 35959
@@ -14429,6 +14695,7 @@
         "meta.json": "e4f2db469af7bcb3659e8ca29044c012e7e9e53d1a5d6b23e07c27f6d6beed9a"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 57157
@@ -14494,6 +14761,7 @@
         "meta.json": "d7c8ed0061c461a0faa581f63aa08fecf1d5caeb2808b98eddf5e845b227dd5b"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 57681
@@ -14555,14 +14823,15 @@
         "source.png": "9978b618943f9c819d63001d29a6af46606d3e6dc3b51c431f3031a8f288bb45",
         "still.png": "c96fcfac359b758fb0fb83d1d9710c995379ac1438f2402e474937d760f53931",
         "still.webp": "f5ffb5bde6f940631ca0de38bc341270df4ce34e0c1897c5368612e941bb3b8e",
-        "animated.avif": "8d8eb14d3781c1763f49dca8ce92a31ac88ff7c84a6ad555b63210535400d836",
-        "motion.json": "9d839f5631040bbc6ef07ac977a33d8a9673719cedceebc38c3aa32a1bae8be9",
+        "animated.avif": "06f58e0a3d68210ff11a76685a399d227f8e6163c78ec96c7379dce1b751e05f",
+        "motion.json": "a804468fbbece9596b6da15d3935664ffca9ee30b81f2213f6e4cada48d9e056",
         "meta.json": "da181c6209262f6e91511174d58d8b4e463a85cbb075571c90f896d286e5c9bb"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 20,
       "duration": 3,
-      "animationBytes": 23402
+      "animationBytes": 35273
     },
     {
       "id": "porch",
@@ -14625,6 +14894,7 @@
         "meta.json": "d20d2ad8b6714b86337d90d3c34257a3232fd15f8a4c7d126a4272a0bf5ea028"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 14606
@@ -14680,20 +14950,23 @@
         "still.webp": "assets/porcupine/still.webp",
         "animated.avif": "assets/porcupine/animated.avif",
         "motion.json": "assets/porcupine/motion.json",
-        "meta.json": "assets/porcupine/meta.json"
+        "meta.json": "assets/porcupine/meta.json",
+        "rig-source.png": "assets/porcupine/rig-source.png"
       },
       "sha256": {
-        "source.png": "b382c420f610e4eeae3b2f2187f4a64f500de63fb9263dc4e2574b3a3cb83bea",
-        "still.png": "bda517f954810c8817044a713a0cdc51a92486ff455e0a06d4610414fd0bdb99",
-        "still.webp": "78e9c38135a85420d12b1e65a1c65948a0dd5ef8842bdb22f0db2d814e28ec09",
-        "animated.avif": "97c97534fe1f8be56c718ee3a5a797aa2d92c676c734f1c3ceca935c52f1dc43",
-        "motion.json": "108b307f373c2b6598e1a4290490e21d8d144f22f0a82070946271168e095acf",
-        "meta.json": "7cc62f88a4a130cf6afa71d67d0c11776b8095f7a8e28e2100697ef830e76c30"
+        "source.png": "981c37e2d7ac6a7e083f1987ddc36eaf9c56262f0ae50482b0ad5e35a24457bd",
+        "still.png": "25696810076f995e8480450215bd536e8e0003768697e87b58d624f00a632c6a",
+        "still.webp": "58764e286f8665818dc364b4f2985e1a720e91b1073d46619dcc92be64917a80",
+        "animated.avif": "4bb6276634c759be6d98955cd1a8938a6095a705d4e1a610ed45654bde044d01",
+        "motion.json": "7828d5a9a1439f5038449305c177e40b84ede716bc37e7d27271013c692add6e",
+        "meta.json": "7cc62f88a4a130cf6afa71d67d0c11776b8095f7a8e28e2100697ef830e76c30",
+        "rig-source.png": "480e4546f5871e7a35d8526124194c8e9f67a7a36d077766b65aa1e966750cca"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 30481
+      "animationBytes": 42100
     },
     {
       "id": "potting-soil",
@@ -14756,6 +15029,7 @@
         "meta.json": "1d3ff7645fcbf6bc7e29e248264b439951dca130cd19564e49edd38b6bbff920"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 22136
@@ -14821,6 +15095,7 @@
         "meta.json": "ec97fb7543ecc18f2cd2b52259ea4c800143457857f26ca51977b6db4806e6a1"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 52175
@@ -14886,6 +15161,7 @@
         "meta.json": "57df4a264d394db86efb0b5bad35e70fd033cd7debd10ad8d4cb0219544394d1"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 47964
@@ -14947,14 +15223,15 @@
         "source.png": "f1fa4f8eda71c54633d2c322cc91012c8214bba57c0b68ac2e4dab5b801a5dc2",
         "still.png": "ce934aa023e08551f0cb575a6820e6b8b3f5d2512db487e040b064a5b5e405fe",
         "still.webp": "e1822490cd56ad1608addded7cec96c0afb041233df746139b73b451db12f8db",
-        "animated.avif": "911ebb7c3f41acf9a1401a88bc5c6d6d0d08eebd02f84d21c63fbd3a76776280",
-        "motion.json": "cf1560dff45ddd4b3cf0dd2436548f4b93bd4c7d0b8064d6c06474641d68c704",
+        "animated.avif": "154d03eb212c30b9e3042755a620e4b76e57d8122ef1b109b1dcd0eefe3d4810",
+        "motion.json": "17f08b997e9f8196922015f9acf4d7a4d966b48e781657887de17812b01de8d3",
         "meta.json": "3ffb34a3e7fe42db603cf518ea5d468247033091c82dd15df3a4fe7bfa992827"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 20,
       "duration": 3,
-      "animationBytes": 15823
+      "animationBytes": 53401
     },
     {
       "id": "raincoat",
@@ -15013,14 +15290,15 @@
         "source.png": "219f1da35ca0b83340aaf7e2a522facaea2dc22f5ecedfd05907363a0a9db0de",
         "still.png": "2d3547d833e79d9968a630b0232a0961dcd29ce794b89205b2e6c5c78a0190d5",
         "still.webp": "fe3d8256aafc7ff077dce4e222c225f7c17e36d9f3c60ceac4cf0706ee03b228",
-        "animated.avif": "5ba01f665a34da83635112147ddf0ba7963d26da1d62d6321806663c24b0ff44",
-        "motion.json": "d5cf5ba092a05b1c53286e863ecfaf7cf822a64e05109d965dbb2a79391fdc55",
+        "animated.avif": "2ff27ff7cef3580f546d318fa7d769787e395b7b3546dc8096a4b3958881b7b8",
+        "motion.json": "d25f6311f253625dea5ed4f9e34136e5206a417f83e07adae431f88f25a15d78",
         "meta.json": "26b2cf1f51e8641d3d8e7eeec12671100b072d10facf44c6499916178fd88318"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 20212
+      "animationBytes": 26471
     },
     {
       "id": "rake",
@@ -15083,6 +15361,7 @@
         "meta.json": "199ac158c97125cffb5b98ae14566823f607a48e9cdc5a57f33e45fba05b172d"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 46136
@@ -15148,6 +15427,7 @@
         "meta.json": "052b103ab0591687b7aed18965680f5b97abd5a242d352843a8eba7007be23ed"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 49023
@@ -15213,6 +15493,7 @@
         "meta.json": "9720aee29bb4d40f9404ec3682f7676d971069d48bf22c4a59172d29793ca068"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 37767
@@ -15279,6 +15560,7 @@
         "meta.json": "5fc799db4df96dea270388946438b83ccf9fb13def4bd010dabe3d49e68cca5b"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 44649
@@ -15334,20 +15616,23 @@
         "still.webp": "assets/red-panda/still.webp",
         "animated.avif": "assets/red-panda/animated.avif",
         "motion.json": "assets/red-panda/motion.json",
-        "meta.json": "assets/red-panda/meta.json"
+        "meta.json": "assets/red-panda/meta.json",
+        "rig-source.png": "assets/red-panda/rig-source.png"
       },
       "sha256": {
-        "source.png": "e1b88600bd4924a7def2c4bd9a0f3e73a80b660c6f2d37335c8b486ccbfdbd81",
-        "still.png": "5b27bef83d26bdd02235f8a103a12864fca465d37759b4c1e109c3bc2b04ad0a",
-        "still.webp": "1512ab8117b9555205b49b64f6069fdf0b35e4e82bbeb2e3691c1111bcc4a8b3",
-        "animated.avif": "d8a746709edf2d8b2d49e11bde1bc0a0dcf16d5c63eb0c4e5c4d8a936b3583f9",
-        "motion.json": "7c0af3d1a853bd3ca0ef2e5f9e96e9b68ba2e91fea9ecfb00c917603bd8e16d7",
-        "meta.json": "f12f085042e3025e0577d388f0566cc05f4ca84792704aabf6f35aa30fbbf971"
+        "source.png": "b574618ccc036dad6fe120fd2051946cd3338af2ecfd89520308db8aaf50fe9a",
+        "still.png": "c693a78ba0207bb1a3b124d08514f5fac5c14106418f09f6d60bba4302931a30",
+        "still.webp": "89f53b0673ba60f5c4683b14bea83e62f825df07d16315f6ca889bcced30134e",
+        "animated.avif": "84a729238a73452ba53b018659ca67d134f3d0d3b41853fcfdeb549c313c6176",
+        "motion.json": "7aebedeb060b9c1331d3dcb842b988bf87a01b7015c091e4a3cf379f7cf68b56",
+        "meta.json": "f12f085042e3025e0577d388f0566cc05f4ca84792704aabf6f35aa30fbbf971",
+        "rig-source.png": "908caab3018017922c3cf57a37d3952f0c18b3e0045c0f8ad4917062fc303be2"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 24446
+      "animationBytes": 53801
     },
     {
       "id": "redcurrant",
@@ -15410,6 +15695,7 @@
         "meta.json": "173076cf371078351f85d2024458d6e9dde680979743930c716ff027e5b260f8"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 39341
@@ -15475,6 +15761,7 @@
         "meta.json": "749a64b280c9ca1f7f7485447faf78e602bc3433ea40e65ed8aa4a9c0a6588ba"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 11787
@@ -15530,20 +15817,23 @@
         "still.webp": "assets/reindeer/still.webp",
         "animated.avif": "assets/reindeer/animated.avif",
         "motion.json": "assets/reindeer/motion.json",
-        "meta.json": "assets/reindeer/meta.json"
+        "meta.json": "assets/reindeer/meta.json",
+        "rig-source.png": "assets/reindeer/rig-source.png"
       },
       "sha256": {
-        "source.png": "9719d1c74c70d3bc64a06eeb1670584a08b35c781022c398e0b1f42071469df8",
-        "still.png": "e5c9b7c5d4b5367c31511fbc28f8aa76a71d8b19c3a3ed00be4d85f83907ed29",
-        "still.webp": "ba53bdd57b42a5ec67de773d408b4867c9855395c4a15b16db53d083ac13186d",
-        "animated.avif": "c06ff79bef83fb61d4cfbf023fff4347314a9457135df39c4b3fe39780bc10d3",
-        "motion.json": "0e65384922d52a9c916be0277077f98d089fac9e64dc6898922e2f93cee24151",
-        "meta.json": "0de4e33dc4eef12b43753f9c23378bbae6a763bb5897e4b933d1bed5f497a8ee"
+        "source.png": "e138c9ce0badf710579d0f5ff2d8c9dee7abe3a7ff55509f5f24d737a2eb670f",
+        "still.png": "6f6c34c864b9157d9566812b56f563d8f4c6df24b5f15d1af74fc0921712fb01",
+        "still.webp": "442555ab58a014c800c8be9be494805e382fbb72eaafb06eb05cce2f11541fba",
+        "animated.avif": "7659d1ac099976d7317f48b30244f0cbef2e1b8b99a5ec6c97c66043628682eb",
+        "motion.json": "e6ec402c19a71631c2c088175c1bc00882d0a39671bddff17f48582c9f61d210",
+        "meta.json": "0de4e33dc4eef12b43753f9c23378bbae6a763bb5897e4b933d1bed5f497a8ee",
+        "rig-source.png": "233ac500a170a2270f304c6513732a4958988f51dbf30329a6a7a7b29c2bb5b5"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 23273
+      "animationBytes": 44136
     },
     {
       "id": "rice-paper",
@@ -15602,14 +15892,15 @@
         "source.png": "a532d3105f881b1f4cc7c60c5e66840bd3a0fa049e1ad8c39c8c4d1f61f5a614",
         "still.png": "fd649f24b980fe9376bbd38cc440f4a62fcfc1715cdd98574884b5f422d0d797",
         "still.webp": "a2fc0232c61bf6b768690c28ed975cc7b66779452db8137ee7a2ea80be05b686",
-        "animated.avif": "64055738c837400887ec1b222473bc41e1a53d61fb446a8abae00dce5f78d2ab",
-        "motion.json": "a60efeb5f6e9b83eeea0f46b02739aa52aa6963d6064e97c4a61214eabbce07e",
+        "animated.avif": "b8e0281be44bd811f9e14a51686acf17ca53e737590d61641b239d333924d258",
+        "motion.json": "4eb49facc96716df8686da26e047d79e3d3247229e4557e5d949648eb66c7ec8",
         "meta.json": "df3408b05ce0c6c2fa37b0c2afbbab964d3a2c90ca6335055b472e41f3ed9ce3"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 19342
+      "animationBytes": 37671
     },
     {
       "id": "rice-porridge",
@@ -15672,6 +15963,7 @@
         "meta.json": "e2ff5a85bf3f36c602709a22389c8663b3762c2862a8e376bc3037eb3e7248cc"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 20885
@@ -15737,6 +16029,7 @@
         "meta.json": "642c08af2e301f75bb59611666191bd4f8972c38061f437d19d59980617bc8e4"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 23400
@@ -15803,6 +16096,7 @@
         "meta.json": "b01d1026b009316b293fb9ea393e1a892a7905a29f2c2d0dd115adcfdad2cb31"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 26678
@@ -15868,6 +16162,7 @@
         "meta.json": "095a0b2d921c1ae196a5346da401e6f69ea7c304f35f25662c94efcd90e7877a"
       },
       "preset": "rock",
+      "motionType": "rock",
       "fps": 12,
       "duration": 3,
       "animationBytes": 51935
@@ -15933,6 +16228,7 @@
         "meta.json": "4a459ef166e45db6056438486fd5a27ecb999ae68ab1a0aff13121155456af07"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 42674
@@ -15998,6 +16294,7 @@
         "meta.json": "c15890ba53e93197c96b9033127696ac37b2d5a5c8a3f1db1994be6ee7a58d38"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 15650
@@ -16064,6 +16361,7 @@
         "meta.json": "e5f5f41f0eabf380e031e89f25c790e2a886d21cf27bffbcfcd4bb7396ae7f20"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 34564
@@ -16129,6 +16427,7 @@
         "meta.json": "09c49d8ca781b91866f14adfd9fda2383bb64b0e717793bbd37d4cead2092b6c"
       },
       "preset": "rattle",
+      "motionType": "rattle",
       "fps": 12,
       "duration": 3,
       "animationBytes": 25372
@@ -16194,6 +16493,7 @@
         "meta.json": "632ac81b1b8540673bba1f48080e880fd99e92bc198969ddf924275c2c6b6819"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 31782
@@ -16259,6 +16559,7 @@
         "meta.json": "1ab58560b251dbbde57dfc28730a2062cf62ac3c8985b411f3a7b9e9bccf567d"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 35401
@@ -16320,14 +16621,15 @@
         "source.png": "0221fe0b0fcd17e8bd77500022062f70cc43c48e6163d75998806e99ec192ffd",
         "still.png": "b85fffc66bce47acc4f198a9a682f8d6e80b11e8b2c9da6b2f9c953a1d37ef80",
         "still.webp": "76e801063ac4262e073df94e2c6ae4760c96b7e4671aff2eae90235445faf3b7",
-        "animated.avif": "873531202015d7ed957e060f7b62e4be51a33b09970f2d2e8a1c3e4afa84935c",
-        "motion.json": "0ddf934bea00f94292a6d547b6da322b2347fcc482eadc2cc31f959acabc39af",
+        "animated.avif": "305b7b9a224a73653fb575277be06b68ed74584f866a3dae80d86411c0715af6",
+        "motion.json": "e84cbff03d232dec81f131fb97fc8e89840a570053dade9e25f940cbd334e90b",
         "meta.json": "32c4fd6a80b87720e86bd87fe388dfa224775ae759b79617313cb9b2db5c645d"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 13837
+      "animationBytes": 36395
     },
     {
       "id": "scone",
@@ -16391,6 +16693,7 @@
         "meta.json": "1f8753a863d007e491d8f511487b8d37619af88bf2dbef42235391c251fb3682"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 29794
@@ -16456,6 +16759,7 @@
         "meta.json": "94add3fa2c797dd0cb60e7efd810f43e528dc5f61cea246ec8fde7976c76a5b5"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 19580
@@ -16521,6 +16825,7 @@
         "meta.json": "313e641dcb0aa5f8a4c4f1ef50b601f19c97e4e8af1f7fdbcb97d6cf0aaee526"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 33979
@@ -16586,6 +16891,7 @@
         "meta.json": "2f37ab78cf20def20884fc475d3b8ad783a8fbba198c70ff17251c8186454380"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16449
@@ -16647,14 +16953,15 @@
         "source.png": "a3c647077df5dcdb67115c7e21d086cf47521866351bc5e732f0814965622d85",
         "still.png": "9dc2ffd98d3acfaa6eb82ef88ae3376e16d525dfeb0607bf97dcc74a66305536",
         "still.webp": "a60cafceda079b9f355964255277a8c91f587c419a3562deab1cfc5bbfccadd3",
-        "animated.avif": "d3767c1ca7bfb6ec4208736e474570426ebd1cec29bb85282056d86953b4c62a",
-        "motion.json": "50df5032bfec502daa8f8b052978fc19af2a95cb2a6a605a0b3570d2a6ffab4d",
+        "animated.avif": "0dd159f7efa8c40899ccbffc9ee878ee32be718a4bdcdd601d62a531d5885ea4",
+        "motion.json": "8e5f8048595b3d7d01218f1fda2e93d3218a6c01cf0c7265d144e887a93d79c5",
         "meta.json": "de44c12692c469c3f5d0ebeaaaaf2d8f18bef9fe68206ed5cb5db3e6fa282a7a"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 22948
+      "animationBytes": 31687
     },
     {
       "id": "shoe-rack",
@@ -16717,6 +17024,7 @@
         "meta.json": "21b6b8eeeec467969be9ee7990010d996cb8842313b496f827cc42f8454f7d32"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 22508
@@ -16782,6 +17090,7 @@
         "meta.json": "24386e17f9e093fc4a31eeea9796fc329e3dc505e380f91f8455e9fd1010d96d"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 54512
@@ -16843,14 +17152,15 @@
         "source.png": "b2a3328d69cf376f452c61f5d02741ceb94afef85fd20d923af840845c317f6f",
         "still.png": "ba300abb27b2db8da5a06bca029df0dcc12035edbc2bdef22185965650f6fec8",
         "still.webp": "eb9db136e5764dd547a687304951ea9ccb1a9544e6678526f692dd32d40e3c3f",
-        "animated.avif": "8e9749b694794f449dd03fc3df4111acce6da5654cfe55a6d33f403a981ec828",
-        "motion.json": "c9c3a0ee307ee81eb178c2779e1ca2639d7b3cf293325f9555cb5198fd02e4fe",
+        "animated.avif": "9d25d7ba65126602c76bc10107a4ee729a0d354d6064d087b82b0af27c269eef",
+        "motion.json": "94f9ca61ab3b45dd9d7cf94d361fc18e604164eaab609402a516da18723e5b93",
         "meta.json": "d65ae2066a34c829f999930535f28558c90115d2f5b71ba6477bee4b9f220494"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 20,
       "duration": 3,
-      "animationBytes": 15240
+      "animationBytes": 19168
     },
     {
       "id": "smock",
@@ -16909,14 +17219,15 @@
         "source.png": "fd507fad91bdccce3cc94395db4c5f15bf2d0eac95fafedb72acd40f0af92088",
         "still.png": "25dec07fb1195aa10811e1de96403a21197a41c6cef71027d6973c279e7d3079",
         "still.webp": "d0f688ed428798ef740da791d7c089884523348a80c3d0493f24a668e74c9d12",
-        "animated.avif": "2962114c8c9748b572e8909fb8c20722d012c8426ee73072172698889cf0dd41",
-        "motion.json": "1eee570d913f57908cfdbdf92168e1c5a6378f2e34e68da5c1061784a69c3488",
+        "animated.avif": "8c7f9c4d5dd05a2267bbeb1f0397e22ee87bb7d13b2ca58b7bbeff05b1a4bcce",
+        "motion.json": "6bb9711ca6c65763be1827e918e9fecbd2b461458849c4823ef769d5e2f0db2b",
         "meta.json": "00ac62e461ac93daeb4de0d18696c63664ea35ea0c7e32e05058e80443375aba"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 19793
+      "animationBytes": 24466
     },
     {
       "id": "smoothie",
@@ -16979,6 +17290,7 @@
         "meta.json": "179c8cdd6e0bc5c43fdd3a8790c283535be685fcde12c9d024c4fae8d893fcb0"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 18954
@@ -17044,6 +17356,7 @@
         "meta.json": "e5e40460cb32d9175473cf08b3e56cec86b76d82a698c820a6f6f1d0cbe97cef"
       },
       "preset": "sway",
+      "motionType": "sway",
       "fps": 16,
       "duration": 3,
       "animationBytes": 53512
@@ -17105,14 +17418,15 @@
         "source.png": "8a66cdd39a0fc0cbdf04b42c520420042929c36cfe1122dfc24259af2df8125a",
         "still.png": "75a68b0f92f4a85e46b5adcd35e798a423ec19ee67995ffe531a4070a788e33b",
         "still.webp": "e85faf0b09442dfcd77d6e34f0c878c6f26d0e1c0774abd3b845801be286be19",
-        "animated.avif": "9088c1a18ba3a59781e2b6becfb1943d6b9a71c15e9d61fb8136182d45a7fa44",
-        "motion.json": "8164a7d4c89ad65e23ce61531aee402876c558de6e57ba6dd8755adeaad5b0ea",
+        "animated.avif": "9bbc2e31fcc1ed5d5780ceab46059243cc54519b69fdc37c551cf28922ea9161",
+        "motion.json": "b9830550252aa2a39e68cbf00b928df89a1cfd6790578eece9f2dfeb20a5143b",
         "meta.json": "4e0581f525a95c56412f353beaeb01fd94da7c4e0c9429a46642d9649c8503fa"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 22014
+      "animationBytes": 23783
     },
     {
       "id": "snow-leopard",
@@ -17165,20 +17479,23 @@
         "still.webp": "assets/snow-leopard/still.webp",
         "animated.avif": "assets/snow-leopard/animated.avif",
         "motion.json": "assets/snow-leopard/motion.json",
-        "meta.json": "assets/snow-leopard/meta.json"
+        "meta.json": "assets/snow-leopard/meta.json",
+        "rig-source.png": "assets/snow-leopard/rig-source.png"
       },
       "sha256": {
-        "source.png": "64bf23165f5d3bfeab294019be52f594a1840d04f0a8c723a5a6c16fe2728032",
-        "still.png": "3957f7c516a623faa7aed553496feb04b0b0f38b0776d6dae71f8515fc5a9194",
-        "still.webp": "5c34d0552d5594d178836c4dc64aad9574ec311b6d3641f3ec59a8ff9df61e9f",
-        "animated.avif": "8e367452d09ca92993350c50cc97e51af7995fdebe48b0c68e4f9b455839a45a",
-        "motion.json": "1b91652d0fe62a4ffb36482cd4306850cd51f0ea3e4fe616899ac35af590ea35",
-        "meta.json": "5804a719ec260d49401bde382f19801c17567121dedbeb6a47a3e66df53af773"
+        "source.png": "d125d8f7c486f3fb0f085ba4adc9fc483c80acd3c756e8beae542f1a7a70069d",
+        "still.png": "ba02fc8384223de3178890079f76b2d52fa7566c248e4a415930366073d164d0",
+        "still.webp": "8b4282ecc79f79b5c92ca5130b2956da5f5b9446fe4ecc262391f80ccd4edb32",
+        "animated.avif": "4b7a7d0cc20fb262cee9232606cc0638297d84f9fd52683d33106f389e554dde",
+        "motion.json": "06fe49dbcc7ad39f0fd310a7489e765d546c87f6cd1aff807513587f0f281672",
+        "meta.json": "5804a719ec260d49401bde382f19801c17567121dedbeb6a47a3e66df53af773",
+        "rig-source.png": "fc5b25d7495b034e331c4a99e6b020562ecdbdbaf5f1aaddb64da40510c3602f"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 21980
+      "animationBytes": 52584
     },
     {
       "id": "sofa",
@@ -17241,6 +17558,7 @@
         "meta.json": "911fc2c1fe48f9e9620ded8e6301abf6829d4acd3979e54423364f8a02155ed7"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17027
@@ -17306,6 +17624,7 @@
         "meta.json": "0b778c6ea91a3987cffb6b400187046f8626ace4481777ae6acc5b5974b5066b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 16714
@@ -17371,6 +17690,7 @@
         "meta.json": "c0e8965b86e65da45f98c7595e26499870c3a856fda906f079d28719f579cf98"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 56086
@@ -17436,6 +17756,7 @@
         "meta.json": "8b38f0f8a36717e51ac67ed08f86895f66c0ac97dd9915d0eba151fea8f92da5"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 15319
@@ -17501,6 +17822,7 @@
         "meta.json": "90d7dd8ad2053eeaaf00a5c2566e4e0e7a6246e3f3ba165d31b0a4ae1e018072"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 37941
@@ -17566,6 +17888,7 @@
         "meta.json": "973cd69dcd21dcb834a831693d691cbe85bb7d180e565e54ca3a7b2b043cc973"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 49270
@@ -17631,6 +17954,7 @@
         "meta.json": "750558aa113c725a56518b90dec4322e66f3f754d2955b579d988652bbf7bf9c"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 25818
@@ -17696,6 +18020,7 @@
         "meta.json": "0ae7b846a2681515b5eb35f86d2096798730a46f86908bac7264887006219cd3"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 39479
@@ -17762,6 +18087,7 @@
         "meta.json": "81dfece1d6828dda095ea80c11194d92d17be6b700e81669c58fc8851a6a4907"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 51676
@@ -17827,6 +18153,7 @@
         "meta.json": "ce1a155b28d50595c13adc9afded8374da37e765eb380c7cd1e5da1bb50397ce"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 34208
@@ -17892,6 +18219,7 @@
         "meta.json": "9feb1efa976c6eb5d7284f9fc6bd5d9a850d4818aa1688c8439f65e1422da0e5"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 18685
@@ -17947,20 +18275,23 @@
         "still.webp": "assets/stapler/still.webp",
         "animated.avif": "assets/stapler/animated.avif",
         "motion.json": "assets/stapler/motion.json",
-        "meta.json": "assets/stapler/meta.json"
+        "meta.json": "assets/stapler/meta.json",
+        "rig-source.png": "assets/stapler/rig-source.png"
       },
       "sha256": {
-        "source.png": "4d242a9c5552d135b3765d26b9be2b043ccea48c07204f997d52163ef2008bbd",
-        "still.png": "5631c6ac3ea78dac98e66df01a5a7a719ef79e8d887dae650916841a39379f14",
-        "still.webp": "977ed95922d7767b5a20b9fee7145c65fbd6d8b7bfc3e629e39a18b990d93c4b",
-        "animated.avif": "501fbbfd088fad1255fea7812ac52e986d58eb5365eaad3542861e4957fa2d18",
-        "motion.json": "45420a0e39b2f947879c87674dc6dec399e71ced6bd4178b63d13db7a130955f",
-        "meta.json": "a060b3bd3c331d787c4b5415e000cf464d0b6b892be4dd0bd2f0d6ce7f49afb1"
+        "source.png": "841f0e69949dc878317f6187e982589ee658aa948fd0d94ebe931d2bf50b00fc",
+        "still.png": "81fbc71183508c15e393a6243b89e53a9dc3e641c6d1f9f04c4d7495342922a1",
+        "still.webp": "d00c7f7426d74de41887bf44748664aa0881e05b569240bf27e0a4bb41861186",
+        "animated.avif": "2a1691c0d152478c956d4bc2d2c30811d58ccd026c9b20a1769ba01a62892a13",
+        "motion.json": "18627a99f1d88d61aea532b895b99301b610ef1fd721d8a04f9cee7a5c3d7d85",
+        "meta.json": "a060b3bd3c331d787c4b5415e000cf464d0b6b892be4dd0bd2f0d6ce7f49afb1",
+        "rig-source.png": "68b5cecfa598b4469ed6c18129eea1b7f2ae064c6cd8458cf7db33ef23551ae3"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 33903
+      "animationBytes": 40869
     },
     {
       "id": "star-fruit",
@@ -18023,6 +18354,7 @@
         "meta.json": "d6e7fe9bfd05286606df2b99df73d3454e893be13b1382ba5652433b93ab9e78"
       },
       "preset": "hop",
+      "motionType": "hop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 38476
@@ -18089,6 +18421,7 @@
         "meta.json": "063a2797988523323681792b75a7a3a7c8cfa45b5078e4f9ded339067b3c7c8f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 15499
@@ -18154,6 +18487,7 @@
         "meta.json": "68b82cde861bedc945a599f79f64af0b4eae930314353b0dd0ca63a9b0cecb03"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 22080
@@ -18220,6 +18554,7 @@
         "meta.json": "f5511825f2a8694fd2281bd34e90c4be7883862dfe74b0e458a11743b75a23eb"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 18805
@@ -18285,6 +18620,7 @@
         "meta.json": "0c518700abdd5efd4011d97dc16beb5c647dac33442d33d7588d59ae52765e44"
       },
       "preset": "rock",
+      "motionType": "rock",
       "fps": 12,
       "duration": 3,
       "animationBytes": 43733
@@ -18350,6 +18686,7 @@
         "meta.json": "19d7f9d54d6f8365291979a49b4345532eeeb52edf3a31b530e880a948edfbd1"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 20786
@@ -18415,6 +18752,7 @@
         "meta.json": "4041e45e1fda1dc1b1d2653d73f34e83de099584dc027ab5963073d1e0962856"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 15128
@@ -18480,6 +18818,7 @@
         "meta.json": "6238d6875af43bf0de64ce97cb48714768c42c16f957fefa0a9c948d59501706"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 15808
@@ -18545,6 +18884,7 @@
         "meta.json": "03933bb919fbf10014600e3e44878cd757ad50bcc94b74b2383c365f37e038de"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 49502
@@ -18600,20 +18940,23 @@
         "still.webp": "assets/sun-bear/still.webp",
         "animated.avif": "assets/sun-bear/animated.avif",
         "motion.json": "assets/sun-bear/motion.json",
-        "meta.json": "assets/sun-bear/meta.json"
+        "meta.json": "assets/sun-bear/meta.json",
+        "rig-source.png": "assets/sun-bear/rig-source.png"
       },
       "sha256": {
-        "source.png": "499b54715f1a873a9265741c80271c720735f040ba4aa0ac264fcf3d330089b9",
-        "still.png": "da5a7499c2dfbefda62ab7f60f953fc38e57d047be18909ce725c86242ca0576",
-        "still.webp": "c378c7c1a81c9dbdd791486a32fb156fa81833c4395bf51238d06a94daad1da6",
-        "animated.avif": "d56788b0a0c87c0586cb7e68c432207b0b43a3abdef924286e8fd2b4cb27efde",
-        "motion.json": "d91d5e133f674bb9428c81054558d369774ac677469004f8a6671ec7df84417e",
-        "meta.json": "a4f98226df7a2431ef4d75f765fc3509915baee39781ef628a4d429149772703"
+        "source.png": "43f98a977de1dfbe6e4b2643909aeac140d6aeb078191d4e20494f02cfa7c10d",
+        "still.png": "0eae80490a29050830c0460fca53552e8fb5db91e83e4cf5bcdb914a151d9b33",
+        "still.webp": "193c53eebbe08b365d73ea9f617d94813f9eab01010291ff9889938b590306e8",
+        "animated.avif": "0a1dcb0060c6dab9db4204b1ec366a4ec4506f7a19017ae1ae0fb20c97bfa1e8",
+        "motion.json": "6bcef820ca467171530f9cb74190ef03898ca7c601fdc86362213c50855aa248",
+        "meta.json": "a4f98226df7a2431ef4d75f765fc3509915baee39781ef628a4d429149772703",
+        "rig-source.png": "87a1a0159758e13675912fc0b4d4abd2d29e1110e69dc86c6f06596bfa37c86a"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 15901
+      "animationBytes": 36148
     },
     {
       "id": "sun-hat",
@@ -18672,14 +19015,15 @@
         "source.png": "7c66cd721e4bd6ca6c128040ff4fc563cab10a2700bb89fc2f93f397f22d4837",
         "still.png": "4e3562ed045040a9dac2e71077b2f23e8c805f6f6b28bfa96264f4d9bc73c1b5",
         "still.webp": "afffc6e6129fb7e8eec3f5e6217e7ece030cba2ff41d048c38197e95b2dcf9c9",
-        "animated.avif": "5b82a3fe7cfe11cc30a84c4564c566034bfacad4c5f8e915ea812c14517f010e",
-        "motion.json": "2e3b06ad30b55802bde597a7bbceb1eb2be898d5f8a977bbbe44f6862ede6506",
+        "animated.avif": "e9e80148d336f77c2cc9f8c3ea08a41aef5a5c3525b990875ff0ae3916d79600",
+        "motion.json": "7c8acc682b42bfdadaa3ab350695da624156cf0ad6f752b345f8b57fe7d08498",
         "meta.json": "160df6c92074199947a917b0d712fb9f223116f90bcd01a7e8476a7e29455c6f"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 16062
+      "animationBytes": 25215
     },
     {
       "id": "sweater",
@@ -18738,14 +19082,15 @@
         "source.png": "14f0bbf3f9d9d0e7584189a5666e65b6a6dbb636edb21a14a8f8c461df79ed9c",
         "still.png": "cdea1778d7c62da7b0b3d5560d3d2413739d8ad4d4381618072a7f5c95b0944b",
         "still.webp": "49a28dcbb98290e9633bcebb7f7248a7b7a57f523115c7c00bf5bb225ce91272",
-        "animated.avif": "64e1c58436bc8dd856627ebdc1a829514ac74e5e86503320fed2dbce700009e1",
-        "motion.json": "ec55ee84d65916770aad5325e148f42bec145d4b49dfe4fc514bf7fe9b7a9d76",
+        "animated.avif": "2ec3eacaf11605d9a5adeae0d446e50c8cecfa66a6ef1753d50db63ab9b16560",
+        "motion.json": "2a531dce6ab120e2c235b1bbaee99f1f4de4df500f1608fca499e6ecfa52338c",
         "meta.json": "57870e7255c2e1371f471d3b1b8ea8f6b563c01b612030bf18a0d5c26b6a41fc"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 30705
+      "animationBytes": 38332
     },
     {
       "id": "table",
@@ -18808,6 +19153,7 @@
         "meta.json": "9014396f07ac65ae256356b2d0e2b35d5cb08fcc9c768f0786e3b4dc56a6586b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17451
@@ -18873,6 +19219,7 @@
         "meta.json": "16251a55b3807cf9b3c5e1512b9773230bfe784ceb3c4d3967abd275df3096c8"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 21255
@@ -18928,20 +19275,23 @@
         "still.webp": "assets/tape-dispenser/still.webp",
         "animated.avif": "assets/tape-dispenser/animated.avif",
         "motion.json": "assets/tape-dispenser/motion.json",
-        "meta.json": "assets/tape-dispenser/meta.json"
+        "meta.json": "assets/tape-dispenser/meta.json",
+        "rig-source.png": "assets/tape-dispenser/rig-source.png"
       },
       "sha256": {
-        "source.png": "9e3d28b29515ead132a7dacd03d751d6435c8daea99c28efa6d295ee6ae84ba6",
-        "still.png": "8129d63647db2fa430e967ec5fcc2719b35985ddfb71c63a862fccbe7ab6280d",
-        "still.webp": "0fd3c4c21bfc0ef98c790885e9b3cc6846f27421bfc23a723c4e8f81591b94c8",
-        "animated.avif": "b76d0eaa2ea9ae556dd9ba92ba8fbf3d1841c2fbfa30b7d942c0265d965f33ac",
-        "motion.json": "3d2c8dd685d00fcab9a337d6d47b02f003fbef7eb939b6758eff09e8269b4b72",
-        "meta.json": "85cd37a065ce7b98a119b7bd3e1dd317224c4d9d0fb7ed61684505f5be88e14a"
+        "source.png": "8cd2b3bf81b4c458e2dffb6b029b00b55da3421897c0466ac79ca31858f50e03",
+        "still.png": "a61df328d5d97cef5588cf2828581340b487adbf05672ebc027b0f2ab0126354",
+        "still.webp": "8bc2d8863ae9ea91bef1dd6469b781aa9cb15c5f52268ddf7585094f01065085",
+        "animated.avif": "48b1d57eaeeafb0a09ba36c68d3ab681b0ed6389c5e2296724282ae52e3aa4db",
+        "motion.json": "fc2b0ce076c604798e2aec40fd58b6a92aa8434a7035b5a14dc998f8a1bb6b14",
+        "meta.json": "85cd37a065ce7b98a119b7bd3e1dd317224c4d9d0fb7ed61684505f5be88e14a",
+        "rig-source.png": "efe79d86812d1a7c9c38329fe52719e4a60a37fc229c92d6ce8096c23cc4c8b5"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 14845
+      "animationBytes": 27600
     },
     {
       "id": "tapir",
@@ -18994,20 +19344,23 @@
         "still.webp": "assets/tapir/still.webp",
         "animated.avif": "assets/tapir/animated.avif",
         "motion.json": "assets/tapir/motion.json",
-        "meta.json": "assets/tapir/meta.json"
+        "meta.json": "assets/tapir/meta.json",
+        "rig-source.png": "assets/tapir/rig-source.png"
       },
       "sha256": {
-        "source.png": "4442059014ea670122e91c9640b4e7de38fa8118fa7422952d158ea7580e5ada",
-        "still.png": "2d784589c5be709fda47af91e10d00fcca471b33a5d0d8339086b3da6d872259",
-        "still.webp": "8f282e9d74aeb8f510c3c9e4c8cfb0216b284b7fe25ba898e86f33bf189876dd",
-        "animated.avif": "01475d07e06f550cc7837c7a2c54fef72562355cc2b05585d8c8e543ab7cf7bb",
-        "motion.json": "b4ef157a356519087400b095f8b437e7c64765e3dc891a8f89df0622f70eafb0",
-        "meta.json": "4f0ab1d5d7e20166a9db91a7de329179cc37ed695d555c9077519d93160a40f9"
+        "source.png": "f246ad0a9b6ee6b5f864f6b8514dffd8a41d7b9670ae71032cb7a23ad832adde",
+        "still.png": "b5077448a8a6efdc1e744bbc750e64c49e8f9660e64d6e792f34b3dcb69e2964",
+        "still.webp": "8c511d66697c0bfe37752ea81c3d86ab0be80020a3bd94b24fde29b8b3b44bd9",
+        "animated.avif": "3d42f6839d72d6428904ae2111eea4ea7160e8e4d02737db27531dd0107ae6ef",
+        "motion.json": "ab8c45a677d97c3bb73c3640cf4253317884dace433f2341ddf851eb5e4b4996",
+        "meta.json": "4f0ab1d5d7e20166a9db91a7de329179cc37ed695d555c9077519d93160a40f9",
+        "rig-source.png": "d0fd156d0a0c761f3517fbc03ccbfbd68320c1cc8ef5c9c794db347eddb6f69d"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 15657
+      "animationBytes": 37673
     },
     {
       "id": "taro",
@@ -19070,6 +19423,7 @@
         "meta.json": "f07557a9759cd5cf10132fc92af7b890d3553eaf9cc35e59e606ad7d1bedd4b7"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 56985
@@ -19135,6 +19489,7 @@
         "meta.json": "ad2c54d0c054ba89bc360722203c0573f8e7663268a439722c32273714d57d11"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 34950
@@ -19200,6 +19555,7 @@
         "meta.json": "155f2fdd7ba92b9da92baacadc5e809fc6f8b0e014e6afbe3f983ac8e7da84a7"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 11424
@@ -19261,14 +19617,15 @@
         "source.png": "e7ca2a648cd675ac61c931e143b682fd25000eedec89b26cd7fc5a219f2a4b9f",
         "still.png": "9d523945c8bef05074b577560552a84394942b51fadea18bcfc28a6248a76b87",
         "still.webp": "3f2ccdfd27d6ba78d7b26658d35153f55a927cddbfab050db19b9322cf4e846f",
-        "animated.avif": "a03e8d775c62c1bf19ad94f0c315d2b42be9313e88f682171ff8e9be38c68959",
-        "motion.json": "334685d0c1cc24e1e18f259a3e602ba1b06c366d3b12ee6f2ad4d1216419e9c3",
+        "animated.avif": "a77daefa42b47a48db5606f7f44075a23abad8a4ec06bfca1f297cb45afb0e45",
+        "motion.json": "1fd31b5f2decac373f463bb6b07d0885b535ee999bde8ac56c94fbe1c386fb5c",
         "meta.json": "e7f04289245d75610758a100a282f93f75973755dead03fe674ac7b577c2b30d"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 15806
+      "animationBytes": 26699
     },
     {
       "id": "toast",
@@ -19331,6 +19688,7 @@
         "meta.json": "f48c9b23bbfe43ce220ffa7e07a7255457f9ab930371f6d608d91e0629d8abe8"
       },
       "preset": "pop",
+      "motionType": "pop",
       "fps": 16,
       "duration": 3,
       "animationBytes": 51341
@@ -19396,6 +19754,7 @@
         "meta.json": "711d0d8eb23bbf3d3f9e0e1dceccbc72f63d7a56196e5c0e02092240ae4cfc4b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 17564
@@ -19461,6 +19820,7 @@
         "meta.json": "06554836d48b70fd2bd1d355aee15e3df69200abca628e166e43a5fbc8a0333a"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 13350
@@ -19526,6 +19886,7 @@
         "meta.json": "8554c3419cf7c72c5e8781d3967e3cbf63928f922175465f199f1e20d875142b"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 21759
@@ -19591,6 +19952,7 @@
         "meta.json": "ec89ac5b3f15528112e78d288f9fcc29a0875493509d28cee779092ddc1897b6"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 42252
@@ -19652,14 +20014,15 @@
         "source.png": "514feb0317e6094ee4a1a4af5b220bf93c62b08c771a31ba27a8993864691b20",
         "still.png": "221b6bbedbb4e4496dd6e0db005598615e08e48dea3b0afbaf26737495330cbe",
         "still.webp": "e370e6632a831add4c6c740e9389dbf5588ff5917636b5b5c7332f468dafe000",
-        "animated.avif": "1003b433cbd507bbf9830152a4caada56491a078979b6ee18555ac42c3c953bf",
-        "motion.json": "4c0884acf55c5464086b02c14285668bf31c9470935b68f58030fad8651e843e",
+        "animated.avif": "117d5762f4a98e61bb96c8b8aeaf4262842047fd58d9f78555ac935e240357dc",
+        "motion.json": "f04399bf8745def0aefb14d46ede7e312e236af6cfd2b8874449d7ef5cd6dde6",
         "meta.json": "f82e4bbf546ba9b2e6ff8b23f7ebbab1e13a2f0a3f1bdf578987a798d919d707"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 22216
+      "animationBytes": 28187
     },
     {
       "id": "tray",
@@ -19722,6 +20085,7 @@
         "meta.json": "7ee42b7bb4b5faf42a4d0a03201b42f337eceb3e6ca0227bc6f60ca844263fce"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 16175
@@ -19787,6 +20151,7 @@
         "meta.json": "fc608c46637dfbf818d00f0cfa29fe385ef0e1f26903c9172a1045be75b53979"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 20808
@@ -19852,6 +20217,7 @@
         "meta.json": "924d16734c71365ee9c5f8f689d08dd8555644272b3be3b15d78645595716136"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 26682
@@ -19917,6 +20283,7 @@
         "meta.json": "904735b81551bfdcf8f585900772e8434330e5cb2b7eb61c1e02b1f6853c212f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 35675
@@ -19978,14 +20345,15 @@
         "source.png": "1bd4606005c02cdec4fc4cdf1baec9a66554a5598d4c88478dfffb9572cd0c5c",
         "still.png": "0c88260bdf4c4d1660da61a2bcd5265755b3b3ef6f64592d79c5af025be8c44f",
         "still.webp": "165e1e9ad38bc0e327ea1356c17f2e8059cc9f17df1f9925b3eea9b48c0f7554",
-        "animated.avif": "b4f097185783447197d1129522131ce9acd3a82f0aece0e0e652464073f7b626",
-        "motion.json": "ed14b5f81c8c683692f052ae17dfa02cb6555b2ee01e0bb0e81a580d1d0f5eb9",
+        "animated.avif": "e57675eedf9101a642bf0e920e368a5151ec428ca200a20718df9bfc9d877fe6",
+        "motion.json": "3a51000106149267c7b9c106604bc59ffa82b14cf62c8c6b63cdd234e97bfcb4",
         "meta.json": "1bff1a205fb00c45f7b1235a10143fa69f0c2a53172e8b236aae7d71cf66e6bb"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 14024
+      "animationBytes": 35608
     },
     {
       "id": "trowel",
@@ -20048,6 +20416,7 @@
         "meta.json": "1979619e524f56f82b197d7bc5b8a6cbce256c259502114eea13790a9663fb1e"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 41207
@@ -20113,6 +20482,7 @@
         "meta.json": "027b2a60166aa988e08b493652fe7303e6f5a82fbf8e87286bfa1e64ce5a50d6"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 56168
@@ -20174,14 +20544,15 @@
         "source.png": "cf9ca8981271db4dd71ff605462db1eab8f9f61701eccfd6ae308b9ccb17271b",
         "still.png": "c66eef72dab64087b608d28c57a5b5aa863f4e204ee899d5b887efbaa8a4c464",
         "still.webp": "f7e04ca67d111c7791eb56aaa0678fc027d1ac68626cf0320b01c4cd47d6a1c6",
-        "animated.avif": "e47b480839a90724dd85f3111579eda91380b520d0c63ef9285183b2bf793c29",
-        "motion.json": "529e2e131e438199fd560f8005ec0226ecf790d6f0878c394a214647fc7e495e",
+        "animated.avif": "1931cd78ed99c59b4ed572a2833969e31ff19f5e7cd1da1442315fdad24a689a",
+        "motion.json": "c607d57281c7653875ab3742d5546e5ec6ce23ebb2cf092fa5f43792cc8a4428",
         "meta.json": "a31bc24c3a38e101cd5a41bda0557a14e6aaff0e790abc201bc8a2db0df58e79"
       },
       "preset": "still",
+      "motionType": "material",
       "fps": 16,
       "duration": 3,
-      "animationBytes": 21218
+      "animationBytes": 24327
     },
     {
       "id": "vest",
@@ -20240,14 +20611,15 @@
         "source.png": "93e3475c077d313dd52ca081fc725eec0dbf6543d2f12b63c81862217f2d562f",
         "still.png": "dc4bce792f18bda80beb828d425a8f8a5db6537959ab2f789373394905fe5d93",
         "still.webp": "12eda61e5c84c843794af0bf80df4763d624128fc9702c6db3b6a693944ca7c6",
-        "animated.avif": "c754095c488e3b8f73f11d35c7f8689e36b85d52bbee935d315efa7711e51741",
-        "motion.json": "8a5b702e5ca65aee4c8b809f2bc8ef9e3584c15ba4531d8671272440964c2887",
+        "animated.avif": "08e28b2675abc89e33586fb2dab8db37d62ad7f3c6465e7fabb91bff3adc2cd4",
+        "motion.json": "faf248cfe4678ad9357fda0e02be3fafdb606b57e1daf188824b79ae5b386bdc",
         "meta.json": "9c4345b5ec287f862c570d35d2852d70fb5917fbb0e8173aa6e87948e23a368b"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "material",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 14270
+      "animationBytes": 20325
     },
     {
       "id": "vine",
@@ -20310,6 +20682,7 @@
         "meta.json": "6305c1c50dfba9ca467a3ea02a798a0c19b27d6a5263cb7d2c94f1b000fc3dd4"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 34000
@@ -20375,6 +20748,7 @@
         "meta.json": "573ebe75ffeff0c5f531c6107cd33973870a748b1ca569486e830f65ccedf1fa"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 14361
@@ -20430,20 +20804,23 @@
         "still.webp": "assets/wallaby/still.webp",
         "animated.avif": "assets/wallaby/animated.avif",
         "motion.json": "assets/wallaby/motion.json",
-        "meta.json": "assets/wallaby/meta.json"
+        "meta.json": "assets/wallaby/meta.json",
+        "rig-source.png": "assets/wallaby/rig-source.png"
       },
       "sha256": {
-        "source.png": "318fde228b5edc16f5e8830830b254190a0d2a78ee80821c8130efd5ffbf8b13",
-        "still.png": "96616e4629e10bfcb6337ef0fec6467c516e6b9ebf4b569b24e08f394bb416db",
-        "still.webp": "e81c570048d79cb99f16a65d2f6d0329ade2a09d89660f2ab5c736cca469d7eb",
-        "animated.avif": "b0deac4a13ec57287c184d8867cd468d76be1259a427820c29e037f07ffb8143",
-        "motion.json": "bfff4728b008d9eab17605eeed6fdda80badad102023ef14b351a1bdbd7fd6c9",
-        "meta.json": "7a16a9391060753efc652cd91467f43fe40815ae2833aa7ba44b299b20bab8a7"
+        "source.png": "c9dc779724797f75fcec94f6b358fb85a00e9e8af1266e06e5262f7380e5dfbb",
+        "still.png": "18d83d3de829d59788b015d47250b76388348154d5fc54014852c29c67790827",
+        "still.webp": "4a3499171d04d3a369270dcc958d6b65ed57335ad0614d100f9b0ca8a59ff3fe",
+        "animated.avif": "4dd723104d8a6079ed43e3966b35ebc0cd26c9e8fe660981fb9e3c4d1b76547b",
+        "motion.json": "65faa13e203ccf7a95b8f5cf86b4330e723b458369a7d665d3a988bf836483b0",
+        "meta.json": "7a16a9391060753efc652cd91467f43fe40815ae2833aa7ba44b299b20bab8a7",
+        "rig-source.png": "ed3d46018cc1d1ad8f01c2b6c6d76b4cfdc6fbcd401c6184d5a4258104369dd6"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 21154
+      "animationBytes": 36537
     },
     {
       "id": "wardrobe",
@@ -20506,6 +20883,7 @@
         "meta.json": "6751aa7a86bcb16f545679bc25fd3768312feb1785a0d7664cd195e289935fc7"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 13373
@@ -20571,6 +20949,7 @@
         "meta.json": "057859663a1d9ab76c578b2d7a157da94e8d7cfb14d7f194d0afaf11eeac67c2"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 11736
@@ -20636,6 +21015,7 @@
         "meta.json": "f9daca2eecf21802a9e05e17e9298db11faf6aa6f29ff5131df8a3b2c2605014"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 44675
@@ -20691,20 +21071,23 @@
         "still.webp": "assets/watercolor/still.webp",
         "animated.avif": "assets/watercolor/animated.avif",
         "motion.json": "assets/watercolor/motion.json",
-        "meta.json": "assets/watercolor/meta.json"
+        "meta.json": "assets/watercolor/meta.json",
+        "rig-source.png": "assets/watercolor/rig-source.png"
       },
       "sha256": {
-        "source.png": "fa8a7f68ea76bfe259a4381c28e9ff76c2a89d13f16efb416a71ee24d1c756e2",
-        "still.png": "95f6bb6de9deac0c2b80a5191d83afbee22fe9b1f106e0df528e400a32b1b9c4",
-        "still.webp": "42b830a38ce883922204a2675c01aa59c3ac6e0bc92b8678ec595d4026d36d8b",
-        "animated.avif": "fa08c68497d4a4fe73574e02e2340cd17dfc63039f1c664f2ac30001c5ca01df",
-        "motion.json": "ebc0f8ca03bdc647e9a45edbc1a6463b013fd17d73dc33f2dbecdf0897ecb12e",
-        "meta.json": "88588d2ac3b03a06de2138d30b1afbf496c7a2cb8fcfb985cce64c69c4cabd92"
+        "source.png": "485af300919099629b94734e6b837676d5683f5d71552ea2c82f3ecf1f67879b",
+        "still.png": "cbb404c8b310db166ac73680269f40b7011d5ce8f1e5abb4c3a9c13bc1a1a0e7",
+        "still.webp": "7894844df9dbdd90a25db2dab48c031ee085e724e696a16d3049ad8161ef62f9",
+        "animated.avif": "4009bdea85ba596c8fc7eec2f32b07e5b3b2454e8826c9224a64ca570198f2b1",
+        "motion.json": "684554a7ee6e0ed749a4f122a60bc97f793a149b05f438d6b646546f18d12e45",
+        "meta.json": "88588d2ac3b03a06de2138d30b1afbf496c7a2cb8fcfb985cce64c69c4cabd92",
+        "rig-source.png": "8d2823fba37cce1af5a8472c729af812812301597b6fa149862e0327899bd8e0"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 21396
+      "animationBytes": 44309
     },
     {
       "id": "watering-can",
@@ -20767,6 +21150,7 @@
         "meta.json": "bf1430a136afc62ea699b575408978f6c19a125b18ddf9e602bd167cf58b7eb2"
       },
       "preset": "pour",
+      "motionType": "pour",
       "fps": 24,
       "duration": 3,
       "animationBytes": 56307
@@ -20832,6 +21216,7 @@
         "meta.json": "c4eb2a33a291e4f0d0ea94633afd67b1aab655c9603af82c511a87a3c22afa7e"
       },
       "preset": "drive",
+      "motionType": "drive",
       "fps": 12,
       "duration": 3,
       "animationBytes": 37867
@@ -20897,6 +21282,7 @@
         "meta.json": "86bf018463d44f39c1407ec7566a5e4f73977b251761ad5a7e24a4e2762c12ff"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 19902
@@ -20962,6 +21348,7 @@
         "meta.json": "99a7b840f5ebd27158b4f8789fce75a9f76cc19dbd5b0841d1e22e7c212ca05c"
       },
       "preset": "tool",
+      "motionType": "tool",
       "fps": 12,
       "duration": 3,
       "animationBytes": 59036
@@ -21023,14 +21410,15 @@
         "source.png": "a214fcfee92a885cb669c5b4964f2c0345ee0e8ce765dd22ab8923c2a667c363",
         "still.png": "3d9efdc4ee965bbbbddf5537da0b7664c026275a9d54d689676a7ea2806f3462",
         "still.webp": "25bb7946c1fea678a8d3e1d25ef12dbd31f50b52a600a34fcac20bc0c1518b69",
-        "animated.avif": "523cac4f1e96abf1c9cd9c93d2d48a16327c0ed14e341ba3a76dc589e1745d5f",
-        "motion.json": "247a62fb6baaceabeeb48bf5e698e246a37050da5664fcd9b9609fcee4e147a4",
+        "animated.avif": "a7ec7f53f95f0c7342e2fcfad24210877fd4916f4b83df469dada5b89a706706",
+        "motion.json": "053bbc28873ae73547e66da323ca15cca28c2600fc9b3dcbbc8658427f116f40",
         "meta.json": "32231869cf05e0c376cde67612c450b7ca4cfb1b0a0e624ecd2d4216ca611064"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "still",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 13148
+      "animationBytes": 16246
     },
     {
       "id": "willow-tree",
@@ -21093,6 +21481,7 @@
         "meta.json": "6ae2efcb0b3ef7aaf412891948ef0f6ac68e146d1ba4516a0e747c6a6c644362"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 53406
@@ -21158,6 +21547,7 @@
         "meta.json": "31c1030707616f016518b4de788274246612485197a101ff6924459b63f3736f"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 13101
@@ -21223,6 +21613,7 @@
         "meta.json": "24657f7b3a1388e36e033a9120d9f61d4bf8c60782f603854be3686289e4c952"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 14633
@@ -21288,6 +21679,7 @@
         "meta.json": "76895d7bba775d2919baee379199c6e01df48def2e905261977ef30e581ca791"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 24,
       "duration": 3,
       "animationBytes": 11007
@@ -21343,20 +21735,23 @@
         "still.webp": "assets/wombat/still.webp",
         "animated.avif": "assets/wombat/animated.avif",
         "motion.json": "assets/wombat/motion.json",
-        "meta.json": "assets/wombat/meta.json"
+        "meta.json": "assets/wombat/meta.json",
+        "rig-source.png": "assets/wombat/rig-source.png"
       },
       "sha256": {
-        "source.png": "e9d0cefa3e60e7342d19f57f739640d99048fea405ba87997ea2f947067afc76",
-        "still.png": "33cc887b1115efbe72dbd611ce303c8c8de88c9c6f9ea101d92e685d7aafa0ed",
-        "still.webp": "0a9fd1b89ef9fc69684b47cc2075c768f7997f03a0fa85126cd44da5e03eb4d7",
-        "animated.avif": "0c111306b849562606711df3f881e8fbb59d75cef1d72d64e635d3b57042cbe0",
-        "motion.json": "1a1375e04bc5db7e2b5d9c743ba5231e37a18c65e0e9b5228bbf60c8932c83f6",
-        "meta.json": "e93544479276095cf13036408e21b7b2578535f7db3b3ae71f69786a35936760"
+        "source.png": "9170e769144eb4426f667b37dffb185bb661bad6606a964e41eb0904fe20a18c",
+        "still.png": "113c0b9daa0362d13572445c91970fe54fd1677c990709ca1440e8e512641462",
+        "still.webp": "4dbef77a3e77448a0f0109c47a2f494ee59929871f51abe16c4928257109924a",
+        "animated.avif": "b4fc6c5c35762142654d0548fb38355adbafb149dca55a13e33b2df4e761c6b3",
+        "motion.json": "845f2e175143cd2a38c5c4bbab76253fa72f0934a88c9526bbf39f41e757e858",
+        "meta.json": "e93544479276095cf13036408e21b7b2578535f7db3b3ae71f69786a35936760",
+        "rig-source.png": "f86a020eb22fd9fb4bfb354f036623f8f7c60fcfe16070dfc986dffcfcce7633"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 27297
+      "animationBytes": 44425
     },
     {
       "id": "yak",
@@ -21409,20 +21804,23 @@
         "still.webp": "assets/yak/still.webp",
         "animated.avif": "assets/yak/animated.avif",
         "motion.json": "assets/yak/motion.json",
-        "meta.json": "assets/yak/meta.json"
+        "meta.json": "assets/yak/meta.json",
+        "rig-source.png": "assets/yak/rig-source.png"
       },
       "sha256": {
-        "source.png": "b66ac92f07b1f30cf1cb7110dcacfc9a0f3a95c3b35786b9a015206fb57587ec",
-        "still.png": "7c847f9c75625dcf2297920ea509194fcce36fd71cb0a3b921ab0efffbe56d10",
-        "still.webp": "e1635148c12c67192c8eb8552f2af8b9ab310a25cb105b51fe875dc6df75a514",
-        "animated.avif": "94d16d14b2137fd08f0f4024a1fbd3b0f644f54ebc963b54dd54513d908e2675",
-        "motion.json": "5aaf05d16e41ce66a30f5627b5bbce57e32267a83ec52c2698f7b71658d50be7",
-        "meta.json": "044a5b71859dd729f672efeeea4869bc3f3338a400eda6ca376ca28da6b18117"
+        "source.png": "2285fa61a75a3e239ea20c9c962c04d0a8263c176c448a1571f50fd98d5ad61e",
+        "still.png": "ddd84bd945d06626c806257953798229094efdb2d43f94a47d77089bd20575d3",
+        "still.webp": "05f1256c33ced6269d4f12e31b50c1b7adc43d522a76557ed51a1c7c83047aaf",
+        "animated.avif": "9d4f69cdb4e54dbc9739e3c356151c168e35b3ecb8aa53f94887b62e09e4416c",
+        "motion.json": "1bd615aa206c01846002e807522547cdfa7872cba06bd73745b39606b7062dc5",
+        "meta.json": "044a5b71859dd729f672efeeea4869bc3f3338a400eda6ca376ca28da6b18117",
+        "rig-source.png": "34024a1c2b05274e435da25cc334b9621abeba3871afbc20b9fb1b2752037811"
       },
       "preset": "still",
-      "fps": 16,
+      "motionType": "cutout",
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 21964
+      "animationBytes": 49576
     },
     {
       "id": "yogurt",
@@ -21485,6 +21883,7 @@
         "meta.json": "2f8279d2476c4e1455789bf44411f91e0d11551267b2976c667bb93c6f81f509"
       },
       "preset": "still",
+      "motionType": "still",
       "fps": 16,
       "duration": 3,
       "animationBytes": 15484
@@ -21550,6 +21949,7 @@
         "meta.json": "8de82550d76d022377e5a097e294ed26d33c1b7eadd61d09941842d4cbdb4b32"
       },
       "preset": "nod",
+      "motionType": "nod",
       "fps": 16,
       "duration": 3,
       "animationBytes": 43332

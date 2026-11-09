@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của poncho.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "9978b618943f9c819d63001d29a6af46606d3e6dc3b51c431f3031a8f288bb45",
     "still.png": "c96fcfac359b758fb0fb83d1d9710c995379ac1438f2402e474937d760f53931",
     "still.webp": "f5ffb5bde6f940631ca0de38bc341270df4ce34e0c1897c5368612e941bb3b8e",
-    "animated.avif": "8d8eb14d3781c1763f49dca8ce92a31ac88ff7c84a6ad555b63210535400d836",
-    "motion.json": "9d839f5631040bbc6ef07ac977a33d8a9673719cedceebc38c3aa32a1bae8be9",
+    "animated.avif": "06f58e0a3d68210ff11a76685a399d227f8e6163c78ec96c7379dce1b751e05f",
+    "motion.json": "a804468fbbece9596b6da15d3935664ffca9ee30b81f2213f6e4cada48d9e056",
     "meta.json": "da181c6209262f6e91511174d58d8b4e463a85cbb075571c90f896d286e5c9bb"
   }
 }

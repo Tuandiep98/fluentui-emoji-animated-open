@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, friendly Fl
 
 ## Motion
 
-The front shoe laces shift gently; soles and shoe panels remain rigid.
+Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.
 
 The approved master is source.png; motion.json contains the measured final recipe.

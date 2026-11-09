@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Mỏ và đầu nghiêng nhẹ; giữ đuôi dẹt và chân có màng.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Species gesture: sniff. Cutout refinement: measured head joint, independent delayed ears and genuine open/closed eye artwork; all feet stay planted. Complete painted overlap at neck and ear roots. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "553b8b2435a619f9ce680002f8626ef82efa4330c6c594e5efdccddc560db3ab",
-    "still.png": "32b9ec6d9cb265afb0af3a15a1b47311e21739f35be6cf43e7feffe4b27915ef",
-    "still.webp": "7cc7c9f52fd3fd522f306f160194120206621ba9fd640ec65d2c735656a8b80f",
-    "animated.avif": "00f2b71775e94277c6f6334981ec2a25a56e1f6dd76f0795c4db00ab117afbaa",
-    "motion.json": "0e5eb0c1197441abb3b67318c81c9847aec23868fd919cc09aa4590f1424fdfe",
-    "meta.json": "65878a30899b686d40e7183b80b82168d81211d1de4305d1467919b347d851b4"
+    "source.png": "0dd03eeba8a66f0d46244c253822ab4b79f53b6a8ff90e13a64e95ec95763fa6",
+    "still.png": "144d3c6d03183705ecb7136e8afc5efdec95566a40ff0bec7d23138af436f522",
+    "still.webp": "020b18f4f1f357036ca6f4d1eddf5546de70ca559a7ad80a569feab0e4a7af1b",
+    "animated.avif": "6028ec1eb38a9ba242d27bf1d0ba4b79a835710d92b4db2996af7800353900ff",
+    "motion.json": "004d401a75060d890257f18094e99241b6e3344208494c693cb47809517ba834",
+    "meta.json": "65878a30899b686d40e7183b80b82168d81211d1de4305d1467919b347d851b4",
+    "rig-source.png": "991a583a84667280be641bd7bf8794e612779fd751b826f15d3953c582d5a08f"
   }
 }

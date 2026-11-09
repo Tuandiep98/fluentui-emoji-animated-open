@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Đỉnh muffin chuyển động cực nhẹ; phần giấy lót giữ cố định.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: short steam from a freshly baked muffin; crumb and paper liner stay rigid instead of breathing like rubber. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "86b42783c30035b769f859bd9e919600e6535a495bfd8e33526e9a1c6de59d79",
     "still.png": "08af7cb9f32f897e5c17192b7b5d274920b8f692e33dc3dbc972d8d53773fdb3",
     "still.webp": "5e146ad6fca3abbb149554fb1d56b6c675f1c2dada6a3f6e01e7c78a20d1d96a",
-    "animated.avif": "b91e671fdc4fe0a7dce250636b30881314b6aa6d4cd5f10602675af45676a9d9",
-    "motion.json": "6cb89f6bf1013f6494622388e55e6bcd99710a32ac2f6203e05b2d8bcdae3291",
+    "animated.avif": "f566e5d883ade39ea1a9dc7262b83c7e21f7e998ecb99aa04bea8aee62ce59a2",
+    "motion.json": "3d3737749eb8f8f352100466522281b397d43d7d8bf0654d2046526cb70c38e0",
     "meta.json": "0b7841128817236719400bdef31cb74f6e4d128777e0f6f52e9bb652fb4df762"
   }
 }

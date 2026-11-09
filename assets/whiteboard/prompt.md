@@ -14,6 +14,6 @@ Use case: precise-object-edit. Edit this whiteboard emoji by removing the entire
 
 ## Motion
 
-Ánh sáng nhẹ trên mặt bảng trắng; khung đứng yên, không sinh chữ.
+Refinement: a temporary writing stroke draws and clears on the board surface.
 
 The approved master is source.png; motion.json contains the measured final recipe.

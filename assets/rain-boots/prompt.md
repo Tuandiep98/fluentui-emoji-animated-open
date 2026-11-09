@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Chuyển động nhẹ ở cổ giày hoặc dây giày; đế giữ chắc, không làm toàn chiếc giày thành cao su.
+Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.
 
 The approved master is source.png; motion.json contains the measured final recipe.

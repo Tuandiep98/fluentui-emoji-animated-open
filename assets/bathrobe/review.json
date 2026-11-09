@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của bathrobe.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "766492a86d924816c85e431b7beffd639a24a33a40aec59ef6f6bdae0b8759b7",
     "still.png": "103d1e6fe02d89d372339685cd62d1de2ee62bfd3c8c97bf5319355f50eec58f",
     "still.webp": "cf4756dd53b072c613da66f8d413b996cf2b60337b1bf386c6c54eb5756e3349",
-    "animated.avif": "8fea724676f5ced4df0e84ee53c4ee8c8351814231b3a775fc63a5045c50ec5a",
-    "motion.json": "6ca18708124677dd0e0ff0c19b41ec3b18d43a02a8f7ad56ac62e3238c4a70a4",
+    "animated.avif": "7ebf558267a241b680a49be6c5a940b7372a0272f4ac749a44ce4fdb401edb87",
+    "motion.json": "3a38c31e6d2bbd4851720f27ecf9a7199d281649023e1b14078284de5cf97347",
     "meta.json": "85315d4bba344602483ac669ca1903908756bc2d7685859fe9d19ffdce31d5b8"
   }
 }

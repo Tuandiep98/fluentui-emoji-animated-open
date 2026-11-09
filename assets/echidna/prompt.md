@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Mõm dài ngửi nhẹ; gai đứng ổn định khác nhím lông dài.
+Refinement: snout sniff with delayed quill-edge response; distinct eased local tracks. Hidden/tiny ears and eyes are not enlarged or invented.
 
 The approved master is source.png; motion.json contains the measured final recipe.

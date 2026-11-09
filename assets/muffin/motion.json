@@ -1,14 +1,8 @@
 {
-  "fps": 16,
+  "fps": 24,
   "preset": "still",
-  "fx": [],
-  "regions": [
-    {
-      "kind": "press",
-      "center": [128, 85],
-      "radius": [74, 45],
-      "amp": 1.7
-    }
+  "fx": [
+    "steam"
   ],
-  "note": "Đỉnh muffin chuyển động cực nhẹ; phần giấy lót giữ cố định."
+  "note": "Refinement: short steam from a freshly baked muffin; crumb and paper liner stay rigid instead of breathing like rubber."
 }

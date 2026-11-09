@@ -1,6 +1,6 @@
 {
-  "fps": 16,
-  "preset": "still",
+  "fps": 24,
+  "preset": "jelly",
   "fx": [],
   "regions": [
     {
@@ -13,8 +13,39 @@
         77,
         63
       ],
-      "amp": 3
+      "amp": 2.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -0.625
+        ],
+        [
+          0.65,
+          2.5
+        ],
+        [
+          1.15,
+          -1.75
+        ],
+        [
+          1.65,
+          0.875
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
-  "note": "Lõm bề mặt nhẹ rồi trở lại; giữ màu và thể tích khối đất sét."
+  "note": "Refinement: a soft clay lump compresses as a whole with volume-preserving squash and settles, plus a small surface indentation; this deformation is restricted to soft clay.",
+  "pivot": "bottom"
 }

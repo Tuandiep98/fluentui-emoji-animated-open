@@ -1,13 +1,14 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Tay đòn hạ rồi trở lại quanh trục; chân đế và lỗ bấm cố định.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Cutout refinement for hole-punch: complete fixed base and independent moving part; painted overlap at joint. Per-part eased use gesture; rigid hardware/paper faces stay intact. Vocabulary and translations unchanged.",
   "hashes": {
-    "source.png": "6036d4a7fa6f27f9cb879f3d6b0aa6db47f42575f3520d34048ff52e598c53b4",
-    "still.png": "7f2c0ea0e465adb4dde5b015889975c875944ef68fd7f6c33e17634787b9073f",
-    "still.webp": "35f548c5e4dd7d4deed1d75d254acebe58ececf12424606ae75fa04bc01fa42e",
-    "animated.avif": "3a788a5dc981e83af437b2384f3bbc52d8181eef83c03d50b1b140efaa95134b",
-    "motion.json": "2e674a3aea9130b6ac8cf994ab905d13bd6d45be4aabad35ef4f4f83f10e08e1",
-    "meta.json": "46b4263bb5f35d26635b6d3bdf5f94e7f36abad45cc0497260b9da53c324d3af"
+    "source.png": "8a382c3f9a6637ff38cbc54f4d7234d0c72b84f3fb565e910faf80fee18ff9e9",
+    "still.png": "83fbea294d00ea3669e79bdd374f5f6b34ca5fedf1f7590d80b9bd3ee1fda0d3",
+    "still.webp": "93b28f832439e5e86dff5f9e52e26478a81b9279cc74f57da9be6b40b4b671c1",
+    "animated.avif": "1badd415c684efd8aaeba716f0eb2c6310a151aa67ae98d7163378baf6f94679",
+    "motion.json": "eecb940b9b35dfa90d10f1cb3c7bd3a8f6f40d8f26d9c9d903ebf5e7e902f7c4",
+    "meta.json": "46b4263bb5f35d26635b6d3bdf5f94e7f36abad45cc0497260b9da53c324d3af",
+    "rig-source.png": "2362849e9eaaf2377619315626bf13e31e450a8702d73c075895ff78f77bb61d"
   }
 }

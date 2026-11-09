@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Nghiêng nhẹ quanh điểm tựa; đầu chì và thân không cong.
+Refinement: a clear eased use/presentation gesture, rigid silhouette and no rubber stretching.
 
 The approved master is source.png; motion.json contains the measured final recipe.

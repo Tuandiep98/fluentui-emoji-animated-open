@@ -1,15 +1,86 @@
 {
-  "fps": 16,
+  "fps": 20,
   "preset": "still",
-  "fx": ["glint"],
+  "fx": [
+    "glint"
+  ],
   "regions": [
     {
       "kind": "wave",
-      "center": [172, 45],
-      "radius": [43, 20],
-      "amp": 1.3
+      "center": [
+        172,
+        45
+      ],
+      "radius": [
+        43,
+        20
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -1
+        ],
+        [
+          0.65,
+          4
+        ],
+        [
+          1.15,
+          -2.8
+        ],
+        [
+          1.65,
+          1.4
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
   "glintAlpha": 0.09,
-  "note": "Chuyển động nhẹ ở cổ giày hoặc dây giày; đế giữ chắc, không làm toàn chiếc giày thành cao su."
+  "note": "Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.",
+  "pivot": "bottom",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.2,
+        -0.5
+      ],
+      [
+        0.65,
+        2
+      ],
+      [
+        1.2,
+        -1.4
+      ],
+      [
+        1.8,
+        0.7
+      ],
+      [
+        2.4,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
 }

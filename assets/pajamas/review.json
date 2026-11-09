@@ -1,13 +1,13 @@
 {
   "reviewedOn": "2026-11-09",
-  "method": "AI still and decoded eight-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
-  "notes": "AI review: checked all nine terms and readings, recognizable still and eight decoded AVIF frames on light/dark backgrounds. Actual decoded alpha/motion and frame/loop/bounds/size gates pass. Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của pajamas.",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Motion refinement: AI decoded light/dark contact-sheet review at 64px; rendered still/seam/bounds, transparent color+alpha sequence and size gates pass. Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness. Vocabulary and translations unchanged.",
   "hashes": {
     "source.png": "8a9af944192e59b527ae51d42964000ba4491d73c58597aa7063c4c053e78ba9",
     "still.png": "9c55905d745c693994912ed349358a6b1f33fa81dc2f1b74feb75610c4116189",
     "still.webp": "d0c659f7fe0f77def7fb115f2d327e3307424100c78df9d50a31f7758b2156ef",
-    "animated.avif": "3e3e424b1093de2310820a9c80eae98a44e186324d639f652c20d0a0297b9139",
-    "motion.json": "505ca9e71cc23cabb2dfee84973c899f1c5f55a5628e448f5ee7e38ae6947157",
+    "animated.avif": "e93b21e907cb51e9dbd4233952d9c0358463035bd37119de431e928efcbdac56",
+    "motion.json": "f5bbd67976c60f553ee2bb5dd7b529c2b65830382cd2ddc8f1929a3a1dccb78d",
     "meta.json": "45eea11580a3387a8854a5f01286f6a4c2137bfc89bcb52c3ef4eafa4ea0e619"
   }
 }

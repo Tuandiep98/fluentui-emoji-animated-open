@@ -5,16 +5,89 @@
   "regions": [
     {
       "kind": "wave",
-      "center": [128, 218],
-      "radius": [80, 22],
-      "amp": 1.5
+      "center": [
+        128,
+        218
+      ],
+      "radius": [
+        80,
+        22
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -1
+        ],
+        [
+          0.65,
+          4
+        ],
+        [
+          1.15,
+          -2.8
+        ],
+        [
+          1.65,
+          1.4
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     },
     {
       "kind": "wave",
-      "center": [32, 180],
-      "radius": [22, 35],
-      "amp": -1.1
+      "center": [
+        32,
+        180
+      ],
+      "radius": [
+        22,
+        35
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.28,
+          1
+        ],
+        [
+          0.73,
+          -4
+        ],
+        [
+          1.23,
+          2.8
+        ],
+        [
+          1.73,
+          -1.4
+        ],
+        [
+          2.33,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
-  "note": "Vạt hoặc gấu vải đung đưa nhẹ, điểm treo cổ áo/cạp giữ yên; giữ rõ cấu trúc đặc trưng của jacket."
+  "note": "Refinement: independently timed hem, sleeve or soft trim motion anchored to the measured neckline/waist; keep fixed artwork pixel-stable and preserve material stiffness.",
+  "pivot": "top"
 }

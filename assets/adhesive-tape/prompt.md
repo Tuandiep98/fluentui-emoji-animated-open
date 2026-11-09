@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Đầu băng dính nhấc nhẹ; vòng cuộn giữ đúng hình tròn.
+Refinement: free tape end lifts around its peel point; roll stays fixed.
 
 The approved master is source.png; motion.json contains the measured final recipe.

@@ -1,9 +1,86 @@
 {
-  "fps": 16,
+  "fps": 24,
   "preset": "still",
   "fx": [
     "glint"
   ],
   "glintAlpha": 0.1,
-  "note": "A small light reflection moves over the plastic; nozzle and bottle stay rigid."
+  "note": "Refinement: flexible bottle compresses slightly and settles; nozzle remains attached.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.2,
+        -1
+      ],
+      [
+        0.65,
+        4
+      ],
+      [
+        1.15,
+        -2.8
+      ],
+      [
+        1.65,
+        1.4
+      ],
+      [
+        2.25,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  },
+  "pivot": "bottom",
+  "regions": [
+    {
+      "kind": "press",
+      "center": [
+        128,
+        157
+      ],
+      "radius": [
+        55,
+        65
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -1
+        ],
+        [
+          0.65,
+          4
+        ],
+        [
+          1.15,
+          -2.8
+        ],
+        [
+          1.65,
+          1.4
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ]
 }

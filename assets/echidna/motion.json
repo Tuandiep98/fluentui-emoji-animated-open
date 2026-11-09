@@ -1,20 +1,92 @@
 {
-  "fps": 16,
+  "fps": 24,
   "preset": "still",
   "fx": [],
   "regions": [
     {
       "kind": "press",
-      "center": [208, 147],
-      "radius": [28, 23],
-      "amp": 1.8
+      "center": [
+        208,
+        147
+      ],
+      "radius": [
+        33,
+        27
+      ],
+      "amp": 5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.2,
+          -1.25
+        ],
+        [
+          0.65,
+          5
+        ],
+        [
+          1.15,
+          -3.5
+        ],
+        [
+          1.65,
+          1.75
+        ],
+        [
+          2.25,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     },
     {
       "kind": "wave",
-      "center": [111, 68],
-      "radius": [70, 41],
-      "amp": 1
+      "center": [
+        111,
+        68
+      ],
+      "radius": [
+        83,
+        48
+      ],
+      "amp": 5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.32,
+          1.25
+        ],
+        [
+          0.77,
+          -5
+        ],
+        [
+          1.27,
+          3.5
+        ],
+        [
+          1.77,
+          -1.75
+        ],
+        [
+          2.37,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
     }
   ],
-  "note": "Mõm dài ngửi nhẹ; gai đứng ổn định khác nhím lông dài."
+  "note": "Refinement: snout sniff with delayed quill-edge response; distinct eased local tracks. Hidden/tiny ears and eyes are not enlarged or invented."
 }

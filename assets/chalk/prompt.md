@@ -8,6 +8,6 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 
 ## Motion
 
-Một chấm bụi phấn rất thưa; viên phấn giữ hình khối.
+Refinement: a clear eased use/presentation gesture, rigid silhouette and no rubber stretching.
 
 The approved master is source.png; motion.json contains the measured final recipe.
