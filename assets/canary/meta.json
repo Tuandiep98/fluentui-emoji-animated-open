@@ -1,0 +1,46 @@
+{
+  "id": "canary",
+  "name": "canary",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "canary"
+    },
+    "vi": {
+      "text": "con chim hoàng yến"
+    },
+    "zh-Hans": {
+      "text": "金丝雀",
+      "reading": "jīnsīquè"
+    },
+    "ja": {
+      "text": "カナリア",
+      "reading": "kanaria"
+    },
+    "ko": {
+      "text": "카나리아",
+      "reading": "kanaria"
+    },
+    "es": {
+      "text": "el canario"
+    },
+    "fr": {
+      "text": "le canari"
+    },
+    "de": {
+      "text": "der Kanarienvogel"
+    },
+    "id": {
+      "text": "burung kenari"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

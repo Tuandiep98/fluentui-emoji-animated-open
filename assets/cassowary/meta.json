@@ -1,0 +1,46 @@
+{
+  "id": "cassowary",
+  "name": "cassowary",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "cassowary"
+    },
+    "vi": {
+      "text": "con đà điểu đầu mào"
+    },
+    "zh-Hans": {
+      "text": "鹤鸵",
+      "reading": "hètuó"
+    },
+    "ja": {
+      "text": "ヒクイドリ",
+      "reading": "hikuidori"
+    },
+    "ko": {
+      "text": "화식조",
+      "reading": "hwasikjo"
+    },
+    "es": {
+      "text": "el casuario"
+    },
+    "fr": {
+      "text": "le casoar"
+    },
+    "de": {
+      "text": "der Kasuar"
+    },
+    "id": {
+      "text": "burung kasuari"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

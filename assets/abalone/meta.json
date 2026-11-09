@@ -1,0 +1,46 @@
+{
+  "id": "abalone",
+  "name": "abalone",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "abalone"
+    },
+    "vi": {
+      "text": "con bào ngư"
+    },
+    "zh-Hans": {
+      "text": "鲍鱼",
+      "reading": "bàoyú"
+    },
+    "ja": {
+      "text": "アワビ",
+      "reading": "awabi"
+    },
+    "ko": {
+      "text": "전복",
+      "reading": "jeonbok"
+    },
+    "es": {
+      "text": "el abulón"
+    },
+    "fr": {
+      "text": "l'ormeau"
+    },
+    "de": {
+      "text": "das Seeohr"
+    },
+    "id": {
+      "text": "abalon"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

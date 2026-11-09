@@ -1,0 +1,46 @@
+{
+  "id": "emu",
+  "name": "emu",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "emu"
+    },
+    "vi": {
+      "text": "con đà điểu emu"
+    },
+    "zh-Hans": {
+      "text": "鸸鹋",
+      "reading": "érmiáo"
+    },
+    "ja": {
+      "text": "エミュー",
+      "reading": "emyū"
+    },
+    "ko": {
+      "text": "에뮤",
+      "reading": "emyu"
+    },
+    "es": {
+      "text": "el emú"
+    },
+    "fr": {
+      "text": "l'émeu"
+    },
+    "de": {
+      "text": "der Emu"
+    },
+    "id": {
+      "text": "burung emu"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

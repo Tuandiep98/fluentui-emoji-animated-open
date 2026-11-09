@@ -1,0 +1,224 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "3ca23402842ac819b662803b91cf5ea7ba432cb139c5695c3ac4d45f78594376",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve original image-space facing, proportions and identifying anatomy. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          85,
+          92,
+          77,
+          38
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          114,
+          181,
+          100,
+          26
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-near-claw-gesture",
+      "kind": "rotate",
+      "center": [
+        70,
+        169
+      ],
+      "radius": [
+        43,
+        29
+      ],
+      "amp": 3.0618000000000003,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.0618000000000003
+        ],
+        [
+          1.4,
+          -1.07163
+        ],
+        [
+          2.05,
+          1.9901700000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        106,
+        138
+      ]
+    },
+    {
+      "name": "original-far-claw-response",
+      "kind": "rotate",
+      "center": [
+        43,
+        143
+      ],
+      "radius": [
+        28,
+        32
+      ],
+      "amp": -2.7702,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.42,
+          0
+        ],
+        [
+          1.02,
+          -2.7702
+        ],
+        [
+          1.52,
+          0.9695699999999999
+        ],
+        [
+          2.17,
+          -1.8006300000000002
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        65,
+        129
+      ]
+    },
+    {
+      "name": "original-tail-fan-follow",
+      "kind": "rotate",
+      "center": [
+        223,
+        126
+      ],
+      "radius": [
+        24,
+        29
+      ],
+      "amp": 2.6244000000000005,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          2.6244000000000005
+        ],
+        [
+          1.5999999999999999,
+          -0.9185400000000001
+        ],
+        [
+          2.25,
+          1.7058600000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        201,
+        123
+      ]
+    },
+    {
+      "name": "original-antennae-listen",
+      "kind": "rotate",
+      "center": [
+        49,
+        77
+      ],
+      "radius": [
+        35,
+        30
+      ],
+      "amp": 2.1870000000000003,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.35,
+          0
+        ],
+        [
+          0.9500000000000001,
+          2.1870000000000003
+        ],
+        [
+          1.45,
+          -0.76545
+        ],
+        [
+          2.0999999999999996,
+          1.42155
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        81,
+        106
+      ]
+    }
+  ],
+  "note": "New original frozen before motion. Continuous anatomy fields measured directly on the original; staggered gestures preserve rest pose, facing, attached anatomy and fixed contacts. No repainted or detached parts."
+}

@@ -1,0 +1,224 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "78bbd74ea0a74ce0dae64109571e29eb8cf46ddbdd1687eb8fd478529c4bcba7",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve original image-space facing, proportions and identifying anatomy. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          173,
+          76,
+          64,
+          83
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          94,
+          103,
+          29,
+          56
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-dorsal-fin-stroke",
+      "kind": "rotate",
+      "center": [
+        95,
+        52
+      ],
+      "radius": [
+        34,
+        37
+      ],
+      "amp": 4.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.6
+        ],
+        [
+          1.4,
+          -1.6099999999999999
+        ],
+        [
+          2.05,
+          2.9899999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        119,
+        84
+      ]
+    },
+    {
+      "name": "original-anal-fin-stroke",
+      "kind": "rotate",
+      "center": [
+        95,
+        211
+      ],
+      "radius": [
+        32,
+        30
+      ],
+      "amp": -4.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.38,
+          0
+        ],
+        [
+          0.98,
+          -4.6
+        ],
+        [
+          1.48,
+          1.6099999999999999
+        ],
+        [
+          2.13,
+          -2.9899999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        114,
+        182
+      ]
+    },
+    {
+      "name": "original-pectoral-fin-paddle",
+      "kind": "rotate",
+      "center": [
+        146,
+        126
+      ],
+      "radius": [
+        20,
+        22
+      ],
+      "amp": 4.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.47,
+          0
+        ],
+        [
+          1.07,
+          4.8
+        ],
+        [
+          1.5699999999999998,
+          -1.68
+        ],
+        [
+          2.2199999999999998,
+          3.12
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        160,
+        121
+      ]
+    },
+    {
+      "name": "original-clavus-follow",
+      "kind": "rotate",
+      "center": [
+        55,
+        129
+      ],
+      "radius": [
+        19,
+        46
+      ],
+      "amp": 2.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.43,
+          0
+        ],
+        [
+          1.03,
+          2.8
+        ],
+        [
+          1.5299999999999998,
+          -0.9799999999999999
+        ],
+        [
+          2.1799999999999997,
+          1.8199999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        78,
+        132
+      ]
+    }
+  ],
+  "note": "New original frozen before motion. Continuous anatomy fields measured directly on the original; staggered gestures preserve rest pose, facing, attached anatomy and fixed contacts. No repainted or detached parts."
+}

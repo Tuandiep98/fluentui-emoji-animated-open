@@ -1,0 +1,46 @@
+{
+  "id": "seagull",
+  "name": "seagull",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "seagull"
+    },
+    "vi": {
+      "text": "con chim mòng biển"
+    },
+    "zh-Hans": {
+      "text": "海鸥",
+      "reading": "hǎi'ōu"
+    },
+    "ja": {
+      "text": "カモメ",
+      "reading": "kamome"
+    },
+    "ko": {
+      "text": "갈매기",
+      "reading": "galmaegi"
+    },
+    "es": {
+      "text": "la gaviota"
+    },
+    "fr": {
+      "text": "la mouette"
+    },
+    "de": {
+      "text": "die Möwe"
+    },
+    "id": {
+      "text": "burung camar"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

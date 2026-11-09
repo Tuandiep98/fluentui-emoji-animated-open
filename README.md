@@ -27,7 +27,7 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**360 emoji · 8 categories**
+**390 emoji · 8 categories**
 
 | Category | Emoji |
 | --- | ---: |
@@ -36,10 +36,10 @@ Search names and translations in nine languages, filter categories, preview moti
 | Garden | 50 |
 | Fruit & vegetables | 50 |
 | Food & drink | 50 |
-| Wildlife | 60 |
+| Wildlife | 90 |
 | Clothing | 30 |
 | School & art | 20 |
-| **Total** | **360** |
+| **Total** | **390** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -197,3 +197,17 @@ immutable references and measured source-locked recipes. Every animation is 3 se
 and stops animation outside the viewport or in hidden tabs. Reduced motion and data
 saving disable hover autoplay. Hard shells stay rigid; local animal gestures preserve
 the original anatomy and facing. Prompts and exact rebuild recipes live with each asset.
+
+## 30 more birds and aquatic animals — 2026-11-10
+
+[Preview selection B: 30 new emoji, original still beside animation](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/next30b/).
+
+15 birds + 15 aquatic animals, all nine-language metadata and MIT source masters.
+Each original is frozen before motion; measured continuous fields preserve anatomy,
+facing, fixed anchors and at least 96% silhouette overlap. Seven decoded samples were
+reviewed on light and dark backgrounds. Every AVIF is 3 seconds, 24fps and <=60KiB.
+The gallery loads motion on interaction, runs at most two cards and stops offscreen
+or hidden animations; hover autoplay respects reduced motion and data saving.
+
+Each asset includes its exact prompt, immutable reference, final recipe and review hashes.
+Use the existing `npm run animate -- <id>` / review / approve workflow to extend the collection.

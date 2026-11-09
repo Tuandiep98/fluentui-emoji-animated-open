@@ -1,0 +1,46 @@
+{
+  "id": "puffin",
+  "name": "puffin",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "puffin"
+    },
+    "vi": {
+      "text": "con chim hải âu cổ rụt"
+    },
+    "zh-Hans": {
+      "text": "海鹦",
+      "reading": "hǎiyīng"
+    },
+    "ja": {
+      "text": "ツノメドリ",
+      "reading": "tsunomedori"
+    },
+    "ko": {
+      "text": "퍼핀",
+      "reading": "peopin"
+    },
+    "es": {
+      "text": "el frailecillo"
+    },
+    "fr": {
+      "text": "le macareux"
+    },
+    "de": {
+      "text": "der Papageitaucher"
+    },
+    "id": {
+      "text": "burung puffin"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "dugong",
+  "name": "dugong",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "dugong"
+    },
+    "vi": {
+      "text": "con bò biển"
+    },
+    "zh-Hans": {
+      "text": "儒艮",
+      "reading": "rúgèn"
+    },
+    "ja": {
+      "text": "ジュゴン",
+      "reading": "jugon"
+    },
+    "ko": {
+      "text": "듀공",
+      "reading": "dyugong"
+    },
+    "es": {
+      "text": "el dugongo"
+    },
+    "fr": {
+      "text": "le dugong"
+    },
+    "de": {
+      "text": "der Dugong"
+    },
+    "id": {
+      "text": "dugong"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "crayfish",
+  "name": "crayfish",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "crayfish"
+    },
+    "vi": {
+      "text": "con tôm càng"
+    },
+    "zh-Hans": {
+      "text": "小龙虾",
+      "reading": "xiǎolóngxiā"
+    },
+    "ja": {
+      "text": "ザリガニ",
+      "reading": "zarigani"
+    },
+    "ko": {
+      "text": "가재",
+      "reading": "gajae"
+    },
+    "es": {
+      "text": "el cangrejo de río"
+    },
+    "fr": {
+      "text": "l'écrevisse"
+    },
+    "de": {
+      "text": "der Flusskrebs"
+    },
+    "id": {
+      "text": "lobster air tawar"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

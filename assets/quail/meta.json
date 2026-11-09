@@ -1,0 +1,46 @@
+{
+  "id": "quail",
+  "name": "quail",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "quail"
+    },
+    "vi": {
+      "text": "con chim cút"
+    },
+    "zh-Hans": {
+      "text": "鹌鹑",
+      "reading": "ānchún"
+    },
+    "ja": {
+      "text": "ウズラ",
+      "reading": "uzura"
+    },
+    "ko": {
+      "text": "메추라기",
+      "reading": "mechuragi"
+    },
+    "es": {
+      "text": "la codorniz"
+    },
+    "fr": {
+      "text": "la caille"
+    },
+    "de": {
+      "text": "die Wachtel"
+    },
+    "id": {
+      "text": "burung puyuh"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

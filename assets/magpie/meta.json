@@ -1,0 +1,46 @@
+{
+  "id": "magpie",
+  "name": "magpie",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "magpie"
+    },
+    "vi": {
+      "text": "con chim ác là"
+    },
+    "zh-Hans": {
+      "text": "喜鹊",
+      "reading": "xǐquè"
+    },
+    "ja": {
+      "text": "カササギ",
+      "reading": "kasasagi"
+    },
+    "ko": {
+      "text": "까치",
+      "reading": "kkachi"
+    },
+    "es": {
+      "text": "la urraca"
+    },
+    "fr": {
+      "text": "la pie"
+    },
+    "de": {
+      "text": "die Elster"
+    },
+    "id": {
+      "text": "murai erasia"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "manta-ray",
+  "name": "manta ray",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "manta ray"
+    },
+    "vi": {
+      "text": "con cá đuối manta"
+    },
+    "zh-Hans": {
+      "text": "蝠鲼",
+      "reading": "fúfèn"
+    },
+    "ja": {
+      "text": "オニイトマキエイ",
+      "reading": "oniitomakiei"
+    },
+    "ko": {
+      "text": "쥐가오리",
+      "reading": "jwigaori"
+    },
+    "es": {
+      "text": "la mantarraya"
+    },
+    "fr": {
+      "text": "la raie manta"
+    },
+    "de": {
+      "text": "der Mantarochen"
+    },
+    "id": {
+      "text": "pari manta"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

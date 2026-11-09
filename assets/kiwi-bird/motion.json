@@ -1,0 +1,126 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "292ff352c7344103087e7107dd69d61a7b49fdc4a3925b9be2a2296d710e2fe2",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve original image-space facing, proportions and identifying anatomy. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          156,
+          0,
+          100,
+          178
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          195,
+          256,
+          61
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-back-feathers",
+      "kind": "rotate",
+      "center": [
+        63,
+        130
+      ],
+      "radius": [
+        41,
+        51
+      ],
+      "amp": 3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.6
+        ],
+        [
+          1.4,
+          -1.26
+        ],
+        [
+          2.05,
+          2.3400000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        99,
+        157
+      ]
+    },
+    {
+      "name": "original-body-breath",
+      "kind": "press",
+      "center": [
+        100,
+        137
+      ],
+      "radius": [
+        54,
+        52
+      ],
+      "amp": 2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          2
+        ],
+        [
+          1.4,
+          -0.7
+        ],
+        [
+          2.05,
+          1.3
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "New original frozen before motion. Continuous anatomy fields measured directly on the original; staggered gestures preserve rest pose, facing, attached anatomy and fixed contacts. No repainted or detached parts."
+}

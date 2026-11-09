@@ -1,0 +1,46 @@
+{
+  "id": "albatross",
+  "name": "albatross",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "albatross"
+    },
+    "vi": {
+      "text": "con chim hải âu lớn"
+    },
+    "zh-Hans": {
+      "text": "信天翁",
+      "reading": "xìntiānwēng"
+    },
+    "ja": {
+      "text": "アホウドリ",
+      "reading": "ahōdori"
+    },
+    "ko": {
+      "text": "알바트로스",
+      "reading": "albateuroseu"
+    },
+    "es": {
+      "text": "el albatros"
+    },
+    "fr": {
+      "text": "l'albatros"
+    },
+    "de": {
+      "text": "der Albatros"
+    },
+    "id": {
+      "text": "albatros"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

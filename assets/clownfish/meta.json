@@ -1,0 +1,46 @@
+{
+  "id": "clownfish",
+  "name": "clownfish",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "clownfish"
+    },
+    "vi": {
+      "text": "con cá hề"
+    },
+    "zh-Hans": {
+      "text": "海葵鱼",
+      "reading": "hǎikuíyú"
+    },
+    "ja": {
+      "text": "クマノミ",
+      "reading": "kumanomi"
+    },
+    "ko": {
+      "text": "흰동가리",
+      "reading": "huindonggari"
+    },
+    "es": {
+      "text": "el pez payaso"
+    },
+    "fr": {
+      "text": "le poisson-clown"
+    },
+    "de": {
+      "text": "der Clownfisch"
+    },
+    "id": {
+      "text": "ikan badut"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

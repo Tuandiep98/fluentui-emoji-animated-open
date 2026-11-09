@@ -1,0 +1,46 @@
+{
+  "id": "beluga",
+  "name": "beluga",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "beluga"
+    },
+    "vi": {
+      "text": "con cá voi trắng"
+    },
+    "zh-Hans": {
+      "text": "白鲸",
+      "reading": "báijīng"
+    },
+    "ja": {
+      "text": "シロイルカ",
+      "reading": "shiroiruka"
+    },
+    "ko": {
+      "text": "흰고래",
+      "reading": "huingorae"
+    },
+    "es": {
+      "text": "la beluga"
+    },
+    "fr": {
+      "text": "le béluga"
+    },
+    "de": {
+      "text": "der Belugawal"
+    },
+    "id": {
+      "text": "paus beluga"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

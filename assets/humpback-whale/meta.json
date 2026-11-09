@@ -1,0 +1,46 @@
+{
+  "id": "humpback-whale",
+  "name": "humpback whale",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "humpback whale"
+    },
+    "vi": {
+      "text": "con cá voi lưng gù"
+    },
+    "zh-Hans": {
+      "text": "座头鲸",
+      "reading": "zuòtóujīng"
+    },
+    "ja": {
+      "text": "ザトウクジラ",
+      "reading": "zatōkujira"
+    },
+    "ko": {
+      "text": "혹등고래",
+      "reading": "hokdeunggorae"
+    },
+    "es": {
+      "text": "la ballena jorobada"
+    },
+    "fr": {
+      "text": "la baleine à bosse"
+    },
+    "de": {
+      "text": "der Buckelwal"
+    },
+    "id": {
+      "text": "paus bungkuk"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

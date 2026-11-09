@@ -1,0 +1,46 @@
+{
+  "id": "tern",
+  "name": "tern",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "tern"
+    },
+    "vi": {
+      "text": "con chim nhạn biển"
+    },
+    "zh-Hans": {
+      "text": "燕鸥",
+      "reading": "yàn'ōu"
+    },
+    "ja": {
+      "text": "アジサシ",
+      "reading": "ajisashi"
+    },
+    "ko": {
+      "text": "제비갈매기",
+      "reading": "jebigalmaegi"
+    },
+    "es": {
+      "text": "el charrán"
+    },
+    "fr": {
+      "text": "la sterne"
+    },
+    "de": {
+      "text": "die Seeschwalbe"
+    },
+    "id": {
+      "text": "dara laut"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

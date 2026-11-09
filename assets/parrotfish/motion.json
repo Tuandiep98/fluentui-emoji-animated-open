@@ -1,0 +1,262 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "40a5dde21bd83852aef9870d5ccfe6a785f76542470bb929227f4fae3de920ef",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve original image-space facing, proportions and identifying anatomy. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          174,
+          90,
+          82,
+          83
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-tail-fan",
+      "kind": "rotate",
+      "center": [
+        36,
+        133
+      ],
+      "radius": [
+        22,
+        38
+      ],
+      "amp": -4.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          -4.8
+        ],
+        [
+          1.4,
+          1.68
+        ],
+        [
+          2.05,
+          -3.12
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        62,
+        134
+      ]
+    },
+    {
+      "name": "original-pectoral-paddle",
+      "kind": "rotate",
+      "center": [
+        146,
+        144
+      ],
+      "radius": [
+        26,
+        25
+      ],
+      "amp": -4.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          -4.6
+        ],
+        [
+          1.5,
+          1.6099999999999999
+        ],
+        [
+          2.15,
+          -2.9899999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        169,
+        135
+      ]
+    },
+    {
+      "name": "original-dorsal-fin-follow",
+      "kind": "rotate",
+      "center": [
+        116,
+        87
+      ],
+      "radius": [
+        56,
+        16
+      ],
+      "amp": -3.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.47,
+          0
+        ],
+        [
+          1.07,
+          -3.2
+        ],
+        [
+          1.5699999999999998,
+          1.1199999999999999
+        ],
+        [
+          2.2199999999999998,
+          -2.08
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        118,
+        104
+      ]
+    },
+    {
+      "name": "original-anal-fin-follow",
+      "kind": "rotate",
+      "center": [
+        98,
+        168
+      ],
+      "radius": [
+        48,
+        14
+      ],
+      "amp": 3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          3.6
+        ],
+        [
+          1.5999999999999999,
+          -1.26
+        ],
+        [
+          2.25,
+          2.3400000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        117,
+        154
+      ]
+    },
+    {
+      "name": "original-pelvic-fin-follow",
+      "kind": "rotate",
+      "center": [
+        151,
+        178
+      ],
+      "radius": [
+        22,
+        16
+      ],
+      "amp": -3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.44,
+          0
+        ],
+        [
+          1.04,
+          -3.6
+        ],
+        [
+          1.54,
+          1.26
+        ],
+        [
+          2.19,
+          -2.3400000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        169,
+        163
+      ]
+    }
+  ],
+  "note": "New original frozen before motion. Continuous anatomy fields measured directly on the original; staggered gestures preserve rest pose, facing, attached anatomy and fixed contacts. No repainted or detached parts."
+}

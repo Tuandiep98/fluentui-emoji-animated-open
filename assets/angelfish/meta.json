@@ -1,0 +1,46 @@
+{
+  "id": "angelfish",
+  "name": "angelfish",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "angelfish"
+    },
+    "vi": {
+      "text": "con cá thần tiên"
+    },
+    "zh-Hans": {
+      "text": "神仙鱼",
+      "reading": "shénxiānyú"
+    },
+    "ja": {
+      "text": "エンゼルフィッシュ",
+      "reading": "enzerufisshu"
+    },
+    "ko": {
+      "text": "엔젤피시",
+      "reading": "enjelpisi"
+    },
+    "es": {
+      "text": "el pez ángel"
+    },
+    "fr": {
+      "text": "le scalaire"
+    },
+    "de": {
+      "text": "der Skalar"
+    },
+    "id": {
+      "text": "ikan manfish"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

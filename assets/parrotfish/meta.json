@@ -1,0 +1,46 @@
+{
+  "id": "parrotfish",
+  "name": "parrotfish",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "parrotfish"
+    },
+    "vi": {
+      "text": "con cá mó"
+    },
+    "zh-Hans": {
+      "text": "鹦嘴鱼",
+      "reading": "yīngzuǐyú"
+    },
+    "ja": {
+      "text": "ブダイ",
+      "reading": "budai"
+    },
+    "ko": {
+      "text": "비늘돔",
+      "reading": "bineuldom"
+    },
+    "es": {
+      "text": "el pez loro"
+    },
+    "fr": {
+      "text": "le poisson-perroquet"
+    },
+    "de": {
+      "text": "der Papageifisch"
+    },
+    "id": {
+      "text": "ikan kakatua"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

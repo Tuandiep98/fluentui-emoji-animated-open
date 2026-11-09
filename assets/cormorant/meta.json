@@ -1,0 +1,46 @@
+{
+  "id": "cormorant",
+  "name": "cormorant",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "cormorant"
+    },
+    "vi": {
+      "text": "con chim cốc"
+    },
+    "zh-Hans": {
+      "text": "鸬鹚",
+      "reading": "lúcí"
+    },
+    "ja": {
+      "text": "ウ",
+      "reading": "u"
+    },
+    "ko": {
+      "text": "가마우지",
+      "reading": "gamauji"
+    },
+    "es": {
+      "text": "el cormorán"
+    },
+    "fr": {
+      "text": "le cormoran"
+    },
+    "de": {
+      "text": "der Kormoran"
+    },
+    "id": {
+      "text": "burung pecuk"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

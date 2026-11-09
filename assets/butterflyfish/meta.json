@@ -1,0 +1,46 @@
+{
+  "id": "butterflyfish",
+  "name": "butterflyfish",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "butterflyfish"
+    },
+    "vi": {
+      "text": "con cá bướm"
+    },
+    "zh-Hans": {
+      "text": "蝴蝶鱼",
+      "reading": "húdiéyú"
+    },
+    "ja": {
+      "text": "チョウチョウウオ",
+      "reading": "chōchōuo"
+    },
+    "ko": {
+      "text": "나비고기",
+      "reading": "nabigogi"
+    },
+    "es": {
+      "text": "el pez mariposa"
+    },
+    "fr": {
+      "text": "le poisson-papillon"
+    },
+    "de": {
+      "text": "der Falterfisch"
+    },
+    "id": {
+      "text": "ikan kepe-kepe"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

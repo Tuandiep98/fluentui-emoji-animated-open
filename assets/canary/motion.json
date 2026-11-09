@@ -1,0 +1,211 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "be79071364054db044df72276a76c6b46a670e281efbdfd506eaa91c9093bd54",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve original image-space facing, proportions and identifying anatomy. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          48,
+          187,
+          110,
+          65
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-head-look",
+      "kind": "rotate",
+      "center": [
+        78,
+        62
+      ],
+      "radius": [
+        59,
+        43
+      ],
+      "amp": -3.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          -3.3
+        ],
+        [
+          1.4,
+          1.1549999999999998
+        ],
+        [
+          2.05,
+          -2.145
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        101,
+        100
+      ]
+    },
+    {
+      "name": "original-wing-gesture",
+      "kind": "rotate",
+      "center": [
+        145,
+        132
+      ],
+      "radius": [
+        59,
+        40
+      ],
+      "amp": -4.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.42,
+          0
+        ],
+        [
+          1.02,
+          -4.2
+        ],
+        [
+          1.52,
+          1.47
+        ],
+        [
+          2.17,
+          -2.7300000000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        113,
+        105
+      ]
+    },
+    {
+      "name": "original-tail-follow",
+      "kind": "rotate",
+      "center": [
+        220,
+        190
+      ],
+      "radius": [
+        33,
+        24
+      ],
+      "amp": 3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.48,
+          0
+        ],
+        [
+          1.08,
+          3.6
+        ],
+        [
+          1.5799999999999998,
+          -1.26
+        ],
+        [
+          2.23,
+          2.3400000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        190,
+        164
+      ]
+    },
+    {
+      "name": "original-chest-breath",
+      "kind": "press",
+      "center": [
+        87,
+        138
+      ],
+      "radius": [
+        35,
+        46
+      ],
+      "amp": 1.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          1.4
+        ],
+        [
+          1.4,
+          -0.48999999999999994
+        ],
+        [
+          2.05,
+          0.9099999999999999
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "New original frozen before motion. Continuous anatomy fields measured directly on the original; staggered gestures preserve rest pose, facing, attached anatomy and fixed contacts. No repainted or detached parts."
+}

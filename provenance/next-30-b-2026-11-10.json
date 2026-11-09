@@ -1,0 +1,42 @@
+{
+  "count": 30,
+  "ids": [
+    "emu",
+    "cassowary",
+    "kiwi-bird",
+    "puffin",
+    "albatross",
+    "seagull",
+    "tern",
+    "cormorant",
+    "quail",
+    "pheasant",
+    "guinea-fowl",
+    "canary",
+    "blue-jay",
+    "magpie",
+    "hoopoe",
+    "abalone",
+    "crayfish",
+    "dugong",
+    "beluga",
+    "orca",
+    "humpback-whale",
+    "blue-whale",
+    "manta-ray",
+    "stingray",
+    "sunfish",
+    "clownfish",
+    "angelfish",
+    "butterflyfish",
+    "parrotfish",
+    "lionfish"
+  ],
+  "license": "MIT",
+  "sourceBaseCommit": "291060dc61962ae1c166adfa15297bab443172d0",
+  "sourceState": "committed reviewed release; per-file hashes are authoritative",
+  "categories": {
+    "wildlife": 30
+  },
+  "sourceCommit": "f6965457be2b4f12d96dfc626ed87c84090bc32a"
+}

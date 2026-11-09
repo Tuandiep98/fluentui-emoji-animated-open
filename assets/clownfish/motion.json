@@ -1,0 +1,215 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "d81e8e6d0c64a4608699d94214b6999948b90f380b71c295765cd6131f22828c",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve original image-space facing, proportions and identifying anatomy. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          77,
+          73,
+          106
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-tail-fan",
+      "kind": "rotate",
+      "center": [
+        216,
+        132
+      ],
+      "radius": [
+        31,
+        37
+      ],
+      "amp": 4.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.8
+        ],
+        [
+          1.4,
+          -1.68
+        ],
+        [
+          2.05,
+          3.12
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        188,
+        132
+      ]
+    },
+    {
+      "name": "original-pectoral-paddle",
+      "kind": "rotate",
+      "center": [
+        98,
+        151
+      ],
+      "radius": [
+        24,
+        28
+      ],
+      "amp": -4.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          -4.6
+        ],
+        [
+          1.5,
+          1.6099999999999999
+        ],
+        [
+          2.15,
+          -2.9899999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        113,
+        134
+      ]
+    },
+    {
+      "name": "original-dorsal-fin-follow",
+      "kind": "rotate",
+      "center": [
+        111,
+        78
+      ],
+      "radius": [
+        39,
+        21
+      ],
+      "amp": 3.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.47,
+          0
+        ],
+        [
+          1.07,
+          3.2
+        ],
+        [
+          1.5699999999999998,
+          -1.1199999999999999
+        ],
+        [
+          2.2199999999999998,
+          2.08
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        105,
+        98
+      ]
+    },
+    {
+      "name": "original-pelvic-fin-follow",
+      "kind": "rotate",
+      "center": [
+        102,
+        188
+      ],
+      "radius": [
+        24,
+        18
+      ],
+      "amp": 3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          3.6
+        ],
+        [
+          1.5999999999999999,
+          -1.26
+        ],
+        [
+          2.25,
+          2.3400000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        97,
+        169
+      ]
+    }
+  ],
+  "note": "New original frozen before motion. Continuous anatomy fields measured directly on the original; staggered gestures preserve rest pose, facing, attached anatomy and fixed contacts. No repainted or detached parts."
+}

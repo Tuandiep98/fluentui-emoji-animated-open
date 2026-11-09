@@ -1,0 +1,46 @@
+{
+  "id": "stingray",
+  "name": "stingray",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "stingray"
+    },
+    "vi": {
+      "text": "con cá đuối gai"
+    },
+    "zh-Hans": {
+      "text": "黄貂鱼",
+      "reading": "huángdiāoyú"
+    },
+    "ja": {
+      "text": "アカエイ",
+      "reading": "akaei"
+    },
+    "ko": {
+      "text": "노랑가오리",
+      "reading": "noranggaori"
+    },
+    "es": {
+      "text": "la raya"
+    },
+    "fr": {
+      "text": "la pastenague"
+    },
+    "de": {
+      "text": "der Stechrochen"
+    },
+    "id": {
+      "text": "pari sengat"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

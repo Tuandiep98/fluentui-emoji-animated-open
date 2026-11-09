@@ -1,0 +1,46 @@
+{
+  "id": "orca",
+  "name": "orca",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "orca"
+    },
+    "vi": {
+      "text": "con cá voi orca"
+    },
+    "zh-Hans": {
+      "text": "虎鲸",
+      "reading": "hǔjīng"
+    },
+    "ja": {
+      "text": "シャチ",
+      "reading": "shachi"
+    },
+    "ko": {
+      "text": "범고래",
+      "reading": "beomgorae"
+    },
+    "es": {
+      "text": "la orca"
+    },
+    "fr": {
+      "text": "l'orque"
+    },
+    "de": {
+      "text": "der Schwertwal"
+    },
+    "id": {
+      "text": "paus orca"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

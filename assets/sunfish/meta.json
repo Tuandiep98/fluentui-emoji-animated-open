@@ -1,0 +1,46 @@
+{
+  "id": "sunfish",
+  "name": "sunfish",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "sunfish"
+    },
+    "vi": {
+      "text": "con cá mặt trăng"
+    },
+    "zh-Hans": {
+      "text": "翻车鱼",
+      "reading": "fānchēyú"
+    },
+    "ja": {
+      "text": "マンボウ",
+      "reading": "manbō"
+    },
+    "ko": {
+      "text": "개복치",
+      "reading": "gaebokchi"
+    },
+    "es": {
+      "text": "el pez luna"
+    },
+    "fr": {
+      "text": "le poisson-lune"
+    },
+    "de": {
+      "text": "der Mondfisch"
+    },
+    "id": {
+      "text": "ikan mola-mola"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

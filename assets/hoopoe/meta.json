@@ -1,0 +1,46 @@
+{
+  "id": "hoopoe",
+  "name": "hoopoe",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "hoopoe"
+    },
+    "vi": {
+      "text": "con chim đầu rìu"
+    },
+    "zh-Hans": {
+      "text": "戴胜",
+      "reading": "dàishèng"
+    },
+    "ja": {
+      "text": "ヤツガシラ",
+      "reading": "yatsugashira"
+    },
+    "ko": {
+      "text": "후투티",
+      "reading": "hututi"
+    },
+    "es": {
+      "text": "la abubilla"
+    },
+    "fr": {
+      "text": "la huppe"
+    },
+    "de": {
+      "text": "der Wiedehopf"
+    },
+    "id": {
+      "text": "burung hudhud"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

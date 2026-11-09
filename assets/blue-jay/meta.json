@@ -1,0 +1,46 @@
+{
+  "id": "blue-jay",
+  "name": "blue jay",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "blue jay"
+    },
+    "vi": {
+      "text": "con giẻ cùi lam"
+    },
+    "zh-Hans": {
+      "text": "蓝松鸦",
+      "reading": "lánsōngyā"
+    },
+    "ja": {
+      "text": "アオカケス",
+      "reading": "aokakesu"
+    },
+    "ko": {
+      "text": "파랑어치",
+      "reading": "parangeochi"
+    },
+    "es": {
+      "text": "el arrendajo azul"
+    },
+    "fr": {
+      "text": "le geai bleu"
+    },
+    "de": {
+      "text": "der Blauhäher"
+    },
+    "id": {
+      "text": "burung jay biru"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

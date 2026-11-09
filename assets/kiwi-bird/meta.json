@@ -1,0 +1,46 @@
+{
+  "id": "kiwi-bird",
+  "name": "kiwi bird",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "kiwi bird"
+    },
+    "vi": {
+      "text": "con chim kiwi"
+    },
+    "zh-Hans": {
+      "text": "几维鸟",
+      "reading": "jǐwéiniǎo"
+    },
+    "ja": {
+      "text": "キーウィ",
+      "reading": "kīwi"
+    },
+    "ko": {
+      "text": "키위새",
+      "reading": "kiwisae"
+    },
+    "es": {
+      "text": "el kiwi"
+    },
+    "fr": {
+      "text": "le kiwi"
+    },
+    "de": {
+      "text": "der Kiwi"
+    },
+    "id": {
+      "text": "burung kiwi"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

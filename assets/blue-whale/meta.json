@@ -1,0 +1,46 @@
+{
+  "id": "blue-whale",
+  "name": "blue whale",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "blue whale"
+    },
+    "vi": {
+      "text": "con cá voi xanh"
+    },
+    "zh-Hans": {
+      "text": "蓝鲸",
+      "reading": "lánjīng"
+    },
+    "ja": {
+      "text": "シロナガスクジラ",
+      "reading": "shironagasukujira"
+    },
+    "ko": {
+      "text": "대왕고래",
+      "reading": "daewanggorae"
+    },
+    "es": {
+      "text": "la ballena azul"
+    },
+    "fr": {
+      "text": "la baleine bleue"
+    },
+    "de": {
+      "text": "der Blauwal"
+    },
+    "id": {
+      "text": "paus biru"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

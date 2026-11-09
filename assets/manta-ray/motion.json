@@ -1,0 +1,168 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "dbd3f716895797c51ea28301ae7dd6bceb7eb66ced5da2f166d432dd44bf4fda",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve original image-space facing, proportions and identifying anatomy. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          55,
+          150,
+          112,
+          56
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-left-pectoral-swim",
+      "kind": "rotate",
+      "center": [
+        44,
+        112
+      ],
+      "radius": [
+        27,
+        39
+      ],
+      "amp": 4.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.6
+        ],
+        [
+          1.4,
+          -1.6099999999999999
+        ],
+        [
+          2.05,
+          2.9899999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        75,
+        138
+      ]
+    },
+    {
+      "name": "original-right-pectoral-swim",
+      "kind": "rotate",
+      "center": [
+        204,
+        125
+      ],
+      "radius": [
+        35,
+        33
+      ],
+      "amp": -4.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.38,
+          0
+        ],
+        [
+          0.98,
+          -4.6
+        ],
+        [
+          1.48,
+          1.6099999999999999
+        ],
+        [
+          2.13,
+          -2.9899999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        169,
+        143
+      ]
+    },
+    {
+      "name": "original-tail-follow",
+      "kind": "rotate",
+      "center": [
+        165,
+        78
+      ],
+      "radius": [
+        27,
+        31
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.47,
+          0
+        ],
+        [
+          1.07,
+          3.8
+        ],
+        [
+          1.5699999999999998,
+          -1.3299999999999998
+        ],
+        [
+          2.2199999999999998,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        145,
+        105
+      ]
+    }
+  ],
+  "note": "New original frozen before motion. Continuous anatomy fields measured directly on the original; staggered gestures preserve rest pose, facing, attached anatomy and fixed contacts. No repainted or detached parts."
+}

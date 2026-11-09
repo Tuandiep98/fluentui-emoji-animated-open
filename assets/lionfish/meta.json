@@ -1,0 +1,46 @@
+{
+  "id": "lionfish",
+  "name": "lionfish",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "lionfish"
+    },
+    "vi": {
+      "text": "con cá sư tử"
+    },
+    "zh-Hans": {
+      "text": "狮子鱼",
+      "reading": "shīziyú"
+    },
+    "ja": {
+      "text": "ミノカサゴ",
+      "reading": "minokasago"
+    },
+    "ko": {
+      "text": "쏠배감펭",
+      "reading": "ssolbaegampaeng"
+    },
+    "es": {
+      "text": "el pez león"
+    },
+    "fr": {
+      "text": "le poisson-lion"
+    },
+    "de": {
+      "text": "der Rotfeuerfisch"
+    },
+    "id": {
+      "text": "ikan lepu ayam"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

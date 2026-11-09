@@ -1,0 +1,46 @@
+{
+  "id": "guinea-fowl",
+  "name": "guinea fowl",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "guinea fowl"
+    },
+    "vi": {
+      "text": "con gà sao"
+    },
+    "zh-Hans": {
+      "text": "珍珠鸡",
+      "reading": "zhēnzhūjī"
+    },
+    "ja": {
+      "text": "ホロホロチョウ",
+      "reading": "horohorochō"
+    },
+    "ko": {
+      "text": "뿔닭",
+      "reading": "ppuldak"
+    },
+    "es": {
+      "text": "la pintada"
+    },
+    "fr": {
+      "text": "la pintade"
+    },
+    "de": {
+      "text": "das Perlhuhn"
+    },
+    "id": {
+      "text": "ayam mutiara"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pheasant",
+  "name": "pheasant",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "pheasant"
+    },
+    "vi": {
+      "text": "con chim trĩ"
+    },
+    "zh-Hans": {
+      "text": "雉鸡",
+      "reading": "zhìjī"
+    },
+    "ja": {
+      "text": "キジ",
+      "reading": "kiji"
+    },
+    "ko": {
+      "text": "꿩",
+      "reading": "kkwong"
+    },
+    "es": {
+      "text": "el faisán"
+    },
+    "fr": {
+      "text": "le faisan"
+    },
+    "de": {
+      "text": "der Fasan"
+    },
+    "id": {
+      "text": "burung pegar"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}
