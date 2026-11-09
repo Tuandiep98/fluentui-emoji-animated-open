@@ -1,0 +1,122 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "4b9c5ee25eaa664f00356e5ee35364324dbc0b36e21d489f56678883f7a16b4f",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          140,
+          0,
+          116,
+          256
+        ]
+      }
+    ],
+    "landmarks": {}
+  },
+  "regions": [
+    {
+      "name": "original-tentacles-upper",
+      "kind": "rotate",
+      "center": [
+        64,
+        152
+      ],
+      "radius": [
+        54,
+        34
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4
+        ],
+        [
+          1.4,
+          -1.4
+        ],
+        [
+          2.05,
+          2.4
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        113,
+        134
+      ]
+    },
+    {
+      "name": "original-tentacles-lower",
+      "kind": "rotate",
+      "center": [
+        82,
+        197
+      ],
+      "radius": [
+        48,
+        35
+      ],
+      "amp": -4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          -4
+        ],
+        [
+          1.5,
+          1.4
+        ],
+        [
+          2.15,
+          -2.4
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        115,
+        148
+      ]
+    }
+  ],
+  "note": "New original artwork frozen before animation. Measured local anatomy tracks with slightly stronger head/wing/tail gestures and staggered timing; all original-artwork geometry, silhouette, anchor and loop gates remain unchanged."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "swallow",
+  "name": "swallow",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "swallow"
+    },
+    "vi": {
+      "text": "con chim én"
+    },
+    "zh-Hans": {
+      "text": "燕子",
+      "reading": "yànzi"
+    },
+    "ja": {
+      "text": "ツバメ",
+      "reading": "tsubame"
+    },
+    "ko": {
+      "text": "제비",
+      "reading": "jebi"
+    },
+    "es": {
+      "text": "la golondrina"
+    },
+    "fr": {
+      "text": "l'hirondelle"
+    },
+    "de": {
+      "text": "die Schwalbe"
+    },
+    "id": {
+      "text": "burung layang-layang"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

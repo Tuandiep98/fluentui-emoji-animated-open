@@ -1,0 +1,251 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "2ce34f72500590b174e544fc4c28881d7db3ae51884bcefc5a56a1db01cedacd",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          105,
+          107,
+          33,
+          36
+        ]
+      }
+    ],
+    "landmarks": {}
+  },
+  "regions": [
+    {
+      "name": "upper-arm-lift",
+      "kind": "press",
+      "center": [
+        144,
+        52
+      ],
+      "radius": [
+        34,
+        40
+      ],
+      "amp": -3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.25,
+          0
+        ],
+        [
+          0.85,
+          -3.6
+        ],
+        [
+          1.35,
+          1.26
+        ],
+        [
+          1.85,
+          -2.52
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "right-arm-follow",
+      "kind": "wave",
+      "center": [
+        207,
+        111
+      ],
+      "radius": [
+        32,
+        35
+      ],
+      "amp": 3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.35,
+          0
+        ],
+        [
+          0.95,
+          3
+        ],
+        [
+          1.4500000000000002,
+          -1.0499999999999998
+        ],
+        [
+          1.9500000000000002,
+          2.0999999999999996
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "left-arm-follow",
+      "kind": "wave",
+      "center": [
+        48,
+        99
+      ],
+      "radius": [
+        33,
+        35
+      ],
+      "amp": -3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.43,
+          0
+        ],
+        [
+          1.03,
+          -3
+        ],
+        [
+          1.53,
+          1.0499999999999998
+        ],
+        [
+          2.0300000000000002,
+          -2.0999999999999996
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "lower-left-arm",
+      "kind": "rotate",
+      "center": [
+        60,
+        192
+      ],
+      "radius": [
+        37,
+        41
+      ],
+      "amp": -4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          -4
+        ],
+        [
+          1.4000000000000001,
+          1.4
+        ],
+        [
+          1.9000000000000001,
+          -2.8
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        95,
+        165
+      ]
+    },
+    {
+      "name": "lower-right-arm",
+      "kind": "rotate",
+      "center": [
+        171,
+        195
+      ],
+      "radius": [
+        36,
+        43
+      ],
+      "amp": 4.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.37,
+          0
+        ],
+        [
+          0.97,
+          4.2
+        ],
+        [
+          1.4700000000000002,
+          -1.47
+        ],
+        [
+          1.9700000000000002,
+          2.94
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        154,
+        167
+      ]
+    }
+  ],
+  "note": "New original artwork frozen before animation. Measured local anatomy tracks with slightly stronger head/wing/tail gestures and staggered timing; all original-artwork geometry, silhouette, anchor and loop gates remain unchanged."
+}

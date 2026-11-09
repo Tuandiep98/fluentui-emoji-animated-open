@@ -1,0 +1,46 @@
+{
+  "id": "sparrow",
+  "name": "sparrow",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "sparrow"
+    },
+    "vi": {
+      "text": "con chim sẻ"
+    },
+    "zh-Hans": {
+      "text": "麻雀",
+      "reading": "máquè"
+    },
+    "ja": {
+      "text": "スズメ",
+      "reading": "suzume"
+    },
+    "ko": {
+      "text": "참새",
+      "reading": "chamsae"
+    },
+    "es": {
+      "text": "el gorrión"
+    },
+    "fr": {
+      "text": "le moineau"
+    },
+    "de": {
+      "text": "der Spatz"
+    },
+    "id": {
+      "text": "burung pipit"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

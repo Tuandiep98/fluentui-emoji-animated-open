@@ -1,0 +1,46 @@
+{
+  "id": "ibis",
+  "name": "ibis",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "ibis"
+    },
+    "vi": {
+      "text": "con cò quăm"
+    },
+    "zh-Hans": {
+      "text": "鹮",
+      "reading": "huán"
+    },
+    "ja": {
+      "text": "トキ",
+      "reading": "toki"
+    },
+    "ko": {
+      "text": "따오기",
+      "reading": "ttaogi"
+    },
+    "es": {
+      "text": "el ibis"
+    },
+    "fr": {
+      "text": "l'ibis"
+    },
+    "de": {
+      "text": "der Ibis"
+    },
+    "id": {
+      "text": "burung ibis"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

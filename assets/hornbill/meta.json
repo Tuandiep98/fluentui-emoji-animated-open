@@ -1,0 +1,46 @@
+{
+  "id": "hornbill",
+  "name": "hornbill",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "hornbill"
+    },
+    "vi": {
+      "text": "con chim hồng hoàng"
+    },
+    "zh-Hans": {
+      "text": "犀鸟",
+      "reading": "xīniǎo"
+    },
+    "ja": {
+      "text": "サイチョウ",
+      "reading": "saichō"
+    },
+    "ko": {
+      "text": "코뿔새",
+      "reading": "koppulsae"
+    },
+    "es": {
+      "text": "el cálao"
+    },
+    "fr": {
+      "text": "le calao"
+    },
+    "de": {
+      "text": "der Nashornvogel"
+    },
+    "id": {
+      "text": "burung enggang"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

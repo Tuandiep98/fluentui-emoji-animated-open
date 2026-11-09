@@ -1,0 +1,165 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "1b4a6b3c908af74a00cb5bc05891f6687293be17eb1a02c2657833ee3afe7591",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          88,
+          130
+        ]
+      }
+    ],
+    "landmarks": {}
+  },
+  "regions": [
+    {
+      "name": "original-near-flipper-paddle",
+      "kind": "rotate",
+      "center": [
+        113,
+        161
+      ],
+      "radius": [
+        33,
+        38
+      ],
+      "amp": 4.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.8
+        ],
+        [
+          1.4,
+          -1.68
+        ],
+        [
+          2.05,
+          2.88
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        102,
+        132
+      ]
+    },
+    {
+      "name": "original-tail-paddle",
+      "kind": "rotate",
+      "center": [
+        210,
+        142
+      ],
+      "radius": [
+        36,
+        37
+      ],
+      "amp": 4.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.42,
+          0
+        ],
+        [
+          1.02,
+          4.6
+        ],
+        [
+          1.52,
+          -1.6099999999999999
+        ],
+        [
+          2.17,
+          2.76
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        179,
+        140
+      ]
+    },
+    {
+      "name": "original-body-breath",
+      "kind": "press",
+      "center": [
+        143,
+        116
+      ],
+      "radius": [
+        38,
+        29
+      ],
+      "amp": 1.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          1.6
+        ],
+        [
+          1.4,
+          -0.5599999999999999
+        ],
+        [
+          2.05,
+          0.96
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "New original artwork frozen before animation. Measured local anatomy tracks with slightly stronger head/wing/tail gestures and staggered timing; all original-artwork geometry, silhouette, anchor and loop gates remain unchanged."
+}

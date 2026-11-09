@@ -1,0 +1,46 @@
+{
+  "id": "heron",
+  "name": "heron",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "heron"
+    },
+    "vi": {
+      "text": "con diệc"
+    },
+    "zh-Hans": {
+      "text": "苍鹭",
+      "reading": "cānglù"
+    },
+    "ja": {
+      "text": "アオサギ",
+      "reading": "aosagi"
+    },
+    "ko": {
+      "text": "왜가리",
+      "reading": "waegari"
+    },
+    "es": {
+      "text": "la garza"
+    },
+    "fr": {
+      "text": "le héron"
+    },
+    "de": {
+      "text": "der Reiher"
+    },
+    "id": {
+      "text": "burung cangak"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

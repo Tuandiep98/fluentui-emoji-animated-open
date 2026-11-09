@@ -1,0 +1,46 @@
+{
+  "id": "pelican",
+  "name": "pelican",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "pelican"
+    },
+    "vi": {
+      "text": "con chim bồ nông"
+    },
+    "zh-Hans": {
+      "text": "鹈鹕",
+      "reading": "tíhú"
+    },
+    "ja": {
+      "text": "ペリカン",
+      "reading": "perikan"
+    },
+    "ko": {
+      "text": "펠리컨",
+      "reading": "pellikeon"
+    },
+    "es": {
+      "text": "el pelícano"
+    },
+    "fr": {
+      "text": "le pélican"
+    },
+    "de": {
+      "text": "der Pelikan"
+    },
+    "id": {
+      "text": "burung pelikan"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

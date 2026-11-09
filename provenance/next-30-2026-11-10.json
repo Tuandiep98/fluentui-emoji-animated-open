@@ -1,0 +1,42 @@
+{
+  "count": 30,
+  "ids": [
+    "sparrow",
+    "robin",
+    "swallow",
+    "kingfisher",
+    "woodpecker",
+    "hummingbird",
+    "toucan",
+    "hornbill",
+    "pelican",
+    "stork",
+    "heron",
+    "crane",
+    "ibis",
+    "spoonbill",
+    "ostrich",
+    "seahorse",
+    "starfish",
+    "sea-urchin",
+    "sea-anemone",
+    "clam",
+    "mussel",
+    "scallop",
+    "nautilus",
+    "cuttlefish",
+    "hermit-crab",
+    "horseshoe-crab",
+    "walrus",
+    "sea-lion",
+    "manatee",
+    "narwhal"
+  ],
+  "license": "MIT",
+  "sourceBaseCommit": "54321dd9f354dd0f1982eb855451a06422f7c4d4",
+  "sourceState": "committed reviewed release; per-file hashes are authoritative",
+  "categories": {
+    "wildlife": 30
+  },
+  "sourceCommit": "291060dc61962ae1c166adfa15297bab443172d0"
+}

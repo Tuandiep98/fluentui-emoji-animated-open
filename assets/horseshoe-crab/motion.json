@@ -1,0 +1,75 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "e3db960fcc013a4e494bc108dea065fef7f2550e6ad66717a470a6223e32b53f",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          180,
+          153
+        ]
+      }
+    ],
+    "landmarks": {}
+  },
+  "regions": [
+    {
+      "name": "original-telson-follow",
+      "kind": "rotate",
+      "center": [
+        191,
+        197
+      ],
+      "radius": [
+        49,
+        49
+      ],
+      "amp": 2.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          2.4
+        ],
+        [
+          1.4,
+          -0.84
+        ],
+        [
+          2.05,
+          1.44
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        137,
+        148
+      ]
+    }
+  ],
+  "note": "New original artwork frozen before animation. Measured local anatomy tracks with slightly stronger head/wing/tail gestures and staggered timing; all original-artwork geometry, silhouette, anchor and loop gates remain unchanged."
+}

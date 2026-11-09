@@ -1,0 +1,46 @@
+{
+  "id": "sea-anemone",
+  "name": "sea anemone",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "sea anemone"
+    },
+    "vi": {
+      "text": "con hải quỳ"
+    },
+    "zh-Hans": {
+      "text": "海葵",
+      "reading": "hǎikuí"
+    },
+    "ja": {
+      "text": "イソギンチャク",
+      "reading": "isoginchaku"
+    },
+    "ko": {
+      "text": "말미잘",
+      "reading": "malmijal"
+    },
+    "es": {
+      "text": "la anémona de mar"
+    },
+    "fr": {
+      "text": "l'anémone de mer"
+    },
+    "de": {
+      "text": "die Seeanemone"
+    },
+    "id": {
+      "text": "anemon laut"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

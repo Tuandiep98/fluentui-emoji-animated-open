@@ -1,0 +1,46 @@
+{
+  "id": "woodpecker",
+  "name": "woodpecker",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "woodpecker"
+    },
+    "vi": {
+      "text": "con chim gõ kiến"
+    },
+    "zh-Hans": {
+      "text": "啄木鸟",
+      "reading": "zhuómùniǎo"
+    },
+    "ja": {
+      "text": "キツツキ",
+      "reading": "kitsutsuki"
+    },
+    "ko": {
+      "text": "딱따구리",
+      "reading": "ttakttaguri"
+    },
+    "es": {
+      "text": "el pájaro carpintero"
+    },
+    "fr": {
+      "text": "le pic"
+    },
+    "de": {
+      "text": "der Specht"
+    },
+    "id": {
+      "text": "burung pelatuk"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,233 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "2176c1e3dbba036485f85409050bf4e06f4d657d165c6fc50b6fe70e27ccc865",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          90,
+          211,
+          90,
+          40
+        ]
+      }
+    ],
+    "landmarks": {
+      "head": [
+        121,
+        60
+      ],
+      "wing": [
+        166,
+        133
+      ],
+      "tail": [
+        219,
+        201
+      ],
+      "chest": [
+        112,
+        148
+      ]
+    }
+  },
+  "regions": [
+    {
+      "name": "original-head-curious-tilt",
+      "kind": "rotate",
+      "center": [
+        121,
+        60
+      ],
+      "radius": [
+        115,
+        56
+      ],
+      "amp": -3.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.25,
+          0
+        ],
+        [
+          0.9,
+          -3.3
+        ],
+        [
+          1.35,
+          -2.1
+        ],
+        [
+          1.9,
+          1.4
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        132,
+        102
+      ]
+    },
+    {
+      "name": "original-wing-1",
+      "kind": "rotate",
+      "center": [
+        166,
+        133
+      ],
+      "radius": [
+        52,
+        49
+      ],
+      "amp": -4.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.30000000000000004,
+          0
+        ],
+        [
+          0.55,
+          -4.2
+        ],
+        [
+          0.8300000000000001,
+          1.26
+        ],
+        [
+          1.3,
+          0
+        ],
+        [
+          1.65,
+          -2.94
+        ],
+        [
+          2.08,
+          0
+        ],
+        [
+          2.65,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        143,
+        102
+      ]
+    },
+    {
+      "name": "original-tail-follow",
+      "kind": "rotate",
+      "center": [
+        219,
+        201
+      ],
+      "radius": [
+        25,
+        32
+      ],
+      "amp": 3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.45,
+          0
+        ],
+        [
+          1.04,
+          3.6
+        ],
+        [
+          1.5,
+          -1.1
+        ],
+        [
+          2.14,
+          2.2
+        ],
+        [
+          2.7,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        202,
+        173
+      ]
+    },
+    {
+      "name": "original-body-breath",
+      "kind": "press",
+      "center": [
+        112,
+        148
+      ],
+      "radius": [
+        39,
+        45
+      ],
+      "amp": 1.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0.4
+        ],
+        [
+          1.35,
+          1.4
+        ],
+        [
+          2.1,
+          0.4
+        ],
+        [
+          2.7,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "New original artwork frozen before animation. Measured local anatomy tracks with slightly stronger head/wing/tail gestures and staggered timing; all original-artwork geometry, silhouette, anchor and loop gates remain unchanged."
+}

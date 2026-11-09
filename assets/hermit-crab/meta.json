@@ -1,0 +1,46 @@
+{
+  "id": "hermit-crab",
+  "name": "hermit crab",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "hermit crab"
+    },
+    "vi": {
+      "text": "con ốc mượn hồn"
+    },
+    "zh-Hans": {
+      "text": "寄居蟹",
+      "reading": "jìjūxiè"
+    },
+    "ja": {
+      "text": "ヤドカリ",
+      "reading": "yadokari"
+    },
+    "ko": {
+      "text": "소라게",
+      "reading": "sorage"
+    },
+    "es": {
+      "text": "el cangrejo ermitaño"
+    },
+    "fr": {
+      "text": "le bernard-l'ermite"
+    },
+    "de": {
+      "text": "der Einsiedlerkrebs"
+    },
+    "id": {
+      "text": "kelomang"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cuttlefish",
+  "name": "cuttlefish",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "cuttlefish"
+    },
+    "vi": {
+      "text": "con mực nang"
+    },
+    "zh-Hans": {
+      "text": "乌贼",
+      "reading": "wūzéi"
+    },
+    "ja": {
+      "text": "コウイカ",
+      "reading": "kōika"
+    },
+    "ko": {
+      "text": "갑오징어",
+      "reading": "gabojingeo"
+    },
+    "es": {
+      "text": "la sepia"
+    },
+    "fr": {
+      "text": "la seiche"
+    },
+    "de": {
+      "text": "der Sepia"
+    },
+    "id": {
+      "text": "sotong"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

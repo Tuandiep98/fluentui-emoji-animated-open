@@ -1,0 +1,46 @@
+{
+  "id": "clam",
+  "name": "clam",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "clam"
+    },
+    "vi": {
+      "text": "con nghêu"
+    },
+    "zh-Hans": {
+      "text": "蛤蜊",
+      "reading": "gélí"
+    },
+    "ja": {
+      "text": "アサリ",
+      "reading": "asari"
+    },
+    "ko": {
+      "text": "조개",
+      "reading": "jogae"
+    },
+    "es": {
+      "text": "la almeja"
+    },
+    "fr": {
+      "text": "la palourde"
+    },
+    "de": {
+      "text": "die Venusmuschel"
+    },
+    "id": {
+      "text": "kerang"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "starfish",
+  "name": "starfish",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "starfish"
+    },
+    "vi": {
+      "text": "con sao biển"
+    },
+    "zh-Hans": {
+      "text": "海星",
+      "reading": "hǎixīng"
+    },
+    "ja": {
+      "text": "ヒトデ",
+      "reading": "hitode"
+    },
+    "ko": {
+      "text": "불가사리",
+      "reading": "bulgasari"
+    },
+    "es": {
+      "text": "la estrella de mar"
+    },
+    "fr": {
+      "text": "l'étoile de mer"
+    },
+    "de": {
+      "text": "der Seestern"
+    },
+    "id": {
+      "text": "bintang laut"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

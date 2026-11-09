@@ -1,0 +1,46 @@
+{
+  "id": "walrus",
+  "name": "walrus",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "walrus"
+    },
+    "vi": {
+      "text": "con hải mã"
+    },
+    "zh-Hans": {
+      "text": "海象",
+      "reading": "hǎixiàng"
+    },
+    "ja": {
+      "text": "セイウチ",
+      "reading": "seiuchi"
+    },
+    "ko": {
+      "text": "바다코끼리",
+      "reading": "bada kokkiri"
+    },
+    "es": {
+      "text": "la morsa"
+    },
+    "fr": {
+      "text": "le morse"
+    },
+    "de": {
+      "text": "das Walross"
+    },
+    "id": {
+      "text": "walrus"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "kingfisher",
+  "name": "kingfisher",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "kingfisher"
+    },
+    "vi": {
+      "text": "con chim bói cá"
+    },
+    "zh-Hans": {
+      "text": "翠鸟",
+      "reading": "cuìniǎo"
+    },
+    "ja": {
+      "text": "カワセミ",
+      "reading": "kawasemi"
+    },
+    "ko": {
+      "text": "물총새",
+      "reading": "mulchongsae"
+    },
+    "es": {
+      "text": "el martín pescador"
+    },
+    "fr": {
+      "text": "le martin-pêcheur"
+    },
+    "de": {
+      "text": "der Eisvogel"
+    },
+    "id": {
+      "text": "burung raja udang"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

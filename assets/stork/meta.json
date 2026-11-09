@@ -1,0 +1,46 @@
+{
+  "id": "stork",
+  "name": "stork",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "stork"
+    },
+    "vi": {
+      "text": "con cò"
+    },
+    "zh-Hans": {
+      "text": "鹳",
+      "reading": "guàn"
+    },
+    "ja": {
+      "text": "コウノトリ",
+      "reading": "kōnotori"
+    },
+    "ko": {
+      "text": "황새",
+      "reading": "hwangsae"
+    },
+    "es": {
+      "text": "la cigüeña"
+    },
+    "fr": {
+      "text": "la cigogne"
+    },
+    "de": {
+      "text": "der Storch"
+    },
+    "id": {
+      "text": "burung bangau"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

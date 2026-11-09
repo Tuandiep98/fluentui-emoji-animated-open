@@ -1,0 +1,46 @@
+{
+  "id": "ostrich",
+  "name": "ostrich",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "ostrich"
+    },
+    "vi": {
+      "text": "con đà điểu"
+    },
+    "zh-Hans": {
+      "text": "鸵鸟",
+      "reading": "tuóniǎo"
+    },
+    "ja": {
+      "text": "ダチョウ",
+      "reading": "dachō"
+    },
+    "ko": {
+      "text": "타조",
+      "reading": "tajo"
+    },
+    "es": {
+      "text": "el avestruz"
+    },
+    "fr": {
+      "text": "l'autruche"
+    },
+    "de": {
+      "text": "der Strauß"
+    },
+    "id": {
+      "text": "burung unta"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "MIT",
-  "count": 330,
+  "count": 360,
   "entries": [
     {
       "id": "aardvark",
@@ -4268,6 +4268,75 @@
       "animationBytes": 44454
     },
     {
+      "id": "clam",
+      "name": "clam",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "clam"
+        },
+        "vi": {
+          "text": "con nghêu"
+        },
+        "zh-Hans": {
+          "text": "蛤蜊",
+          "reading": "gélí"
+        },
+        "ja": {
+          "text": "アサリ",
+          "reading": "asari"
+        },
+        "ko": {
+          "text": "조개",
+          "reading": "jogae"
+        },
+        "es": {
+          "text": "la almeja"
+        },
+        "fr": {
+          "text": "la palourde"
+        },
+        "de": {
+          "text": "die Venusmuschel"
+        },
+        "id": {
+          "text": "kerang"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/clam/source.png",
+        "still.png": "assets/clam/still.png",
+        "still.webp": "assets/clam/still.webp",
+        "animated.avif": "assets/clam/animated.avif",
+        "motion.json": "assets/clam/motion.json",
+        "meta.json": "assets/clam/meta.json",
+        "reference.png": "assets/clam/reference.png"
+      },
+      "sha256": {
+        "source.png": "e20c365bd92609c06c91fec07b44f31955066e7a249241f23520d67e1a7fbe92",
+        "still.png": "57ebf8f09282a54e97ee905a5be2fc3a56a81c5f8a6a8e37f2edf767cad39538",
+        "still.webp": "49310009bcf7d3bbcdd2596c3e82b9c270b019ea2d8d1bd976504402f3d50a47",
+        "animated.avif": "6a7eb71e52293d9420fb88eccd36e9bf420a6338bbccf6740d38f2a46909bd92",
+        "motion.json": "9ef6d38dd96be6691ac7d1deb33c6d4f4ce5d1df114f884cf8b1eed8498e3aae",
+        "meta.json": "85945b7827d184fb0c99ed0b772a7381f53745ca2f397629ef70f4f259cfd770",
+        "reference.png": "57ebf8f09282a54e97ee905a5be2fc3a56a81c5f8a6a8e37f2edf767cad39538"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 54914
+    },
+    {
       "id": "clay",
       "name": "clay",
       "category": "school-art",
@@ -4997,6 +5066,75 @@
       "animationBytes": 34087
     },
     {
+      "id": "crane",
+      "name": "crane",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "crane"
+        },
+        "vi": {
+          "text": "con sếu"
+        },
+        "zh-Hans": {
+          "text": "鹤",
+          "reading": "hè"
+        },
+        "ja": {
+          "text": "ツル",
+          "reading": "tsuru"
+        },
+        "ko": {
+          "text": "두루미",
+          "reading": "durumi"
+        },
+        "es": {
+          "text": "la grulla"
+        },
+        "fr": {
+          "text": "la grue"
+        },
+        "de": {
+          "text": "der Kranich"
+        },
+        "id": {
+          "text": "burung jenjang"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/crane/source.png",
+        "still.png": "assets/crane/still.png",
+        "still.webp": "assets/crane/still.webp",
+        "animated.avif": "assets/crane/animated.avif",
+        "motion.json": "assets/crane/motion.json",
+        "meta.json": "assets/crane/meta.json",
+        "reference.png": "assets/crane/reference.png"
+      },
+      "sha256": {
+        "source.png": "f7dc699bac02a045b8c0f2e89e6c78dd0f1ba47aa3f65df5d3ca36e491a23c7d",
+        "still.png": "badff375eda7bd23a2ecd5ae86033549fd795dc63f58cecc094d9fad32f7a244",
+        "still.webp": "801f5409672a75d40d0d6d7a740f39775e664f0aaaaf4e730c8b76682341a50f",
+        "animated.avif": "fff9d5f2573f1523e2fe6e9c542cd789911fc48cd42a9f6c1b522f795bd3969a",
+        "motion.json": "896ca6ac4f1213cf24bcedf3e0f059ef054d51dbc740ddeee42ea885eebe9e10",
+        "meta.json": "9ae5b6d14ee81edc22b42444470680cf148d98c6c62e6612a5543dd837cb7ea5",
+        "reference.png": "badff375eda7bd23a2ecd5ae86033549fd795dc63f58cecc094d9fad32f7a244"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 30786
+    },
+    {
       "id": "cream",
       "name": "cream",
       "category": "meals",
@@ -5524,6 +5662,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 16930
+    },
+    {
+      "id": "cuttlefish",
+      "name": "cuttlefish",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "cuttlefish"
+        },
+        "vi": {
+          "text": "con mực nang"
+        },
+        "zh-Hans": {
+          "text": "乌贼",
+          "reading": "wūzéi"
+        },
+        "ja": {
+          "text": "コウイカ",
+          "reading": "kōika"
+        },
+        "ko": {
+          "text": "갑오징어",
+          "reading": "gabojingeo"
+        },
+        "es": {
+          "text": "la sepia"
+        },
+        "fr": {
+          "text": "la seiche"
+        },
+        "de": {
+          "text": "der Sepia"
+        },
+        "id": {
+          "text": "sotong"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/cuttlefish/source.png",
+        "still.png": "assets/cuttlefish/still.png",
+        "still.webp": "assets/cuttlefish/still.webp",
+        "animated.avif": "assets/cuttlefish/animated.avif",
+        "motion.json": "assets/cuttlefish/motion.json",
+        "meta.json": "assets/cuttlefish/meta.json",
+        "reference.png": "assets/cuttlefish/reference.png"
+      },
+      "sha256": {
+        "source.png": "358dfb59a190ae8979f0b0489a9ded5d5bf148a9c3f7c1d69946646ff72b2a92",
+        "still.png": "718fc405efae5b651103df4a2851672000606608cc78a26b1efa4c8ed357f3bd",
+        "still.webp": "82999516ac6dc3c3a18e4c19b9ac793bcbdc51baebe08bcf38aa8558df7d0c7c",
+        "animated.avif": "270f65703ed6755660954c8ec14dd20974251e12e32a5467dac16770cfdff891",
+        "motion.json": "471849dff1ad69ee2718d64e3cbfb9e150f60736d4e4f32f54ef4d4a0542b42f",
+        "meta.json": "59522848f844e7ebb747bc0ba996d798617d57a9ee67b20d496d9cbed2b25e69",
+        "reference.png": "718fc405efae5b651103df4a2851672000606608cc78a26b1efa4c8ed357f3bd"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56976
     },
     {
       "id": "daffodil",
@@ -8905,6 +9112,144 @@
       "animationBytes": 21439
     },
     {
+      "id": "hermit-crab",
+      "name": "hermit crab",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "hermit crab"
+        },
+        "vi": {
+          "text": "con ốc mượn hồn"
+        },
+        "zh-Hans": {
+          "text": "寄居蟹",
+          "reading": "jìjūxiè"
+        },
+        "ja": {
+          "text": "ヤドカリ",
+          "reading": "yadokari"
+        },
+        "ko": {
+          "text": "소라게",
+          "reading": "sorage"
+        },
+        "es": {
+          "text": "el cangrejo ermitaño"
+        },
+        "fr": {
+          "text": "le bernard-l'ermite"
+        },
+        "de": {
+          "text": "der Einsiedlerkrebs"
+        },
+        "id": {
+          "text": "kelomang"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hermit-crab/source.png",
+        "still.png": "assets/hermit-crab/still.png",
+        "still.webp": "assets/hermit-crab/still.webp",
+        "animated.avif": "assets/hermit-crab/animated.avif",
+        "motion.json": "assets/hermit-crab/motion.json",
+        "meta.json": "assets/hermit-crab/meta.json",
+        "reference.png": "assets/hermit-crab/reference.png"
+      },
+      "sha256": {
+        "source.png": "52093a33b68cd43f320e02ff5185da50dc8bc780198357279e56dba318afe76b",
+        "still.png": "fe298ab839c874919a526b5f241af67cae7cd25d416c3789f75c52089fa19fbd",
+        "still.webp": "4ae6a522410b46f9e02ccc453c5e5f48239b8deabbf48bd264033da28938b6db",
+        "animated.avif": "4d721b44cff72bbd2eb0e4266a45199628ec859f35aacbeffec6641b24b66129",
+        "motion.json": "67523fbf8a07e8556662d2ce9db7221300212c8db442cdb72bc2aaf363bb6b73",
+        "meta.json": "abbbcc95608f8b31af269367e6ae3b15b5af2991af099fc8abe04f83543eeb07",
+        "reference.png": "fe298ab839c874919a526b5f241af67cae7cd25d416c3789f75c52089fa19fbd"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56825
+    },
+    {
+      "id": "heron",
+      "name": "heron",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "heron"
+        },
+        "vi": {
+          "text": "con diệc"
+        },
+        "zh-Hans": {
+          "text": "苍鹭",
+          "reading": "cānglù"
+        },
+        "ja": {
+          "text": "アオサギ",
+          "reading": "aosagi"
+        },
+        "ko": {
+          "text": "왜가리",
+          "reading": "waegari"
+        },
+        "es": {
+          "text": "la garza"
+        },
+        "fr": {
+          "text": "le héron"
+        },
+        "de": {
+          "text": "der Reiher"
+        },
+        "id": {
+          "text": "burung cangak"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/heron/source.png",
+        "still.png": "assets/heron/still.png",
+        "still.webp": "assets/heron/still.webp",
+        "animated.avif": "assets/heron/animated.avif",
+        "motion.json": "assets/heron/motion.json",
+        "meta.json": "assets/heron/meta.json",
+        "reference.png": "assets/heron/reference.png"
+      },
+      "sha256": {
+        "source.png": "8b108cc70433432f0408d53ff1bb905908cb419380325618deeb372e7aa1b8c8",
+        "still.png": "5be1daa4e6a1295c78222a80caf922e4ae02977ab7e3d041728c33d496711feb",
+        "still.webp": "92c9c423b5c55536bc1bda2ab4de8865198f2d15a570f0cddb7a96f056ef7b23",
+        "animated.avif": "2ab8e0962d04074a9852b3cb1970a57bc40df8c346037ee2d1dd36cc6f910052",
+        "motion.json": "b2e29afd95074db6bedaf032cbe2ab3f97eb32ce5b7c8f6d21cb40a8696f4142",
+        "meta.json": "4416e86b051a8cc6a2ce94cd8da494d5f122a6d27c2fea8fa0f7262be81410af",
+        "reference.png": "5be1daa4e6a1295c78222a80caf922e4ae02977ab7e3d041728c33d496711feb"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 52243
+    },
+    {
       "id": "high-chair",
       "name": "high chair",
       "category": "home",
@@ -9240,6 +9585,282 @@
       "animationBytes": 29800
     },
     {
+      "id": "hornbill",
+      "name": "hornbill",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "hornbill"
+        },
+        "vi": {
+          "text": "con chim hồng hoàng"
+        },
+        "zh-Hans": {
+          "text": "犀鸟",
+          "reading": "xīniǎo"
+        },
+        "ja": {
+          "text": "サイチョウ",
+          "reading": "saichō"
+        },
+        "ko": {
+          "text": "코뿔새",
+          "reading": "koppulsae"
+        },
+        "es": {
+          "text": "el cálao"
+        },
+        "fr": {
+          "text": "le calao"
+        },
+        "de": {
+          "text": "der Nashornvogel"
+        },
+        "id": {
+          "text": "burung enggang"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hornbill/source.png",
+        "still.png": "assets/hornbill/still.png",
+        "still.webp": "assets/hornbill/still.webp",
+        "animated.avif": "assets/hornbill/animated.avif",
+        "motion.json": "assets/hornbill/motion.json",
+        "meta.json": "assets/hornbill/meta.json",
+        "reference.png": "assets/hornbill/reference.png"
+      },
+      "sha256": {
+        "source.png": "6c93f88101e4517a77155cffbb0640e80a7d9142da298d81626916c82815a1e5",
+        "still.png": "44e38aa8010bc71a0e5866d4aee309af1ac49e71ac3f7b2bd2e23b7e96a91f39",
+        "still.webp": "064923139a794c3b4576c212317792e64db3960a39b240c026991303e8bde3b6",
+        "animated.avif": "dd37024908f0b5ad35d1705fdc47159f68f312c4b870ad61edc4a1acef9c367b",
+        "motion.json": "1c7feecfee63bebcc1d201acc50c0a21846b3b7c32365d86fca11b02923f1ee8",
+        "meta.json": "b63f6d8b720618767b13b48291078eddc835b3bed62b80b8477d702216e61b14",
+        "reference.png": "44e38aa8010bc71a0e5866d4aee309af1ac49e71ac3f7b2bd2e23b7e96a91f39"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 39598
+    },
+    {
+      "id": "horseshoe-crab",
+      "name": "horseshoe crab",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "horseshoe crab"
+        },
+        "vi": {
+          "text": "con sam biển"
+        },
+        "zh-Hans": {
+          "text": "鲎",
+          "reading": "hòu"
+        },
+        "ja": {
+          "text": "カブトガニ",
+          "reading": "kabutogani"
+        },
+        "ko": {
+          "text": "투구게",
+          "reading": "tuguge"
+        },
+        "es": {
+          "text": "el cangrejo herradura"
+        },
+        "fr": {
+          "text": "la limule"
+        },
+        "de": {
+          "text": "der Pfeilschwanzkrebs"
+        },
+        "id": {
+          "text": "belangkas"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/horseshoe-crab/source.png",
+        "still.png": "assets/horseshoe-crab/still.png",
+        "still.webp": "assets/horseshoe-crab/still.webp",
+        "animated.avif": "assets/horseshoe-crab/animated.avif",
+        "motion.json": "assets/horseshoe-crab/motion.json",
+        "meta.json": "assets/horseshoe-crab/meta.json",
+        "reference.png": "assets/horseshoe-crab/reference.png"
+      },
+      "sha256": {
+        "source.png": "3895bc6b4f8ae88075ef8a594a54dce2a2f2718dae15f872ad0ef306c90bf1bd",
+        "still.png": "e3db960fcc013a4e494bc108dea065fef7f2550e6ad66717a470a6223e32b53f",
+        "still.webp": "e3c683f44b7c53504a4846cac65edd93ff8a44db353bdc0127c967a70aa5f890",
+        "animated.avif": "09d3f4c30323770346e845d7d237a96a82c6f5028939c2598e48c1edf8f8ae7f",
+        "motion.json": "db9c027c60ae9d4fd07675b56ac70787adbb58f11c22440f410c02d700206375",
+        "meta.json": "a8a22ae529522a471e8539c76cedbbaae914e694b3860ccfaae9cdda04835569",
+        "reference.png": "e3db960fcc013a4e494bc108dea065fef7f2550e6ad66717a470a6223e32b53f"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 36869
+    },
+    {
+      "id": "hummingbird",
+      "name": "hummingbird",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "hummingbird"
+        },
+        "vi": {
+          "text": "con chim ruồi"
+        },
+        "zh-Hans": {
+          "text": "蜂鸟",
+          "reading": "fēngniǎo"
+        },
+        "ja": {
+          "text": "ハチドリ",
+          "reading": "hachidori"
+        },
+        "ko": {
+          "text": "벌새",
+          "reading": "beolsae"
+        },
+        "es": {
+          "text": "el colibrí"
+        },
+        "fr": {
+          "text": "le colibri"
+        },
+        "de": {
+          "text": "der Kolibri"
+        },
+        "id": {
+          "text": "burung kolibri"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hummingbird/source.png",
+        "still.png": "assets/hummingbird/still.png",
+        "still.webp": "assets/hummingbird/still.webp",
+        "animated.avif": "assets/hummingbird/animated.avif",
+        "motion.json": "assets/hummingbird/motion.json",
+        "meta.json": "assets/hummingbird/meta.json",
+        "reference.png": "assets/hummingbird/reference.png"
+      },
+      "sha256": {
+        "source.png": "83896286bce0de1a79fc1b8b957fc35c26e009448a2e71af173ddfdbee39ac1d",
+        "still.png": "de0bebef999fb456ebc6d4031628d765b4e8fff2a8bfc27e39fe22bee6337f24",
+        "still.webp": "c8222669c95b63bb46308cb1939cb9f9432d25f54772faa70ac1a136a1cd55f1",
+        "animated.avif": "fc75cb5b33a2a45442b35b60ed749d9596f94e858df66db83e589c8dae3b0e53",
+        "motion.json": "91c504ed317fa83d76d69cf08195559b3f295515b8f13001bc00446160b3e013",
+        "meta.json": "c6bc4da70ba11092f34771c606cdb486939dea52dbac9ae0c64054d2673bac3a",
+        "reference.png": "de0bebef999fb456ebc6d4031628d765b4e8fff2a8bfc27e39fe22bee6337f24"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56430
+    },
+    {
+      "id": "ibis",
+      "name": "ibis",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "ibis"
+        },
+        "vi": {
+          "text": "con cò quăm"
+        },
+        "zh-Hans": {
+          "text": "鹮",
+          "reading": "huán"
+        },
+        "ja": {
+          "text": "トキ",
+          "reading": "toki"
+        },
+        "ko": {
+          "text": "따오기",
+          "reading": "ttaogi"
+        },
+        "es": {
+          "text": "el ibis"
+        },
+        "fr": {
+          "text": "l'ibis"
+        },
+        "de": {
+          "text": "der Ibis"
+        },
+        "id": {
+          "text": "burung ibis"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/ibis/source.png",
+        "still.png": "assets/ibis/still.png",
+        "still.webp": "assets/ibis/still.webp",
+        "animated.avif": "assets/ibis/animated.avif",
+        "motion.json": "assets/ibis/motion.json",
+        "meta.json": "assets/ibis/meta.json",
+        "reference.png": "assets/ibis/reference.png"
+      },
+      "sha256": {
+        "source.png": "8a14ef6fb03894138b71ca4e951c3874a312d383c23c5a12e954fc0a82471702",
+        "still.png": "470f9938f0a3c75658c376e745158695d40b8ae5ae0edf60a1f837c858edd5e3",
+        "still.webp": "9b9c7cfb1a294f6257fd4087c7af73ea44f3a60157af2c8ece0efca1c0b80ac0",
+        "animated.avif": "cabfee75f6fa575ada0d8a95ac86579f25746b24aca269e44c6ac09a391640aa",
+        "motion.json": "8036c1558ea99afcb709fddc0669f693522befbb2d9146744c8a78c361ab513b",
+        "meta.json": "749de3b6235a2ae64cffe83675626fbf83397483f9debc69ef859104d27bfc3b",
+        "reference.png": "470f9938f0a3c75658c376e745158695d40b8ae5ae0edf60a1f837c858edd5e3"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56869
+    },
+    {
       "id": "jacket",
       "name": "jacket",
       "category": "clothing",
@@ -9437,6 +10058,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 25083
+    },
+    {
+      "id": "kingfisher",
+      "name": "kingfisher",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "kingfisher"
+        },
+        "vi": {
+          "text": "con chim bói cá"
+        },
+        "zh-Hans": {
+          "text": "翠鸟",
+          "reading": "cuìniǎo"
+        },
+        "ja": {
+          "text": "カワセミ",
+          "reading": "kawasemi"
+        },
+        "ko": {
+          "text": "물총새",
+          "reading": "mulchongsae"
+        },
+        "es": {
+          "text": "el martín pescador"
+        },
+        "fr": {
+          "text": "le martin-pêcheur"
+        },
+        "de": {
+          "text": "der Eisvogel"
+        },
+        "id": {
+          "text": "burung raja udang"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/kingfisher/source.png",
+        "still.png": "assets/kingfisher/still.png",
+        "still.webp": "assets/kingfisher/still.webp",
+        "animated.avif": "assets/kingfisher/animated.avif",
+        "motion.json": "assets/kingfisher/motion.json",
+        "meta.json": "assets/kingfisher/meta.json",
+        "reference.png": "assets/kingfisher/reference.png"
+      },
+      "sha256": {
+        "source.png": "b41f8d16006dba4dea241771a68f9c88016eeeda2d37f7a4b8ed821e29192679",
+        "still.png": "2176c1e3dbba036485f85409050bf4e06f4d657d165c6fc50b6fe70e27ccc865",
+        "still.webp": "44d45e2773e7238141fc9f9d12b2ab8ffc60f76ffbc9fb2950b0ebcad39b8baf",
+        "animated.avif": "34c5f171aa4e3c6386013c9e2efa82675b5f7135c769a159fdf74bf969fb1d10",
+        "motion.json": "c2f48177fad6f2f1896bd44c785bc83eea808f2f7edc8c6ca194d42c06a0a18f",
+        "meta.json": "dda13ffc2ef447326a0dc9a275d1a12c725141851c606b025697db4b751c4733",
+        "reference.png": "2176c1e3dbba036485f85409050bf4e06f4d657d165c6fc50b6fe70e27ccc865"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58021
     },
     {
       "id": "kitchen",
@@ -10767,6 +11457,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 42234
+    },
+    {
+      "id": "manatee",
+      "name": "manatee",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "manatee"
+        },
+        "vi": {
+          "text": "con lợn biển"
+        },
+        "zh-Hans": {
+          "text": "海牛",
+          "reading": "hǎiniú"
+        },
+        "ja": {
+          "text": "マナティ",
+          "reading": "manati"
+        },
+        "ko": {
+          "text": "매너티",
+          "reading": "maeneoti"
+        },
+        "es": {
+          "text": "el manatí"
+        },
+        "fr": {
+          "text": "le lamantin"
+        },
+        "de": {
+          "text": "die Seekuh"
+        },
+        "id": {
+          "text": "manati"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/manatee/source.png",
+        "still.png": "assets/manatee/still.png",
+        "still.webp": "assets/manatee/still.webp",
+        "animated.avif": "assets/manatee/animated.avif",
+        "motion.json": "assets/manatee/motion.json",
+        "meta.json": "assets/manatee/meta.json",
+        "reference.png": "assets/manatee/reference.png"
+      },
+      "sha256": {
+        "source.png": "9009d6c5067768931e3b219ace8105d8c27436439f8af4a4c503b7c8dde4ed8b",
+        "still.png": "1b4a6b3c908af74a00cb5bc05891f6687293be17eb1a02c2657833ee3afe7591",
+        "still.webp": "877df422b5666f093ebba3b8044d12708ff5f3d9525a435369680c9891ffad08",
+        "animated.avif": "d18de344e63fedeb47d3406b4f4410df5bef89df6547506c03383cb787eca452",
+        "motion.json": "27cd2d7e1e41641d5472fe526014e3a7e1c512310251fd4742dac701a1ee392f",
+        "meta.json": "06c6ff34b79cc8335ba905c9077a0bf5ce7f8044cfaa669ad7463f6d5340256b",
+        "reference.png": "1b4a6b3c908af74a00cb5bc05891f6687293be17eb1a02c2657833ee3afe7591"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 26112
     },
     {
       "id": "mandrill",
@@ -12171,6 +12930,75 @@
       "animationBytes": 34435
     },
     {
+      "id": "mussel",
+      "name": "mussel",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "mussel"
+        },
+        "vi": {
+          "text": "con vẹm"
+        },
+        "zh-Hans": {
+          "text": "贻贝",
+          "reading": "yíbèi"
+        },
+        "ja": {
+          "text": "ムール貝",
+          "reading": "mūrugai"
+        },
+        "ko": {
+          "text": "홍합",
+          "reading": "honghap"
+        },
+        "es": {
+          "text": "el mejillón"
+        },
+        "fr": {
+          "text": "la moule"
+        },
+        "de": {
+          "text": "die Miesmuschel"
+        },
+        "id": {
+          "text": "kupang"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/mussel/source.png",
+        "still.png": "assets/mussel/still.png",
+        "still.webp": "assets/mussel/still.webp",
+        "animated.avif": "assets/mussel/animated.avif",
+        "motion.json": "assets/mussel/motion.json",
+        "meta.json": "assets/mussel/meta.json",
+        "reference.png": "assets/mussel/reference.png"
+      },
+      "sha256": {
+        "source.png": "70fe7ed3e578564072c8c94127f5b28266972c91c84229ec9403cd2ccf75a214",
+        "still.png": "b44fb8c8417ece1521c1e532abc1ea9bbeb760032cd796d9f2f177afbd2e3ac6",
+        "still.webp": "cbcf13f486f9c09c7e8e084eb9a613d403a741999666bb06f4ffeb16ebbaf37e",
+        "animated.avif": "ecf7ae335a9a00920f170bf70d0be93b1d2af6179ac09dbf38392407cf148a4a",
+        "motion.json": "115c6428fe2cec89e78927a0439cb4def06a8a03cf47a3d3b4267799268c243d",
+        "meta.json": "a33d45d72bd1abfc83c506ec4c18aa60c10b9061dffcb0734a2e246825689c82",
+        "reference.png": "b44fb8c8417ece1521c1e532abc1ea9bbeb760032cd796d9f2f177afbd2e3ac6"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56100
+    },
+    {
       "id": "napkin",
       "name": "napkin",
       "category": "kitchen",
@@ -12235,6 +13063,144 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 22188
+    },
+    {
+      "id": "narwhal",
+      "name": "narwhal",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "narwhal"
+        },
+        "vi": {
+          "text": "con kỳ lân biển"
+        },
+        "zh-Hans": {
+          "text": "独角鲸",
+          "reading": "dújiǎojīng"
+        },
+        "ja": {
+          "text": "イッカク",
+          "reading": "ikkaku"
+        },
+        "ko": {
+          "text": "일각고래",
+          "reading": "ilgakgorae"
+        },
+        "es": {
+          "text": "el narval"
+        },
+        "fr": {
+          "text": "le narval"
+        },
+        "de": {
+          "text": "der Narwal"
+        },
+        "id": {
+          "text": "narwhal"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/narwhal/source.png",
+        "still.png": "assets/narwhal/still.png",
+        "still.webp": "assets/narwhal/still.webp",
+        "animated.avif": "assets/narwhal/animated.avif",
+        "motion.json": "assets/narwhal/motion.json",
+        "meta.json": "assets/narwhal/meta.json",
+        "reference.png": "assets/narwhal/reference.png"
+      },
+      "sha256": {
+        "source.png": "459b7d4319e1c32e27b5d1c2322ea9517de551b2fa507c6734e41b477d2728c7",
+        "still.png": "0cf780bd2f6cdd6a90f450bab4f5cfffc657353567811ef36e33956b1b565a46",
+        "still.webp": "7d7655f921e084516184c0ac6c650faa952b9e0d83063b608b2c148cdfd4e78e",
+        "animated.avif": "732a38eb6e58e244bdb85e082a79fd9ba7315d0606a1175f454b26c1d72abf5e",
+        "motion.json": "5d26a8dd0b944563d23c4dbe07934f9bc88246ce739aafa19bf0acaa8ef89b3b",
+        "meta.json": "ed48eb566cdabc9fd181fb1f71d21a05f7aaa708374b33691b501fec56426187",
+        "reference.png": "0cf780bd2f6cdd6a90f450bab4f5cfffc657353567811ef36e33956b1b565a46"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 26542
+    },
+    {
+      "id": "nautilus",
+      "name": "nautilus",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "nautilus"
+        },
+        "vi": {
+          "text": "con ốc anh vũ"
+        },
+        "zh-Hans": {
+          "text": "鹦鹉螺",
+          "reading": "yīngwǔluó"
+        },
+        "ja": {
+          "text": "オウムガイ",
+          "reading": "ōmugai"
+        },
+        "ko": {
+          "text": "앵무조개",
+          "reading": "aengmujogae"
+        },
+        "es": {
+          "text": "el nautilo"
+        },
+        "fr": {
+          "text": "le nautile"
+        },
+        "de": {
+          "text": "der Nautilus"
+        },
+        "id": {
+          "text": "nautilus"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/nautilus/source.png",
+        "still.png": "assets/nautilus/still.png",
+        "still.webp": "assets/nautilus/still.webp",
+        "animated.avif": "assets/nautilus/animated.avif",
+        "motion.json": "assets/nautilus/motion.json",
+        "meta.json": "assets/nautilus/meta.json",
+        "reference.png": "assets/nautilus/reference.png"
+      },
+      "sha256": {
+        "source.png": "54dcbd32ac42bf0cfe4f59efb238ff12f8740ed2cfeb2162b189bd0fd460fb40",
+        "still.png": "4b9c5ee25eaa664f00356e5ee35364324dbc0b36e21d489f56678883f7a16b4f",
+        "still.webp": "24d2084895e7f5233e28a16c779fd1003eafd8eaeea5f1abcdf98b43a861b30b",
+        "animated.avif": "9de640ce140c18c8e8645628a8ab8312d18c7f0d22265ed78dd95e631272f514",
+        "motion.json": "8ddefc72f350c52197b6b5b8e5a6469b49e61d78fa5d7f5405efc99c70c6b175",
+        "meta.json": "099dd63cf94367acc2dbbdefee0ec85c4d7e5572f14b8b99e197f00d271968e7",
+        "reference.png": "4b9c5ee25eaa664f00356e5ee35364324dbc0b36e21d489f56678883f7a16b4f"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58354
     },
     {
       "id": "nectarine",
@@ -12767,6 +13733,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 22391
+    },
+    {
+      "id": "ostrich",
+      "name": "ostrich",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "ostrich"
+        },
+        "vi": {
+          "text": "con đà điểu"
+        },
+        "zh-Hans": {
+          "text": "鸵鸟",
+          "reading": "tuóniǎo"
+        },
+        "ja": {
+          "text": "ダチョウ",
+          "reading": "dachō"
+        },
+        "ko": {
+          "text": "타조",
+          "reading": "tajo"
+        },
+        "es": {
+          "text": "el avestruz"
+        },
+        "fr": {
+          "text": "l'autruche"
+        },
+        "de": {
+          "text": "der Strauß"
+        },
+        "id": {
+          "text": "burung unta"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/ostrich/source.png",
+        "still.png": "assets/ostrich/still.png",
+        "still.webp": "assets/ostrich/still.webp",
+        "animated.avif": "assets/ostrich/animated.avif",
+        "motion.json": "assets/ostrich/motion.json",
+        "meta.json": "assets/ostrich/meta.json",
+        "reference.png": "assets/ostrich/reference.png"
+      },
+      "sha256": {
+        "source.png": "d89864d46921155a1a850c2e675008715b20c5b2353ac8e8cd78778436152a19",
+        "still.png": "a879b13865fe98683c03297404914359592d8ad01c9871c07325d808cd89efdd",
+        "still.webp": "4dace8455a73b12f0d7a724aa8a30fe24b0e26dc94f2ceaefba388934b6348ae",
+        "animated.avif": "f088d6fc804039832c33f0404e0db095201f1e7958730bce316b08e34403335a",
+        "motion.json": "44c6902b6512eee198ccb185e297d1db0b6192d46a9a60e8f78190c847b25bec",
+        "meta.json": "88411056a7017476be1e40acc14606052ba19550cfc36d20a3dff05c506bc414",
+        "reference.png": "a879b13865fe98683c03297404914359592d8ad01c9871c07325d808cd89efdd"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 42023
     },
     {
       "id": "oven",
@@ -13568,6 +14603,75 @@
       "fps": 12,
       "duration": 3,
       "animationBytes": 56229
+    },
+    {
+      "id": "pelican",
+      "name": "pelican",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "pelican"
+        },
+        "vi": {
+          "text": "con chim bồ nông"
+        },
+        "zh-Hans": {
+          "text": "鹈鹕",
+          "reading": "tíhú"
+        },
+        "ja": {
+          "text": "ペリカン",
+          "reading": "perikan"
+        },
+        "ko": {
+          "text": "펠리컨",
+          "reading": "pellikeon"
+        },
+        "es": {
+          "text": "el pelícano"
+        },
+        "fr": {
+          "text": "le pélican"
+        },
+        "de": {
+          "text": "der Pelikan"
+        },
+        "id": {
+          "text": "burung pelikan"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/pelican/source.png",
+        "still.png": "assets/pelican/still.png",
+        "still.webp": "assets/pelican/still.webp",
+        "animated.avif": "assets/pelican/animated.avif",
+        "motion.json": "assets/pelican/motion.json",
+        "meta.json": "assets/pelican/meta.json",
+        "reference.png": "assets/pelican/reference.png"
+      },
+      "sha256": {
+        "source.png": "affaca2065e6d6b213264933e80e9d22b5a82f78255ff3396b510918cb0e1107",
+        "still.png": "2ec375afc0ebc14fdd615f6c6342b1c389e98233a46916120ccc9d5e7df12b11",
+        "still.webp": "e48828a7aa8cd9fb63030a4439efa9d12f20c5b508a1cf7f4f94f8c015e58393",
+        "animated.avif": "6cb8e0c67df03460625f11d6793fa3299f5fdaf7d47a187f8f4f1c51e327dc6e",
+        "motion.json": "9614418c832dda656c043833a31df1c6759e6f8ea8116c9c2590b491f279c41e",
+        "meta.json": "5a6562ffee82853a11f69115583425f88b5b7827fd9ac74878431c26ddb886a0",
+        "reference.png": "2ec375afc0ebc14fdd615f6c6342b1c389e98233a46916120ccc9d5e7df12b11"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 40235
     },
     {
       "id": "pencil-case",
@@ -16104,6 +17208,75 @@
       "animationBytes": 26678
     },
     {
+      "id": "robin",
+      "name": "robin",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "robin"
+        },
+        "vi": {
+          "text": "con chim cổ đỏ"
+        },
+        "zh-Hans": {
+          "text": "知更鸟",
+          "reading": "zhīgēngniǎo"
+        },
+        "ja": {
+          "text": "ヨーロッパコマドリ",
+          "reading": "yōroppa komadori"
+        },
+        "ko": {
+          "text": "유럽울새",
+          "reading": "yureop ulsae"
+        },
+        "es": {
+          "text": "el petirrojo"
+        },
+        "fr": {
+          "text": "le rouge-gorge"
+        },
+        "de": {
+          "text": "das Rotkehlchen"
+        },
+        "id": {
+          "text": "burung robin"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/robin/source.png",
+        "still.png": "assets/robin/still.png",
+        "still.webp": "assets/robin/still.webp",
+        "animated.avif": "assets/robin/animated.avif",
+        "motion.json": "assets/robin/motion.json",
+        "meta.json": "assets/robin/meta.json",
+        "reference.png": "assets/robin/reference.png"
+      },
+      "sha256": {
+        "source.png": "037483465ccfbafd2975be9eb2d19af7ec27ee5ae7f3e9a95985979e30cf5728",
+        "still.png": "3730c3e3c9ebea49d9781261fb22880cf1c731e8307c7223397ae2999e0d36ce",
+        "still.webp": "d581f8c222c7bbdd021e576c22ef983560227787fe474fdab746dddeab1b3c8e",
+        "animated.avif": "d615873f93d8d06e7320e610269678dc777d057048f733c4ad587117c4b9713b",
+        "motion.json": "9f7deb7b9c6cc93c131e63b2cccbf419a910f73dffbfaa76765b0201bef5b3ff",
+        "meta.json": "4d96aec238bdfdbe8772feb54ecd1152d93d19f3eedf8f3bdc51b98612f0b6a9",
+        "reference.png": "3730c3e3c9ebea49d9781261fb22880cf1c731e8307c7223397ae2999e0d36ce"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 52066
+    },
+    {
       "id": "rocking-chair",
       "name": "rocking chair",
       "category": "home",
@@ -16501,6 +17674,75 @@
       "animationBytes": 31782
     },
     {
+      "id": "scallop",
+      "name": "scallop",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "scallop"
+        },
+        "vi": {
+          "text": "con sò điệp"
+        },
+        "zh-Hans": {
+          "text": "扇贝",
+          "reading": "shànbèi"
+        },
+        "ja": {
+          "text": "ホタテ",
+          "reading": "hotate"
+        },
+        "ko": {
+          "text": "가리비",
+          "reading": "garibi"
+        },
+        "es": {
+          "text": "la vieira"
+        },
+        "fr": {
+          "text": "la coquille Saint-Jacques"
+        },
+        "de": {
+          "text": "die Jakobsmuschel"
+        },
+        "id": {
+          "text": "kerang simping"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/scallop/source.png",
+        "still.png": "assets/scallop/still.png",
+        "still.webp": "assets/scallop/still.webp",
+        "animated.avif": "assets/scallop/animated.avif",
+        "motion.json": "assets/scallop/motion.json",
+        "meta.json": "assets/scallop/meta.json",
+        "reference.png": "assets/scallop/reference.png"
+      },
+      "sha256": {
+        "source.png": "5210017d7b4e0096587a939d55f97c9fb7427c2fbf09f07dbc9b7399cb246f91",
+        "still.png": "7deafe8fba96c0472790f77fc659c55d7a85b008f07b504a4db54fef704c8feb",
+        "still.webp": "0749d56a66ab046e8120e773d85c5f76c84c5e446d7e4e0be0751cd5bc4d7f69",
+        "animated.avif": "136bf617a3732ff6a27c54461ba7d74ea6f585bd08d72e3e7980152d10ad6503",
+        "motion.json": "f3024c9a4a92a6b84020ce9af004c203a040dd004b96a4031111c0566dea63dd",
+        "meta.json": "5d7fb5ec5663519239c695652658894261cf261df21037d091a508b1c1363bd6",
+        "reference.png": "7deafe8fba96c0472790f77fc659c55d7a85b008f07b504a4db54fef704c8feb"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 57981
+    },
+    {
       "id": "scarecrow",
       "name": "scarecrow",
       "category": "garden",
@@ -16765,6 +18007,282 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 19580
+    },
+    {
+      "id": "sea-anemone",
+      "name": "sea anemone",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "sea anemone"
+        },
+        "vi": {
+          "text": "con hải quỳ"
+        },
+        "zh-Hans": {
+          "text": "海葵",
+          "reading": "hǎikuí"
+        },
+        "ja": {
+          "text": "イソギンチャク",
+          "reading": "isoginchaku"
+        },
+        "ko": {
+          "text": "말미잘",
+          "reading": "malmijal"
+        },
+        "es": {
+          "text": "la anémona de mar"
+        },
+        "fr": {
+          "text": "l'anémone de mer"
+        },
+        "de": {
+          "text": "die Seeanemone"
+        },
+        "id": {
+          "text": "anemon laut"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sea-anemone/source.png",
+        "still.png": "assets/sea-anemone/still.png",
+        "still.webp": "assets/sea-anemone/still.webp",
+        "animated.avif": "assets/sea-anemone/animated.avif",
+        "motion.json": "assets/sea-anemone/motion.json",
+        "meta.json": "assets/sea-anemone/meta.json",
+        "reference.png": "assets/sea-anemone/reference.png"
+      },
+      "sha256": {
+        "source.png": "400b07dff314c3c268a2ef3c74a38dd6e89c98dc3caf77cf6b0d98ad5a4495eb",
+        "still.png": "fa5e0ab05b569071004e750c24a2d5ac4e1eed5f84bcb64da62a8b293c980db7",
+        "still.webp": "c794a5292055f8efdab7a293a162266053a1c6f8a9413654542f4ce24cb6b86b",
+        "animated.avif": "2eee1e843aa70cd300e05e919f94b7b2197f493a4cffbfa33d2f051818219968",
+        "motion.json": "d2c65948357bf77e3cc4bf6503d9bc44a688cd8a69f9f23ea68c9514bcb5ec40",
+        "meta.json": "e45fcb8a842c6dc357bd3b1ed9390b68996f9bf77fb3532a0a623c2d8bca91eb",
+        "reference.png": "fa5e0ab05b569071004e750c24a2d5ac4e1eed5f84bcb64da62a8b293c980db7"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56182
+    },
+    {
+      "id": "sea-lion",
+      "name": "sea lion",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "sea lion"
+        },
+        "vi": {
+          "text": "con sư tử biển"
+        },
+        "zh-Hans": {
+          "text": "海狮",
+          "reading": "hǎishī"
+        },
+        "ja": {
+          "text": "アシカ",
+          "reading": "ashika"
+        },
+        "ko": {
+          "text": "바다사자",
+          "reading": "bada saja"
+        },
+        "es": {
+          "text": "el león marino"
+        },
+        "fr": {
+          "text": "le lion de mer"
+        },
+        "de": {
+          "text": "der Seelöwe"
+        },
+        "id": {
+          "text": "singa laut"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sea-lion/source.png",
+        "still.png": "assets/sea-lion/still.png",
+        "still.webp": "assets/sea-lion/still.webp",
+        "animated.avif": "assets/sea-lion/animated.avif",
+        "motion.json": "assets/sea-lion/motion.json",
+        "meta.json": "assets/sea-lion/meta.json",
+        "reference.png": "assets/sea-lion/reference.png"
+      },
+      "sha256": {
+        "source.png": "48decc858115389a3ec9efa32678545d7de6422c2786269e2a0cdc64b9aaadbe",
+        "still.png": "43a2e79635737535d9d67e06c7ed66883d53c782d7e14358ac58bff52802ad30",
+        "still.webp": "66293cd34088abe3b531733456592b3bbf127d2a9d7e608ed98d07dc5581666b",
+        "animated.avif": "0ee252e662db8abab802c4bed65e3cd8792f7c1b8b0f49954088f41ced3b05a1",
+        "motion.json": "506767bc70f68ce03096b192c2c4c49111cde5d1e43ad125067b1e49a1fbae8d",
+        "meta.json": "42979111355cb3c928cf011032d8fc4fde34f6e2033e3a8b6edd25810523508b",
+        "reference.png": "43a2e79635737535d9d67e06c7ed66883d53c782d7e14358ac58bff52802ad30"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 35108
+    },
+    {
+      "id": "sea-urchin",
+      "name": "sea urchin",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "sea urchin"
+        },
+        "vi": {
+          "text": "con nhím biển"
+        },
+        "zh-Hans": {
+          "text": "海胆",
+          "reading": "hǎidǎn"
+        },
+        "ja": {
+          "text": "ウニ",
+          "reading": "uni"
+        },
+        "ko": {
+          "text": "성게",
+          "reading": "seongge"
+        },
+        "es": {
+          "text": "el erizo de mar"
+        },
+        "fr": {
+          "text": "l'oursin"
+        },
+        "de": {
+          "text": "der Seeigel"
+        },
+        "id": {
+          "text": "bulu babi"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sea-urchin/source.png",
+        "still.png": "assets/sea-urchin/still.png",
+        "still.webp": "assets/sea-urchin/still.webp",
+        "animated.avif": "assets/sea-urchin/animated.avif",
+        "motion.json": "assets/sea-urchin/motion.json",
+        "meta.json": "assets/sea-urchin/meta.json",
+        "reference.png": "assets/sea-urchin/reference.png"
+      },
+      "sha256": {
+        "source.png": "2bb6c058a9eb14d7fc3a44d152a3565a5b2d0c0682b46077d82cc502ec38c243",
+        "still.png": "a47f2b321c6ea4d9f192bb593ccbb0ecfab774ff628f9142f2403e0f27b121e0",
+        "still.webp": "842523bfd9d049bef3aaa6a34595ef394991410adf2cb788b847c06aabf65eea",
+        "animated.avif": "f60164d93c1b75618faecdae615a6d46b4dfbddc7b8c01bba1df14900d43a715",
+        "motion.json": "1d5165bd000a30d3f7a94351c14849e5b3db0f470ea316a1ad0a0f5ef20b0aa7",
+        "meta.json": "1d6cc8b45176c2d9210c58ccbeb08488ef4765d85c0172e9be8883a39c17cd77",
+        "reference.png": "a47f2b321c6ea4d9f192bb593ccbb0ecfab774ff628f9142f2403e0f27b121e0"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 47315
+    },
+    {
+      "id": "seahorse",
+      "name": "seahorse",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "seahorse"
+        },
+        "vi": {
+          "text": "con cá ngựa"
+        },
+        "zh-Hans": {
+          "text": "海马",
+          "reading": "hǎimǎ"
+        },
+        "ja": {
+          "text": "タツノオトシゴ",
+          "reading": "tatsu no otoshigo"
+        },
+        "ko": {
+          "text": "해마",
+          "reading": "haema"
+        },
+        "es": {
+          "text": "el caballito de mar"
+        },
+        "fr": {
+          "text": "l'hippocampe"
+        },
+        "de": {
+          "text": "das Seepferdchen"
+        },
+        "id": {
+          "text": "kuda laut"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/seahorse/source.png",
+        "still.png": "assets/seahorse/still.png",
+        "still.webp": "assets/seahorse/still.webp",
+        "animated.avif": "assets/seahorse/animated.avif",
+        "motion.json": "assets/seahorse/motion.json",
+        "meta.json": "assets/seahorse/meta.json",
+        "reference.png": "assets/seahorse/reference.png"
+      },
+      "sha256": {
+        "source.png": "a3f71439f188b5152eb0a3e5c7b5d59d91884c2631d0997722d520afe79ab28d",
+        "still.png": "fe1413f2f548e4c20db3257d908e9f239429145a9941091beff7ee7288d27be1",
+        "still.webp": "83d06efe39a96cd3f1653e4d663fc0d1f617ac61a451398b2606e32bcb5d6a2a",
+        "animated.avif": "d845df1ec48070145a9b71e414b37c1bdeb916c23acb28a1ea9587f97943f1e1",
+        "motion.json": "6b51bdad09a39eb13c748b8f620cfc65e0909a15097f83301bb4c04432b5c825",
+        "meta.json": "cb2a7078fef0fcb9d61af1cd576bf8fc22eeb9d7bb3bdfe1ad83ac018fd5e740",
+        "reference.png": "fe1413f2f548e4c20db3257d908e9f239429145a9941091beff7ee7288d27be1"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 47539
     },
     {
       "id": "seed",
@@ -17830,6 +19348,75 @@
       "animationBytes": 37941
     },
     {
+      "id": "sparrow",
+      "name": "sparrow",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "sparrow"
+        },
+        "vi": {
+          "text": "con chim sẻ"
+        },
+        "zh-Hans": {
+          "text": "麻雀",
+          "reading": "máquè"
+        },
+        "ja": {
+          "text": "スズメ",
+          "reading": "suzume"
+        },
+        "ko": {
+          "text": "참새",
+          "reading": "chamsae"
+        },
+        "es": {
+          "text": "el gorrión"
+        },
+        "fr": {
+          "text": "le moineau"
+        },
+        "de": {
+          "text": "der Spatz"
+        },
+        "id": {
+          "text": "burung pipit"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sparrow/source.png",
+        "still.png": "assets/sparrow/still.png",
+        "still.webp": "assets/sparrow/still.webp",
+        "animated.avif": "assets/sparrow/animated.avif",
+        "motion.json": "assets/sparrow/motion.json",
+        "meta.json": "assets/sparrow/meta.json",
+        "reference.png": "assets/sparrow/reference.png"
+      },
+      "sha256": {
+        "source.png": "d6efacb9c9396db8acf840c1c84267b913e2e4156276eb935c94bff5ff5e1f9a",
+        "still.png": "1b73afd92b77b7a56b8effe17b38d8950db0d741bd6245b59e9fd1f3f812260e",
+        "still.webp": "465e77966366a071b6d3bc06451da1269ca13883389ca7fc0dba614067734d3e",
+        "animated.avif": "352414a0e03eb477a8e0b94b7ebfd5ae0aa5feaadc700789a41e73e94460924a",
+        "motion.json": "6ef9ecd42c20411d3dbca21d55634279771484d7c642b64f6db4d6adf1b51b1b",
+        "meta.json": "ab5bb700770916c68e9903626eafbe929630434428bf07f70ed6455f32a6c15a",
+        "reference.png": "1b73afd92b77b7a56b8effe17b38d8950db0d741bd6245b59e9fd1f3f812260e"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51049
+    },
+    {
       "id": "spatula",
       "name": "spatula",
       "category": "kitchen",
@@ -17960,6 +19547,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 25818
+    },
+    {
+      "id": "spoonbill",
+      "name": "spoonbill",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "spoonbill"
+        },
+        "vi": {
+          "text": "con cò thìa"
+        },
+        "zh-Hans": {
+          "text": "琵鹭",
+          "reading": "pílù"
+        },
+        "ja": {
+          "text": "ヘラサギ",
+          "reading": "herasagi"
+        },
+        "ko": {
+          "text": "저어새",
+          "reading": "jeoeosae"
+        },
+        "es": {
+          "text": "la espátula"
+        },
+        "fr": {
+          "text": "la spatule"
+        },
+        "de": {
+          "text": "der Löffler"
+        },
+        "id": {
+          "text": "burung sendok"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/spoonbill/source.png",
+        "still.png": "assets/spoonbill/still.png",
+        "still.webp": "assets/spoonbill/still.webp",
+        "animated.avif": "assets/spoonbill/animated.avif",
+        "motion.json": "assets/spoonbill/motion.json",
+        "meta.json": "assets/spoonbill/meta.json",
+        "reference.png": "assets/spoonbill/reference.png"
+      },
+      "sha256": {
+        "source.png": "ec57b12a191b878d078272ae0ec78c542893b3d01b85069eeebd99524774bff8",
+        "still.png": "1be6bc2b84d3356daf22198998e5db0daefa6ff30c15779c08565a041d1b6ab3",
+        "still.webp": "118391b5c617bc4276437de73d70e3fb4bf6806bb6ddfb0b1fe3624313d99056",
+        "animated.avif": "351faafa6723edbb3110dcd4f5aa768cb723ba51f46c8e2da77b4612dad94334",
+        "motion.json": "1df9c4dfd48b36e6dfd111288c1a6b98f185150deaab3155be7c92c720b285c7",
+        "meta.json": "c4b6a30d23732ef5258db6a080b78548cc2f7c80159b28805d08573b5a2d3692",
+        "reference.png": "1be6bc2b84d3356daf22198998e5db0daefa6ff30c15779c08565a041d1b6ab3"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 33241
     },
     {
       "id": "spring-onion",
@@ -18362,6 +20018,75 @@
       "animationBytes": 38476
     },
     {
+      "id": "starfish",
+      "name": "starfish",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "starfish"
+        },
+        "vi": {
+          "text": "con sao biển"
+        },
+        "zh-Hans": {
+          "text": "海星",
+          "reading": "hǎixīng"
+        },
+        "ja": {
+          "text": "ヒトデ",
+          "reading": "hitode"
+        },
+        "ko": {
+          "text": "불가사리",
+          "reading": "bulgasari"
+        },
+        "es": {
+          "text": "la estrella de mar"
+        },
+        "fr": {
+          "text": "l'étoile de mer"
+        },
+        "de": {
+          "text": "der Seestern"
+        },
+        "id": {
+          "text": "bintang laut"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/starfish/source.png",
+        "still.png": "assets/starfish/still.png",
+        "still.webp": "assets/starfish/still.webp",
+        "animated.avif": "assets/starfish/animated.avif",
+        "motion.json": "assets/starfish/motion.json",
+        "meta.json": "assets/starfish/meta.json",
+        "reference.png": "assets/starfish/reference.png"
+      },
+      "sha256": {
+        "source.png": "b7e511e0c46e8ab258cdb96fb6f9c8f2b45f32fe74992c5d1908effbd26afd51",
+        "still.png": "2ce34f72500590b174e544fc4c28881d7db3ae51884bcefc5a56a1db01cedacd",
+        "still.webp": "442341860d60a0ae30a49cd38a1624f33ed13c1345d7a7818ad0e5b9b1d55714",
+        "animated.avif": "617d837182b2345a2fc8fc52c0c8c166551ffb1f660a3738e1c69077029326d1",
+        "motion.json": "076f97b93c6676a0722f3389b292091e57591cf76105bf051c67197d520ce9a0",
+        "meta.json": "0d2b178e11cdb41043e98d03f4d9dbfdb23707947a524bf5d9bfc2cbed7619dc",
+        "reference.png": "2ce34f72500590b174e544fc4c28881d7db3ae51884bcefc5a56a1db01cedacd"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 50093
+    },
+    {
       "id": "steamed-bun",
       "name": "steamed bun",
       "category": "meals",
@@ -18692,6 +20417,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 20786
+    },
+    {
+      "id": "stork",
+      "name": "stork",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "stork"
+        },
+        "vi": {
+          "text": "con cò"
+        },
+        "zh-Hans": {
+          "text": "鹳",
+          "reading": "guàn"
+        },
+        "ja": {
+          "text": "コウノトリ",
+          "reading": "kōnotori"
+        },
+        "ko": {
+          "text": "황새",
+          "reading": "hwangsae"
+        },
+        "es": {
+          "text": "la cigüeña"
+        },
+        "fr": {
+          "text": "la cigogne"
+        },
+        "de": {
+          "text": "der Storch"
+        },
+        "id": {
+          "text": "burung bangau"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/stork/source.png",
+        "still.png": "assets/stork/still.png",
+        "still.webp": "assets/stork/still.webp",
+        "animated.avif": "assets/stork/animated.avif",
+        "motion.json": "assets/stork/motion.json",
+        "meta.json": "assets/stork/meta.json",
+        "reference.png": "assets/stork/reference.png"
+      },
+      "sha256": {
+        "source.png": "3805e57fbe9105c7f5187d0d6c215c5becf0c19586027cf29b9dcba7004712c6",
+        "still.png": "d27a6d31c913947381f648633dc3ced578736a0ca006c1912c803d3e0833e770",
+        "still.webp": "fec44b656d3fe6e2ec053617fcbc00051be7a363f0c0b5b9d737872b1ebb5689",
+        "animated.avif": "3a3c48642f800e0ad70ad67101ca590879d85b6a6fa913b863017647e463aec5",
+        "motion.json": "705fabde734d75f95658acb3c70489db8d392e37d860e0d66c0b5b4f395b097c",
+        "meta.json": "bf525ff4d68a09f79af52efa295ec6d5151cbce8974a5b8d7cc64d56eaef629f",
+        "reference.png": "d27a6d31c913947381f648633dc3ced578736a0ca006c1912c803d3e0833e770"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 46478
     },
     {
       "id": "stove",
@@ -19026,6 +20820,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 25215
+    },
+    {
+      "id": "swallow",
+      "name": "swallow",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "swallow"
+        },
+        "vi": {
+          "text": "con chim én"
+        },
+        "zh-Hans": {
+          "text": "燕子",
+          "reading": "yànzi"
+        },
+        "ja": {
+          "text": "ツバメ",
+          "reading": "tsubame"
+        },
+        "ko": {
+          "text": "제비",
+          "reading": "jebi"
+        },
+        "es": {
+          "text": "la golondrina"
+        },
+        "fr": {
+          "text": "l'hirondelle"
+        },
+        "de": {
+          "text": "die Schwalbe"
+        },
+        "id": {
+          "text": "burung layang-layang"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/swallow/source.png",
+        "still.png": "assets/swallow/still.png",
+        "still.webp": "assets/swallow/still.webp",
+        "animated.avif": "assets/swallow/animated.avif",
+        "motion.json": "assets/swallow/motion.json",
+        "meta.json": "assets/swallow/meta.json",
+        "reference.png": "assets/swallow/reference.png"
+      },
+      "sha256": {
+        "source.png": "d1e44ea019d22f2080ede64bd3a0e9636a515d2478683ba244d2d5f6baa1b1de",
+        "still.png": "2b77e325d1638652fcd09a1bde39a2e0b1a0388b687d28b95bfeba3476ade0bb",
+        "still.webp": "3fccae8f43b702f6d84be7757e9945bf5f0c41cbc313850ac1fe6cb7259f2912",
+        "animated.avif": "d2c5c6c42b964dbdaf31bcdf453b259928690165bf63825f1352c4575a7521e7",
+        "motion.json": "d744889798b3ae65a625bd588bf9da9ad09929c84c0c655c4402bb713909e884",
+        "meta.json": "8e19627b6617497e807efa3426342aff3bfd718c1af755032262f9e7e94b2085",
+        "reference.png": "2b77e325d1638652fcd09a1bde39a2e0b1a0388b687d28b95bfeba3476ade0bb"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 53671
     },
     {
       "id": "sweater",
@@ -19960,6 +21823,75 @@
       "animationBytes": 42252
     },
     {
+      "id": "toucan",
+      "name": "toucan",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "toucan"
+        },
+        "vi": {
+          "text": "con chim toucan"
+        },
+        "zh-Hans": {
+          "text": "巨嘴鸟",
+          "reading": "jùzuǐniǎo"
+        },
+        "ja": {
+          "text": "オオハシ",
+          "reading": "ōhashi"
+        },
+        "ko": {
+          "text": "큰부리새",
+          "reading": "keunburisae"
+        },
+        "es": {
+          "text": "el tucán"
+        },
+        "fr": {
+          "text": "le toucan"
+        },
+        "de": {
+          "text": "der Tukan"
+        },
+        "id": {
+          "text": "burung tukan"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/toucan/source.png",
+        "still.png": "assets/toucan/still.png",
+        "still.webp": "assets/toucan/still.webp",
+        "animated.avif": "assets/toucan/animated.avif",
+        "motion.json": "assets/toucan/motion.json",
+        "meta.json": "assets/toucan/meta.json",
+        "reference.png": "assets/toucan/reference.png"
+      },
+      "sha256": {
+        "source.png": "19c3b19bcf966cee2d9c98349f873ace9c555fbf1503f26a7c2b59bc4a2cb674",
+        "still.png": "a6def633e39cafc98cdb4168ddf66799eaf56da4a77a4cdb93ec9dd2cc5bb12c",
+        "still.webp": "cfbeb6269c086f9f5ce62ba5c9be38cb6eaa263e48f78443bcd8ee5ef07d1282",
+        "animated.avif": "15287f55042b5e30f06bb9aecd15710afae5589a9deb3aeadfe2eec428c5651b",
+        "motion.json": "e0b11ef3ec9b373c878e78e30f2abd03caf896ee24631d06710e836935177870",
+        "meta.json": "dd5e0dd961834995808a6308f1394c7cca5e12d873691ed64afd3f4ae03985dd",
+        "reference.png": "a6def633e39cafc98cdb4168ddf66799eaf56da4a77a4cdb93ec9dd2cc5bb12c"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 30895
+    },
+    {
       "id": "tracksuit",
       "name": "tracksuit",
       "category": "clothing",
@@ -20823,6 +22755,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 35005
+    },
+    {
+      "id": "walrus",
+      "name": "walrus",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "walrus"
+        },
+        "vi": {
+          "text": "con hải mã"
+        },
+        "zh-Hans": {
+          "text": "海象",
+          "reading": "hǎixiàng"
+        },
+        "ja": {
+          "text": "セイウチ",
+          "reading": "seiuchi"
+        },
+        "ko": {
+          "text": "바다코끼리",
+          "reading": "bada kokkiri"
+        },
+        "es": {
+          "text": "la morsa"
+        },
+        "fr": {
+          "text": "le morse"
+        },
+        "de": {
+          "text": "das Walross"
+        },
+        "id": {
+          "text": "walrus"
+        }
+      },
+      "tags": [
+        "sea-animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/walrus/source.png",
+        "still.png": "assets/walrus/still.png",
+        "still.webp": "assets/walrus/still.webp",
+        "animated.avif": "assets/walrus/animated.avif",
+        "motion.json": "assets/walrus/motion.json",
+        "meta.json": "assets/walrus/meta.json",
+        "reference.png": "assets/walrus/reference.png"
+      },
+      "sha256": {
+        "source.png": "c776d3655a212a8b86694a4f6401d33c2296c866c48ca1be5c4543dd3457df50",
+        "still.png": "c159cc8264446eb164368122a2303e8aff71587abb515fb628b597fc0375aee2",
+        "still.webp": "4ad418ee959caf6d53045574bf8394209416aa06ec67aa9a798e290d138096ce",
+        "animated.avif": "a9de75f45d6356ae0fa80e077713aebdf00d1f4e53570d6509f3bc74e246cf49",
+        "motion.json": "220279ca27adb863f7e577a94b7e87beeb95eb6cfb4c8248c3d1b3a77d299231",
+        "meta.json": "138b291afb983643a4b52ac05cf8de75ef7e0b13bb34ec4c8807d8154c569690",
+        "reference.png": "c159cc8264446eb164368122a2303e8aff71587abb515fb628b597fc0375aee2"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 29325
     },
     {
       "id": "wardrobe",
@@ -21754,6 +23755,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 39722
+    },
+    {
+      "id": "woodpecker",
+      "name": "woodpecker",
+      "category": "wildlife",
+      "terms": {
+        "en": {
+          "text": "woodpecker"
+        },
+        "vi": {
+          "text": "con chim gõ kiến"
+        },
+        "zh-Hans": {
+          "text": "啄木鸟",
+          "reading": "zhuómùniǎo"
+        },
+        "ja": {
+          "text": "キツツキ",
+          "reading": "kitsutsuki"
+        },
+        "ko": {
+          "text": "딱따구리",
+          "reading": "ttakttaguri"
+        },
+        "es": {
+          "text": "el pájaro carpintero"
+        },
+        "fr": {
+          "text": "le pic"
+        },
+        "de": {
+          "text": "der Specht"
+        },
+        "id": {
+          "text": "burung pelatuk"
+        }
+      },
+      "tags": [
+        "animals",
+        "wildlife"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-30-2026-11-09",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/woodpecker/source.png",
+        "still.png": "assets/woodpecker/still.png",
+        "still.webp": "assets/woodpecker/still.webp",
+        "animated.avif": "assets/woodpecker/animated.avif",
+        "motion.json": "assets/woodpecker/motion.json",
+        "meta.json": "assets/woodpecker/meta.json",
+        "reference.png": "assets/woodpecker/reference.png"
+      },
+      "sha256": {
+        "source.png": "45ec35489e856a210e0e436520f3e9522695532249c85318f9720855bf3cc9b0",
+        "still.png": "a38c2f799feff6eb56aaaf46a29e3c880979ac38191b18968aa4891c61a4442b",
+        "still.webp": "e49a320b226f8a9fe5c6e8bfce71ccebff8f306c92b2b0c7a6cdf7e8ec2e3fa3",
+        "animated.avif": "ddcd11bd3ee9065654a45598f87af019c225bd00e9cb4e65ac835261499eb263",
+        "motion.json": "0d4a9a1bfed8938e421e955c36f6798a61cb041903a678d83f8d41ce92794bc6",
+        "meta.json": "0bbbfbd2d1fba73929a60e699ead7112e126914283bbf9f467b002d4e7f12735",
+        "reference.png": "a38c2f799feff6eb56aaaf46a29e3c880979ac38191b18968aa4891c61a4442b"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 50004
     },
     {
       "id": "yak",

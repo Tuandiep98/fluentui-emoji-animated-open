@@ -1,0 +1,46 @@
+{
+  "id": "toucan",
+  "name": "toucan",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "toucan"
+    },
+    "vi": {
+      "text": "con chim toucan"
+    },
+    "zh-Hans": {
+      "text": "巨嘴鸟",
+      "reading": "jùzuǐniǎo"
+    },
+    "ja": {
+      "text": "オオハシ",
+      "reading": "ōhashi"
+    },
+    "ko": {
+      "text": "큰부리새",
+      "reading": "keunburisae"
+    },
+    "es": {
+      "text": "el tucán"
+    },
+    "fr": {
+      "text": "le toucan"
+    },
+    "de": {
+      "text": "der Tukan"
+    },
+    "id": {
+      "text": "burung tukan"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

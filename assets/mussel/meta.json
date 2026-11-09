@@ -1,0 +1,46 @@
+{
+  "id": "mussel",
+  "name": "mussel",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "mussel"
+    },
+    "vi": {
+      "text": "con vẹm"
+    },
+    "zh-Hans": {
+      "text": "贻贝",
+      "reading": "yíbèi"
+    },
+    "ja": {
+      "text": "ムール貝",
+      "reading": "mūrugai"
+    },
+    "ko": {
+      "text": "홍합",
+      "reading": "honghap"
+    },
+    "es": {
+      "text": "el mejillón"
+    },
+    "fr": {
+      "text": "la moule"
+    },
+    "de": {
+      "text": "die Miesmuschel"
+    },
+    "id": {
+      "text": "kupang"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

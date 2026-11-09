@@ -1,0 +1,46 @@
+{
+  "id": "scallop",
+  "name": "scallop",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "scallop"
+    },
+    "vi": {
+      "text": "con sò điệp"
+    },
+    "zh-Hans": {
+      "text": "扇贝",
+      "reading": "shànbèi"
+    },
+    "ja": {
+      "text": "ホタテ",
+      "reading": "hotate"
+    },
+    "ko": {
+      "text": "가리비",
+      "reading": "garibi"
+    },
+    "es": {
+      "text": "la vieira"
+    },
+    "fr": {
+      "text": "la coquille Saint-Jacques"
+    },
+    "de": {
+      "text": "die Jakobsmuschel"
+    },
+    "id": {
+      "text": "kerang simping"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

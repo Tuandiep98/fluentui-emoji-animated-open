@@ -1,0 +1,46 @@
+{
+  "id": "robin",
+  "name": "robin",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "robin"
+    },
+    "vi": {
+      "text": "con chim cổ đỏ"
+    },
+    "zh-Hans": {
+      "text": "知更鸟",
+      "reading": "zhīgēngniǎo"
+    },
+    "ja": {
+      "text": "ヨーロッパコマドリ",
+      "reading": "yōroppa komadori"
+    },
+    "ko": {
+      "text": "유럽울새",
+      "reading": "yureop ulsae"
+    },
+    "es": {
+      "text": "el petirrojo"
+    },
+    "fr": {
+      "text": "le rouge-gorge"
+    },
+    "de": {
+      "text": "das Rotkehlchen"
+    },
+    "id": {
+      "text": "burung robin"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

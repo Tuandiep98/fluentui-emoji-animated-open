@@ -1,0 +1,178 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "fe298ab839c874919a526b5f241af67cae7cd25d416c3789f75c52089fa19fbd",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          160,
+          100
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          163,
+          80,
+          36,
+          36
+        ]
+      }
+    ],
+    "landmarks": {}
+  },
+  "regions": [
+    {
+      "name": "original-near-claw-gesture",
+      "kind": "rotate",
+      "center": [
+        174,
+        174
+      ],
+      "radius": [
+        32,
+        41
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4
+        ],
+        [
+          1.4,
+          -1.4
+        ],
+        [
+          2.05,
+          2.4
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        163,
+        138
+      ]
+    },
+    {
+      "name": "original-far-claw-response",
+      "kind": "rotate",
+      "center": [
+        222,
+        162
+      ],
+      "radius": [
+        26,
+        36
+      ],
+      "amp": -3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.42,
+          0
+        ],
+        [
+          1.02,
+          -3.8
+        ],
+        [
+          1.52,
+          1.3299999999999998
+        ],
+        [
+          2.17,
+          -2.28
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        211,
+        137
+      ]
+    },
+    {
+      "name": "original-front-leg",
+      "kind": "rotate",
+      "center": [
+        118,
+        189
+      ],
+      "radius": [
+        26,
+        31
+      ],
+      "amp": 3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.38,
+          0
+        ],
+        [
+          0.98,
+          3.6
+        ],
+        [
+          1.48,
+          -1.26
+        ],
+        [
+          2.13,
+          2.16
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        130,
+        158
+      ]
+    }
+  ],
+  "note": "New original artwork frozen before animation. Measured local anatomy tracks with slightly stronger head/wing/tail gestures and staggered timing; all original-artwork geometry, silhouette, anchor and loop gates remain unchanged."
+}

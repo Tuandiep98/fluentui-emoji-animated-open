@@ -1,0 +1,200 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "fa5e0ab05b569071004e750c24a2d5ac4e1eed5f84bcb64da62a8b293c980db7",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          58,
+          192,
+          141,
+          49
+        ]
+      }
+    ],
+    "landmarks": {}
+  },
+  "regions": [
+    {
+      "name": "left-tentacle-sway",
+      "kind": "wave",
+      "center": [
+        66,
+        83
+      ],
+      "radius": [
+        43,
+        52
+      ],
+      "amp": 3.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.25,
+          0
+        ],
+        [
+          0.85,
+          3.3
+        ],
+        [
+          1.35,
+          -1.1549999999999998
+        ],
+        [
+          1.85,
+          2.3099999999999996
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "upper-tentacle-sway",
+      "kind": "wave",
+      "center": [
+        131,
+        49
+      ],
+      "radius": [
+        39,
+        32
+      ],
+      "amp": -3.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.37,
+          0
+        ],
+        [
+          0.97,
+          -3.4
+        ],
+        [
+          1.4700000000000002,
+          1.19
+        ],
+        [
+          1.9700000000000002,
+          -2.38
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "right-tentacle-sway",
+      "kind": "wave",
+      "center": [
+        193,
+        83
+      ],
+      "radius": [
+        44,
+        49
+      ],
+      "amp": 3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.45,
+          0
+        ],
+        [
+          1.05,
+          3
+        ],
+        [
+          1.55,
+          -1.0499999999999998
+        ],
+        [
+          2.0500000000000003,
+          2.0999999999999996
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "front-tentacle-sway",
+      "kind": "wave",
+      "center": [
+        129,
+        145
+      ],
+      "radius": [
+        77,
+        35
+      ],
+      "amp": -2.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.32,
+          0
+        ],
+        [
+          0.9199999999999999,
+          -2.8
+        ],
+        [
+          1.4200000000000002,
+          0.9799999999999999
+        ],
+        [
+          1.9200000000000002,
+          -1.9599999999999997
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "New original artwork frozen before animation. Measured local anatomy tracks with slightly stronger head/wing/tail gestures and staggered timing; all original-artwork geometry, silhouette, anchor and loop gates remain unchanged."
+}

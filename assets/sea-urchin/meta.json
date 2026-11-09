@@ -1,0 +1,46 @@
+{
+  "id": "sea-urchin",
+  "name": "sea urchin",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "sea urchin"
+    },
+    "vi": {
+      "text": "con nhím biển"
+    },
+    "zh-Hans": {
+      "text": "海胆",
+      "reading": "hǎidǎn"
+    },
+    "ja": {
+      "text": "ウニ",
+      "reading": "uni"
+    },
+    "ko": {
+      "text": "성게",
+      "reading": "seongge"
+    },
+    "es": {
+      "text": "el erizo de mar"
+    },
+    "fr": {
+      "text": "l'oursin"
+    },
+    "de": {
+      "text": "der Seeigel"
+    },
+    "id": {
+      "text": "bulu babi"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

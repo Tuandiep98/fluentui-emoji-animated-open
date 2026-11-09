@@ -1,0 +1,46 @@
+{
+  "id": "seahorse",
+  "name": "seahorse",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "seahorse"
+    },
+    "vi": {
+      "text": "con cá ngựa"
+    },
+    "zh-Hans": {
+      "text": "海马",
+      "reading": "hǎimǎ"
+    },
+    "ja": {
+      "text": "タツノオトシゴ",
+      "reading": "tatsu no otoshigo"
+    },
+    "ko": {
+      "text": "해마",
+      "reading": "haema"
+    },
+    "es": {
+      "text": "el caballito de mar"
+    },
+    "fr": {
+      "text": "l'hippocampe"
+    },
+    "de": {
+      "text": "das Seepferdchen"
+    },
+    "id": {
+      "text": "kuda laut"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

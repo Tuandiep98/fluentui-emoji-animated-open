@@ -1,0 +1,46 @@
+{
+  "id": "nautilus",
+  "name": "nautilus",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "nautilus"
+    },
+    "vi": {
+      "text": "con ốc anh vũ"
+    },
+    "zh-Hans": {
+      "text": "鹦鹉螺",
+      "reading": "yīngwǔluó"
+    },
+    "ja": {
+      "text": "オウムガイ",
+      "reading": "ōmugai"
+    },
+    "ko": {
+      "text": "앵무조개",
+      "reading": "aengmujogae"
+    },
+    "es": {
+      "text": "el nautilo"
+    },
+    "fr": {
+      "text": "le nautile"
+    },
+    "de": {
+      "text": "der Nautilus"
+    },
+    "id": {
+      "text": "nautilus"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

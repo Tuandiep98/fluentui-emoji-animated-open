@@ -1,0 +1,200 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "a47f2b321c6ea4d9f192bb593ccbb0ecfab774ff628f9142f2403e0f27b121e0",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          95,
+          95,
+          66,
+          64
+        ]
+      }
+    ],
+    "landmarks": {}
+  },
+  "regions": [
+    {
+      "name": "top-spine-response",
+      "kind": "press",
+      "center": [
+        130,
+        50
+      ],
+      "radius": [
+        75,
+        35
+      ],
+      "amp": -2.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.25,
+          0
+        ],
+        [
+          0.85,
+          -2.8
+        ],
+        [
+          1.35,
+          0.9799999999999999
+        ],
+        [
+          1.85,
+          -1.9599999999999997
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "left-spine-response",
+      "kind": "wave",
+      "center": [
+        45,
+        129
+      ],
+      "radius": [
+        34,
+        72
+      ],
+      "amp": -2.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.35,
+          0
+        ],
+        [
+          0.95,
+          -2.5
+        ],
+        [
+          1.4500000000000002,
+          0.875
+        ],
+        [
+          1.9500000000000002,
+          -1.75
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "right-spine-response",
+      "kind": "wave",
+      "center": [
+        212,
+        128
+      ],
+      "radius": [
+        34,
+        73
+      ],
+      "amp": 2.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.41000000000000003,
+          0
+        ],
+        [
+          1.01,
+          2.5
+        ],
+        [
+          1.51,
+          -0.875
+        ],
+        [
+          2.0100000000000002,
+          1.75
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "lower-spine-response",
+      "kind": "press",
+      "center": [
+        127,
+        210
+      ],
+      "radius": [
+        76,
+        33
+      ],
+      "amp": 2.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.47,
+          0
+        ],
+        [
+          1.07,
+          2.5
+        ],
+        [
+          1.57,
+          -0.875
+        ],
+        [
+          2.0700000000000003,
+          1.75
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "New original artwork frozen before animation. Measured local anatomy tracks with slightly stronger head/wing/tail gestures and staggered timing; all original-artwork geometry, silhouette, anchor and loop gates remain unchanged."
+}

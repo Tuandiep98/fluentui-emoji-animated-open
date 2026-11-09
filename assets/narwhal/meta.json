@@ -1,0 +1,46 @@
+{
+  "id": "narwhal",
+  "name": "narwhal",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "narwhal"
+    },
+    "vi": {
+      "text": "con kỳ lân biển"
+    },
+    "zh-Hans": {
+      "text": "独角鲸",
+      "reading": "dújiǎojīng"
+    },
+    "ja": {
+      "text": "イッカク",
+      "reading": "ikkaku"
+    },
+    "ko": {
+      "text": "일각고래",
+      "reading": "ilgakgorae"
+    },
+    "es": {
+      "text": "el narval"
+    },
+    "fr": {
+      "text": "le narval"
+    },
+    "de": {
+      "text": "der Narwal"
+    },
+    "id": {
+      "text": "narwhal"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

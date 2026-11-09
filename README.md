@@ -27,7 +27,7 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**330 emoji · 8 categories**
+**360 emoji · 8 categories**
 
 | Category | Emoji |
 | --- | ---: |
@@ -36,10 +36,10 @@ Search names and translations in nine languages, filter categories, preview moti
 | Garden | 50 |
 | Fruit & vegetables | 50 |
 | Food & drink | 50 |
-| Wildlife | 30 |
+| Wildlife | 60 |
 | Clothing | 30 |
 | School & art | 20 |
-| **Total** | **330** |
+| **Total** | **360** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -186,3 +186,14 @@ Pages publishes stills, animations, recipes and review metadata. Large source.pn
 [Compare all 36 corrected emoji](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/original-fidelity/). Reviewed the latest 100: restored 27 animal and 9 object artworks to their exact original images, keeping the other 64 stills. The earlier painted cutout refinements for these 36 IDs are superseded.
 
 Every new or revised animation must freeze the approved original before authoring. Preserve camera, facing, silhouette, markings and proportions. No repainted, mirrored or detached parts. Use continuous local motion from the same pixels, or a rigid presentation for hard objects. Each corrected asset includes reference.png and a sourceLock recipe. Larger articulation needs a separately reviewed reconstruction that matches the original rest image first. See docs/GENERATING.md.
+
+## 30 new birds and marine animals — 2026-11-10
+
+[Preview the 30 new emoji and compare each original with its animation](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/next30/).
+
+15 birds + 15 marine animals, nine-language metadata, original transparent masters,
+immutable references and measured source-locked recipes. Every animation is 3 seconds,
+24 fps and below 60 KiB. The gallery loads AVIF on interaction, runs at most two icons
+and stops animation outside the viewport or in hidden tabs. Reduced motion and data
+saving disable hover autoplay. Hard shells stay rigid; local animal gestures preserve
+the original anatomy and facing. Prompts and exact rebuild recipes live with each asset.

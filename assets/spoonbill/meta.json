@@ -1,0 +1,46 @@
+{
+  "id": "spoonbill",
+  "name": "spoonbill",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "spoonbill"
+    },
+    "vi": {
+      "text": "con cò thìa"
+    },
+    "zh-Hans": {
+      "text": "琵鹭",
+      "reading": "pílù"
+    },
+    "ja": {
+      "text": "ヘラサギ",
+      "reading": "herasagi"
+    },
+    "ko": {
+      "text": "저어새",
+      "reading": "jeoeosae"
+    },
+    "es": {
+      "text": "la espátula"
+    },
+    "fr": {
+      "text": "la spatule"
+    },
+    "de": {
+      "text": "der Löffler"
+    },
+    "id": {
+      "text": "burung sendok"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

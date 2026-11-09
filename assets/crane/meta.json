@@ -1,0 +1,46 @@
+{
+  "id": "crane",
+  "name": "crane",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "crane"
+    },
+    "vi": {
+      "text": "con sếu"
+    },
+    "zh-Hans": {
+      "text": "鹤",
+      "reading": "hè"
+    },
+    "ja": {
+      "text": "ツル",
+      "reading": "tsuru"
+    },
+    "ko": {
+      "text": "두루미",
+      "reading": "durumi"
+    },
+    "es": {
+      "text": "la grulla"
+    },
+    "fr": {
+      "text": "la grue"
+    },
+    "de": {
+      "text": "der Kranich"
+    },
+    "id": {
+      "text": "burung jenjang"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

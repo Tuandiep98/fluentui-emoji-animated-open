@@ -1,0 +1,182 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "badff375eda7bd23a2ecd5ae86033549fd795dc63f58cecc094d9fad32f7a244",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          80,
+          164,
+          100,
+          88
+        ]
+      }
+    ],
+    "landmarks": {
+      "head": [
+        102,
+        31
+      ],
+      "wing": [
+        132,
+        113
+      ],
+      "chest": [
+        110,
+        113
+      ]
+    }
+  },
+  "regions": [
+    {
+      "name": "original-head-curious-tilt",
+      "kind": "rotate",
+      "center": [
+        102,
+        31
+      ],
+      "radius": [
+        43,
+        29
+      ],
+      "amp": -3.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.37,
+          0
+        ],
+        [
+          1.02,
+          -3.3
+        ],
+        [
+          1.4700000000000002,
+          -2.1
+        ],
+        [
+          2.02,
+          1.4
+        ],
+        [
+          2.6,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        105,
+        60
+      ]
+    },
+    {
+      "name": "original-wing-1",
+      "kind": "rotate",
+      "center": [
+        132,
+        113
+      ],
+      "radius": [
+        46,
+        43
+      ],
+      "amp": -4.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.42000000000000004,
+          0
+        ],
+        [
+          0.67,
+          -4.2
+        ],
+        [
+          0.9500000000000001,
+          1.26
+        ],
+        [
+          1.42,
+          0
+        ],
+        [
+          1.77,
+          -2.94
+        ],
+        [
+          2.2,
+          0
+        ],
+        [
+          2.65,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        108,
+        87
+      ]
+    },
+    {
+      "name": "original-body-breath",
+      "kind": "press",
+      "center": [
+        110,
+        113
+      ],
+      "radius": [
+        23,
+        41
+      ],
+      "amp": 1.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0.4
+        ],
+        [
+          1.35,
+          1.4
+        ],
+        [
+          2.1,
+          0.4
+        ],
+        [
+          2.7,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "New original artwork frozen before animation. Measured local anatomy tracks with slightly stronger head/wing/tail gestures and staggered timing; all original-artwork geometry, silhouette, anchor and loop gates remain unchanged."
+}

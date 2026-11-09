@@ -1,0 +1,46 @@
+{
+  "id": "hummingbird",
+  "name": "hummingbird",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "hummingbird"
+    },
+    "vi": {
+      "text": "con chim ruồi"
+    },
+    "zh-Hans": {
+      "text": "蜂鸟",
+      "reading": "fēngniǎo"
+    },
+    "ja": {
+      "text": "ハチドリ",
+      "reading": "hachidori"
+    },
+    "ko": {
+      "text": "벌새",
+      "reading": "beolsae"
+    },
+    "es": {
+      "text": "el colibrí"
+    },
+    "fr": {
+      "text": "le colibri"
+    },
+    "de": {
+      "text": "der Kolibri"
+    },
+    "id": {
+      "text": "burung kolibri"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

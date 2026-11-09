@@ -1,0 +1,46 @@
+{
+  "id": "horseshoe-crab",
+  "name": "horseshoe crab",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "horseshoe crab"
+    },
+    "vi": {
+      "text": "con sam biển"
+    },
+    "zh-Hans": {
+      "text": "鲎",
+      "reading": "hòu"
+    },
+    "ja": {
+      "text": "カブトガニ",
+      "reading": "kabutogani"
+    },
+    "ko": {
+      "text": "투구게",
+      "reading": "tuguge"
+    },
+    "es": {
+      "text": "el cangrejo herradura"
+    },
+    "fr": {
+      "text": "la limule"
+    },
+    "de": {
+      "text": "der Pfeilschwanzkrebs"
+    },
+    "id": {
+      "text": "belangkas"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

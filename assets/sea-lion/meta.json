@@ -1,0 +1,46 @@
+{
+  "id": "sea-lion",
+  "name": "sea lion",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "sea lion"
+    },
+    "vi": {
+      "text": "con sư tử biển"
+    },
+    "zh-Hans": {
+      "text": "海狮",
+      "reading": "hǎishī"
+    },
+    "ja": {
+      "text": "アシカ",
+      "reading": "ashika"
+    },
+    "ko": {
+      "text": "바다사자",
+      "reading": "bada saja"
+    },
+    "es": {
+      "text": "el león marino"
+    },
+    "fr": {
+      "text": "le lion de mer"
+    },
+    "de": {
+      "text": "der Seelöwe"
+    },
+    "id": {
+      "text": "singa laut"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

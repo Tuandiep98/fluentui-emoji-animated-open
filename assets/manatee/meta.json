@@ -1,0 +1,46 @@
+{
+  "id": "manatee",
+  "name": "manatee",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "manatee"
+    },
+    "vi": {
+      "text": "con lợn biển"
+    },
+    "zh-Hans": {
+      "text": "海牛",
+      "reading": "hǎiniú"
+    },
+    "ja": {
+      "text": "マナティ",
+      "reading": "manati"
+    },
+    "ko": {
+      "text": "매너티",
+      "reading": "maeneoti"
+    },
+    "es": {
+      "text": "el manatí"
+    },
+    "fr": {
+      "text": "le lamantin"
+    },
+    "de": {
+      "text": "die Seekuh"
+    },
+    "id": {
+      "text": "manati"
+    }
+  },
+  "tags": [
+    "sea-animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-30-2026-11-09",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

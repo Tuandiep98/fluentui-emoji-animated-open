@@ -1,0 +1,79 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "b44fb8c8417ece1521c1e532abc1ea9bbeb760032cd796d9f2f177afbd2e3ac6",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exactly the generated original image-space facing; never mirror parts.",
+    "pinnedRegions": [],
+    "landmarks": {}
+  },
+  "regions": [],
+  "note": "Original hard shell stays one rigid image; gentle rocking and settling only, no fabricated hinge opening or deformation.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0
+      ],
+      [
+        1,
+        -1.2960000000000003
+      ],
+      [
+        1.5,
+        0.44550000000000006
+      ],
+      [
+        2.15,
+        -0.7290000000000001
+      ],
+      [
+        2.7,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "y": [
+      [
+        0,
+        0
+      ],
+      [
+        0.45,
+        0
+      ],
+      [
+        1,
+        -1.0530000000000002
+      ],
+      [
+        1.7,
+        0.405
+      ],
+      [
+        2.2,
+        -0.405
+      ],
+      [
+        2.7,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}
