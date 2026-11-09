@@ -1,0 +1,46 @@
+{
+  "id": "toy-blocks",
+  "name": "toy blocks",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "toy blocks"
+    },
+    "vi": {
+      "text": "khối đồ chơi"
+    },
+    "zh-Hans": {
+      "text": "积木",
+      "reading": "jī mù"
+    },
+    "ja": {
+      "text": "積み木",
+      "reading": "tsumiki"
+    },
+    "ko": {
+      "text": "블록",
+      "reading": "beullok"
+    },
+    "es": {
+      "text": "bloques de juguete"
+    },
+    "fr": {
+      "text": "cubes de construction"
+    },
+    "de": {
+      "text": "Bauklötze"
+    },
+    "id": {
+      "text": "balok mainan"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

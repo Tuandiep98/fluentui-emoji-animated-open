@@ -1,0 +1,46 @@
+{
+  "id": "mop",
+  "name": "mop",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "mop"
+    },
+    "vi": {
+      "text": "cây lau nhà"
+    },
+    "zh-Hans": {
+      "text": "拖把",
+      "reading": "tuō bǎ"
+    },
+    "ja": {
+      "text": "モップ",
+      "reading": "moppu"
+    },
+    "ko": {
+      "text": "대걸레",
+      "reading": "daegeolle"
+    },
+    "es": {
+      "text": "fregona"
+    },
+    "fr": {
+      "text": "balai à franges"
+    },
+    "de": {
+      "text": "Wischmopp"
+    },
+    "id": {
+      "text": "alat pel"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

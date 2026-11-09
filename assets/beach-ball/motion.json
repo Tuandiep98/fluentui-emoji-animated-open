@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "6332fe2566b2729911035ac4d776f9c94a33163de32602611bd3b35ec928a4e5",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The intact round ball rotates slightly; panel highlights move without changing the sphere.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.3,
+        0
+      ],
+      [
+        1,
+        1.62
+      ],
+      [
+        1.6,
+        -0.5670000000000001
+      ],
+      [
+        2.2,
+        0.81
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

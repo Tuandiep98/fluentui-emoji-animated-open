@@ -1,0 +1,46 @@
+{
+  "id": "shampoo",
+  "name": "shampoo",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "shampoo"
+    },
+    "vi": {
+      "text": "dầu gội"
+    },
+    "zh-Hans": {
+      "text": "洗发水",
+      "reading": "xǐ fà shuǐ"
+    },
+    "ja": {
+      "text": "シャンプー",
+      "reading": "shanpū"
+    },
+    "ko": {
+      "text": "샴푸",
+      "reading": "syampu"
+    },
+    "es": {
+      "text": "champú"
+    },
+    "fr": {
+      "text": "shampoing"
+    },
+    "de": {
+      "text": "Shampoo"
+    },
+    "id": {
+      "text": "sampo"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

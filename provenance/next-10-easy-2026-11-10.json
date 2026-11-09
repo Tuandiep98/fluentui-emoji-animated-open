@@ -1,0 +1,22 @@
+{
+  "count": 10,
+  "ids": [
+    "doll",
+    "toy-blocks",
+    "rubber-duck",
+    "beach-ball",
+    "comb",
+    "towel",
+    "shampoo",
+    "toothpaste",
+    "tissue",
+    "mop"
+  ],
+  "license": "MIT",
+  "sourceBaseCommit": "f6965457be2b4f12d96dfc626ed87c84090bc32a",
+  "sourceState": "committed reviewed source; per-file hashes are authoritative",
+  "categories": {
+    "home": 10
+  },
+  "sourceCommit": "78623b012dd8de640213ef99536574457edc020a"
+}

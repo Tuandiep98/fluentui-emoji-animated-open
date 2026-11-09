@@ -1,0 +1,46 @@
+{
+  "id": "tissue",
+  "name": "tissue",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "tissue"
+    },
+    "vi": {
+      "text": "khăn giấy"
+    },
+    "zh-Hans": {
+      "text": "纸巾",
+      "reading": "zhǐ jīn"
+    },
+    "ja": {
+      "text": "ティッシュ",
+      "reading": "tisshu"
+    },
+    "ko": {
+      "text": "티슈",
+      "reading": "tisyu"
+    },
+    "es": {
+      "text": "pañuelo de papel"
+    },
+    "fr": {
+      "text": "mouchoir en papier"
+    },
+    "de": {
+      "text": "Papiertaschentuch"
+    },
+    "id": {
+      "text": "tisu"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

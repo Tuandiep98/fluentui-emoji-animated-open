@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "MIT",
-  "count": 390,
+  "count": 400,
   "entries": [
     {
       "id": "aardvark",
@@ -1610,6 +1610,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 21346
+    },
+    {
+      "id": "beach-ball",
+      "name": "beach ball",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "beach ball"
+        },
+        "vi": {
+          "text": "bóng bãi biển"
+        },
+        "zh-Hans": {
+          "text": "沙滩球",
+          "reading": "shā tān qiú"
+        },
+        "ja": {
+          "text": "ビーチボール",
+          "reading": "bīchi bōru"
+        },
+        "ko": {
+          "text": "비치볼",
+          "reading": "bichibol"
+        },
+        "es": {
+          "text": "pelota de playa"
+        },
+        "fr": {
+          "text": "ballon de plage"
+        },
+        "de": {
+          "text": "Wasserball"
+        },
+        "id": {
+          "text": "bola pantai"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/beach-ball/source.png",
+        "still.png": "assets/beach-ball/still.png",
+        "still.webp": "assets/beach-ball/still.webp",
+        "animated.avif": "assets/beach-ball/animated.avif",
+        "motion.json": "assets/beach-ball/motion.json",
+        "meta.json": "assets/beach-ball/meta.json",
+        "reference.png": "assets/beach-ball/reference.png"
+      },
+      "sha256": {
+        "source.png": "2f5a3756e9ad973947b5291938ecf88f2cea654a38be5d8d1ed49d646efa2331",
+        "still.png": "6332fe2566b2729911035ac4d776f9c94a33163de32602611bd3b35ec928a4e5",
+        "still.webp": "6776bebf3d218d31f32108db15e9e0788cc43b79b65d1a29d56b7825b34543f9",
+        "animated.avif": "227d48bfe4dfa2853e846b8a620a6c1b0702065a99ec98acb733acc68fbed08f",
+        "motion.json": "b0a5d95a6ec9703d240082afe1c109a79f24e04c6c2fe57b7453693aafb0d0a3",
+        "meta.json": "4621c575f09d56463b7113027d19f762333c447f7718a6128b336cc96f1c7321",
+        "reference.png": "6332fe2566b2729911035ac4d776f9c94a33163de32602611bd3b35ec928a4e5"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 47900
     },
     {
       "id": "beanie",
@@ -5425,6 +5494,75 @@
       "animationBytes": 48676
     },
     {
+      "id": "comb",
+      "name": "comb",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "comb"
+        },
+        "vi": {
+          "text": "cái lược"
+        },
+        "zh-Hans": {
+          "text": "梳子",
+          "reading": "shū zi"
+        },
+        "ja": {
+          "text": "くし",
+          "reading": "kushi"
+        },
+        "ko": {
+          "text": "빗",
+          "reading": "bit"
+        },
+        "es": {
+          "text": "peine"
+        },
+        "fr": {
+          "text": "peigne"
+        },
+        "de": {
+          "text": "Kamm"
+        },
+        "id": {
+          "text": "sisir"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/comb/source.png",
+        "still.png": "assets/comb/still.png",
+        "still.webp": "assets/comb/still.webp",
+        "animated.avif": "assets/comb/animated.avif",
+        "motion.json": "assets/comb/motion.json",
+        "meta.json": "assets/comb/meta.json",
+        "reference.png": "assets/comb/reference.png"
+      },
+      "sha256": {
+        "source.png": "a155f85563a4604a7d14e7d1984b226310a0e4fc6e67808a6102c5a7e9a8afab",
+        "still.png": "5a1c057a254d5f5d741411c8bec50b718201408beb007d54f003b6cee741e3da",
+        "still.webp": "dc606c0f321fe6ef7a00047427d25e05dce6e2e308a720f9a3df0bb0b031b81d",
+        "animated.avif": "c06de4e8d5982ebe8cba01d808296aea9e0c18fe5ca4bfb526642efd8c980cff",
+        "motion.json": "0886ce0f807f36124a8eedc9314f0fe15bb52ff49e950f32d8e44b10e76d1f8e",
+        "meta.json": "45922bf1ddc4574ad52bc36a37eee05c20abc3b394e30e14696940e33f9e7d22",
+        "reference.png": "5a1c057a254d5f5d741411c8bec50b718201408beb007d54f003b6cee741e3da"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 60388
+    },
+    {
       "id": "compost-bin",
       "name": "compost bin",
       "category": "garden",
@@ -7153,6 +7291,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 19112
+    },
+    {
+      "id": "doll",
+      "name": "doll",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "doll"
+        },
+        "vi": {
+          "text": "búp bê"
+        },
+        "zh-Hans": {
+          "text": "玩偶",
+          "reading": "wán ǒu"
+        },
+        "ja": {
+          "text": "人形",
+          "reading": "ningyō"
+        },
+        "ko": {
+          "text": "인형",
+          "reading": "inhyeong"
+        },
+        "es": {
+          "text": "muñeca"
+        },
+        "fr": {
+          "text": "poupée"
+        },
+        "de": {
+          "text": "Puppe"
+        },
+        "id": {
+          "text": "boneka"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/doll/source.png",
+        "still.png": "assets/doll/still.png",
+        "still.webp": "assets/doll/still.webp",
+        "animated.avif": "assets/doll/animated.avif",
+        "motion.json": "assets/doll/motion.json",
+        "meta.json": "assets/doll/meta.json",
+        "reference.png": "assets/doll/reference.png"
+      },
+      "sha256": {
+        "source.png": "ecd619f144a284edec5b3a276e77d25a1314069eb51eb406145f99f8516440cf",
+        "still.png": "f51cc5c35fd9e9f26816f54612a1b922f8dc489f00707d711c3c03bf58e979e9",
+        "still.webp": "f87695354b03952d6f40469a860d25e5eaeb97be91b8b0162423cc95e9778cf8",
+        "animated.avif": "af962a070a6d2f321a45436e9d640c74c979224d99dd9fadc76835fd9665d610",
+        "motion.json": "224cf200db7c4baec3a43ad23b5808eece044811a3d29e6a6229f2878d8b326d",
+        "meta.json": "516b5049e860ce068fc33f6d7161fe7f0a362a852348d30c1c19336489601aae",
+        "reference.png": "f51cc5c35fd9e9f26816f54612a1b922f8dc489f00707d711c3c03bf58e979e9"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 61112
     },
     {
       "id": "doorbell",
@@ -14045,6 +14252,75 @@
       "animationBytes": 28915
     },
     {
+      "id": "mop",
+      "name": "mop",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "mop"
+        },
+        "vi": {
+          "text": "cây lau nhà"
+        },
+        "zh-Hans": {
+          "text": "拖把",
+          "reading": "tuō bǎ"
+        },
+        "ja": {
+          "text": "モップ",
+          "reading": "moppu"
+        },
+        "ko": {
+          "text": "대걸레",
+          "reading": "daegeolle"
+        },
+        "es": {
+          "text": "fregona"
+        },
+        "fr": {
+          "text": "balai à franges"
+        },
+        "de": {
+          "text": "Wischmopp"
+        },
+        "id": {
+          "text": "alat pel"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/mop/source.png",
+        "still.png": "assets/mop/still.png",
+        "still.webp": "assets/mop/still.webp",
+        "animated.avif": "assets/mop/animated.avif",
+        "motion.json": "assets/mop/motion.json",
+        "meta.json": "assets/mop/meta.json",
+        "reference.png": "assets/mop/reference.png"
+      },
+      "sha256": {
+        "source.png": "0d58ec53b377a30204429bdde34e5e6a8e03fb91a8473ec75cd41caad17176fd",
+        "still.png": "5c17b0c6792ffe87ccf2468fedc60ccd3192e898a4ede1710cef910746b63f65",
+        "still.webp": "bccdddc6be0fe5b1b3beb47b20a6621720fca53ba4b759fa493434aa18ecade8",
+        "animated.avif": "eb0f7612f7790254d7411fb6fcc44f440ccb883a0673d882642c42d867669e69",
+        "motion.json": "0cab90d367380a23feb4cbc8761738012631ec4c9ca0f89a1deadd9deafa602f",
+        "meta.json": "0120b2ae48cf8644e79106537096ceb81dab1ff305fdaf339514b81532cf65e9",
+        "reference.png": "5c17b0c6792ffe87ccf2468fedc60ccd3192e898a4ede1710cef910746b63f65"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 23662
+    },
+    {
       "id": "moss",
       "name": "moss",
       "category": "garden",
@@ -19336,6 +19612,75 @@
       "animationBytes": 34564
     },
     {
+      "id": "rubber-duck",
+      "name": "rubber duck",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "rubber duck"
+        },
+        "vi": {
+          "text": "vịt cao su"
+        },
+        "zh-Hans": {
+          "text": "橡皮鸭",
+          "reading": "xiàng pí yā"
+        },
+        "ja": {
+          "text": "おもちゃのアヒル",
+          "reading": "omocha no ahiru"
+        },
+        "ko": {
+          "text": "고무 오리",
+          "reading": "gomu ori"
+        },
+        "es": {
+          "text": "patito de goma"
+        },
+        "fr": {
+          "text": "canard en caoutchouc"
+        },
+        "de": {
+          "text": "Quietscheente"
+        },
+        "id": {
+          "text": "bebek karet"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/rubber-duck/source.png",
+        "still.png": "assets/rubber-duck/still.png",
+        "still.webp": "assets/rubber-duck/still.webp",
+        "animated.avif": "assets/rubber-duck/animated.avif",
+        "motion.json": "assets/rubber-duck/motion.json",
+        "meta.json": "assets/rubber-duck/meta.json",
+        "reference.png": "assets/rubber-duck/reference.png"
+      },
+      "sha256": {
+        "source.png": "395ca3830473590d1a477c795e2af76fc753f47a47906360c0507415891dbe78",
+        "still.png": "7eaef1f3340355e85fc75acc07e54f965fd8b659232949c5a4c503b9f454a2d7",
+        "still.webp": "d1973ae80411a419add2e49d460e741cccc40770c9320b4a360ed1f839904aeb",
+        "animated.avif": "7156df8c58b06dc17f60b4cdb88a5bbfa6c7bf75897c28fbf55e2bd01a79764b",
+        "motion.json": "751d97472e2e05818bdcef464b8177175d725bc6f04e7b637a3c127a4fcdb0ee",
+        "meta.json": "269715b9c750aa2d158b634ad067a55664acc0f5a5323117e69c0d0aa0fd2e34",
+        "reference.png": "7eaef1f3340355e85fc75acc07e54f965fd8b659232949c5a4c503b9f454a2d7"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 52329
+    },
+    {
       "id": "salt-shaker",
       "name": "salt shaker",
       "category": "kitchen",
@@ -20278,6 +20623,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 16449
+    },
+    {
+      "id": "shampoo",
+      "name": "shampoo",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "shampoo"
+        },
+        "vi": {
+          "text": "dầu gội"
+        },
+        "zh-Hans": {
+          "text": "洗发水",
+          "reading": "xǐ fà shuǐ"
+        },
+        "ja": {
+          "text": "シャンプー",
+          "reading": "shanpū"
+        },
+        "ko": {
+          "text": "샴푸",
+          "reading": "syampu"
+        },
+        "es": {
+          "text": "champú"
+        },
+        "fr": {
+          "text": "shampoing"
+        },
+        "de": {
+          "text": "Shampoo"
+        },
+        "id": {
+          "text": "sampo"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/shampoo/source.png",
+        "still.png": "assets/shampoo/still.png",
+        "still.webp": "assets/shampoo/still.webp",
+        "animated.avif": "assets/shampoo/animated.avif",
+        "motion.json": "assets/shampoo/motion.json",
+        "meta.json": "assets/shampoo/meta.json",
+        "reference.png": "assets/shampoo/reference.png"
+      },
+      "sha256": {
+        "source.png": "88bb6776a3e4831693f3118887c5b85bd60737e72a1cb83f8bcb5c0b74e13dc3",
+        "still.png": "df5e76c8f03cd811c8f9482bda7dc9654157eb45d8b4769d71dd093d1443af6e",
+        "still.webp": "04c3f13574113de1a6f44a184751acf560dc1c21184f2e9d884615f5f0845341",
+        "animated.avif": "b5eff9d3251f3a9804bbef75948a99d01ad3a913435f2d244364a0ccf71ed139",
+        "motion.json": "ce8d49ee0e56f992e18c47801a30e255ff5ae93f1551cbfafdfee99179a9f10f",
+        "meta.json": "5b8d967136780ee16619ace0cfa8002a5f2929a07a529bd53bb2c92b784e8d27",
+        "reference.png": "df5e76c8f03cd811c8f9482bda7dc9654157eb45d8b4769d71dd093d1443af6e"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 54596
     },
     {
       "id": "shirt",
@@ -23563,6 +23977,75 @@
       "animationBytes": 26699
     },
     {
+      "id": "tissue",
+      "name": "tissue",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "tissue"
+        },
+        "vi": {
+          "text": "khăn giấy"
+        },
+        "zh-Hans": {
+          "text": "纸巾",
+          "reading": "zhǐ jīn"
+        },
+        "ja": {
+          "text": "ティッシュ",
+          "reading": "tisshu"
+        },
+        "ko": {
+          "text": "티슈",
+          "reading": "tisyu"
+        },
+        "es": {
+          "text": "pañuelo de papel"
+        },
+        "fr": {
+          "text": "mouchoir en papier"
+        },
+        "de": {
+          "text": "Papiertaschentuch"
+        },
+        "id": {
+          "text": "tisu"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/tissue/source.png",
+        "still.png": "assets/tissue/still.png",
+        "still.webp": "assets/tissue/still.webp",
+        "animated.avif": "assets/tissue/animated.avif",
+        "motion.json": "assets/tissue/motion.json",
+        "meta.json": "assets/tissue/meta.json",
+        "reference.png": "assets/tissue/reference.png"
+      },
+      "sha256": {
+        "source.png": "bdb9e3ad0a4ed5a6b0d98c333cb962df598af0dee3adb509e1d3b3deeae6d20a",
+        "still.png": "41d8e7dd42a5174ef753bfb56d5359defac56c13453ff2981fdf9fde39e15af9",
+        "still.webp": "a9c6c00ed6f46ef0b49ca1b3bab794cfe6aed798c95514c0603385bb82554f0e",
+        "animated.avif": "3f436bc01df85440b42684c8333c9316ccffb5e940a923555ec787bac5d7f453",
+        "motion.json": "04be3daee23e8cd565c0050d5a19caf32629ee8a5f0305506011277af4928a28",
+        "meta.json": "55f21a2c766b8685bca0da62eeb5806f79211e5c5cb7cc507f76b41e53d323de",
+        "reference.png": "41d8e7dd42a5174ef753bfb56d5359defac56c13453ff2981fdf9fde39e15af9"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 31329
+    },
+    {
       "id": "toast",
       "name": "toast",
       "category": "meals",
@@ -23893,6 +24376,75 @@
       "animationBytes": 42252
     },
     {
+      "id": "toothpaste",
+      "name": "toothpaste",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "toothpaste"
+        },
+        "vi": {
+          "text": "kem đánh răng"
+        },
+        "zh-Hans": {
+          "text": "牙膏",
+          "reading": "yá gāo"
+        },
+        "ja": {
+          "text": "歯磨き粉",
+          "reading": "hamigakiko"
+        },
+        "ko": {
+          "text": "치약",
+          "reading": "chiyak"
+        },
+        "es": {
+          "text": "pasta de dientes"
+        },
+        "fr": {
+          "text": "dentifrice"
+        },
+        "de": {
+          "text": "Zahnpasta"
+        },
+        "id": {
+          "text": "pasta gigi"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/toothpaste/source.png",
+        "still.png": "assets/toothpaste/still.png",
+        "still.webp": "assets/toothpaste/still.webp",
+        "animated.avif": "assets/toothpaste/animated.avif",
+        "motion.json": "assets/toothpaste/motion.json",
+        "meta.json": "assets/toothpaste/meta.json",
+        "reference.png": "assets/toothpaste/reference.png"
+      },
+      "sha256": {
+        "source.png": "2ff7a35ad6fec366da1d699719958577bcce9a9d8dea5836a35cbfec436715b6",
+        "still.png": "d55c8c909253ebfeed367a6b3065efae51d58de0178a0e3b13c07cabb098094f",
+        "still.webp": "7d4c0e7d67feb012ecb958ef002bd042b79f3e62db2838c0bc093dd444bd0f0c",
+        "animated.avif": "e89f0bf3c4372a8d674fb65d3ce5895ad602fbd57ba2bf60c3669962d296632f",
+        "motion.json": "6cc4f7161c32f556f1cf9fdba7e4a899499d33d4023c350cbd8bbaa5944763c2",
+        "meta.json": "1c45cddacf99f28b7b4b76644d9da17f2d3ff0b01f172a0d64dfc93c82f560a8",
+        "reference.png": "d55c8c909253ebfeed367a6b3065efae51d58de0178a0e3b13c07cabb098094f"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 47328
+    },
+    {
       "id": "toucan",
       "name": "toucan",
       "category": "wildlife",
@@ -23960,6 +24512,144 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 30895
+    },
+    {
+      "id": "towel",
+      "name": "towel",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "towel"
+        },
+        "vi": {
+          "text": "khăn tắm"
+        },
+        "zh-Hans": {
+          "text": "浴巾",
+          "reading": "yù jīn"
+        },
+        "ja": {
+          "text": "バスタオル",
+          "reading": "basu taoru"
+        },
+        "ko": {
+          "text": "목욕 수건",
+          "reading": "mogyok sugeon"
+        },
+        "es": {
+          "text": "toalla"
+        },
+        "fr": {
+          "text": "serviette de bain"
+        },
+        "de": {
+          "text": "Badetuch"
+        },
+        "id": {
+          "text": "handuk"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/towel/source.png",
+        "still.png": "assets/towel/still.png",
+        "still.webp": "assets/towel/still.webp",
+        "animated.avif": "assets/towel/animated.avif",
+        "motion.json": "assets/towel/motion.json",
+        "meta.json": "assets/towel/meta.json",
+        "reference.png": "assets/towel/reference.png"
+      },
+      "sha256": {
+        "source.png": "77455ef7bc91e8ba74f353ad04c31d09a499b7f45929463d14f8ff203ae7e1a5",
+        "still.png": "165d4773a70e36a1c2d8785af32478fa8168ee3a9995acc394cf85a6ebe911c3",
+        "still.webp": "a0be5a06362bb5938bc14857610777fb1b08be48255efb104590f3304b98fa43",
+        "animated.avif": "527822dc72cfda9a73aa27c181f759efde07b818c21628d4ea75e8b75ac83ce8",
+        "motion.json": "1d31ff89264f31c18c9fcd5911351a88c51b2e40906f20e0f85da8a17c667a33",
+        "meta.json": "e7fce83cb1e236586b2d044c4bc62d0aada914915cf38a54f3e62465208ca7fc",
+        "reference.png": "165d4773a70e36a1c2d8785af32478fa8168ee3a9995acc394cf85a6ebe911c3"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 45078
+    },
+    {
+      "id": "toy-blocks",
+      "name": "toy blocks",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "toy blocks"
+        },
+        "vi": {
+          "text": "khối đồ chơi"
+        },
+        "zh-Hans": {
+          "text": "积木",
+          "reading": "jī mù"
+        },
+        "ja": {
+          "text": "積み木",
+          "reading": "tsumiki"
+        },
+        "ko": {
+          "text": "블록",
+          "reading": "beullok"
+        },
+        "es": {
+          "text": "bloques de juguete"
+        },
+        "fr": {
+          "text": "cubes de construction"
+        },
+        "de": {
+          "text": "Bauklötze"
+        },
+        "id": {
+          "text": "balok mainan"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "next-10-easy-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/toy-blocks/source.png",
+        "still.png": "assets/toy-blocks/still.png",
+        "still.webp": "assets/toy-blocks/still.webp",
+        "animated.avif": "assets/toy-blocks/animated.avif",
+        "motion.json": "assets/toy-blocks/motion.json",
+        "meta.json": "assets/toy-blocks/meta.json",
+        "reference.png": "assets/toy-blocks/reference.png"
+      },
+      "sha256": {
+        "source.png": "736b3823d875184803a2930924558e3784b5f699c6601d123642d0f236b94d6b",
+        "still.png": "294456f2c5a590890fd85ba46ddad9c99869be3251d1e6fa0921155d5b460935",
+        "still.webp": "2cace0a85f64a97aa055c5c1b416fd33f7649bba9d03fbc48fbded518b211e33",
+        "animated.avif": "877ebf0b6b77425cef90bab1673bef2bed7ee7faa1f1fdfbf9a803df09caaf67",
+        "motion.json": "fcf96131c5dbe3682354b32d9fdb197cc443431272d1f1df6058d46a54fdf729",
+        "meta.json": "b240b6e1ee99173232bc097f84ea345227d1bedcab9ea31c0e963d68fc858dd6",
+        "reference.png": "294456f2c5a590890fd85ba46ddad9c99869be3251d1e6fa0921155d5b460935"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51582
     },
     {
       "id": "tracksuit",

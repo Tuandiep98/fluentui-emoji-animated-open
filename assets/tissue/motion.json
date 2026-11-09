@@ -1,0 +1,131 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "41d8e7dd42a5174ef753bfb56d5359defac56c13453ff2981fdf9fde39e15af9",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          124,
+          256,
+          132
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          90,
+          72,
+          34
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          184,
+          90,
+          72,
+          34
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "paper-tip-flutter",
+      "kind": "wave",
+      "center": [
+        130,
+        55
+      ],
+      "radius": [
+        95,
+        40
+      ],
+      "amp": 5.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.5
+        ],
+        [
+          1.4,
+          -1.9249999999999998
+        ],
+        [
+          2.05,
+          3.575
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "paper-fold-breathe",
+      "kind": "press",
+      "center": [
+        132,
+        56
+      ],
+      "radius": [
+        75,
+        34
+      ],
+      "amp": 2.7,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.45999999999999996,
+          0
+        ],
+        [
+          1.06,
+          2.7
+        ],
+        [
+          1.5599999999999998,
+          -0.945
+        ],
+        [
+          2.21,
+          1.7550000000000001
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only the upper white paper flutters. The box, oval slot and paper base stay fixed; no additional tissue is invented."
+}

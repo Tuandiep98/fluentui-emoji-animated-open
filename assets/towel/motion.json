@@ -1,0 +1,113 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "165d4773a70e36a1c2d8785af32478fa8168ee3a9995acc394cf85a6ebe911c3",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          70
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "soft-terry-sway",
+      "kind": "wave",
+      "center": [
+        127,
+        186
+      ],
+      "radius": [
+        92,
+        110
+      ],
+      "amp": 3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3
+        ],
+        [
+          1.4,
+          -1.0499999999999998
+        ],
+        [
+          2.05,
+          1.9500000000000002
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "hem-settle",
+      "kind": "press",
+      "center": [
+        114,
+        212
+      ],
+      "radius": [
+        58,
+        25
+      ],
+      "amp": 1.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.48,
+          0
+        ],
+        [
+          1.08,
+          1.4
+        ],
+        [
+          1.5799999999999998,
+          -0.48999999999999994
+        ],
+        [
+          2.23,
+          0.9099999999999999
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The hanging top fold is fixed; terry fabric sways smoothly and the lower hem settles without a detached edge."
+}

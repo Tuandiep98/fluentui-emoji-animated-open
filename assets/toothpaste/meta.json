@@ -1,0 +1,46 @@
+{
+  "id": "toothpaste",
+  "name": "toothpaste",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "toothpaste"
+    },
+    "vi": {
+      "text": "kem đánh răng"
+    },
+    "zh-Hans": {
+      "text": "牙膏",
+      "reading": "yá gāo"
+    },
+    "ja": {
+      "text": "歯磨き粉",
+      "reading": "hamigakiko"
+    },
+    "ko": {
+      "text": "치약",
+      "reading": "chiyak"
+    },
+    "es": {
+      "text": "pasta de dientes"
+    },
+    "fr": {
+      "text": "dentifrice"
+    },
+    "de": {
+      "text": "Zahnpasta"
+    },
+    "id": {
+      "text": "pasta gigi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

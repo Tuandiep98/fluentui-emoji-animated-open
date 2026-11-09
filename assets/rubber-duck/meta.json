@@ -1,0 +1,46 @@
+{
+  "id": "rubber-duck",
+  "name": "rubber duck",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "rubber duck"
+    },
+    "vi": {
+      "text": "vịt cao su"
+    },
+    "zh-Hans": {
+      "text": "橡皮鸭",
+      "reading": "xiàng pí yā"
+    },
+    "ja": {
+      "text": "おもちゃのアヒル",
+      "reading": "omocha no ahiru"
+    },
+    "ko": {
+      "text": "고무 오리",
+      "reading": "gomu ori"
+    },
+    "es": {
+      "text": "patito de goma"
+    },
+    "fr": {
+      "text": "canard en caoutchouc"
+    },
+    "de": {
+      "text": "Quietscheente"
+    },
+    "id": {
+      "text": "bebek karet"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

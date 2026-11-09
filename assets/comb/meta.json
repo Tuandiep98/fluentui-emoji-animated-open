@@ -1,0 +1,46 @@
+{
+  "id": "comb",
+  "name": "comb",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "comb"
+    },
+    "vi": {
+      "text": "cái lược"
+    },
+    "zh-Hans": {
+      "text": "梳子",
+      "reading": "shū zi"
+    },
+    "ja": {
+      "text": "くし",
+      "reading": "kushi"
+    },
+    "ko": {
+      "text": "빗",
+      "reading": "bit"
+    },
+    "es": {
+      "text": "peine"
+    },
+    "fr": {
+      "text": "peigne"
+    },
+    "de": {
+      "text": "Kamm"
+    },
+    "id": {
+      "text": "sisir"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

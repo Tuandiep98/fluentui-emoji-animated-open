@@ -1,0 +1,46 @@
+{
+  "id": "towel",
+  "name": "towel",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "towel"
+    },
+    "vi": {
+      "text": "khăn tắm"
+    },
+    "zh-Hans": {
+      "text": "浴巾",
+      "reading": "yù jīn"
+    },
+    "ja": {
+      "text": "バスタオル",
+      "reading": "basu taoru"
+    },
+    "ko": {
+      "text": "목욕 수건",
+      "reading": "mogyok sugeon"
+    },
+    "es": {
+      "text": "toalla"
+    },
+    "fr": {
+      "text": "serviette de bain"
+    },
+    "de": {
+      "text": "Badetuch"
+    },
+    "id": {
+      "text": "handuk"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

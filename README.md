@@ -27,11 +27,11 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**390 emoji · 8 categories**
+**400 emoji · 8 categories**
 
 | Category | Emoji |
 | --- | ---: |
-| Home | 50 |
+| Home | 60 |
 | Kitchen | 50 |
 | Garden | 50 |
 | Fruit & vegetables | 50 |
@@ -39,7 +39,7 @@ Search names and translations in nine languages, filter categories, preview moti
 | Wildlife | 90 |
 | Clothing | 30 |
 | School & art | 20 |
-| **Total** | **390** |
+| **Total** | **400** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -211,3 +211,27 @@ or hidden animations; hover autoplay respects reduced motion and data saving.
 
 Each asset includes its exact prompt, immutable reference, final recipe and review hashes.
 Use the existing `npm run animate -- <id>` / review / approve workflow to extend the collection.
+
+## 10 everyday beginner words — 2026-11-10
+
+[Preview: 10 easy words, original still beside animation](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/next10-easy/).
+
+Doll, toy blocks, rubber duck, beach ball, comb, towel, shampoo, toothpaste, tissue
+and mop. Every asset includes a transparent master, immutable reference, motion
+recipe, prompt, review hashes and metadata in nine languages. All are original
+AI-generated artwork distributed under MIT. AVIF loops are 3 seconds at 24fps
+and at most 60KiB; soft details move continuously and rigid objects keep their geometry.
+
+### Easy words first
+
+For future vocabulary additions, prioritize familiar everyday objects and core
+actions for young beginners, then medium and advanced vocabulary. Specialist
+terms and uncommon species follow the easier pool unless a contributor is
+explicitly working on a specialist theme. Difficulty is an editorial familiarity
+judgment, not a formal CEFR rating. The source still must remain recognizable
+throughout motion: preserve facing, attachments, exact rest pose and silhouette.
+
+Ask an AI assistant to follow the existing scaffold, create an original transparent
+master and measured source-locked motion, then run the review/approve/catalog
+commands described above. Contributions following that structure grow the
+collection; README totals and category counts regenerate with `npm run catalog`.

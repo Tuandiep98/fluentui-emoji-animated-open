@@ -1,0 +1,156 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "5c17b0c6792ffe87ccf2468fedc60ccd3192e898a4ede1710cef910746b63f65",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          183
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "cotton-left-sway",
+      "kind": "wave",
+      "center": [
+        111,
+        220
+      ],
+      "radius": [
+        28,
+        34
+      ],
+      "amp": -2.29635,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          -2.29635
+        ],
+        [
+          1.4,
+          0.8037224999999999
+        ],
+        [
+          2.05,
+          -1.4926275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "cotton-right-sway",
+      "kind": "wave",
+      "center": [
+        146,
+        220
+      ],
+      "radius": [
+        28,
+        34
+      ],
+      "amp": 2.29635,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.48,
+          0
+        ],
+        [
+          1.08,
+          2.29635
+        ],
+        [
+          1.5799999999999998,
+          -0.8037224999999999
+        ],
+        [
+          2.23,
+          1.4926275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "cotton-tip-settle",
+      "kind": "press",
+      "center": [
+        128,
+        234
+      ],
+      "radius": [
+        28,
+        17
+      ],
+      "amp": 0.9185400000000001,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          0.9185400000000001
+        ],
+        [
+          1.5,
+          -0.32148899999999997
+        ],
+        [
+          2.15,
+          0.597051
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Handle and collar remain pixel-exact. Cotton strands move in continuous staggered soft fields below their original attachment."
+}

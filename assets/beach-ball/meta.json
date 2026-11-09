@@ -1,0 +1,46 @@
+{
+  "id": "beach-ball",
+  "name": "beach ball",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "beach ball"
+    },
+    "vi": {
+      "text": "bóng bãi biển"
+    },
+    "zh-Hans": {
+      "text": "沙滩球",
+      "reading": "shā tān qiú"
+    },
+    "ja": {
+      "text": "ビーチボール",
+      "reading": "bīchi bōru"
+    },
+    "ko": {
+      "text": "비치볼",
+      "reading": "bichibol"
+    },
+    "es": {
+      "text": "pelota de playa"
+    },
+    "fr": {
+      "text": "ballon de plage"
+    },
+    "de": {
+      "text": "Wasserball"
+    },
+    "id": {
+      "text": "bola pantai"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

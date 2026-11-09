@@ -1,0 +1,46 @@
+{
+  "id": "doll",
+  "name": "doll",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "doll"
+    },
+    "vi": {
+      "text": "búp bê"
+    },
+    "zh-Hans": {
+      "text": "玩偶",
+      "reading": "wán ǒu"
+    },
+    "ja": {
+      "text": "人形",
+      "reading": "ningyō"
+    },
+    "ko": {
+      "text": "인형",
+      "reading": "inhyeong"
+    },
+    "es": {
+      "text": "muñeca"
+    },
+    "fr": {
+      "text": "poupée"
+    },
+    "de": {
+      "text": "Puppe"
+    },
+    "id": {
+      "text": "boneka"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "next-10-easy-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}
