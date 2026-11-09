@@ -3059,17 +3059,17 @@
         "meta.json": "assets/capybara/meta.json"
       },
       "sha256": {
-        "source.png": "89b75db22b27ad5d6ddf612babfbb9a593d916b05da95a1a66e8d5a644163e06",
-        "still.png": "c8ab07a53fbd77c2593132039c4622f794ae4d56ef7b3f65da413c6530bdc770",
-        "still.webp": "1d21414b381f65087e2ab66433d89bede2cdb2b34fa2157ea1db06f6cd7e7196",
-        "animated.avif": "942f08185145a2ea5362e8d640c7cdd4f01b3a9f06ad343cf5ff9d23bff3e3c5",
-        "motion.json": "a3f8bbc4a2409a944fe9c39335ef7a6b019fbb86b4d2ff29a883c6841453a618",
+        "source.png": "e4de3a4bef6d0d2b9dd9399827fc92d9403d128657fdd249ae5f8682c2924ef6",
+        "still.png": "68989096929c5b08d119013330bc1422e233246596b9af6896a52a591c897ecf",
+        "still.webp": "462d3b178ffff66d04e7813365cb34a05ef66f615f81095903b429bc63a2c97c",
+        "animated.avif": "ff1fa757555f6327df1bc8346c70569fee6718a0a709ff4b672d19b25eaf9858",
+        "motion.json": "aa66365fa2e5cc84369ca04452b3151fa11c7d0996a50ae758560a3e49f93948",
         "meta.json": "ed12c712966a69c7e9c3ccf07bb0e64f73d2273e20d33978e2d1d6dfcfdab39f"
       },
       "preset": "still",
-      "fps": 16,
+      "fps": 24,
       "duration": 3,
-      "animationBytes": 19828
+      "animationBytes": 56838
     },
     {
       "id": "caracal",

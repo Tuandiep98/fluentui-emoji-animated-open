@@ -1,4 +1,5 @@
 import fs from "node:fs";
+import { renderCutoutFrames } from "./cutout.mjs";
 import path from "node:path";
 import sharp from "sharp";
 import { transform } from "./presets.mjs";
@@ -47,6 +48,7 @@ export async function renderFrames(
   dir,
   stillPath = path.join("public/content/images", `${id}.png`),
 ) {
+  if (recipe.rig) return renderCutoutFrames(recipe, dir);
   const bytes = fs.readFileSync(stillPath);
   const box = await imageBox(bytes);
   const pivot = pivotOf(box, recipe);

@@ -162,3 +162,7 @@ This refreshes the catalogs and README counts, then assembles `_site/` using Nod
 The source, original artwork, metadata, and motion recipes in this repository are released under the [MIT License](LICENSE), copyright © 2026 Tuấn Điệp.
 
 Microsoft's upstream project is separately [MIT licensed, copyright Microsoft Corporation](https://github.com/microsoft/fluentui-emoji-animated/blob/main/LICENSE). Its name is used for attribution and inspiration. See [third-party notices](THIRD_PARTY_NOTICES.md). If you add upstream Microsoft assets later, preserve their original license and notices alongside them.
+
+### Capybara cutout motion study
+
+[Compare the old and new animation live](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/capybara/). The capybara asset now uses six separately painted parts, independent head/ear/eye tracks and a transparent 24fps AVIF. All source parts are embedded in `assets/capybara/motion.json`; the website only loads rendered images.

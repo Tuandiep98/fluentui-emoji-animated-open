@@ -11,3 +11,9 @@ Use case: stylized-concept. Create ONE original 3D vocabulary emoji, a friendly 
 Tai nhỏ rung một nhịp và thở nhẹ; đầu vuông, chân ngắn giữ rõ.
 
 The approved master is source.png; motion.json contains the measured final recipe.
+
+## Cutout v1 revision (2026-11-09)
+
+Tool: built-in image_gen, original capybara master as reference, transparent output. Requested an isolated 3-column × 2-row parts atlas: headless body with four feet and a painted neck; earless eyeless head with muzzle; front ear; back ear; open eye; closed eye. Preserve golden-brown rounded 3D texture and matching lighting; extra overlap at joints; no text, scene or ground shadow.
+
+The current source.png is the assembled rest pose. motion.json embeds all six original PNG parts and their independent keyframe tracks; no external atlas is needed to rebuild. `npm run animate -- capybara --out out/capybara-test.avif` uses the shared cutout renderer. This is an in-plane head tilt, not a true 3D turn.

@@ -1,0 +1,19 @@
+{
+  "frames": 72,
+  "fps": 24,
+  "duration": 3,
+  "bytes": 56838,
+  "loopEndpointExact": true,
+  "parts": 6,
+  "headAngleRange": [
+    -6,
+    10
+  ],
+  "earAngleRange": [
+    -18,
+    13
+  ],
+  "source": "../../assets/capybara/motion.json",
+  "productionFilesReplaced": true,
+  "decodedCheck": "scripts/check.mjs capybara passed: alpha, sequence, decoded frame changes and review hashes"
+}

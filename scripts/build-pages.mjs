@@ -9,7 +9,7 @@ const output = resolve('_site');
 fs.rmSync(output, { recursive: true, force: true });
 fs.mkdirSync(output, { recursive: true });
 for (const entry of [
-  'index.html', 'showcase', 'docs', 'provenance',
+  'index.html', 'showcase', 'motion-lab', 'docs', 'provenance',
   'catalog.json', 'README.md', 'LICENSE', 'THIRD_PARTY_NOTICES.md',
 ]) {
   fs.cpSync(resolve(entry), resolve('_site', entry), { recursive: true });

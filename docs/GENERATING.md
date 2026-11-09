@@ -120,3 +120,9 @@ The original 230 are imported from an existing reviewed release. Their per-asset
 Some assets use `layers` in motion.json: a measured polygon isolates a rigid part, with a `pivot` and small `angle`, `x`, or `y` motion. Coordinates are pixels on the normalized 256px still. See `assets/stapler/motion.json`, `assets/marker/motion.json`, and `assets/glue-stick/motion.json`. The fixed portion retains its pixels while the selected piece moves. Points must stay in the 256px canvas, rotation is bounded to 15 degrees, and translation to 8px; the frame bounds and loop gates still apply. Measure each new image rather than copying another icon's coordinates.
 
 Localized organic deformation still uses `regions`; `chalk-dust` adds a few restrained powder grains for chalk. Always inspect decoded AVIF frames for cut edges, unexpected gaps, and rigid parts drifting.
+
+## Cutout rigs (v1)
+
+For animals needing independent head, ears and eyelids, `motion.json` may contain `rig: {version: 1, images, nodes}`. Images are PNG data URLs embedded in the authoring recipe, never fetched by the showcase. Nodes have optional `image`, `rect: [x,y,width,height]`, `pivot: [x,y]`, `children` and `tracks`. Each channel (`x`, `y`, `rotation`, `scaleX`, `scaleY`, `opacity`) has eased `[seconds,value]` keyframes spanning 0–3 seconds with equal endpoint values. A subtle scaleY breath curve is also supported. Children inherit parent transforms. Draw overlapping complete parts to hide joints; do not cut holes out of a flat image.
+
+Use the capybara recipe as an example. `npm run animate -- capybara --out out/capybara-test.avif` rebuilds it with the normal still, loop, bounds and encoding gates. Preparing a new source still requires rendering the rig at t=0, since general source normalization changes its coordinates. Decode and review the AVIF at 48/64/96px on light/dark before updating review hashes.
