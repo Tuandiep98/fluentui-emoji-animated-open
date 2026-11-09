@@ -174,3 +174,7 @@ Microsoft's upstream project is separately [MIT licensed, copyright Microsoft Co
 ## Original-artwork fidelity pilot — Lynx
 
 [View the isolated lynx correction](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/lynx-source-lock/): original artwork, previous cutout and corrected motion side by side, with 64/128/256px and light/dark controls. This is a review candidate; the main collection is unchanged.
+
+### Pages deployment size
+
+Pages publishes stills, animations, recipes and review metadata. Large source.png masters and rig-source.png atlases remain in this Git repository; the deployed showcase Master link opens the original image on GitHub at the exact deployed commit. This keeps source artwork available while reducing the Pages synchronization artifact. Local previews continue to use local masters.

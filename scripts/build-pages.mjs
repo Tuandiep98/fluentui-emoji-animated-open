@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
 import { buildCatalog } from './catalog.mjs';
 import { resolve } from './lib.mjs';
@@ -17,10 +18,25 @@ for (const entry of [
 }
 fs.mkdirSync(resolve('_site', 'assets'));
 for (const entry of catalog.entries) {
-  fs.cpSync(resolve('assets', entry.id), resolve('_site', 'assets', entry.id), { recursive: true });
+  fs.cpSync(resolve('assets', entry.id), resolve('_site', 'assets', entry.id), {
+    recursive: true,
+    filter: file => !['source.png', 'rig-source.png'].includes(file.split(/[\\/]/).at(-1)),
+  });
 }
 fs.writeFileSync(resolve('_site', '.nojekyll'), '');
 console.log(`Pages artifact: ${catalog.count} emoji in ${output}`);
+
+// Keep large authoring masters in GitHub, pinned to this deployed revision.
+// The gallery downloads stills/AVIF/recipes from Pages; its Master link opens the
+// exact source image in GitHub. This avoids syncing hundreds of MB per preview.
+const revision = process.env.GITHUB_SHA ?? execFileSync('git', ['rev-parse', 'HEAD'], {encoding:'utf8'}).trim();
+if (!/^[a-f0-9]{40}$/.test(revision)) throw Error('Invalid source revision');
+const appPath = resolve('_site','showcase','app.js');
+const sourceLink = 'href="assets/${e.id}/source.png" download="${e.id}.source.png">Master ↓';
+let app = fs.readFileSync(appPath,'utf8');
+if (!app.includes(sourceLink)) throw Error('Master link changed; update Pages source routing');
+app = app.replace(sourceLink, 'href="https://raw.githubusercontent.com/Tuandiep98/fluentui-emoji-animated-open/' + revision + '/assets/${e.id}/source.png" target="_blank" rel="noopener">Master ↗');
+fs.writeFileSync(appPath,app);
 
 // Fingerprinted URLs avoid mixing a cached browser index with a newly deployed app.
 let html=fs.readFileSync(resolve('_site','index.html'),'utf8');
