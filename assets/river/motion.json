@@ -1,0 +1,183 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "e2cd4ea97004dcfe642d74dcdf5c2fe9aa12b1ea79a78846864794771ca3dc69",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          28
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          230,
+          256,
+          26
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          28,
+          25,
+          202
+        ]
+      },
+      {
+        "name": "fixed-anchor-4",
+        "rect": [
+          240,
+          28,
+          16,
+          202
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "upper-water-reflection",
+      "kind": "press",
+      "center": [
+        174,
+        52
+      ],
+      "radius": [
+        22,
+        16
+      ],
+      "amp": 2.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          2.8
+        ],
+        [
+          1.4,
+          -0.9799999999999999
+        ],
+        [
+          2.05,
+          1.8199999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "middle-water-reflection",
+      "kind": "press",
+      "center": [
+        155,
+        156
+      ],
+      "radius": [
+        36,
+        19
+      ],
+      "amp": 3.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.44999999999999996,
+          0
+        ],
+        [
+          1.05,
+          3.4
+        ],
+        [
+          1.5499999999999998,
+          -1.19
+        ],
+        [
+          2.1999999999999997,
+          2.21
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "lower-water-reflection",
+      "kind": "press",
+      "center": [
+        82,
+        199
+      ],
+      "radius": [
+        31,
+        18
+      ],
+      "amp": 3.1,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.6,
+          0
+        ],
+        [
+          1.2,
+          3.1
+        ],
+        [
+          1.7,
+          -1.085
+        ],
+        [
+          2.3499999999999996,
+          2.015
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Small staggered fields ripple only existing blue water/reflections inside the original river. Grass banks, cut terrain and water entry/exit edges stay fixed; no new waves or particles."
+}

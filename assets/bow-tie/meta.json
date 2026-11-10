@@ -1,0 +1,46 @@
+{
+  "id": "bow-tie",
+  "name": "bow tie",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "bow tie"
+    },
+    "vi": {
+      "text": "nơ cổ"
+    },
+    "zh-Hans": {
+      "text": "领结",
+      "reading": "lǐngjié"
+    },
+    "ja": {
+      "text": "ちょうネクタイ",
+      "reading": "chō nekutai"
+    },
+    "ko": {
+      "text": "나비넥타이",
+      "reading": "nabi nektai"
+    },
+    "es": {
+      "text": "la pajarita"
+    },
+    "fr": {
+      "text": "le nœud papillon"
+    },
+    "de": {
+      "text": "die Fliege"
+    },
+    "id": {
+      "text": "dasi kupu-kupu"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

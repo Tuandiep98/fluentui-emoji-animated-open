@@ -1,0 +1,46 @@
+{
+  "id": "hair-tie",
+  "name": "hair tie",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "hair tie"
+    },
+    "vi": {
+      "text": "dây buộc tóc"
+    },
+    "zh-Hans": {
+      "text": "发圈",
+      "reading": "fàquān"
+    },
+    "ja": {
+      "text": "ヘアゴム",
+      "reading": "hea gomu"
+    },
+    "ko": {
+      "text": "머리끈",
+      "reading": "meorikkeun"
+    },
+    "es": {
+      "text": "la goma del pelo"
+    },
+    "fr": {
+      "text": "l'élastique à cheveux"
+    },
+    "de": {
+      "text": "das Haargummi"
+    },
+    "id": {
+      "text": "ikat rambut"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

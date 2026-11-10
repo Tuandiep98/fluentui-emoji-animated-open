@@ -1,0 +1,210 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "76b0e34d09ab82ef288c8013b2f18cd7168a5f06548692718a18d1193291b079",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          54
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          224,
+          256,
+          32
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          54,
+          52,
+          170
+        ]
+      },
+      {
+        "name": "fixed-anchor-4",
+        "rect": [
+          208,
+          54,
+          48,
+          170
+        ]
+      },
+      {
+        "name": "fixed-anchor-5",
+        "rect": [
+          155,
+          99,
+          29,
+          12
+        ]
+      },
+      {
+        "name": "fixed-anchor-6",
+        "rect": [
+          82,
+          149,
+          36,
+          20
+        ]
+      },
+      {
+        "name": "fixed-anchor-7",
+        "rect": [
+          115,
+          121,
+          29,
+          10
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "upper-flow-reflection",
+      "kind": "wave",
+      "center": [
+        176,
+        119
+      ],
+      "radius": [
+        20,
+        7
+      ],
+      "amp": 2.7,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          2.7
+        ],
+        [
+          1.4,
+          -0.945
+        ],
+        [
+          2.05,
+          1.7550000000000001
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "middle-flow-reflection",
+      "kind": "wave",
+      "center": [
+        118,
+        140
+      ],
+      "radius": [
+        23,
+        7
+      ],
+      "amp": 4.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          4.2
+        ],
+        [
+          1.5,
+          -1.47
+        ],
+        [
+          2.15,
+          2.7300000000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "lower-flow-reflection",
+      "kind": "wave",
+      "center": [
+        94,
+        182
+      ],
+      "radius": [
+        38,
+        13
+      ],
+      "amp": 5.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.8
+        ],
+        [
+          1.4,
+          -2.03
+        ],
+        [
+          2.05,
+          3.77
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Two measured blue-water reflection fields move around the original fixed stones. Preserve banks, terrain and every stone; no moved rocks or new splash layers."
+}

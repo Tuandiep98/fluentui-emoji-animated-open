@@ -1,0 +1,46 @@
+{
+  "id": "paper-fan",
+  "name": "paper fan",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "paper fan"
+    },
+    "vi": {
+      "text": "quạt giấy"
+    },
+    "zh-Hans": {
+      "text": "纸扇",
+      "reading": "zhǐshàn"
+    },
+    "ja": {
+      "text": "かみのせんす",
+      "reading": "kami no sensu"
+    },
+    "ko": {
+      "text": "종이부채",
+      "reading": "jongibuchae"
+    },
+    "es": {
+      "text": "el abanico de papel"
+    },
+    "fr": {
+      "text": "l'éventail en papier"
+    },
+    "de": {
+      "text": "der Papierfächer"
+    },
+    "id": {
+      "text": "kipas kertas"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

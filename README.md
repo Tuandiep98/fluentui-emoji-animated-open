@@ -27,7 +27,7 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**460 emoji · 10 categories**
+**490 emoji · 11 categories**
 
 | Category | Emoji |
 | --- | ---: |
@@ -37,11 +37,12 @@ Search names and translations in nine languages, filter categories, preview moti
 | Fruit & vegetables | 50 |
 | Food & drink | 50 |
 | Wildlife | 90 |
-| Clothing | 30 |
-| School & art | 20 |
+| Clothing | 40 |
+| School & art | 30 |
 | Vehicles | 5 |
 | Places & community | 10 |
-| **Total** | **460** |
+| Nature | 10 |
+| **Total** | **490** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -283,3 +284,27 @@ The bouncy ball's first draft had an unwanted external color halo; its recorded
 AI correction removed that halo before the approved reference was frozen.
 Ask AI to follow this structure and contribute more familiar emoji with the
 existing scaffold, animate, review and approve commands.
+
+## 30 more easy words: accessories, school and nature — 2026-11-10
+
+[Preview: 30 new easy words, original beside animation](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/easy30c/).
+
+10 familiar accessories, 10 school/art supplies and 10 common natural features,
+with nine-language metadata. Easy words come first. The new `nature` category
+and collection counts update automatically through `npm run catalog`.
+
+Every original is finalized and frozen before animation. Fabric wings, paper
+edges, dough, water reflections and tree canopies use measured continuous
+fields. Metal assemblies, paper folds and rigid objects stay intact. Fixed
+water banks, rocks, wooden fan ribs and tree trunks are preserved. Exact neutral
+pixels, fixed anchors, facing, geometry, loop, bounds and at least 96%
+silhouette overlap pass checks. Seven decoded samples per icon were reviewed
+on light/dark backgrounds; not real-time playback review of every icon.
+Each AVIF is 3 seconds, 24fps and at most 60KiB.
+
+The recorded image edits remove unwanted halos from the hairband, earrings
+and puddle, and clarify the lake's water reflections before final still approval.
+Each `assets/<id>/` contains a transparent MIT master, frozen reference, PNG/WebP
+stills, AVIF, motion recipe, translations, exact prompt and review hashes.
+Ask AI to follow this structure and contribute more familiar emoji through
+the scaffold, animate, review and approve commands to grow the open collection.

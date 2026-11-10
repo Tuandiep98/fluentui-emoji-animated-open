@@ -1,0 +1,97 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "d200f427d171a57bd50c2ec3703c6c83b11750f40b3c5eac1f8806113030cb0d",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          100
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          153,
+          256,
+          103
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          153,
+          100,
+          103,
+          53
+        ]
+      },
+      {
+        "name": "fixed-anchor-4",
+        "rect": [
+          0,
+          100,
+          54,
+          53
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "pond-water-reflection",
+      "kind": "press",
+      "center": [
+        99,
+        130
+      ],
+      "radius": [
+        41,
+        22
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only existing water and its pale reflection ripple. Original stones, grass and lily pad remain fixed; no moving rim or invented objects."
+}

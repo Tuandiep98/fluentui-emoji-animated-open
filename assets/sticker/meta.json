@@ -1,0 +1,46 @@
+{
+  "id": "sticker",
+  "name": "sticker",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "sticker"
+    },
+    "vi": {
+      "text": "miếng dán"
+    },
+    "zh-Hans": {
+      "text": "贴纸",
+      "reading": "tiēzhǐ"
+    },
+    "ja": {
+      "text": "シール",
+      "reading": "shīru"
+    },
+    "ko": {
+      "text": "스티커",
+      "reading": "seutikeo"
+    },
+    "es": {
+      "text": "la pegatina"
+    },
+    "fr": {
+      "text": "l'autocollant"
+    },
+    "de": {
+      "text": "der Aufkleber"
+    },
+    "id": {
+      "text": "stiker"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

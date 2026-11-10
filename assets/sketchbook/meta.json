@@ -1,0 +1,46 @@
+{
+  "id": "sketchbook",
+  "name": "sketchbook",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "sketchbook"
+    },
+    "vi": {
+      "text": "sổ vẽ"
+    },
+    "zh-Hans": {
+      "text": "素描本",
+      "reading": "sùmiáoběn"
+    },
+    "ja": {
+      "text": "スケッチブック",
+      "reading": "suketchi bukku"
+    },
+    "ko": {
+      "text": "스케치북",
+      "reading": "seukechibuk"
+    },
+    "es": {
+      "text": "el cuaderno de dibujo"
+    },
+    "fr": {
+      "text": "le carnet de croquis"
+    },
+    "de": {
+      "text": "das Skizzenbuch"
+    },
+    "id": {
+      "text": "buku sketsa"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

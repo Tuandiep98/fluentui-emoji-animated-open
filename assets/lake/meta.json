@@ -1,0 +1,45 @@
+{
+  "id": "lake",
+  "name": "lake",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "lake"
+    },
+    "vi": {
+      "text": "hồ nước"
+    },
+    "zh-Hans": {
+      "text": "湖",
+      "reading": "hú"
+    },
+    "ja": {
+      "text": "みずうみ",
+      "reading": "mizuumi"
+    },
+    "ko": {
+      "text": "호수",
+      "reading": "hosu"
+    },
+    "es": {
+      "text": "el lago"
+    },
+    "fr": {
+      "text": "le lac"
+    },
+    "de": {
+      "text": "der See"
+    },
+    "id": {
+      "text": "danau"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

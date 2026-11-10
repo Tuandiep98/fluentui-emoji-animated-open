@@ -1,0 +1,45 @@
+{
+  "id": "cave",
+  "name": "cave",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "cave"
+    },
+    "vi": {
+      "text": "hang động"
+    },
+    "zh-Hans": {
+      "text": "洞穴",
+      "reading": "dòngxué"
+    },
+    "ja": {
+      "text": "ほらあな",
+      "reading": "horaana"
+    },
+    "ko": {
+      "text": "동굴",
+      "reading": "donggul"
+    },
+    "es": {
+      "text": "la cueva"
+    },
+    "fr": {
+      "text": "la grotte"
+    },
+    "de": {
+      "text": "die Höhle"
+    },
+    "id": {
+      "text": "gua"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

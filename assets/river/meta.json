@@ -1,0 +1,45 @@
+{
+  "id": "river",
+  "name": "river",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "river"
+    },
+    "vi": {
+      "text": "con sông"
+    },
+    "zh-Hans": {
+      "text": "河流",
+      "reading": "héliú"
+    },
+    "ja": {
+      "text": "かわ",
+      "reading": "kawa"
+    },
+    "ko": {
+      "text": "강",
+      "reading": "gang"
+    },
+    "es": {
+      "text": "el río"
+    },
+    "fr": {
+      "text": "la rivière"
+    },
+    "de": {
+      "text": "der Fluss"
+    },
+    "id": {
+      "text": "sungai"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

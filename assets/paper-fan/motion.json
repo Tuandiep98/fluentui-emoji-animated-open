@@ -1,0 +1,122 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "a523fed1dad05d7d5bccadee1b8e148aad7f88cab1d24ff5789568207dfd05ff",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          164,
+          256,
+          92
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          119,
+          135,
+          18,
+          29
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "left-paper-fold-tips",
+      "kind": "press",
+      "center": [
+        68,
+        109
+      ],
+      "radius": [
+        49,
+        45
+      ],
+      "amp": 2.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          2.6
+        ],
+        [
+          1.4,
+          -0.9099999999999999
+        ],
+        [
+          2.05,
+          1.6900000000000002
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "right-paper-fold-tips",
+      "kind": "press",
+      "center": [
+        189,
+        109
+      ],
+      "radius": [
+        49,
+        45
+      ],
+      "amp": -2.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          -2.6
+        ],
+        [
+          1.5999999999999999,
+          0.9099999999999999
+        ],
+        [
+          2.25,
+          -1.6900000000000002
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Original paper edges flutter in staggered fields. The pivot, lower wooden ribs and central join remain pixel-exact; no folding or reassembly."
+}

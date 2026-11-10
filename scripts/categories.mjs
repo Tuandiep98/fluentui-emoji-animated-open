@@ -9,6 +9,7 @@ export const CATEGORY_LABELS = {
   'school-art': 'School & art',
   vehicles: 'Vehicles',
   community: 'Places & community',
+  nature: 'Nature',
   other: 'Other',
 };
 export const CATEGORY_IDS = Object.keys(CATEGORY_LABELS);

@@ -1,0 +1,46 @@
+{
+  "id": "hair-clip",
+  "name": "hair clip",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "hair clip"
+    },
+    "vi": {
+      "text": "kẹp tóc"
+    },
+    "zh-Hans": {
+      "text": "发夹",
+      "reading": "fàjiā"
+    },
+    "ja": {
+      "text": "ヘアピン",
+      "reading": "hea pin"
+    },
+    "ko": {
+      "text": "머리핀",
+      "reading": "meoripin"
+    },
+    "es": {
+      "text": "la horquilla"
+    },
+    "fr": {
+      "text": "la barrette"
+    },
+    "de": {
+      "text": "die Haarspange"
+    },
+    "id": {
+      "text": "jepit rambut"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

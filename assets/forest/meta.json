@@ -1,0 +1,45 @@
+{
+  "id": "forest",
+  "name": "forest",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "forest"
+    },
+    "vi": {
+      "text": "rừng"
+    },
+    "zh-Hans": {
+      "text": "森林",
+      "reading": "sēnlín"
+    },
+    "ja": {
+      "text": "もり",
+      "reading": "mori"
+    },
+    "ko": {
+      "text": "숲",
+      "reading": "sup"
+    },
+    "es": {
+      "text": "el bosque"
+    },
+    "fr": {
+      "text": "la forêt"
+    },
+    "de": {
+      "text": "der Wald"
+    },
+    "id": {
+      "text": "hutan"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

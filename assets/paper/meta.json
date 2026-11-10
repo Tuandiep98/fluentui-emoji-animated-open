@@ -1,0 +1,46 @@
+{
+  "id": "paper",
+  "name": "paper",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "paper"
+    },
+    "vi": {
+      "text": "tờ giấy"
+    },
+    "zh-Hans": {
+      "text": "纸",
+      "reading": "zhǐ"
+    },
+    "ja": {
+      "text": "かみ",
+      "reading": "kami"
+    },
+    "ko": {
+      "text": "종이",
+      "reading": "jongi"
+    },
+    "es": {
+      "text": "el papel"
+    },
+    "fr": {
+      "text": "le papier"
+    },
+    "de": {
+      "text": "das Papier"
+    },
+    "id": {
+      "text": "kertas"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

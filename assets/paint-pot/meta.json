@@ -1,0 +1,46 @@
+{
+  "id": "paint-pot",
+  "name": "paint pot",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "paint pot"
+    },
+    "vi": {
+      "text": "lọ màu vẽ"
+    },
+    "zh-Hans": {
+      "text": "颜料罐",
+      "reading": "yánliàoguàn"
+    },
+    "ja": {
+      "text": "えのぐのびん",
+      "reading": "enogu no bin"
+    },
+    "ko": {
+      "text": "물감 통",
+      "reading": "mulgam tong"
+    },
+    "es": {
+      "text": "el bote de pintura"
+    },
+    "fr": {
+      "text": "le pot de peinture"
+    },
+    "de": {
+      "text": "der Farbtopf"
+    },
+    "id": {
+      "text": "pot cat"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

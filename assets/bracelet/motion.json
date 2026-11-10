@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "fa09a3d55b99e2316404a0095de67f6a553ee462baf5dfee0ebcf92a1b9f0a69",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A restrained whole-bracelet sway keeps every bead and threaded connection intact, without stretching the ring.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.3,
+        0
+      ],
+      [
+        0.9,
+        0.24
+      ],
+      [
+        1.45,
+        -0.08399999999999999
+      ],
+      [
+        2.1,
+        0.132
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

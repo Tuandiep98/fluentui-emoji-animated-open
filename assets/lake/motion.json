@@ -1,0 +1,97 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "e85206120f046f1450f34a56d03580720da304c895eac4d3cdd4771ebe4ce8ed",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          94
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          158,
+          256,
+          98
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          94,
+          43,
+          64
+        ]
+      },
+      {
+        "name": "fixed-anchor-4",
+        "rect": [
+          207,
+          94,
+          49,
+          64
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "lake-interior-reflection",
+      "kind": "press",
+      "center": [
+        125,
+        126
+      ],
+      "radius": [
+        74,
+        30
+      ],
+      "amp": 5.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.2
+        ],
+        [
+          1.4,
+          -1.8199999999999998
+        ],
+        [
+          2.05,
+          3.3800000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "A restrained continuous field moves the existing water reflection inside the lake. The original shore, rocks, grassy rim and terrain remain fixed; no moving shoreline or invented ripples."
+}

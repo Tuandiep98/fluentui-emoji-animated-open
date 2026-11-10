@@ -1,0 +1,45 @@
+{
+  "id": "pond",
+  "name": "pond",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "pond"
+    },
+    "vi": {
+      "text": "ao"
+    },
+    "zh-Hans": {
+      "text": "池塘",
+      "reading": "chítáng"
+    },
+    "ja": {
+      "text": "いけ",
+      "reading": "ike"
+    },
+    "ko": {
+      "text": "연못",
+      "reading": "yeonmot"
+    },
+    "es": {
+      "text": "el estanque"
+    },
+    "fr": {
+      "text": "l'étang"
+    },
+    "de": {
+      "text": "der Teich"
+    },
+    "id": {
+      "text": "kolam"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

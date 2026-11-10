@@ -1,0 +1,103 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "5ddd5a9db24f160c03f37f95c516b8aec6c2144ba3b6a057235ef7009de32d2a",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [
+    {
+      "name": "left-scrunchie-folds",
+      "kind": "press",
+      "center": [
+        69,
+        127
+      ],
+      "radius": [
+        48,
+        91
+      ],
+      "amp": 2.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          2.8
+        ],
+        [
+          1.4,
+          -0.9799999999999999
+        ],
+        [
+          2.05,
+          1.8199999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "right-scrunchie-folds",
+      "kind": "wave",
+      "center": [
+        182,
+        130
+      ],
+      "radius": [
+        47,
+        90
+      ],
+      "amp": 2.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          2.8
+        ],
+        [
+          1.5999999999999999,
+          -0.9799999999999999
+        ],
+        [
+          2.25,
+          1.8199999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Original gathered fabric gently settles in staggered continuous fields. Preserve the closed ring, center opening and original folds; no detached material."
+}

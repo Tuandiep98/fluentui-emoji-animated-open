@@ -1,0 +1,140 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "96281dde4a01df7339028fe0d6bb193832cc5674fe80cb914deb2383324885b3",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          73
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          207,
+          256,
+          49
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          73,
+          62,
+          134
+        ]
+      },
+      {
+        "name": "fixed-anchor-4",
+        "rect": [
+          178,
+          73,
+          78,
+          134
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "continuous-falling-water",
+      "kind": "press",
+      "center": [
+        123,
+        130
+      ],
+      "radius": [
+        45,
+        48
+      ],
+      "amp": 5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5
+        ],
+        [
+          1.4,
+          -1.75
+        ],
+        [
+          2.05,
+          3.25
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "pool-reflection",
+      "kind": "wave",
+      "center": [
+        120,
+        187
+      ],
+      "radius": [
+        49,
+        13
+      ],
+      "amp": 4.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          4.8
+        ],
+        [
+          1.5999999999999999,
+          -1.68
+        ],
+        [
+          2.25,
+          3.12
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The original connected waterfall sheet gently flows in a continuous field below its fixed lip. Pool reflection shifts slightly; rocks and grassy banks remain fixed. No new spray, layers or broken water joins."
+}

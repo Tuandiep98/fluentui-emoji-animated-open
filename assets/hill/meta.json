@@ -1,0 +1,45 @@
+{
+  "id": "hill",
+  "name": "hill",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "hill"
+    },
+    "vi": {
+      "text": "ngọn đồi"
+    },
+    "zh-Hans": {
+      "text": "小山",
+      "reading": "xiǎoshān"
+    },
+    "ja": {
+      "text": "おか",
+      "reading": "oka"
+    },
+    "ko": {
+      "text": "언덕",
+      "reading": "eondeok"
+    },
+    "es": {
+      "text": "la colina"
+    },
+    "fr": {
+      "text": "la colline"
+    },
+    "de": {
+      "text": "der Hügel"
+    },
+    "id": {
+      "text": "bukit"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "snowflake",
+  "name": "snowflake",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "snowflake"
+    },
+    "vi": {
+      "text": "bông tuyết"
+    },
+    "zh-Hans": {
+      "text": "雪花",
+      "reading": "xuěhuā"
+    },
+    "ja": {
+      "text": "ゆきのけっしょう",
+      "reading": "yuki no kesshō"
+    },
+    "ko": {
+      "text": "눈송이",
+      "reading": "nunsongi"
+    },
+    "es": {
+      "text": "el copo de nieve"
+    },
+    "fr": {
+      "text": "le flocon de neige"
+    },
+    "de": {
+      "text": "die Schneeflocke"
+    },
+    "id": {
+      "text": "kepingan salju"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "hairband",
+  "name": "hairband",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "hairband"
+    },
+    "vi": {
+      "text": "băng đô"
+    },
+    "zh-Hans": {
+      "text": "发箍",
+      "reading": "fàgū"
+    },
+    "ja": {
+      "text": "カチューシャ",
+      "reading": "kachūsha"
+    },
+    "ko": {
+      "text": "머리띠",
+      "reading": "meoritti"
+    },
+    "es": {
+      "text": "la diadema"
+    },
+    "fr": {
+      "text": "le serre-tête"
+    },
+    "de": {
+      "text": "der Haarreif"
+    },
+    "id": {
+      "text": "bando"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

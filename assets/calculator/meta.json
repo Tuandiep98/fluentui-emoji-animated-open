@@ -1,0 +1,46 @@
+{
+  "id": "calculator",
+  "name": "calculator",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "calculator"
+    },
+    "vi": {
+      "text": "máy tính cầm tay"
+    },
+    "zh-Hans": {
+      "text": "计算器",
+      "reading": "jìsuànqì"
+    },
+    "ja": {
+      "text": "でんたく",
+      "reading": "dentaku"
+    },
+    "ko": {
+      "text": "계산기",
+      "reading": "gyesangi"
+    },
+    "es": {
+      "text": "la calculadora"
+    },
+    "fr": {
+      "text": "la calculatrice"
+    },
+    "de": {
+      "text": "der Taschenrechner"
+    },
+    "id": {
+      "text": "kalkulator"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

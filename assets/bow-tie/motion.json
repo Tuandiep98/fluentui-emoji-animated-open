@@ -1,0 +1,113 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "9b28b5c8abc9377b936add4a1f88088f809e95d2a8f166431097f4550eb52986",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          109,
+          65,
+          38,
+          128
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "left-fabric-wing",
+      "kind": "press",
+      "center": [
+        64,
+        126
+      ],
+      "radius": [
+        43,
+        55
+      ],
+      "amp": 3.1,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.1
+        ],
+        [
+          1.4,
+          -1.085
+        ],
+        [
+          2.05,
+          2.015
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "right-fabric-wing",
+      "kind": "press",
+      "center": [
+        193,
+        126
+      ],
+      "radius": [
+        43,
+        55
+      ],
+      "amp": -3.1,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          -3.1
+        ],
+        [
+          1.5999999999999999,
+          1.085
+        ],
+        [
+          2.25,
+          -2.015
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The original two fabric wings have a small staggered flutter. Central knot and connections remain pixel-exact; no independent rigid parts or altered folds."
+}

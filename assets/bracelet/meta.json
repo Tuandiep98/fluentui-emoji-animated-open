@@ -1,0 +1,46 @@
+{
+  "id": "bracelet",
+  "name": "bracelet",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "bracelet"
+    },
+    "vi": {
+      "text": "vòng tay"
+    },
+    "zh-Hans": {
+      "text": "手链",
+      "reading": "shǒuliàn"
+    },
+    "ja": {
+      "text": "ブレスレット",
+      "reading": "buresuretto"
+    },
+    "ko": {
+      "text": "팔찌",
+      "reading": "paljji"
+    },
+    "es": {
+      "text": "la pulsera"
+    },
+    "fr": {
+      "text": "le bracelet"
+    },
+    "de": {
+      "text": "das Armband"
+    },
+    "id": {
+      "text": "gelang"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "modeling-dough",
+  "name": "modeling dough",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "modeling dough"
+    },
+    "vi": {
+      "text": "bột nặn"
+    },
+    "zh-Hans": {
+      "text": "面团黏土",
+      "reading": "miàntuán niántǔ"
+    },
+    "ja": {
+      "text": "こむぎねんど",
+      "reading": "komugi nendo"
+    },
+    "ko": {
+      "text": "밀가루 반죽 점토",
+      "reading": "milgaru banjuk jeomto"
+    },
+    "es": {
+      "text": "la masa para modelar"
+    },
+    "fr": {
+      "text": "la pâte à modeler"
+    },
+    "de": {
+      "text": "die Knete"
+    },
+    "id": {
+      "text": "adonan mainan"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

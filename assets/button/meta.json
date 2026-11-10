@@ -1,0 +1,46 @@
+{
+  "id": "button",
+  "name": "button",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "button"
+    },
+    "vi": {
+      "text": "cúc áo"
+    },
+    "zh-Hans": {
+      "text": "纽扣",
+      "reading": "niǔkòu"
+    },
+    "ja": {
+      "text": "ボタン",
+      "reading": "botan"
+    },
+    "ko": {
+      "text": "단추",
+      "reading": "danchu"
+    },
+    "es": {
+      "text": "el botón"
+    },
+    "fr": {
+      "text": "le bouton"
+    },
+    "de": {
+      "text": "der Knopf"
+    },
+    "id": {
+      "text": "kancing"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

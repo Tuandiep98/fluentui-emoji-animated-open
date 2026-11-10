@@ -1,0 +1,165 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "f7ad1c53f50b2d33603495f40416b50f6aabfda43d6588e630b6ecf6b77d7f4e",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          165,
+          256,
+          91
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          135,
+          256,
+          30
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "left-canopy-sway",
+      "kind": "wave",
+      "center": [
+        62,
+        107
+      ],
+      "radius": [
+        39,
+        27
+      ],
+      "amp": 3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.6
+        ],
+        [
+          1.4,
+          -1.26
+        ],
+        [
+          2.05,
+          2.3400000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "upper-canopy-sway",
+      "kind": "wave",
+      "center": [
+        131,
+        69
+      ],
+      "radius": [
+        49,
+        40
+      ],
+      "amp": 3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.44999999999999996,
+          0
+        ],
+        [
+          1.05,
+          3.6
+        ],
+        [
+          1.5499999999999998,
+          -1.26
+        ],
+        [
+          2.1999999999999997,
+          2.3400000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "right-canopy-sway",
+      "kind": "wave",
+      "center": [
+        207,
+        116
+      ],
+      "radius": [
+        26,
+        18
+      ],
+      "amp": 3.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.6,
+          0
+        ],
+        [
+          1.2,
+          3.3
+        ],
+        [
+          1.7,
+          -1.1549999999999998
+        ],
+        [
+          2.3499999999999996,
+          2.145
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Original canopy tips gently sway in staggered continuous fields. Tree trunks, branch attachments and ground remain pixel-exact; no detached leaves or relocated tree."
+}

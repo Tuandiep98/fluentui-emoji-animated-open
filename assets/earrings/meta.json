@@ -1,0 +1,46 @@
+{
+  "id": "earrings",
+  "name": "earrings",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "earrings"
+    },
+    "vi": {
+      "text": "đôi hoa tai"
+    },
+    "zh-Hans": {
+      "text": "耳环",
+      "reading": "ěrhuán"
+    },
+    "ja": {
+      "text": "イヤリング",
+      "reading": "iyaringu"
+    },
+    "ko": {
+      "text": "귀걸이",
+      "reading": "gwigeori"
+    },
+    "es": {
+      "text": "los pendientes"
+    },
+    "fr": {
+      "text": "les boucles d'oreilles"
+    },
+    "de": {
+      "text": "die Ohrringe"
+    },
+    "id": {
+      "text": "anting-anting"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "stream",
+  "name": "stream",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "stream"
+    },
+    "vi": {
+      "text": "suối"
+    },
+    "zh-Hans": {
+      "text": "小溪",
+      "reading": "xiǎoxī"
+    },
+    "ja": {
+      "text": "おがわ",
+      "reading": "ogawa"
+    },
+    "ko": {
+      "text": "개울",
+      "reading": "gaeul"
+    },
+    "es": {
+      "text": "el arroyo"
+    },
+    "fr": {
+      "text": "le ruisseau"
+    },
+    "de": {
+      "text": "der Bach"
+    },
+    "id": {
+      "text": "anak sungai"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "origami",
+  "name": "origami",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "origami"
+    },
+    "vi": {
+      "text": "giấy gấp hình"
+    },
+    "zh-Hans": {
+      "text": "折纸",
+      "reading": "zhézhǐ"
+    },
+    "ja": {
+      "text": "おりがみ",
+      "reading": "origami"
+    },
+    "ko": {
+      "text": "종이접기",
+      "reading": "jongi jeopgi"
+    },
+    "es": {
+      "text": "el origami"
+    },
+    "fr": {
+      "text": "l'origami"
+    },
+    "de": {
+      "text": "das Origami"
+    },
+    "id": {
+      "text": "origami"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

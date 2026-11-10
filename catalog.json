@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "MIT",
-  "count": 460,
+  "count": 490,
   "entries": [
     {
       "id": "aardvark",
@@ -2153,6 +2153,75 @@
       "animationBytes": 51505
     },
     {
+      "id": "belt",
+      "name": "belt",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "belt"
+        },
+        "vi": {
+          "text": "thắt lưng"
+        },
+        "zh-Hans": {
+          "text": "腰带",
+          "reading": "yāodài"
+        },
+        "ja": {
+          "text": "ベルト",
+          "reading": "beruto"
+        },
+        "ko": {
+          "text": "허리띠",
+          "reading": "heoritti"
+        },
+        "es": {
+          "text": "el cinturón"
+        },
+        "fr": {
+          "text": "la ceinture"
+        },
+        "de": {
+          "text": "der Gürtel"
+        },
+        "id": {
+          "text": "ikat pinggang"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/belt/source.png",
+        "still.png": "assets/belt/still.png",
+        "still.webp": "assets/belt/still.webp",
+        "animated.avif": "assets/belt/animated.avif",
+        "motion.json": "assets/belt/motion.json",
+        "meta.json": "assets/belt/meta.json",
+        "reference.png": "assets/belt/reference.png"
+      },
+      "sha256": {
+        "source.png": "9c186c642b2c8e8de0d60be323494abab6aa098a2471de98cf96610b6304038a",
+        "still.png": "30950a3911ed7ab1ef503305f3baa349db85dbe9e40e6fbaed0f871cd4f988e9",
+        "still.webp": "c5c36e895c3a558c67b696e5936fc27dbd12cb971da864a6b8f7b1c20beca75b",
+        "animated.avif": "d4a390312e4d39e76d67909a2609dc6e95100a6babb873c66137d3156856a53e",
+        "motion.json": "48ba3ca7a686d479efcb87922d308d5805f1fd2a462fc44e9607cbbef02c9926",
+        "meta.json": "c0dfa613335a4a7055234160dde04bc1ead14a4c199012c9b5c56288f016d5cd",
+        "reference.png": "30950a3911ed7ab1ef503305f3baa349db85dbe9e40e6fbaed0f871cd4f988e9"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 52620
+    },
+    {
       "id": "beluga",
       "name": "beluga",
       "category": "wildlife",
@@ -3494,6 +3563,75 @@
       "animationBytes": 49548
     },
     {
+      "id": "bow-tie",
+      "name": "bow tie",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "bow tie"
+        },
+        "vi": {
+          "text": "nơ cổ"
+        },
+        "zh-Hans": {
+          "text": "领结",
+          "reading": "lǐngjié"
+        },
+        "ja": {
+          "text": "ちょうネクタイ",
+          "reading": "chō nekutai"
+        },
+        "ko": {
+          "text": "나비넥타이",
+          "reading": "nabi nektai"
+        },
+        "es": {
+          "text": "la pajarita"
+        },
+        "fr": {
+          "text": "le nœud papillon"
+        },
+        "de": {
+          "text": "die Fliege"
+        },
+        "id": {
+          "text": "dasi kupu-kupu"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bow-tie/source.png",
+        "still.png": "assets/bow-tie/still.png",
+        "still.webp": "assets/bow-tie/still.webp",
+        "animated.avif": "assets/bow-tie/animated.avif",
+        "motion.json": "assets/bow-tie/motion.json",
+        "meta.json": "assets/bow-tie/meta.json",
+        "reference.png": "assets/bow-tie/reference.png"
+      },
+      "sha256": {
+        "source.png": "74347f5a7fe625b9b623a8e909d8ddaf5285f551e6b8db9523c876ad9f1a9e3e",
+        "still.png": "9b28b5c8abc9377b936add4a1f88088f809e95d2a8f166431097f4550eb52986",
+        "still.webp": "4906e029322ca8735aaf6dd6b581b5b3a266b3636f0152bba7265f1a59049f78",
+        "animated.avif": "a5ddf23da34923e960da928ac2529025f71d25e88792477fb5866d002149f2d1",
+        "motion.json": "2ff24fa994a88ff29cfed0669fe502888c3299a581cc12a22c35ab6b93d2bbc7",
+        "meta.json": "3d286335b027bdcbf4a40c3914ca9f3699b704c84b60351cb97b9d0ce84e4142",
+        "reference.png": "9b28b5c8abc9377b936add4a1f88088f809e95d2a8f166431097f4550eb52986"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 20290
+    },
+    {
       "id": "bowl",
       "name": "bowl",
       "category": "kitchen",
@@ -3558,6 +3696,75 @@
       "fps": 12,
       "duration": 3,
       "animationBytes": 38608
+    },
+    {
+      "id": "bracelet",
+      "name": "bracelet",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "bracelet"
+        },
+        "vi": {
+          "text": "vòng tay"
+        },
+        "zh-Hans": {
+          "text": "手链",
+          "reading": "shǒuliàn"
+        },
+        "ja": {
+          "text": "ブレスレット",
+          "reading": "buresuretto"
+        },
+        "ko": {
+          "text": "팔찌",
+          "reading": "paljji"
+        },
+        "es": {
+          "text": "la pulsera"
+        },
+        "fr": {
+          "text": "le bracelet"
+        },
+        "de": {
+          "text": "das Armband"
+        },
+        "id": {
+          "text": "gelang"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bracelet/source.png",
+        "still.png": "assets/bracelet/still.png",
+        "still.webp": "assets/bracelet/still.webp",
+        "animated.avif": "assets/bracelet/animated.avif",
+        "motion.json": "assets/bracelet/motion.json",
+        "meta.json": "assets/bracelet/meta.json",
+        "reference.png": "assets/bracelet/reference.png"
+      },
+      "sha256": {
+        "source.png": "021092d937837d4afce5c680212401f51976c4ee0bb0672a8d41c2a034b1511f",
+        "still.png": "fa09a3d55b99e2316404a0095de67f6a553ee462baf5dfee0ebcf92a1b9f0a69",
+        "still.webp": "d41f91c48d8ecb88cfe6d845a7497ca6cca0b6c0ae72b43a3e9c5f00470a518c",
+        "animated.avif": "6434901de3ba9962563d61676fa9ee3aeb23c0c8416bfae630dd80e64c0a5d3d",
+        "motion.json": "f3319380aed878e6d6eeaa8d8d72d58fc44cf147154b8107b854714c4dab46de",
+        "meta.json": "724489bc455a6fb6f8617985e1cd9778b3d7ead27283d5a1a280f7a5ac126de9",
+        "reference.png": "fa09a3d55b99e2316404a0095de67f6a553ee462baf5dfee0ebcf92a1b9f0a69"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 55645
     },
     {
       "id": "branch",
@@ -4032,6 +4239,75 @@
       "animationBytes": 51700
     },
     {
+      "id": "button",
+      "name": "button",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "button"
+        },
+        "vi": {
+          "text": "cúc áo"
+        },
+        "zh-Hans": {
+          "text": "纽扣",
+          "reading": "niǔkòu"
+        },
+        "ja": {
+          "text": "ボタン",
+          "reading": "botan"
+        },
+        "ko": {
+          "text": "단추",
+          "reading": "danchu"
+        },
+        "es": {
+          "text": "el botón"
+        },
+        "fr": {
+          "text": "le bouton"
+        },
+        "de": {
+          "text": "der Knopf"
+        },
+        "id": {
+          "text": "kancing"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/button/source.png",
+        "still.png": "assets/button/still.png",
+        "still.webp": "assets/button/still.webp",
+        "animated.avif": "assets/button/animated.avif",
+        "motion.json": "assets/button/motion.json",
+        "meta.json": "assets/button/meta.json",
+        "reference.png": "assets/button/reference.png"
+      },
+      "sha256": {
+        "source.png": "0d058cca3abc33c550d58a6c0fbd0a34a542ae84b86cbbdb9f068dd752d6f80f",
+        "still.png": "df8dd53621931a7fa41b46f97df0a44c52b5d7e7ac90a5239a11a73005719a6c",
+        "still.webp": "d28c01a8dbbe33578a981f5f04c3cd31bb395b5e28a7af8027e814b15349e53f",
+        "animated.avif": "185ace361cde9fdfb80d10466622e928278c2c401fe8018f2ffe788d778e7756",
+        "motion.json": "b4384f5f3ef217bad0d8139bbd3d3c750c58be3c17fdc68a6dc59b8078b2f0ef",
+        "meta.json": "797a33c9780aeb297ee0d52bb4c7820f43dc7d45ab4ccba12713b58cad09d12e",
+        "reference.png": "df8dd53621931a7fa41b46f97df0a44c52b5d7e7ac90a5239a11a73005719a6c"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 60738
+    },
+    {
       "id": "cabbage",
       "name": "cabbage",
       "category": "produce",
@@ -4162,6 +4438,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 16027
+    },
+    {
+      "id": "calculator",
+      "name": "calculator",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "calculator"
+        },
+        "vi": {
+          "text": "máy tính cầm tay"
+        },
+        "zh-Hans": {
+          "text": "计算器",
+          "reading": "jìsuànqì"
+        },
+        "ja": {
+          "text": "でんたく",
+          "reading": "dentaku"
+        },
+        "ko": {
+          "text": "계산기",
+          "reading": "gyesangi"
+        },
+        "es": {
+          "text": "la calculadora"
+        },
+        "fr": {
+          "text": "la calculatrice"
+        },
+        "de": {
+          "text": "der Taschenrechner"
+        },
+        "id": {
+          "text": "kalkulator"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/calculator/source.png",
+        "still.png": "assets/calculator/still.png",
+        "still.webp": "assets/calculator/still.webp",
+        "animated.avif": "assets/calculator/animated.avif",
+        "motion.json": "assets/calculator/motion.json",
+        "meta.json": "assets/calculator/meta.json",
+        "reference.png": "assets/calculator/reference.png"
+      },
+      "sha256": {
+        "source.png": "5653fdd16a0e067d7efabe5c2fd9d005887cf2fca78cde0b3a6f83fbabdc6926",
+        "still.png": "03360973f2456d66bfae99f4e458105728de3e7d19d26ccd57cdb82a26a587fd",
+        "still.webp": "28a8f7d9332ada1a0efb1b8a4b5abcafb2bb4afd3ff2265197ee93479378f98b",
+        "animated.avif": "3282f9f27bd082e578d367d66c1b590c365ac2c3a85efa356bdf05d5cb0ad3a2",
+        "motion.json": "9f6e24649478d787495498dfc30794b4d8e19f5d6572d0e7058700e1d7457ef5",
+        "meta.json": "806795fe4facb29372701f9ddb0e1a5efb9147812ae330d1aec3afeded45cb57",
+        "reference.png": "03360973f2456d66bfae99f4e458105728de3e7d19d26ccd57cdb82a26a587fd"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 38460
     },
     {
       "id": "canary",
@@ -4703,6 +5048,74 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 58938
+    },
+    {
+      "id": "cave",
+      "name": "cave",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "cave"
+        },
+        "vi": {
+          "text": "hang động"
+        },
+        "zh-Hans": {
+          "text": "洞穴",
+          "reading": "dòngxué"
+        },
+        "ja": {
+          "text": "ほらあな",
+          "reading": "horaana"
+        },
+        "ko": {
+          "text": "동굴",
+          "reading": "donggul"
+        },
+        "es": {
+          "text": "la cueva"
+        },
+        "fr": {
+          "text": "la grotte"
+        },
+        "de": {
+          "text": "die Höhle"
+        },
+        "id": {
+          "text": "gua"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/cave/source.png",
+        "still.png": "assets/cave/still.png",
+        "still.webp": "assets/cave/still.webp",
+        "animated.avif": "assets/cave/animated.avif",
+        "motion.json": "assets/cave/motion.json",
+        "meta.json": "assets/cave/meta.json",
+        "reference.png": "assets/cave/reference.png"
+      },
+      "sha256": {
+        "source.png": "565878ed4ff754701e2e1b2b23f9a36fa49771abe6ef9a024fcd20e2db42d784",
+        "still.png": "f25810af93eab96dbd05299b698167e65bb8a107a3e60f7dca9d567091af930d",
+        "still.webp": "8232baa1df2c4e4a0461419d497b0835bffd789f6c57feb660099980ff5af39e",
+        "animated.avif": "c4894b2bb093cc098f46f8fe35beebc278a3c234cd30416dac0affff8f9d2b72",
+        "motion.json": "d8d16dcb1375a0e2e3fd13558c9105583e22f76ee1826b40c5afd8110effac31",
+        "meta.json": "0d1025a46e638980cc266632a1aafb60383bae03f98ede80093594818d29c1e9",
+        "reference.png": "f25810af93eab96dbd05299b698167e65bb8a107a3e60f7dca9d567091af930d"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51927
     },
     {
       "id": "ceiling",
@@ -8995,6 +9408,144 @@
       "animationBytes": 42750
     },
     {
+      "id": "earrings",
+      "name": "earrings",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "earrings"
+        },
+        "vi": {
+          "text": "đôi hoa tai"
+        },
+        "zh-Hans": {
+          "text": "耳环",
+          "reading": "ěrhuán"
+        },
+        "ja": {
+          "text": "イヤリング",
+          "reading": "iyaringu"
+        },
+        "ko": {
+          "text": "귀걸이",
+          "reading": "gwigeori"
+        },
+        "es": {
+          "text": "los pendientes"
+        },
+        "fr": {
+          "text": "les boucles d'oreilles"
+        },
+        "de": {
+          "text": "die Ohrringe"
+        },
+        "id": {
+          "text": "anting-anting"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/earrings/source.png",
+        "still.png": "assets/earrings/still.png",
+        "still.webp": "assets/earrings/still.webp",
+        "animated.avif": "assets/earrings/animated.avif",
+        "motion.json": "assets/earrings/motion.json",
+        "meta.json": "assets/earrings/meta.json",
+        "reference.png": "assets/earrings/reference.png"
+      },
+      "sha256": {
+        "source.png": "345835ae3a50a45c366c043a54c62cb4cd483ede9c1bb8c936c20b9628428b59",
+        "still.png": "2de3a114afd6d0d99d08bad26eeceff952dec1637921214e178a65eb6d9d7d20",
+        "still.webp": "40eba0c87e379bbd07bae18c6799aa227b5c4f664ece0452f11d2b95d60a02ae",
+        "animated.avif": "cad7bd3c90f0e0be6f212839b67ecfc89b3562befa6de59fb780f6bb230a3bd6",
+        "motion.json": "277b275edaf89f7f7e0fbdc96f8c106cc914a4db933d22fa69de852e858b9c49",
+        "meta.json": "8770a34801409320a2254b08eea966b7a9a29b230dc377af692a2e37e3b808e6",
+        "reference.png": "2de3a114afd6d0d99d08bad26eeceff952dec1637921214e178a65eb6d9d7d20"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 54374
+    },
+    {
+      "id": "easel",
+      "name": "easel",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "easel"
+        },
+        "vi": {
+          "text": "giá vẽ"
+        },
+        "zh-Hans": {
+          "text": "画架",
+          "reading": "huàjià"
+        },
+        "ja": {
+          "text": "イーゼル",
+          "reading": "īzeru"
+        },
+        "ko": {
+          "text": "이젤",
+          "reading": "ijel"
+        },
+        "es": {
+          "text": "el caballete"
+        },
+        "fr": {
+          "text": "le chevalet"
+        },
+        "de": {
+          "text": "die Staffelei"
+        },
+        "id": {
+          "text": "penyangga lukisan"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/easel/source.png",
+        "still.png": "assets/easel/still.png",
+        "still.webp": "assets/easel/still.webp",
+        "animated.avif": "assets/easel/animated.avif",
+        "motion.json": "assets/easel/motion.json",
+        "meta.json": "assets/easel/meta.json",
+        "reference.png": "assets/easel/reference.png"
+      },
+      "sha256": {
+        "source.png": "260b61ec059a96e150dd98aac9350e80aa7b13445360bba7eb4b8d83a1934e90",
+        "still.png": "e33b9012328e9efd1e19c44fbceb45c5cf7a9d84cc69610fc46acdc8cf37114a",
+        "still.webp": "bc4ba85ddb408216e838a402f836ee43999c65c6ce14f52479690cc535741f2c",
+        "animated.avif": "350bba77286dfe24e66ce295ed87046eff180856b3382dea5a93ca537c5aff26",
+        "motion.json": "bd5288ae4e8158deb0e44ed1dc8d5b706dc611e2a4597461759f641301fe4992",
+        "meta.json": "6bfbe8d2d07ff39c7d66aaa1a59616f0b3fbfef7f99f5f83d39da7bd763fa273",
+        "reference.png": "e33b9012328e9efd1e19c44fbceb45c5cf7a9d84cc69610fc46acdc8cf37114a"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51826
+    },
+    {
       "id": "echidna",
       "name": "echidna",
       "category": "wildlife",
@@ -10004,6 +10555,74 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 23848
+    },
+    {
+      "id": "forest",
+      "name": "forest",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "forest"
+        },
+        "vi": {
+          "text": "rừng"
+        },
+        "zh-Hans": {
+          "text": "森林",
+          "reading": "sēnlín"
+        },
+        "ja": {
+          "text": "もり",
+          "reading": "mori"
+        },
+        "ko": {
+          "text": "숲",
+          "reading": "sup"
+        },
+        "es": {
+          "text": "el bosque"
+        },
+        "fr": {
+          "text": "la forêt"
+        },
+        "de": {
+          "text": "der Wald"
+        },
+        "id": {
+          "text": "hutan"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/forest/source.png",
+        "still.png": "assets/forest/still.png",
+        "still.webp": "assets/forest/still.webp",
+        "animated.avif": "assets/forest/animated.avif",
+        "motion.json": "assets/forest/motion.json",
+        "meta.json": "assets/forest/meta.json",
+        "reference.png": "assets/forest/reference.png"
+      },
+      "sha256": {
+        "source.png": "34a6e114e5e41e5164851c4e9f1ff9349d66aa28674cbc14f5fbf319ebc32eed",
+        "still.png": "f7ad1c53f50b2d33603495f40416b50f6aabfda43d6588e630b6ecf6b77d7f4e",
+        "still.webp": "94f8857ba880a0c012fdf488e38a2f009f45d3db2919d140c49edc8e735cd905",
+        "animated.avif": "02ec8249f40b2c2ad98e398d1d582b36ede3e35b06d730363bcf3902717c3399",
+        "motion.json": "22743414d2ca72c4389456eeaefebdec869a1ee525f47386dad4f42c077cbe17",
+        "meta.json": "cd5eb6d2e85f305ed83967e4ff2b7070f470c6198ec6d1ffde19978744d5a311",
+        "reference.png": "f7ad1c53f50b2d33603495f40416b50f6aabfda43d6588e630b6ecf6b77d7f4e"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 26484
     },
     {
       "id": "fork",
@@ -11468,6 +12087,75 @@
       "animationBytes": 55264
     },
     {
+      "id": "hair-clip",
+      "name": "hair clip",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "hair clip"
+        },
+        "vi": {
+          "text": "kẹp tóc"
+        },
+        "zh-Hans": {
+          "text": "发夹",
+          "reading": "fàjiā"
+        },
+        "ja": {
+          "text": "ヘアピン",
+          "reading": "hea pin"
+        },
+        "ko": {
+          "text": "머리핀",
+          "reading": "meoripin"
+        },
+        "es": {
+          "text": "la horquilla"
+        },
+        "fr": {
+          "text": "la barrette"
+        },
+        "de": {
+          "text": "die Haarspange"
+        },
+        "id": {
+          "text": "jepit rambut"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hair-clip/source.png",
+        "still.png": "assets/hair-clip/still.png",
+        "still.webp": "assets/hair-clip/still.webp",
+        "animated.avif": "assets/hair-clip/animated.avif",
+        "motion.json": "assets/hair-clip/motion.json",
+        "meta.json": "assets/hair-clip/meta.json",
+        "reference.png": "assets/hair-clip/reference.png"
+      },
+      "sha256": {
+        "source.png": "017335a66bc42019048bbf6dbe920720669b81bc154deb1ebab66885992b0a2c",
+        "still.png": "0519f067f82353cf9635b272d9ad36197bcba12832eece1814d7c9b507eea79d",
+        "still.webp": "a63f852e09e09a261fd63f8a3fa207fa4b06dca9df5a11868ad81cdb2232670c",
+        "animated.avif": "7aa801506c13434e95e69c141701a3ae63a46ceb95f46b322b529f095bfd0f14",
+        "motion.json": "c436d2404dc16af152c33bad8fb5a20b1fcab6f66b667e7224f225a33129fff9",
+        "meta.json": "0fb8457eb7e3bae85a9c796420553489e725708a0f3cd9f5ab38dfbc85077ff1",
+        "reference.png": "0519f067f82353cf9635b272d9ad36197bcba12832eece1814d7c9b507eea79d"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 53787
+    },
+    {
       "id": "hair-dryer",
       "name": "hair dryer",
       "category": "home",
@@ -11535,6 +12223,144 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 60637
+    },
+    {
+      "id": "hair-tie",
+      "name": "hair tie",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "hair tie"
+        },
+        "vi": {
+          "text": "dây buộc tóc"
+        },
+        "zh-Hans": {
+          "text": "发圈",
+          "reading": "fàquān"
+        },
+        "ja": {
+          "text": "ヘアゴム",
+          "reading": "hea gomu"
+        },
+        "ko": {
+          "text": "머리끈",
+          "reading": "meorikkeun"
+        },
+        "es": {
+          "text": "la goma del pelo"
+        },
+        "fr": {
+          "text": "l'élastique à cheveux"
+        },
+        "de": {
+          "text": "das Haargummi"
+        },
+        "id": {
+          "text": "ikat rambut"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hair-tie/source.png",
+        "still.png": "assets/hair-tie/still.png",
+        "still.webp": "assets/hair-tie/still.webp",
+        "animated.avif": "assets/hair-tie/animated.avif",
+        "motion.json": "assets/hair-tie/motion.json",
+        "meta.json": "assets/hair-tie/meta.json",
+        "reference.png": "assets/hair-tie/reference.png"
+      },
+      "sha256": {
+        "source.png": "8b670159d956706d906d5e8af6540680d53f5a8d847f0cb34b0833424f96c52a",
+        "still.png": "5ddd5a9db24f160c03f37f95c516b8aec6c2144ba3b6a057235ef7009de32d2a",
+        "still.webp": "3df1a7c555b94cdcee064a9ac8ae4e251342d59b258143ff9a6fb95d26ec53b2",
+        "animated.avif": "ce84f18496dba02490653e8e2e4cae2724acae974a14579344879b10bc7e4526",
+        "motion.json": "09a14e5fcae12f723ba021bd14d0780861cb494c31991cdbd7c33fc73634c874",
+        "meta.json": "fd9df0a346d878028d30cc09fce80015e9d017c856ad8ea2a21c2cb8bcdc475e",
+        "reference.png": "5ddd5a9db24f160c03f37f95c516b8aec6c2144ba3b6a057235ef7009de32d2a"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 38807
+    },
+    {
+      "id": "hairband",
+      "name": "hairband",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "hairband"
+        },
+        "vi": {
+          "text": "băng đô"
+        },
+        "zh-Hans": {
+          "text": "发箍",
+          "reading": "fàgū"
+        },
+        "ja": {
+          "text": "カチューシャ",
+          "reading": "kachūsha"
+        },
+        "ko": {
+          "text": "머리띠",
+          "reading": "meoritti"
+        },
+        "es": {
+          "text": "la diadema"
+        },
+        "fr": {
+          "text": "le serre-tête"
+        },
+        "de": {
+          "text": "der Haarreif"
+        },
+        "id": {
+          "text": "bando"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hairband/source.png",
+        "still.png": "assets/hairband/still.png",
+        "still.webp": "assets/hairband/still.webp",
+        "animated.avif": "assets/hairband/animated.avif",
+        "motion.json": "assets/hairband/motion.json",
+        "meta.json": "assets/hairband/meta.json",
+        "reference.png": "assets/hairband/reference.png"
+      },
+      "sha256": {
+        "source.png": "d7f38da1430cb534a8b7e7becb37674e4f94fbff7db0e68070e4d1728588472c",
+        "still.png": "41c1e4d7c3cf6a50a65de684197235541f70434de6a9daafa2ab75d7b09b5243",
+        "still.webp": "f283abc898b14444e547a85f571568afd23cedf71bec181c2f7e1c51da0364bf",
+        "animated.avif": "4ca92b9787dd88c945a971c78af6c9f6ed26f0175c2c89291db152c4d5b7b521",
+        "motion.json": "79966280db3c7204431b88366fe7c38ae0c141de91269fe125a1028b5ee4d897",
+        "meta.json": "0bc1a356dbb78f9f294b302ca9cf3ccd6eb92ef3e43bb64f2f7e0762fca28075",
+        "reference.png": "41c1e4d7c3cf6a50a65de684197235541f70434de6a9daafa2ab75d7b09b5243"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 49754
     },
     {
       "id": "hairbrush",
@@ -12208,6 +13034,74 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 56699
+    },
+    {
+      "id": "hill",
+      "name": "hill",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "hill"
+        },
+        "vi": {
+          "text": "ngọn đồi"
+        },
+        "zh-Hans": {
+          "text": "小山",
+          "reading": "xiǎoshān"
+        },
+        "ja": {
+          "text": "おか",
+          "reading": "oka"
+        },
+        "ko": {
+          "text": "언덕",
+          "reading": "eondeok"
+        },
+        "es": {
+          "text": "la colina"
+        },
+        "fr": {
+          "text": "la colline"
+        },
+        "de": {
+          "text": "der Hügel"
+        },
+        "id": {
+          "text": "bukit"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hill/source.png",
+        "still.png": "assets/hill/still.png",
+        "still.webp": "assets/hill/still.webp",
+        "animated.avif": "assets/hill/animated.avif",
+        "motion.json": "assets/hill/motion.json",
+        "meta.json": "assets/hill/meta.json",
+        "reference.png": "assets/hill/reference.png"
+      },
+      "sha256": {
+        "source.png": "5f425df1d3863a7f49caf9f352300166486c10c014ce6386263e69fa548f177a",
+        "still.png": "32552a3ef3b5126073405d36c4a49fb3a1b76e9a8227ef88527c708db5ecc2f0",
+        "still.webp": "49075b224b383d1a54dc16b18bcebaa4a7eaab34033728b2bda262cedc6c03d8",
+        "animated.avif": "6462585f59c1797f6261c8ee6489d2af14f4747ab478325338d007d0b2a1c49b",
+        "motion.json": "91b6dd1559010b8c997b3e1eaf96457ef583206f06540c590dc1c4686c95fb33",
+        "meta.json": "b17d021db14912f9129aa6d4c089759a9f8feb017d2a0adf1138683853d08a59",
+        "reference.png": "32552a3ef3b5126073405d36c4a49fb3a1b76e9a8227ef88527c708db5ecc2f0"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 36331
     },
     {
       "id": "hinge",
@@ -13634,6 +14528,74 @@
       "fps": 12,
       "duration": 3,
       "animationBytes": 42460
+    },
+    {
+      "id": "lake",
+      "name": "lake",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "lake"
+        },
+        "vi": {
+          "text": "hồ nước"
+        },
+        "zh-Hans": {
+          "text": "湖",
+          "reading": "hú"
+        },
+        "ja": {
+          "text": "みずうみ",
+          "reading": "mizuumi"
+        },
+        "ko": {
+          "text": "호수",
+          "reading": "hosu"
+        },
+        "es": {
+          "text": "el lago"
+        },
+        "fr": {
+          "text": "le lac"
+        },
+        "de": {
+          "text": "der See"
+        },
+        "id": {
+          "text": "danau"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/lake/source.png",
+        "still.png": "assets/lake/still.png",
+        "still.webp": "assets/lake/still.webp",
+        "animated.avif": "assets/lake/animated.avif",
+        "motion.json": "assets/lake/motion.json",
+        "meta.json": "assets/lake/meta.json",
+        "reference.png": "assets/lake/reference.png"
+      },
+      "sha256": {
+        "source.png": "16c7e4efb3bd1de2d6e245437e4c7a36df720d4feff3e52e19ba8fce89919a08",
+        "still.png": "e85206120f046f1450f34a56d03580720da304c895eac4d3cdd4771ebe4ce8ed",
+        "still.webp": "aed8f636cb1bff963b778fb79a903c0248162663e7679d9c068589c9c7c82edf",
+        "animated.avif": "a505906631ee13804957c71f4e570455e368b00e0d973442b0d94da7ef7c1376",
+        "motion.json": "64b90d3546fd92d1b75a464df6a69d0fa60d19dd052cb4ab087237a701034682",
+        "meta.json": "400959f90950e5aa1262f52f59bacda1942e5c15ee48cb722d558b661c791609",
+        "reference.png": "e85206120f046f1450f34a56d03580720da304c895eac4d3cdd4771ebe4ce8ed"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 19407
     },
     {
       "id": "lasagna",
@@ -16321,6 +17283,75 @@
       "animationBytes": 36527
     },
     {
+      "id": "modeling-dough",
+      "name": "modeling dough",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "modeling dough"
+        },
+        "vi": {
+          "text": "bột nặn"
+        },
+        "zh-Hans": {
+          "text": "面团黏土",
+          "reading": "miàntuán niántǔ"
+        },
+        "ja": {
+          "text": "こむぎねんど",
+          "reading": "komugi nendo"
+        },
+        "ko": {
+          "text": "밀가루 반죽 점토",
+          "reading": "milgaru banjuk jeomto"
+        },
+        "es": {
+          "text": "la masa para modelar"
+        },
+        "fr": {
+          "text": "la pâte à modeler"
+        },
+        "de": {
+          "text": "die Knete"
+        },
+        "id": {
+          "text": "adonan mainan"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/modeling-dough/source.png",
+        "still.png": "assets/modeling-dough/still.png",
+        "still.webp": "assets/modeling-dough/still.webp",
+        "animated.avif": "assets/modeling-dough/animated.avif",
+        "motion.json": "assets/modeling-dough/motion.json",
+        "meta.json": "assets/modeling-dough/meta.json",
+        "reference.png": "assets/modeling-dough/reference.png"
+      },
+      "sha256": {
+        "source.png": "ae6f5fd590f0107094c7855cc5922bcfe18a73a951e8227d0a06d6fa10be2eb0",
+        "still.png": "840cd077d45df868920713124c5e4940e1d0021c4c877c81ac5a05ee6927ea03",
+        "still.webp": "68391790c66e94aee0cbee2934920dca90caa54ce717582337e423181181d1a9",
+        "animated.avif": "75f699bb8662701481834235373e65100679fcc9061493c61edeb91a0e53a381",
+        "motion.json": "7caec8dce79a612d8cb9ea6d24787f71f6d8826ec98e67679fc07b6f4b83a99b",
+        "meta.json": "93bc9dd8d2a9401a19714815ebcec0ac4bda22ee03c9aa18615d5ab8055bf8ef",
+        "reference.png": "840cd077d45df868920713124c5e4940e1d0021c4c877c81ac5a05ee6927ea03"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 30147
+    },
+    {
       "id": "mole",
       "name": "mole",
       "category": "wildlife",
@@ -17133,6 +18164,75 @@
       "animationBytes": 58354
     },
     {
+      "id": "necklace",
+      "name": "necklace",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "necklace"
+        },
+        "vi": {
+          "text": "vòng cổ"
+        },
+        "zh-Hans": {
+          "text": "项链",
+          "reading": "xiàngliàn"
+        },
+        "ja": {
+          "text": "ネックレス",
+          "reading": "nekkuresu"
+        },
+        "ko": {
+          "text": "목걸이",
+          "reading": "mokgeori"
+        },
+        "es": {
+          "text": "el collar"
+        },
+        "fr": {
+          "text": "le collier"
+        },
+        "de": {
+          "text": "die Halskette"
+        },
+        "id": {
+          "text": "kalung"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/necklace/source.png",
+        "still.png": "assets/necklace/still.png",
+        "still.webp": "assets/necklace/still.webp",
+        "animated.avif": "assets/necklace/animated.avif",
+        "motion.json": "assets/necklace/motion.json",
+        "meta.json": "assets/necklace/meta.json",
+        "reference.png": "assets/necklace/reference.png"
+      },
+      "sha256": {
+        "source.png": "0af944a1f00d81e65168a128bd2956d4c535644e01205a956d39c43b64279278",
+        "still.png": "7b751290e884089f4bb491e6f3afd632df034714396aaa02301c827966fb79b2",
+        "still.webp": "96e495380c83c8848eeef48cc5ffd3a66fb83a6fc52925efe7abc8fd93ae13d4",
+        "animated.avif": "481bc631561f591942b217d58ab53ea5e3218b5030bd902f2b0888133d7e5688",
+        "motion.json": "d11a4382852adb97c307558f3e7b39d46479c5f17323a6bbe0d9c69e301b6c1b",
+        "meta.json": "d9cb4cfa00a2f76abf6f6d20402aa6cd120b5fe415f148be36e45abeac8c9257",
+        "reference.png": "7b751290e884089f4bb491e6f3afd632df034714396aaa02301c827966fb79b2"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51782
+    },
+    {
       "id": "nectarine",
       "name": "nectarine",
       "category": "produce",
@@ -17803,6 +18903,75 @@
       "animationBytes": 26370
     },
     {
+      "id": "origami",
+      "name": "origami",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "origami"
+        },
+        "vi": {
+          "text": "giấy gấp hình"
+        },
+        "zh-Hans": {
+          "text": "折纸",
+          "reading": "zhézhǐ"
+        },
+        "ja": {
+          "text": "おりがみ",
+          "reading": "origami"
+        },
+        "ko": {
+          "text": "종이접기",
+          "reading": "jongi jeopgi"
+        },
+        "es": {
+          "text": "el origami"
+        },
+        "fr": {
+          "text": "l'origami"
+        },
+        "de": {
+          "text": "das Origami"
+        },
+        "id": {
+          "text": "origami"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/origami/source.png",
+        "still.png": "assets/origami/still.png",
+        "still.webp": "assets/origami/still.webp",
+        "animated.avif": "assets/origami/animated.avif",
+        "motion.json": "assets/origami/motion.json",
+        "meta.json": "assets/origami/meta.json",
+        "reference.png": "assets/origami/reference.png"
+      },
+      "sha256": {
+        "source.png": "1cfc90959b4b4ff49ebd8082818ba45f8ddec3d885bc6ac2f6f4ab326d2a938b",
+        "still.png": "87b44e3b0242754c4c448fe932b7713146c508f166a5027d4a8192c4c067e1cf",
+        "still.webp": "f99a8e32485a1478f50327f184da4d1363eb15d0716224136b6a8b54b3f38957",
+        "animated.avif": "74a3b06579e14d102e431f776403d2b834cbecf006a65c11a52c2f064279b175",
+        "motion.json": "15d69102048e8b7624c89715591fe3415169d0fe6d0ec44a7d5ba815953b3327",
+        "meta.json": "7f1daaa977a2793b440d251adc522b2ab63008d7694be99ce8a1662a88925012",
+        "reference.png": "87b44e3b0242754c4c448fe932b7713146c508f166a5027d4a8192c4c067e1cf"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51842
+    },
+    {
       "id": "ostrich",
       "name": "ostrich",
       "category": "wildlife",
@@ -18069,6 +19238,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 38302
+    },
+    {
+      "id": "paint-pot",
+      "name": "paint pot",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "paint pot"
+        },
+        "vi": {
+          "text": "lọ màu vẽ"
+        },
+        "zh-Hans": {
+          "text": "颜料罐",
+          "reading": "yánliàoguàn"
+        },
+        "ja": {
+          "text": "えのぐのびん",
+          "reading": "enogu no bin"
+        },
+        "ko": {
+          "text": "물감 통",
+          "reading": "mulgam tong"
+        },
+        "es": {
+          "text": "el bote de pintura"
+        },
+        "fr": {
+          "text": "le pot de peinture"
+        },
+        "de": {
+          "text": "der Farbtopf"
+        },
+        "id": {
+          "text": "pot cat"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/paint-pot/source.png",
+        "still.png": "assets/paint-pot/still.png",
+        "still.webp": "assets/paint-pot/still.webp",
+        "animated.avif": "assets/paint-pot/animated.avif",
+        "motion.json": "assets/paint-pot/motion.json",
+        "meta.json": "assets/paint-pot/meta.json",
+        "reference.png": "assets/paint-pot/reference.png"
+      },
+      "sha256": {
+        "source.png": "532c5d56ee5fd9d3c1cdbd84df946f131d7934316fd2e8bdaf2fac04708edb3e",
+        "still.png": "0eb5d3c00ecd81e36033cc36b27f72238470ee1df1a5b6143cafc174e56092d6",
+        "still.webp": "5496e5b7dfc491527ff50784e99a4db009b019845e4151ac8a8f436e11e58f63",
+        "animated.avif": "88b9b099ea92881f6711476865e0348c05c2eacb445f986c977325cd5f9d77e9",
+        "motion.json": "ed8e55eed4bbd4b87ab8783bb724d1c0b806d36cbc6806ef105b2d23d8922120",
+        "meta.json": "3f9715e293ae9997b59a057dff53cd5e072fee8d6fd822da0438459b512ad7ae",
+        "reference.png": "0eb5d3c00ecd81e36033cc36b27f72238470ee1df1a5b6143cafc174e56092d6"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 54297
     },
     {
       "id": "paint-tube",
@@ -18406,6 +19644,144 @@
       "animationBytes": 55108
     },
     {
+      "id": "paper",
+      "name": "paper",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "paper"
+        },
+        "vi": {
+          "text": "tờ giấy"
+        },
+        "zh-Hans": {
+          "text": "纸",
+          "reading": "zhǐ"
+        },
+        "ja": {
+          "text": "かみ",
+          "reading": "kami"
+        },
+        "ko": {
+          "text": "종이",
+          "reading": "jongi"
+        },
+        "es": {
+          "text": "el papel"
+        },
+        "fr": {
+          "text": "le papier"
+        },
+        "de": {
+          "text": "das Papier"
+        },
+        "id": {
+          "text": "kertas"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/paper/source.png",
+        "still.png": "assets/paper/still.png",
+        "still.webp": "assets/paper/still.webp",
+        "animated.avif": "assets/paper/animated.avif",
+        "motion.json": "assets/paper/motion.json",
+        "meta.json": "assets/paper/meta.json",
+        "reference.png": "assets/paper/reference.png"
+      },
+      "sha256": {
+        "source.png": "241d975d78b3f678544354c46672f179e33de7e4ca121438e128f9dcfb067b2c",
+        "still.png": "27117e79315798575f552236a36377614f6bc1acc4780c527852a10b709b15e1",
+        "still.webp": "32858019f3939e128b2bce0f0c44e788b588e89c9d579e5021c351b291cef4e0",
+        "animated.avif": "ad5d46a337c7b91f84793a690c54ea0638b61c7fcf3cdd2f490fb5e7945657c1",
+        "motion.json": "0cdfe2c45056281430e94c97178e985b39ed3ad8e3e89edd5b3057b7f594970d",
+        "meta.json": "70676f44278346ca06873b8ff6f581e9c7760447dcab6c76b3340c76d5223e46",
+        "reference.png": "27117e79315798575f552236a36377614f6bc1acc4780c527852a10b709b15e1"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 20613
+    },
+    {
+      "id": "paper-boat",
+      "name": "paper boat",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "paper boat"
+        },
+        "vi": {
+          "text": "thuyền giấy"
+        },
+        "zh-Hans": {
+          "text": "纸船",
+          "reading": "zhǐchuán"
+        },
+        "ja": {
+          "text": "かみのふね",
+          "reading": "kami no fune"
+        },
+        "ko": {
+          "text": "종이배",
+          "reading": "jongibae"
+        },
+        "es": {
+          "text": "el barco de papel"
+        },
+        "fr": {
+          "text": "le bateau en papier"
+        },
+        "de": {
+          "text": "das Papierboot"
+        },
+        "id": {
+          "text": "perahu kertas"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/paper-boat/source.png",
+        "still.png": "assets/paper-boat/still.png",
+        "still.webp": "assets/paper-boat/still.webp",
+        "animated.avif": "assets/paper-boat/animated.avif",
+        "motion.json": "assets/paper-boat/motion.json",
+        "meta.json": "assets/paper-boat/meta.json",
+        "reference.png": "assets/paper-boat/reference.png"
+      },
+      "sha256": {
+        "source.png": "36cf13e873cddba57a027377a8c484d3417e5a506b8ae4f17e30d81bc93755bf",
+        "still.png": "280e6fac06163e99603defbfdf1b7aa89645902f39ddbf325666b57ce2642782",
+        "still.webp": "f43271c1b13b6c035cdc44fb5855e9bc0a488effdb0887425c686d6f834ddec4",
+        "animated.avif": "2f3ff807a6b02b2a4f94ade4f2929785cb7de04b74203a310152fbab42ffd819",
+        "motion.json": "43ee19543df4f775db7150f1bdc611397d7fda362a39d5fe2fa402be05fab817",
+        "meta.json": "d816f61f2aa6b115b7d3f8ca75e74d9cbb0c38282172ad523eb0df556093a4bb",
+        "reference.png": "280e6fac06163e99603defbfdf1b7aa89645902f39ddbf325666b57ce2642782"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 41491
+    },
+    {
       "id": "paper-crane",
       "name": "paper crane",
       "category": "school-art",
@@ -18473,6 +19849,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 53304
+    },
+    {
+      "id": "paper-fan",
+      "name": "paper fan",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "paper fan"
+        },
+        "vi": {
+          "text": "quạt giấy"
+        },
+        "zh-Hans": {
+          "text": "纸扇",
+          "reading": "zhǐshàn"
+        },
+        "ja": {
+          "text": "かみのせんす",
+          "reading": "kami no sensu"
+        },
+        "ko": {
+          "text": "종이부채",
+          "reading": "jongibuchae"
+        },
+        "es": {
+          "text": "el abanico de papel"
+        },
+        "fr": {
+          "text": "l'éventail en papier"
+        },
+        "de": {
+          "text": "der Papierfächer"
+        },
+        "id": {
+          "text": "kipas kertas"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/paper-fan/source.png",
+        "still.png": "assets/paper-fan/still.png",
+        "still.webp": "assets/paper-fan/still.webp",
+        "animated.avif": "assets/paper-fan/animated.avif",
+        "motion.json": "assets/paper-fan/motion.json",
+        "meta.json": "assets/paper-fan/meta.json",
+        "reference.png": "assets/paper-fan/reference.png"
+      },
+      "sha256": {
+        "source.png": "479ff8814143e60644cc7ed347f99e20d14e973d91e6e365a199f4384f42a79e",
+        "still.png": "a523fed1dad05d7d5bccadee1b8e148aad7f88cab1d24ff5789568207dfd05ff",
+        "still.webp": "6e3ddee230a8fbfccf17c96f5c590ab7a54bd0d287e9a72f8534b58073f42556",
+        "animated.avif": "ff12fa1a9be7228575cf26d3b55409875b7342778f48e7b65da8ca1683b7e5a0",
+        "motion.json": "ae6632e4ed369e36e3b513b0897bcca3dd2c5309eaaf4d33dd0709e1f7dbc6ca",
+        "meta.json": "26276523fc21c278133958fa73dd6cf98446491c5c3407777f0012c76e05977a",
+        "reference.png": "a523fed1dad05d7d5bccadee1b8e148aad7f88cab1d24ff5789568207dfd05ff"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 28778
     },
     {
       "id": "parrotfish",
@@ -20284,6 +21729,74 @@
       "animationBytes": 35273
     },
     {
+      "id": "pond",
+      "name": "pond",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "pond"
+        },
+        "vi": {
+          "text": "ao"
+        },
+        "zh-Hans": {
+          "text": "池塘",
+          "reading": "chítáng"
+        },
+        "ja": {
+          "text": "いけ",
+          "reading": "ike"
+        },
+        "ko": {
+          "text": "연못",
+          "reading": "yeonmot"
+        },
+        "es": {
+          "text": "el estanque"
+        },
+        "fr": {
+          "text": "l'étang"
+        },
+        "de": {
+          "text": "der Teich"
+        },
+        "id": {
+          "text": "kolam"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/pond/source.png",
+        "still.png": "assets/pond/still.png",
+        "still.webp": "assets/pond/still.webp",
+        "animated.avif": "assets/pond/animated.avif",
+        "motion.json": "assets/pond/motion.json",
+        "meta.json": "assets/pond/meta.json",
+        "reference.png": "assets/pond/reference.png"
+      },
+      "sha256": {
+        "source.png": "a625869cef08017f6cf9245219d9adbe14c06a709f02b6b33267db7d101bb0f7",
+        "still.png": "d200f427d171a57bd50c2ec3703c6c83b11750f40b3c5eac1f8806113030cb0d",
+        "still.webp": "45999119d5c18103913625db4088e26ac5114637f14330e21d8b631f86cd57fe",
+        "animated.avif": "b704bcf4a25d7c1b2c6e08c351f96985d0056233751352c8dee3c80d9a668c41",
+        "motion.json": "9ed336bb672f5823857743c6357ea56528f2c20963779782b9865082d1d96f59",
+        "meta.json": "f98a40c1b112dda926f9feb1a80e4848b3bed70f185a6244743021c520186cd0",
+        "reference.png": "d200f427d171a57bd50c2ec3703c6c83b11750f40b3c5eac1f8806113030cb0d"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 23415
+    },
+    {
       "id": "porch",
       "name": "porch",
       "category": "home",
@@ -20552,6 +22065,74 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 55809
+    },
+    {
+      "id": "puddle",
+      "name": "puddle",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "puddle"
+        },
+        "vi": {
+          "text": "vũng nước"
+        },
+        "zh-Hans": {
+          "text": "水坑",
+          "reading": "shuǐkēng"
+        },
+        "ja": {
+          "text": "みずたまり",
+          "reading": "mizutamari"
+        },
+        "ko": {
+          "text": "물웅덩이",
+          "reading": "mulungdeongi"
+        },
+        "es": {
+          "text": "el charco"
+        },
+        "fr": {
+          "text": "la flaque"
+        },
+        "de": {
+          "text": "die Pfütze"
+        },
+        "id": {
+          "text": "genangan air"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/puddle/source.png",
+        "still.png": "assets/puddle/still.png",
+        "still.webp": "assets/puddle/still.webp",
+        "animated.avif": "assets/puddle/animated.avif",
+        "motion.json": "assets/puddle/motion.json",
+        "meta.json": "assets/puddle/meta.json",
+        "reference.png": "assets/puddle/reference.png"
+      },
+      "sha256": {
+        "source.png": "995a8beca905fe19a0475311a149b66d92b5c5123eed982ee572c94dbac47af5",
+        "still.png": "219b9de0f4ba3bde1ea6b1e2787769da22b2315e5f9287bbd2c6cafa7e1aab22",
+        "still.webp": "ee01b252a283d0ba94b258c57d21ebab00ddc136a7bbb618a873ab1885aaf554",
+        "animated.avif": "aad1495386320e28305b7f207112b7569fabcce248c095bfccb4185fb5624a80",
+        "motion.json": "a8b5cd20650e0fad42a33a812230cd2cefa8fb62718c2a2e3368beb629cb808b",
+        "meta.json": "d76e5755dd036d4a9b2114a12b59fb4f4eebc847ee9c94e14f003108199c236a",
+        "reference.png": "219b9de0f4ba3bde1ea6b1e2787769da22b2315e5f9287bbd2c6cafa7e1aab22"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 15038
     },
     {
       "id": "puffin",
@@ -21828,6 +23409,74 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 23400
+    },
+    {
+      "id": "river",
+      "name": "river",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "river"
+        },
+        "vi": {
+          "text": "con sông"
+        },
+        "zh-Hans": {
+          "text": "河流",
+          "reading": "héliú"
+        },
+        "ja": {
+          "text": "かわ",
+          "reading": "kawa"
+        },
+        "ko": {
+          "text": "강",
+          "reading": "gang"
+        },
+        "es": {
+          "text": "el río"
+        },
+        "fr": {
+          "text": "la rivière"
+        },
+        "de": {
+          "text": "der Fluss"
+        },
+        "id": {
+          "text": "sungai"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/river/source.png",
+        "still.png": "assets/river/still.png",
+        "still.webp": "assets/river/still.webp",
+        "animated.avif": "assets/river/animated.avif",
+        "motion.json": "assets/river/motion.json",
+        "meta.json": "assets/river/meta.json",
+        "reference.png": "assets/river/reference.png"
+      },
+      "sha256": {
+        "source.png": "5edcb007a4af90a5a2b5e6ff963ff72ca5e1af8f8820755fe39cb1ec0968c70e",
+        "still.png": "e2cd4ea97004dcfe642d74dcdf5c2fe9aa12b1ea79a78846864794771ca3dc69",
+        "still.webp": "277bd7fa24574b04965a31632640c224ccd1a1e95d7299af53cdfe7dd6ee253e",
+        "animated.avif": "ff540988efe8dcb42dc8dfca0bc5414efd6e77104b9d06126c7220d41a23c9c2",
+        "motion.json": "7f112e3b3c87ecaffbdbc0d58b9bd2c6ff27e5a96d0456bc2ad6afc080e912b4",
+        "meta.json": "1522560fcc2ba9a9469328ef5987b9bfba8cf69155f8e54b58d2c0f978de90af",
+        "reference.png": "e2cd4ea97004dcfe642d74dcdf5c2fe9aa12b1ea79a78846864794771ca3dc69"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 23539
     },
     {
       "id": "roast-chicken",
@@ -23925,6 +25574,75 @@
       "animationBytes": 54512
     },
     {
+      "id": "sketchbook",
+      "name": "sketchbook",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "sketchbook"
+        },
+        "vi": {
+          "text": "sổ vẽ"
+        },
+        "zh-Hans": {
+          "text": "素描本",
+          "reading": "sùmiáoběn"
+        },
+        "ja": {
+          "text": "スケッチブック",
+          "reading": "suketchi bukku"
+        },
+        "ko": {
+          "text": "스케치북",
+          "reading": "seukechibuk"
+        },
+        "es": {
+          "text": "el cuaderno de dibujo"
+        },
+        "fr": {
+          "text": "le carnet de croquis"
+        },
+        "de": {
+          "text": "das Skizzenbuch"
+        },
+        "id": {
+          "text": "buku sketsa"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sketchbook/source.png",
+        "still.png": "assets/sketchbook/still.png",
+        "still.webp": "assets/sketchbook/still.webp",
+        "animated.avif": "assets/sketchbook/animated.avif",
+        "motion.json": "assets/sketchbook/motion.json",
+        "meta.json": "assets/sketchbook/meta.json",
+        "reference.png": "assets/sketchbook/reference.png"
+      },
+      "sha256": {
+        "source.png": "b4d4df5ce39d20d6d0d2dc44af989213b597b4a0b7c52f54e771fe88cf66d9ea",
+        "still.png": "54ca519c045614826e89cc5ecaa0652b2d1dd4f4b42380fed504e951fe7d30f5",
+        "still.webp": "5d3b89580719da76ca7dea462539e7e7e62066deebd73adf101c3906563f36e6",
+        "animated.avif": "2a49b4d0a46bbecec9b888cbcc2baa6147ce4cf95ece78fa9d7c8d3b9af44bea",
+        "motion.json": "1e8d7f7d558933bf28c15040667fd548c2fdf6506485c64e47998805dc2169c4",
+        "meta.json": "3467ffa968c4af10892354a9209c12ec1af2d42da1c8186d1c15dd44a04a0c84",
+        "reference.png": "54ca519c045614826e89cc5ecaa0652b2d1dd4f4b42380fed504e951fe7d30f5"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51597
+    },
+    {
       "id": "skipping-rope",
       "name": "skipping rope",
       "category": "home",
@@ -24532,6 +26250,74 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 41046
+    },
+    {
+      "id": "snowflake",
+      "name": "snowflake",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "snowflake"
+        },
+        "vi": {
+          "text": "bông tuyết"
+        },
+        "zh-Hans": {
+          "text": "雪花",
+          "reading": "xuěhuā"
+        },
+        "ja": {
+          "text": "ゆきのけっしょう",
+          "reading": "yuki no kesshō"
+        },
+        "ko": {
+          "text": "눈송이",
+          "reading": "nunsongi"
+        },
+        "es": {
+          "text": "el copo de nieve"
+        },
+        "fr": {
+          "text": "le flocon de neige"
+        },
+        "de": {
+          "text": "die Schneeflocke"
+        },
+        "id": {
+          "text": "kepingan salju"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/snowflake/source.png",
+        "still.png": "assets/snowflake/still.png",
+        "still.webp": "assets/snowflake/still.webp",
+        "animated.avif": "assets/snowflake/animated.avif",
+        "motion.json": "assets/snowflake/motion.json",
+        "meta.json": "assets/snowflake/meta.json",
+        "reference.png": "assets/snowflake/reference.png"
+      },
+      "sha256": {
+        "source.png": "7e31003fb9ad3d2f48c917961cc62bffa799aaa5b394769fd079ede45631a38c",
+        "still.png": "1acf74422a84f19180404a22c9657f1b6f3f7b7ab2ec9d3518b867aac827aa30",
+        "still.webp": "6c77f98dda210a44119700498f2a9d6ab7dea2eb5768c7b22e23171e6e91e143",
+        "animated.avif": "a7ad9d1d46993ee3de22245c05cffc76de110bce410847b41d581e56c44c26d2",
+        "motion.json": "5900b4c89654a3b0f77008898cccf3f744128607a051d0c03f7bb544f6a8ca33",
+        "meta.json": "b335347c1466202d253f55396fcd571502b6c2f56be4497fbed5e233159313d9",
+        "reference.png": "1acf74422a84f19180404a22c9657f1b6f3f7b7ab2ec9d3518b867aac827aa30"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58650
     },
     {
       "id": "sofa",
@@ -25943,6 +27729,75 @@
       "animationBytes": 22080
     },
     {
+      "id": "sticker",
+      "name": "sticker",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "sticker"
+        },
+        "vi": {
+          "text": "miếng dán"
+        },
+        "zh-Hans": {
+          "text": "贴纸",
+          "reading": "tiēzhǐ"
+        },
+        "ja": {
+          "text": "シール",
+          "reading": "shīru"
+        },
+        "ko": {
+          "text": "스티커",
+          "reading": "seutikeo"
+        },
+        "es": {
+          "text": "la pegatina"
+        },
+        "fr": {
+          "text": "l'autocollant"
+        },
+        "de": {
+          "text": "der Aufkleber"
+        },
+        "id": {
+          "text": "stiker"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sticker/source.png",
+        "still.png": "assets/sticker/still.png",
+        "still.webp": "assets/sticker/still.webp",
+        "animated.avif": "assets/sticker/animated.avif",
+        "motion.json": "assets/sticker/motion.json",
+        "meta.json": "assets/sticker/meta.json",
+        "reference.png": "assets/sticker/reference.png"
+      },
+      "sha256": {
+        "source.png": "e809fedace9136680620f8d177119866ea9d0192a2e27a428800943ab194e41f",
+        "still.png": "0d5e9609d2861eb184ce3d6d78b945a99a2dc7bd40a1ac7301b7b224b73fbca8",
+        "still.webp": "395f91f10eb1d111fa37a62a00ba5a624904f008e306155f38b64570afe0a1ba",
+        "animated.avif": "4a561f5431a58114f58b1dca079b759c010a6d10190e20414c0cb022b9e67275",
+        "motion.json": "ac50bcb884d1dbcf57672b38eb95e7d0cfaa4b3e900aa766b044def7e23e7f45",
+        "meta.json": "fa4de078b5b25e098aabb981303dfde907b9c7b8bc8c52c3380c26f7e3fc9906",
+        "reference.png": "0d5e9609d2861eb184ce3d6d78b945a99a2dc7bd40a1ac7301b7b224b73fbca8"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 57140
+    },
+    {
       "id": "sticky-rice",
       "name": "sticky rice",
       "category": "meals",
@@ -26410,6 +28265,74 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 15808
+    },
+    {
+      "id": "stream",
+      "name": "stream",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "stream"
+        },
+        "vi": {
+          "text": "suối"
+        },
+        "zh-Hans": {
+          "text": "小溪",
+          "reading": "xiǎoxī"
+        },
+        "ja": {
+          "text": "おがわ",
+          "reading": "ogawa"
+        },
+        "ko": {
+          "text": "개울",
+          "reading": "gaeul"
+        },
+        "es": {
+          "text": "el arroyo"
+        },
+        "fr": {
+          "text": "le ruisseau"
+        },
+        "de": {
+          "text": "der Bach"
+        },
+        "id": {
+          "text": "anak sungai"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/stream/source.png",
+        "still.png": "assets/stream/still.png",
+        "still.webp": "assets/stream/still.webp",
+        "animated.avif": "assets/stream/animated.avif",
+        "motion.json": "assets/stream/motion.json",
+        "meta.json": "assets/stream/meta.json",
+        "reference.png": "assets/stream/reference.png"
+      },
+      "sha256": {
+        "source.png": "318f7fbc9d757d477544066812adfacca74c69b8511065e424929af2d9aff03c",
+        "still.png": "76b0e34d09ab82ef288c8013b2f18cd7168a5f06548692718a18d1193291b079",
+        "still.webp": "860a3326200d6451b4bbdf6d5ef2293b5af03a885743e339b569ed739936e2f9",
+        "animated.avif": "e7d48056cb1e120502386e1e45555156eaec77e48d028693cd606dd17f9107b8",
+        "motion.json": "9ee2f899306d8376e9e04dfaae1cb3fcfde2c99d3cacf9bf578e227cd347277c",
+        "meta.json": "e25d21752d235e0d014071a4c39dffb5b659e7b8a7dad16fdd60fd834f1d41b2",
+        "reference.png": "76b0e34d09ab82ef288c8013b2f18cd7168a5f06548692718a18d1193291b079"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 22161
     },
     {
       "id": "sugar-apple",
@@ -29919,6 +31842,74 @@
       "animationBytes": 50839
     },
     {
+      "id": "waterfall",
+      "name": "waterfall",
+      "category": "nature",
+      "terms": {
+        "en": {
+          "text": "waterfall"
+        },
+        "vi": {
+          "text": "thác nước"
+        },
+        "zh-Hans": {
+          "text": "瀑布",
+          "reading": "pùbù"
+        },
+        "ja": {
+          "text": "たき",
+          "reading": "taki"
+        },
+        "ko": {
+          "text": "폭포",
+          "reading": "pokpo"
+        },
+        "es": {
+          "text": "la cascada"
+        },
+        "fr": {
+          "text": "la cascade"
+        },
+        "de": {
+          "text": "der Wasserfall"
+        },
+        "id": {
+          "text": "air terjun"
+        }
+      },
+      "tags": [
+        "nature"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/waterfall/source.png",
+        "still.png": "assets/waterfall/still.png",
+        "still.webp": "assets/waterfall/still.webp",
+        "animated.avif": "assets/waterfall/animated.avif",
+        "motion.json": "assets/waterfall/motion.json",
+        "meta.json": "assets/waterfall/meta.json",
+        "reference.png": "assets/waterfall/reference.png"
+      },
+      "sha256": {
+        "source.png": "60a2f1e22d095bddc3017aadb0c1bb9a2924457e7c5840e5073bf8b794e3cb49",
+        "still.png": "96281dde4a01df7339028fe0d6bb193832cc5674fe80cb914deb2383324885b3",
+        "still.webp": "2c8af4f0a5e46b37554730b860b1b6ae1b7d26e468ab86c0d473875b445b473b",
+        "animated.avif": "5d9f80f3a39570c2d244bb009cb8d37896e4817fa02fe9663c73d02b68734cfb",
+        "motion.json": "210f8cf3fc82f5fb092e452d7a56d8bb553212686adf9344c4d628ffabaa9ff4",
+        "meta.json": "0d842d0205b35aadf2d550a11863b742c5b6a005f51dba04c253d60152863475",
+        "reference.png": "96281dde4a01df7339028fe0d6bb193832cc5674fe80cb914deb2383324885b3"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 19202
+    },
+    {
       "id": "watering-can",
       "name": "watering can",
       "category": "garden",
@@ -30854,6 +32845,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 15484
+    },
+    {
+      "id": "zipper",
+      "name": "zipper",
+      "category": "clothing",
+      "terms": {
+        "en": {
+          "text": "zipper"
+        },
+        "vi": {
+          "text": "khóa kéo"
+        },
+        "zh-Hans": {
+          "text": "拉链",
+          "reading": "lāliàn"
+        },
+        "ja": {
+          "text": "ファスナー",
+          "reading": "fasunā"
+        },
+        "ko": {
+          "text": "지퍼",
+          "reading": "jipeo"
+        },
+        "es": {
+          "text": "la cremallera"
+        },
+        "fr": {
+          "text": "la fermeture éclair"
+        },
+        "de": {
+          "text": "der Reißverschluss"
+        },
+        "id": {
+          "text": "ritsleting"
+        }
+      },
+      "tags": [
+        "clothes",
+        "clothing"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-c-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/zipper/source.png",
+        "still.png": "assets/zipper/still.png",
+        "still.webp": "assets/zipper/still.webp",
+        "animated.avif": "assets/zipper/animated.avif",
+        "motion.json": "assets/zipper/motion.json",
+        "meta.json": "assets/zipper/meta.json",
+        "reference.png": "assets/zipper/reference.png"
+      },
+      "sha256": {
+        "source.png": "d71493bd5a6e22113a579238854a413fcb5e4b5fab964c68a89f2300b4fde09d",
+        "still.png": "633ab83f1fabe132028b25126291d8cfe9e53e4e27d01c80bdf6b6112ba2eaff",
+        "still.webp": "9b873b715ff087f9b529c135d396f012cf69b4b5aa440b044dbea7256b5e57a8",
+        "animated.avif": "361b3c55da60376a67f6aeb29bbf6d1327e243f8daaa6d35378b7488f8c1b6b3",
+        "motion.json": "631a6429d3dc4187ad26368ffaa2c00e5da51a5f35baad44a67605d69c778021",
+        "meta.json": "baf49fedee33b4435ae38fc8ba3c02621f0fb2e62923ae9398b1a5bddaac09d4",
+        "reference.png": "633ab83f1fabe132028b25126291d8cfe9e53e4e27d01c80bdf6b6112ba2eaff"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51265
     },
     {
       "id": "zucchini",

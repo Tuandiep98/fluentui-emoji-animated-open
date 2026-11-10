@@ -1,0 +1,45 @@
+{
+  "id": "puddle",
+  "name": "puddle",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "puddle"
+    },
+    "vi": {
+      "text": "vũng nước"
+    },
+    "zh-Hans": {
+      "text": "水坑",
+      "reading": "shuǐkēng"
+    },
+    "ja": {
+      "text": "みずたまり",
+      "reading": "mizutamari"
+    },
+    "ko": {
+      "text": "물웅덩이",
+      "reading": "mulungdeongi"
+    },
+    "es": {
+      "text": "el charco"
+    },
+    "fr": {
+      "text": "la flaque"
+    },
+    "de": {
+      "text": "die Pfütze"
+    },
+    "id": {
+      "text": "genangan air"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

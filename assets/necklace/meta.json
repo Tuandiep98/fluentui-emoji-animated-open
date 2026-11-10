@@ -1,0 +1,46 @@
+{
+  "id": "necklace",
+  "name": "necklace",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "necklace"
+    },
+    "vi": {
+      "text": "vòng cổ"
+    },
+    "zh-Hans": {
+      "text": "项链",
+      "reading": "xiàngliàn"
+    },
+    "ja": {
+      "text": "ネックレス",
+      "reading": "nekkuresu"
+    },
+    "ko": {
+      "text": "목걸이",
+      "reading": "mokgeori"
+    },
+    "es": {
+      "text": "el collar"
+    },
+    "fr": {
+      "text": "le collier"
+    },
+    "de": {
+      "text": "die Halskette"
+    },
+    "id": {
+      "text": "kalung"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

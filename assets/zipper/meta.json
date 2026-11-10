@@ -1,0 +1,46 @@
+{
+  "id": "zipper",
+  "name": "zipper",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "zipper"
+    },
+    "vi": {
+      "text": "khóa kéo"
+    },
+    "zh-Hans": {
+      "text": "拉链",
+      "reading": "lāliàn"
+    },
+    "ja": {
+      "text": "ファスナー",
+      "reading": "fasunā"
+    },
+    "ko": {
+      "text": "지퍼",
+      "reading": "jipeo"
+    },
+    "es": {
+      "text": "la cremallera"
+    },
+    "fr": {
+      "text": "la fermeture éclair"
+    },
+    "de": {
+      "text": "der Reißverschluss"
+    },
+    "id": {
+      "text": "ritsleting"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

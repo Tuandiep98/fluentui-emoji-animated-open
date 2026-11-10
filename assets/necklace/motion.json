@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "7b751290e884089f4bb491e6f3afd632df034714396aaa02301c827966fb79b2",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A tiny intact-chain sway preserves every fine metal link and the pendant attachment; no bent pendant or detached clasp.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.3,
+        0
+      ],
+      [
+        0.9,
+        0.12
+      ],
+      [
+        1.45,
+        -0.041999999999999996
+      ],
+      [
+        2.1,
+        0.066
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

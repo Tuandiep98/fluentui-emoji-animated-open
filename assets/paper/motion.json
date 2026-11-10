@@ -1,0 +1,79 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "27117e79315798575f552236a36377614f6bc1acc4780c527852a10b709b15e1",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          100,
+          256,
+          156
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          0,
+          138,
+          100
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-curled-paper-corner",
+      "kind": "wave",
+      "center": [
+        188,
+        61
+      ],
+      "radius": [
+        48,
+        38
+      ],
+      "amp": 4.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.4
+        ],
+        [
+          1.4,
+          -1.54
+        ],
+        [
+          2.05,
+          2.8600000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only the existing upper curled paper corner gently flutters; the page body remains pixel-exact. No page turning or new fold."
+}

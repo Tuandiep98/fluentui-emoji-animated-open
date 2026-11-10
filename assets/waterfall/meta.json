@@ -1,0 +1,45 @@
+{
+  "id": "waterfall",
+  "name": "waterfall",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "waterfall"
+    },
+    "vi": {
+      "text": "thác nước"
+    },
+    "zh-Hans": {
+      "text": "瀑布",
+      "reading": "pùbù"
+    },
+    "ja": {
+      "text": "たき",
+      "reading": "taki"
+    },
+    "ko": {
+      "text": "폭포",
+      "reading": "pokpo"
+    },
+    "es": {
+      "text": "la cascada"
+    },
+    "fr": {
+      "text": "la cascade"
+    },
+    "de": {
+      "text": "der Wasserfall"
+    },
+    "id": {
+      "text": "air terjun"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

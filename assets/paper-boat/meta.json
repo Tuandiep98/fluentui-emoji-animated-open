@@ -1,0 +1,46 @@
+{
+  "id": "paper-boat",
+  "name": "paper boat",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "paper boat"
+    },
+    "vi": {
+      "text": "thuyền giấy"
+    },
+    "zh-Hans": {
+      "text": "纸船",
+      "reading": "zhǐchuán"
+    },
+    "ja": {
+      "text": "かみのふね",
+      "reading": "kami no fune"
+    },
+    "ko": {
+      "text": "종이배",
+      "reading": "jongibae"
+    },
+    "es": {
+      "text": "el barco de papel"
+    },
+    "fr": {
+      "text": "le bateau en papier"
+    },
+    "de": {
+      "text": "das Papierboot"
+    },
+    "id": {
+      "text": "perahu kertas"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

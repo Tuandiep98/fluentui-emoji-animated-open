@@ -1,0 +1,46 @@
+{
+  "id": "belt",
+  "name": "belt",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "belt"
+    },
+    "vi": {
+      "text": "thắt lưng"
+    },
+    "zh-Hans": {
+      "text": "腰带",
+      "reading": "yāodài"
+    },
+    "ja": {
+      "text": "ベルト",
+      "reading": "beruto"
+    },
+    "ko": {
+      "text": "허리띠",
+      "reading": "heoritti"
+    },
+    "es": {
+      "text": "el cinturón"
+    },
+    "fr": {
+      "text": "la ceinture"
+    },
+    "de": {
+      "text": "der Gürtel"
+    },
+    "id": {
+      "text": "ikat pinggang"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

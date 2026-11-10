@@ -1,0 +1,46 @@
+{
+  "id": "easel",
+  "name": "easel",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "easel"
+    },
+    "vi": {
+      "text": "giá vẽ"
+    },
+    "zh-Hans": {
+      "text": "画架",
+      "reading": "huàjià"
+    },
+    "ja": {
+      "text": "イーゼル",
+      "reading": "īzeru"
+    },
+    "ko": {
+      "text": "이젤",
+      "reading": "ijel"
+    },
+    "es": {
+      "text": "el caballete"
+    },
+    "fr": {
+      "text": "le chevalet"
+    },
+    "de": {
+      "text": "die Staffelei"
+    },
+    "id": {
+      "text": "penyangga lukisan"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-c-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

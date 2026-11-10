@@ -1,0 +1,60 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "840cd077d45df868920713124c5e4940e1d0021c4c877c81ac5a05ee6927ea03",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [
+    {
+      "name": "soft-dough-settle",
+      "kind": "press",
+      "center": [
+        128,
+        125
+      ],
+      "radius": [
+        108,
+        88
+      ],
+      "amp": 2.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          2.5
+        ],
+        [
+          1.45,
+          -0.875
+        ],
+        [
+          2.1,
+          1.375
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The original dough pieces gently settle in one smooth field. Colors, contacts and original handmade forms stay intact; no remolding."
+}
