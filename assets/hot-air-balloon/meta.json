@@ -1,0 +1,45 @@
+{
+  "id": "hot-air-balloon",
+  "name": "hot air balloon",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "hot air balloon"
+    },
+    "vi": {
+      "text": "khinh khí cầu"
+    },
+    "zh-Hans": {
+      "text": "热气球",
+      "reading": "rè qì qiú"
+    },
+    "ja": {
+      "text": "熱気球",
+      "reading": "netsukikyū"
+    },
+    "ko": {
+      "text": "열기구",
+      "reading": "yeolgigu"
+    },
+    "es": {
+      "text": "globo aerostático"
+    },
+    "fr": {
+      "text": "montgolfière"
+    },
+    "de": {
+      "text": "Heißluftballon"
+    },
+    "id": {
+      "text": "balon udara"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

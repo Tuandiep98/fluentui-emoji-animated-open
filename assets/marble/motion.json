@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "f993faf4c544391ba0b7b3f7ca0d1bc1b34edabd7998ff30926e10a600d0a412",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The intact glass sphere turns slightly, showing motion in its colored internal ribbon while keeping its round silhouette.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        1.8
+      ],
+      [
+        1.45,
+        -0.63
+      ],
+      [
+        2.1,
+        0.9900000000000001
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

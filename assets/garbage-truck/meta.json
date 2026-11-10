@@ -1,0 +1,45 @@
+{
+  "id": "garbage-truck",
+  "name": "garbage truck",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "garbage truck"
+    },
+    "vi": {
+      "text": "xe chở rác"
+    },
+    "zh-Hans": {
+      "text": "垃圾车",
+      "reading": "lā jī chē"
+    },
+    "ja": {
+      "text": "ごみ収集車",
+      "reading": "gomi shūshūsha"
+    },
+    "ko": {
+      "text": "쓰레기차",
+      "reading": "sseuregicha"
+    },
+    "es": {
+      "text": "camión de basura"
+    },
+    "fr": {
+      "text": "camion-poubelle"
+    },
+    "de": {
+      "text": "Müllwagen"
+    },
+    "id": {
+      "text": "truk sampah"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

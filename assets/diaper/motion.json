@@ -1,0 +1,113 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "41ca9d31d2d43e535b574aacc447c6ee5fe40d1ca3ca59d8bc24ef52535de6d3",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          111
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "soft-lower-padding-settle",
+      "kind": "press",
+      "center": [
+        130,
+        190
+      ],
+      "radius": [
+        90,
+        54
+      ],
+      "amp": 4.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.8
+        ],
+        [
+          1.4,
+          -1.68
+        ],
+        [
+          2.05,
+          3.12
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "soft-front-fold-sway",
+      "kind": "wave",
+      "center": [
+        130,
+        177
+      ],
+      "radius": [
+        90,
+        62
+      ],
+      "amp": 2.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.44999999999999996,
+          0
+        ],
+        [
+          1.05,
+          2.5
+        ],
+        [
+          1.5499999999999998,
+          -0.875
+        ],
+        [
+          2.1999999999999997,
+          1.625
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Waistband and side tabs fixed. The lower soft padding settles gently from the original pixels; elastic openings and assembled orientation remain recognizable."
+}

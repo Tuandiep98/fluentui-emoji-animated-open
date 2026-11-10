@@ -1,0 +1,173 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "1c79b2b39a4bc227a357341130a33e1ba62500d0664b3060214999e87e3bb0d4",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          109
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          214,
+          256,
+          42
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "left-fabric-arm-wave",
+      "kind": "rotate",
+      "center": [
+        61,
+        145
+      ],
+      "radius": [
+        36,
+        32
+      ],
+      "amp": 9,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          9
+        ],
+        [
+          1.4,
+          -3.15
+        ],
+        [
+          2.05,
+          5.8500000000000005
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        88,
+        130
+      ]
+    },
+    {
+      "name": "right-fabric-arm-wave",
+      "kind": "rotate",
+      "center": [
+        195,
+        145
+      ],
+      "radius": [
+        36,
+        32
+      ],
+      "amp": -9,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          -9
+        ],
+        [
+          1.5999999999999999,
+          3.15
+        ],
+        [
+          2.25,
+          -5.8500000000000005
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        168,
+        130
+      ]
+    },
+    {
+      "name": "soft-sleeve-sway",
+      "kind": "wave",
+      "center": [
+        129,
+        179
+      ],
+      "radius": [
+        53,
+        31
+      ],
+      "amp": 4.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.42,
+          0
+        ],
+        [
+          1.02,
+          4.5
+        ],
+        [
+          1.52,
+          -1.575
+        ],
+        [
+          2.17,
+          2.9250000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The frog puppet face, stitched eyes and hollow sleeve opening are fixed. Soft side arms wave continuously from their original sewn attachment, with a small fabric-body sway."
+}

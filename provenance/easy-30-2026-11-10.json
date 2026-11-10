@@ -1,0 +1,43 @@
+{
+  "count": 30,
+  "ids": [
+    "hairbrush",
+    "washcloth",
+    "hair-dryer",
+    "bath-mat",
+    "toilet-paper",
+    "bib",
+    "diaper",
+    "wet-wipe",
+    "potty",
+    "laundry-basket",
+    "clothes-peg",
+    "washing-machine",
+    "vacuum-cleaner",
+    "dustpan",
+    "spray-bottle",
+    "dollhouse",
+    "rattle",
+    "rocking-horse",
+    "spinning-top",
+    "pinwheel",
+    "marble",
+    "skipping-rope",
+    "hula-hoop",
+    "hand-puppet",
+    "sand-shovel",
+    "tricycle",
+    "school-bus",
+    "garbage-truck",
+    "excavator",
+    "hot-air-balloon"
+  ],
+  "license": "MIT",
+  "sourceBaseCommit": "b0312773d1d14577499c3f2f540b67757df7a863",
+  "sourceState": "committed reviewed source; per-file hashes are authoritative",
+  "categories": {
+    "home": 25,
+    "vehicles": 5
+  },
+  "sourceCommit": "689f2c3cb0ff036e8592aba40430713e3697032d"
+}

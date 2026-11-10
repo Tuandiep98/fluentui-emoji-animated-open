@@ -1,0 +1,46 @@
+{
+  "id": "toilet-paper",
+  "name": "toilet paper",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "toilet paper"
+    },
+    "vi": {
+      "text": "giấy vệ sinh"
+    },
+    "zh-Hans": {
+      "text": "卫生纸",
+      "reading": "wèi shēng zhǐ"
+    },
+    "ja": {
+      "text": "トイレットペーパー",
+      "reading": "toiretto pēpā"
+    },
+    "ko": {
+      "text": "화장지",
+      "reading": "hwajangji"
+    },
+    "es": {
+      "text": "papel higiénico"
+    },
+    "fr": {
+      "text": "papier toilette"
+    },
+    "de": {
+      "text": "Toilettenpapier"
+    },
+    "id": {
+      "text": "tisu toilet"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "hairbrush",
+  "name": "hairbrush",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "hairbrush"
+    },
+    "vi": {
+      "text": "lược chải tóc"
+    },
+    "zh-Hans": {
+      "text": "发刷",
+      "reading": "fà shuā"
+    },
+    "ja": {
+      "text": "ヘアブラシ",
+      "reading": "hea burashi"
+    },
+    "ko": {
+      "text": "머리빗",
+      "reading": "meoribit"
+    },
+    "es": {
+      "text": "cepillo para el pelo"
+    },
+    "fr": {
+      "text": "brosse à cheveux"
+    },
+    "de": {
+      "text": "Haarbürste"
+    },
+    "id": {
+      "text": "sikat rambut"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

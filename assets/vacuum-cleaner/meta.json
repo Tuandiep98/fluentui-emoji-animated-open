@@ -1,0 +1,46 @@
+{
+  "id": "vacuum-cleaner",
+  "name": "vacuum cleaner",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "vacuum cleaner"
+    },
+    "vi": {
+      "text": "máy hút bụi"
+    },
+    "zh-Hans": {
+      "text": "吸尘器",
+      "reading": "xī chén qì"
+    },
+    "ja": {
+      "text": "掃除機",
+      "reading": "sōjiki"
+    },
+    "ko": {
+      "text": "진공청소기",
+      "reading": "jingong cheongsogi"
+    },
+    "es": {
+      "text": "aspiradora"
+    },
+    "fr": {
+      "text": "aspirateur"
+    },
+    "de": {
+      "text": "Staubsauger"
+    },
+    "id": {
+      "text": "penyedot debu"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "224206d9d5a2ec4546987c0ce371355c3808051bfc071be98489c8d447ecde58",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A small complete-tricycle presentation tilt preserves every edge, attachment and the original assembled rest pose. No opening, reassembly, mirroring or scale change.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.33,
+        0
+      ],
+      [
+        0.98,
+        -0.4738500000000001
+      ],
+      [
+        1.53,
+        0.1658475
+      ],
+      [
+        2.18,
+        -0.26061750000000006
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

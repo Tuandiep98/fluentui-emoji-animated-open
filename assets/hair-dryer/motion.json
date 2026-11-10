@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "f19c0ad08fa74b4a17a6798bf1eb00239bf182895f83ef499d848efa99cd2192",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A small complete-device presentation sweep preserves nozzle, handle and cord. No detached airflow layer or invented blades.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.6
+      ],
+      [
+        1.45,
+        0.21
+      ],
+      [
+        2.1,
+        -0.33
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0
+      ],
+      [
+        1,
+        0.35
+      ],
+      [
+        1.55,
+        -0.12249999999999998
+      ],
+      [
+        2.2,
+        0.1925
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

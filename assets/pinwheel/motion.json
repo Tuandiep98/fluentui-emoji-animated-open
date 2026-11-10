@@ -1,0 +1,224 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "10e2df7355f3968e36ad0c31a0803847d5a073eaa8a36ac3e72f56a3998b76f7",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          119,
+          90,
+          15,
+          16
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          118,
+          174,
+          22,
+          82
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "red-paper-tip",
+      "kind": "rotate",
+      "center": [
+        86,
+        65
+      ],
+      "radius": [
+        26,
+        42
+      ],
+      "amp": 3.645,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.645
+        ],
+        [
+          1.4,
+          -1.27575
+        ],
+        [
+          2.05,
+          2.3692500000000005
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        126,
+        96
+      ]
+    },
+    {
+      "name": "yellow-paper-tip",
+      "kind": "rotate",
+      "center": [
+        171,
+        52
+      ],
+      "radius": [
+        42,
+        22
+      ],
+      "amp": -4.0095,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.42,
+          0
+        ],
+        [
+          1.02,
+          -4.0095
+        ],
+        [
+          1.52,
+          1.4033250000000002
+        ],
+        [
+          2.17,
+          -2.6061750000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        126,
+        96
+      ]
+    },
+    {
+      "name": "blue-paper-tip",
+      "kind": "rotate",
+      "center": [
+        85,
+        132
+      ],
+      "radius": [
+        38,
+        24
+      ],
+      "amp": 3.645,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          3.645
+        ],
+        [
+          1.5999999999999999,
+          -1.27575
+        ],
+        [
+          2.25,
+          2.3692500000000005
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        126,
+        96
+      ]
+    },
+    {
+      "name": "green-paper-tip",
+      "kind": "rotate",
+      "center": [
+        168,
+        137
+      ],
+      "radius": [
+        25,
+        35
+      ],
+      "amp": -4.0095,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.6,
+          0
+        ],
+        [
+          1.2,
+          -4.0095
+        ],
+        [
+          1.7,
+          1.4033250000000002
+        ],
+        [
+          2.3499999999999996,
+          -2.6061750000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        126,
+        96
+      ]
+    }
+  ],
+  "note": "Measured paper-blade tip flutters in staggered fields from the complete original. Center fastener and stick remain pixel-exact; blade roots are not detached or rotated into a different assembly."
+}

@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "b5fd806109826d08339933e5a1649f5d078114c36f1aec48fe6f0862cb9ab4cc",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A small complete-sand-shovel presentation tilt preserves every edge, attachment and the original assembled rest pose. No opening, reassembly, mirroring or scale change.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.5265000000000001
+      ],
+      [
+        1.45,
+        -0.184275
+      ],
+      [
+        2.1,
+        0.289575
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

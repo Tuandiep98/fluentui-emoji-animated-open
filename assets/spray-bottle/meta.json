@@ -1,0 +1,46 @@
+{
+  "id": "spray-bottle",
+  "name": "spray bottle",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "spray bottle"
+    },
+    "vi": {
+      "text": "bình xịt"
+    },
+    "zh-Hans": {
+      "text": "喷雾瓶",
+      "reading": "pēn wù píng"
+    },
+    "ja": {
+      "text": "スプレーボトル",
+      "reading": "supurē botoru"
+    },
+    "ko": {
+      "text": "스프레이 병",
+      "reading": "seupeurei byeong"
+    },
+    "es": {
+      "text": "botella con pulverizador"
+    },
+    "fr": {
+      "text": "vaporisateur"
+    },
+    "de": {
+      "text": "Sprühflasche"
+    },
+    "id": {
+      "text": "botol semprot"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

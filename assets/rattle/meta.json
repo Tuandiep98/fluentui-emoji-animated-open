@@ -1,0 +1,46 @@
+{
+  "id": "rattle",
+  "name": "rattle",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "rattle"
+    },
+    "vi": {
+      "text": "cái xúc xắc em bé"
+    },
+    "zh-Hans": {
+      "text": "摇铃",
+      "reading": "yáo líng"
+    },
+    "ja": {
+      "text": "がらがら",
+      "reading": "garagara"
+    },
+    "ko": {
+      "text": "딸랑이",
+      "reading": "ttallangi"
+    },
+    "es": {
+      "text": "sonajero"
+    },
+    "fr": {
+      "text": "hochet"
+    },
+    "de": {
+      "text": "Rassel"
+    },
+    "id": {
+      "text": "kerincingan bayi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

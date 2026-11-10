@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "75f6825c351727015240d504243074398d49a22d6be6b1255f1d59071d4cebd9",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A small complete-spray-bottle presentation tilt preserves every edge, attachment and the original assembled rest pose. No opening, reassembly, mirroring or scale change.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.33,
+        0
+      ],
+      [
+        0.98,
+        0.65
+      ],
+      [
+        1.53,
+        -0.22749999999999998
+      ],
+      [
+        2.18,
+        0.35750000000000004
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

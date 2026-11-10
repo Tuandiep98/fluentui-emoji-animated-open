@@ -1,0 +1,46 @@
+{
+  "id": "hula-hoop",
+  "name": "hula hoop",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "hula hoop"
+    },
+    "vi": {
+      "text": "vòng lắc eo"
+    },
+    "zh-Hans": {
+      "text": "呼啦圈",
+      "reading": "hū lā quān"
+    },
+    "ja": {
+      "text": "フラフープ",
+      "reading": "fura fūpu"
+    },
+    "ko": {
+      "text": "훌라후프",
+      "reading": "hulla hupeu"
+    },
+    "es": {
+      "text": "aro de hula hula"
+    },
+    "fr": {
+      "text": "cerceau"
+    },
+    "de": {
+      "text": "Hula-Hoop-Reifen"
+    },
+    "id": {
+      "text": "hulahop"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

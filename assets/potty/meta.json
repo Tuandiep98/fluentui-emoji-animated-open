@@ -1,0 +1,46 @@
+{
+  "id": "potty",
+  "name": "potty",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "potty"
+    },
+    "vi": {
+      "text": "bô em bé"
+    },
+    "zh-Hans": {
+      "text": "便盆",
+      "reading": "biàn pén"
+    },
+    "ja": {
+      "text": "おまる",
+      "reading": "omaru"
+    },
+    "ko": {
+      "text": "아기 변기",
+      "reading": "agi byeongi"
+    },
+    "es": {
+      "text": "orinal"
+    },
+    "fr": {
+      "text": "pot pour bébé"
+    },
+    "de": {
+      "text": "Töpfchen"
+    },
+    "id": {
+      "text": "pispot bayi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

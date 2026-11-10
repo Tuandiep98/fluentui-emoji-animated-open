@@ -27,11 +27,11 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**400 emoji · 8 categories**
+**430 emoji · 9 categories**
 
 | Category | Emoji |
 | --- | ---: |
-| Home | 60 |
+| Home | 85 |
 | Kitchen | 50 |
 | Garden | 50 |
 | Fruit & vegetables | 50 |
@@ -39,7 +39,8 @@ Search names and translations in nine languages, filter categories, preview moti
 | Wildlife | 90 |
 | Clothing | 30 |
 | School & art | 20 |
-| **Total** | **400** |
+| Vehicles | 5 |
+| **Total** | **430** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -235,3 +236,26 @@ Ask an AI assistant to follow the existing scaffold, create an original transpar
 master and measured source-locked motion, then run the review/approve/catalog
 commands described above. Contributions following that structure grow the
 collection; README totals and category counts regenerate with `npm run catalog`.
+
+## 30 more everyday beginner words — 2026-11-10
+
+[Preview: 30 easy words, original still beside animation](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/easy30/).
+
+15 care and household objects, 10 familiar toys and 5 common vehicles.
+The easy-first editorial selection follows the collection's beginner vocabulary
+policy. New vehicle entries use the `vehicles` category; category filters and
+README counts are generated with `npm run catalog`.
+
+Every original is assembled and frozen before motion. Cloth, paper, pinwheel
+blade tips, puppet arms and the skipping-rope loop use measured continuous
+fields; rigid assemblies stay intact. Each loop is 3 seconds at 24fps and
+at most 60KiB. Exact neutral pixels, fixed anchors, facing, geometry, bounds,
+loop and at least 96% silhouette overlap were checked. Seven decoded samples
+per icon were reviewed on light and dark backgrounds.
+
+Each `assets/<id>/` contains the MIT transparent source master, reference,
+PNG/WebP stills, AVIF, recipe, nine-language metadata, exact prompt and review
+hashes. The rope's rejected first draft included a person: the recorded
+correction removed that person before freezing the approved object-only art.
+Use the existing scaffold and `animate` / `review` / `approve` commands to
+contribute more familiar words and grow this open collection with AI assistance.

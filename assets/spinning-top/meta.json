@@ -1,0 +1,46 @@
+{
+  "id": "spinning-top",
+  "name": "spinning top",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "spinning top"
+    },
+    "vi": {
+      "text": "con quay"
+    },
+    "zh-Hans": {
+      "text": "陀螺",
+      "reading": "tuó luó"
+    },
+    "ja": {
+      "text": "こま",
+      "reading": "koma"
+    },
+    "ko": {
+      "text": "팽이",
+      "reading": "paengi"
+    },
+    "es": {
+      "text": "peonza"
+    },
+    "fr": {
+      "text": "toupie"
+    },
+    "de": {
+      "text": "Kreisel"
+    },
+    "id": {
+      "text": "gasing"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

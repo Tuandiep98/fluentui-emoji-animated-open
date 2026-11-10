@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "7a165d386b2f0b722be4a5167125670bae00205bba2340e7f9088f30e7ed2a5d",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The intact thin hoop has a very small rigid turn. Its narrow elliptical silhouette needs a lower rotation amplitude to keep the original overlap above96%; no bend or scale.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.25
+      ],
+      [
+        1.45,
+        -0.09
+      ],
+      [
+        2.1,
+        0.14
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

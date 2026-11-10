@@ -1,0 +1,46 @@
+{
+  "id": "bath-mat",
+  "name": "bath mat",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bath mat"
+    },
+    "vi": {
+      "text": "thảm phòng tắm"
+    },
+    "zh-Hans": {
+      "text": "浴室地垫",
+      "reading": "yù shì dì diàn"
+    },
+    "ja": {
+      "text": "バスマット",
+      "reading": "basu matto"
+    },
+    "ko": {
+      "text": "욕실 매트",
+      "reading": "yoksil maeteu"
+    },
+    "es": {
+      "text": "alfombrilla de baño"
+    },
+    "fr": {
+      "text": "tapis de bain"
+    },
+    "de": {
+      "text": "Badematte"
+    },
+    "id": {
+      "text": "keset kamar mandi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

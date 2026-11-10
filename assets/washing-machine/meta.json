@@ -1,0 +1,46 @@
+{
+  "id": "washing-machine",
+  "name": "washing machine",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "washing machine"
+    },
+    "vi": {
+      "text": "máy giặt"
+    },
+    "zh-Hans": {
+      "text": "洗衣机",
+      "reading": "xǐ yī jī"
+    },
+    "ja": {
+      "text": "洗濯機",
+      "reading": "sentakuki"
+    },
+    "ko": {
+      "text": "세탁기",
+      "reading": "setakgi"
+    },
+    "es": {
+      "text": "lavadora"
+    },
+    "fr": {
+      "text": "machine à laver"
+    },
+    "de": {
+      "text": "Waschmaschine"
+    },
+    "id": {
+      "text": "mesin cuci"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

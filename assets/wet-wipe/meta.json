@@ -1,0 +1,46 @@
+{
+  "id": "wet-wipe",
+  "name": "wet wipe",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "wet wipe"
+    },
+    "vi": {
+      "text": "khăn ướt"
+    },
+    "zh-Hans": {
+      "text": "湿巾",
+      "reading": "shī jīn"
+    },
+    "ja": {
+      "text": "ウェットティッシュ",
+      "reading": "wetto tisshu"
+    },
+    "ko": {
+      "text": "물티슈",
+      "reading": "multisyu"
+    },
+    "es": {
+      "text": "toallita húmeda"
+    },
+    "fr": {
+      "text": "lingette humide"
+    },
+    "de": {
+      "text": "Feuchttuch"
+    },
+    "id": {
+      "text": "tisu basah"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

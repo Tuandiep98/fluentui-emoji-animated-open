@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "6e4b6dc1eccf50d14a74d484e3c9e449abc94ac5ed3a22bacca47d67a17dcb84",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A small complete-laundry-basket presentation tilt preserves every edge, attachment and the original assembled rest pose. No opening, reassembly, mirroring or scale change.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.65
+      ],
+      [
+        1.45,
+        0.22749999999999998
+      ],
+      [
+        2.1,
+        -0.35750000000000004
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

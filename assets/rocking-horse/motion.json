@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "9fe50481b946c82c10a5bc607d9da93f3054dd9e9e2e4a209d2ef4b6e3b526b4",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The complete wooden horse rocks gently as one assembly. Legs remain attached to both curved runners throughout.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.6495390000000002
+      ],
+      [
+        1.45,
+        -0.22733865
+      ],
+      [
+        2.1,
+        0.3572464500000001
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

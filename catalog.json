@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "MIT",
-  "count": 400,
+  "count": 430,
   "entries": [
     {
       "id": "aardvark",
@@ -1479,6 +1479,75 @@
       "animationBytes": 17011
     },
     {
+      "id": "bath-mat",
+      "name": "bath mat",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "bath mat"
+        },
+        "vi": {
+          "text": "thảm phòng tắm"
+        },
+        "zh-Hans": {
+          "text": "浴室地垫",
+          "reading": "yù shì dì diàn"
+        },
+        "ja": {
+          "text": "バスマット",
+          "reading": "basu matto"
+        },
+        "ko": {
+          "text": "욕실 매트",
+          "reading": "yoksil maeteu"
+        },
+        "es": {
+          "text": "alfombrilla de baño"
+        },
+        "fr": {
+          "text": "tapis de bain"
+        },
+        "de": {
+          "text": "Badematte"
+        },
+        "id": {
+          "text": "keset kamar mandi"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bath-mat/source.png",
+        "still.png": "assets/bath-mat/still.png",
+        "still.webp": "assets/bath-mat/still.webp",
+        "animated.avif": "assets/bath-mat/animated.avif",
+        "motion.json": "assets/bath-mat/motion.json",
+        "meta.json": "assets/bath-mat/meta.json",
+        "reference.png": "assets/bath-mat/reference.png"
+      },
+      "sha256": {
+        "source.png": "877ff3587c0bd1d1ca1f2706f99d18a9c7a7b43a9c80798e46533b0305db800a",
+        "still.png": "0751477427484c26252f1b68d28dce16323e52d8d8ed410b68a0d4111d15349e",
+        "still.webp": "023cc38ab61eb2fb8571afc93435a0c0d57937b52416b5904f94a3a355232d28",
+        "animated.avif": "2747c5c6b4380902b8c13d82d342d80abe2020e4b5d5b2dbbe30bc37cc7afb3e",
+        "motion.json": "b4ac212e35f1ef0768c04f9139c371ba654c68d4e1d0bb2b72c4fddb97f80fd0",
+        "meta.json": "64880bdf0c6016310292b9bf22c0c11a64caa8655dadd0297a01b709dd178f76",
+        "reference.png": "0751477427484c26252f1b68d28dce16323e52d8d8ed410b68a0d4111d15349e"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 35826
+    },
+    {
       "id": "bathrobe",
       "name": "bathrobe",
       "category": "clothing",
@@ -2146,6 +2215,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 28214
+    },
+    {
+      "id": "bib",
+      "name": "bib",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "bib"
+        },
+        "vi": {
+          "text": "yếm ăn"
+        },
+        "zh-Hans": {
+          "text": "围兜",
+          "reading": "wéi dōu"
+        },
+        "ja": {
+          "text": "よだれかけ",
+          "reading": "yodarekake"
+        },
+        "ko": {
+          "text": "턱받이",
+          "reading": "teokbaji"
+        },
+        "es": {
+          "text": "babero"
+        },
+        "fr": {
+          "text": "bavoir"
+        },
+        "de": {
+          "text": "Lätzchen"
+        },
+        "id": {
+          "text": "celemek bayi"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bib/source.png",
+        "still.png": "assets/bib/still.png",
+        "still.webp": "assets/bib/still.webp",
+        "animated.avif": "assets/bib/animated.avif",
+        "motion.json": "assets/bib/motion.json",
+        "meta.json": "assets/bib/meta.json",
+        "reference.png": "assets/bib/reference.png"
+      },
+      "sha256": {
+        "source.png": "5d1850d7f7c9ff3ee74100f7e13a5e9226d6c607c5eec3fe2d3ced0b27f0cc4f",
+        "still.png": "d63e4790375a4dc4b005aaa5547960d21b944cf0bc49a2f5e39b28ed67325272",
+        "still.webp": "fe07531c5c813af5cec38054ed1d68c408e12581e8d7fd296bf87dffc7df37a4",
+        "animated.avif": "148b4f7343f96cfc0bda7c740fce85f1cca34df8e947a7495b5468f7e2bd51f3",
+        "motion.json": "96fb193bb1794207ca6986dca7a16ef05f66c871aa06974ff54348067559fe2f",
+        "meta.json": "720b14f80f013bfd1bd2589bbd6df9a5d66b5fec10f64c50f7b9453005bf39ea",
+        "reference.png": "d63e4790375a4dc4b005aaa5547960d21b944cf0bc49a2f5e39b28ed67325272"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 29433
     },
     {
       "id": "bird-feeder",
@@ -5094,6 +5232,75 @@
       "animationBytes": 41604
     },
     {
+      "id": "clothes-peg",
+      "name": "clothes peg",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "clothes peg"
+        },
+        "vi": {
+          "text": "kẹp phơi quần áo"
+        },
+        "zh-Hans": {
+          "text": "晾衣夹",
+          "reading": "liàng yī jiā"
+        },
+        "ja": {
+          "text": "洗濯ばさみ",
+          "reading": "sentaku basami"
+        },
+        "ko": {
+          "text": "빨래집게",
+          "reading": "ppallae jipge"
+        },
+        "es": {
+          "text": "pinza para la ropa"
+        },
+        "fr": {
+          "text": "pince à linge"
+        },
+        "de": {
+          "text": "Wäscheklammer"
+        },
+        "id": {
+          "text": "jepitan baju"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/clothes-peg/source.png",
+        "still.png": "assets/clothes-peg/still.png",
+        "still.webp": "assets/clothes-peg/still.webp",
+        "animated.avif": "assets/clothes-peg/animated.avif",
+        "motion.json": "assets/clothes-peg/motion.json",
+        "meta.json": "assets/clothes-peg/meta.json",
+        "reference.png": "assets/clothes-peg/reference.png"
+      },
+      "sha256": {
+        "source.png": "cd1d12c4f43795e8ef8876bae329832bee40d3046de59054daa1ee05228de3cd",
+        "still.png": "b0a5ad9a00c37c8723844b0f0baafd2654f34815e961dc0533054ac700a455a9",
+        "still.webp": "edb2fbd5ad4af4a215e311530b7c78f0b5303dc07bd7cb58120a50abf8c5b977",
+        "animated.avif": "e3caaa17756486c8f4378222b2dc0fa6e506bd7f01abd10281d49140cf1eedc4",
+        "motion.json": "1030a5fab1f93d0c6ec7d3827f9abcf5188290169b60dc9be43351215804ff03",
+        "meta.json": "f0fa0408eb7f9f0ab3cfb893ea98352f085598530c1e568c6d1127d52137bc73",
+        "reference.png": "b0a5ad9a00c37c8723844b0f0baafd2654f34815e961dc0533054ac700a455a9"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56479
+    },
+    {
       "id": "clownfish",
       "name": "clownfish",
       "category": "wildlife",
@@ -7095,6 +7302,75 @@
       "animationBytes": 18494
     },
     {
+      "id": "diaper",
+      "name": "diaper",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "diaper"
+        },
+        "vi": {
+          "text": "tã em bé"
+        },
+        "zh-Hans": {
+          "text": "尿布",
+          "reading": "niào bù"
+        },
+        "ja": {
+          "text": "おむつ",
+          "reading": "omutsu"
+        },
+        "ko": {
+          "text": "기저귀",
+          "reading": "gijeogwi"
+        },
+        "es": {
+          "text": "pañal"
+        },
+        "fr": {
+          "text": "couche"
+        },
+        "de": {
+          "text": "Windel"
+        },
+        "id": {
+          "text": "popok"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/diaper/source.png",
+        "still.png": "assets/diaper/still.png",
+        "still.webp": "assets/diaper/still.webp",
+        "animated.avif": "assets/diaper/animated.avif",
+        "motion.json": "assets/diaper/motion.json",
+        "meta.json": "assets/diaper/meta.json",
+        "reference.png": "assets/diaper/reference.png"
+      },
+      "sha256": {
+        "source.png": "7e2ce30c1ce18246391f204211ee1381ae5c8d3d5e28fc4c2360a7af8254f4fc",
+        "still.png": "41ca9d31d2d43e535b574aacc447c6ee5fe40d1ca3ca59d8bc24ef52535de6d3",
+        "still.webp": "ffb1fb3742e83812321bf21f1262bd468bf41d92c618d61ae6009938a43408eb",
+        "animated.avif": "5c013eead67ee72741d33f4843e311ee9daa35ca9958ff210515f20465f67358",
+        "motion.json": "6403dede67f96f68beeead3ee5290d9c17d8d2c6aea7052226b905b756bee490",
+        "meta.json": "fc54d4889b6f2d81a56c74a7747f5bc3053f39c5e2e7a1d2caa3fe0440fc9133",
+        "reference.png": "41ca9d31d2d43e535b574aacc447c6ee5fe40d1ca3ca59d8bc24ef52535de6d3"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 32390
+    },
+    {
       "id": "dining-room",
       "name": "dining room",
       "category": "home",
@@ -7360,6 +7636,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 61112
+    },
+    {
+      "id": "dollhouse",
+      "name": "dollhouse",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "dollhouse"
+        },
+        "vi": {
+          "text": "nhà búp bê"
+        },
+        "zh-Hans": {
+          "text": "娃娃屋",
+          "reading": "wá wa wū"
+        },
+        "ja": {
+          "text": "ドールハウス",
+          "reading": "dōru hausu"
+        },
+        "ko": {
+          "text": "인형의 집",
+          "reading": "inhyeongui jip"
+        },
+        "es": {
+          "text": "casa de muñecas"
+        },
+        "fr": {
+          "text": "maison de poupée"
+        },
+        "de": {
+          "text": "Puppenhaus"
+        },
+        "id": {
+          "text": "rumah boneka"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/dollhouse/source.png",
+        "still.png": "assets/dollhouse/still.png",
+        "still.webp": "assets/dollhouse/still.webp",
+        "animated.avif": "assets/dollhouse/animated.avif",
+        "motion.json": "assets/dollhouse/motion.json",
+        "meta.json": "assets/dollhouse/meta.json",
+        "reference.png": "assets/dollhouse/reference.png"
+      },
+      "sha256": {
+        "source.png": "3b097fb83ac0c83cb6f85d6cfbcb093d014aab52866b87e3ed9ab6235016dbf7",
+        "still.png": "3f680039162b34a173fbcf6cba7c5430a5f3997fd28ad69e7cabff5f8aac5029",
+        "still.webp": "f3c7976795683f20006f9e8969f626c8dcbc4778d8fcbf9d56c5045d9ea34968",
+        "animated.avif": "9b1bed646dbc590303409c9f29a05d967bb33af9adb73bc45b1826047b64f890",
+        "motion.json": "91d045ee93db40e9febd0c27037a35c7d7260acf6867d158978e033c7229f878",
+        "meta.json": "be1d526d1cea60833fef8d05871e03876915ceac57d3dd5185d1a28e0d30c24d",
+        "reference.png": "3f680039162b34a173fbcf6cba7c5430a5f3997fd28ad69e7cabff5f8aac5029"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 53081
     },
     {
       "id": "doorbell",
@@ -7893,6 +8238,75 @@
       "animationBytes": 49982
     },
     {
+      "id": "dustpan",
+      "name": "dustpan",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "dustpan"
+        },
+        "vi": {
+          "text": "cái hót rác"
+        },
+        "zh-Hans": {
+          "text": "簸箕",
+          "reading": "bò ji"
+        },
+        "ja": {
+          "text": "ちりとり",
+          "reading": "chiritori"
+        },
+        "ko": {
+          "text": "쓰레받기",
+          "reading": "sseurebatgi"
+        },
+        "es": {
+          "text": "recogedor"
+        },
+        "fr": {
+          "text": "pelle à poussière"
+        },
+        "de": {
+          "text": "Kehrschaufel"
+        },
+        "id": {
+          "text": "pengki"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/dustpan/source.png",
+        "still.png": "assets/dustpan/still.png",
+        "still.webp": "assets/dustpan/still.webp",
+        "animated.avif": "assets/dustpan/animated.avif",
+        "motion.json": "assets/dustpan/motion.json",
+        "meta.json": "assets/dustpan/meta.json",
+        "reference.png": "assets/dustpan/reference.png"
+      },
+      "sha256": {
+        "source.png": "2a4e4abf56c2af1d681da24a7cc7f5e9161b165f3d12e13625d60c44bf68b329",
+        "still.png": "1820d6557a0bcc91ac2ba56ef9e488297b0334a7f28e6ca40ce382c37eae9df9",
+        "still.webp": "0e90a4ae23e01b275039b1c809f9d0ac1cbfdd31805ed8930f62b217af52b209",
+        "animated.avif": "204b93559b4ed53a33db5f41b6e48617babedcb6dd036ec698d047cbecadec5f",
+        "motion.json": "a5a19d55069bbf510dda7445c2110f0a473cf9e3ecc727fef60ab50b7bcf82a7",
+        "meta.json": "263f858154dd6c33631cb9f5047cb8527ed8485bddf6c0186d210c05f65b05e6",
+        "reference.png": "1820d6557a0bcc91ac2ba56ef9e488297b0334a7f28e6ca40ce382c37eae9df9"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 57981
+    },
+    {
       "id": "earmuffs",
       "name": "earmuffs",
       "category": "clothing",
@@ -8161,6 +8575,74 @@
       "fps": 20,
       "duration": 3,
       "animationBytes": 59248
+    },
+    {
+      "id": "excavator",
+      "name": "excavator",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "excavator"
+        },
+        "vi": {
+          "text": "máy xúc"
+        },
+        "zh-Hans": {
+          "text": "挖掘机",
+          "reading": "wā jué jī"
+        },
+        "ja": {
+          "text": "ショベルカー",
+          "reading": "shoberukā"
+        },
+        "ko": {
+          "text": "굴착기",
+          "reading": "gulchakgi"
+        },
+        "es": {
+          "text": "excavadora"
+        },
+        "fr": {
+          "text": "pelleteuse"
+        },
+        "de": {
+          "text": "Bagger"
+        },
+        "id": {
+          "text": "ekskavator"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/excavator/source.png",
+        "still.png": "assets/excavator/still.png",
+        "still.webp": "assets/excavator/still.webp",
+        "animated.avif": "assets/excavator/animated.avif",
+        "motion.json": "assets/excavator/motion.json",
+        "meta.json": "assets/excavator/meta.json",
+        "reference.png": "assets/excavator/reference.png"
+      },
+      "sha256": {
+        "source.png": "a954ebc97a1a17d32f4566762022bbfbc58b0fd0ff097cc331b138ad923b3bdb",
+        "still.png": "a83ffc7ca02a76ef89cfebc1e21dd92830ccb0020e1eb14c0c6c39c594fdcb1d",
+        "still.webp": "44c5f8fc37dab10161f476c89c3e6d2d192e0f598a5b6c57786d262cdf27febf",
+        "animated.avif": "d16065595d5eb12e4903c55b9fc49d640373e11876f9cc32e11f6f6d6ceff69d",
+        "motion.json": "4b8775401eddc6cdaf986ce9b2a4501e8589f6b2c1589d1320c6bebebf8d53cd",
+        "meta.json": "22b644c3d0e3c0319e365a4fb121fb8638ae267259079d8ffe67e88a8537b283",
+        "reference.png": "a83ffc7ca02a76ef89cfebc1e21dd92830ccb0020e1eb14c0c6c39c594fdcb1d"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 60288
     },
     {
       "id": "fence",
@@ -9158,6 +9640,74 @@
       "animationBytes": 16961
     },
     {
+      "id": "garbage-truck",
+      "name": "garbage truck",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "garbage truck"
+        },
+        "vi": {
+          "text": "xe chở rác"
+        },
+        "zh-Hans": {
+          "text": "垃圾车",
+          "reading": "lā jī chē"
+        },
+        "ja": {
+          "text": "ごみ収集車",
+          "reading": "gomi shūshūsha"
+        },
+        "ko": {
+          "text": "쓰레기차",
+          "reading": "sseuregicha"
+        },
+        "es": {
+          "text": "camión de basura"
+        },
+        "fr": {
+          "text": "camion-poubelle"
+        },
+        "de": {
+          "text": "Müllwagen"
+        },
+        "id": {
+          "text": "truk sampah"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/garbage-truck/source.png",
+        "still.png": "assets/garbage-truck/still.png",
+        "still.webp": "assets/garbage-truck/still.webp",
+        "animated.avif": "assets/garbage-truck/animated.avif",
+        "motion.json": "assets/garbage-truck/motion.json",
+        "meta.json": "assets/garbage-truck/meta.json",
+        "reference.png": "assets/garbage-truck/reference.png"
+      },
+      "sha256": {
+        "source.png": "3836f06a473887749aee38f0f98edb5da3413fc9a2368678e9d1884c96375d63",
+        "still.png": "87ff9f5e92a0cb7bad7ef750517630feae5df220e5bc266b2f8b3b50e3a97ab0",
+        "still.webp": "8ec9efd1c2ba67441b12a37a11f85b46e14ea45f8e65d919eaf495025299700c",
+        "animated.avif": "5f3da3c32a930ebf39f61678db315b0ca5a650f4ee49bcd1e100d2adbae09816",
+        "motion.json": "5b75034117c85caa9334c4a54bd261fddfa6aabf821139b5712c8711d486078a",
+        "meta.json": "c5302513e5bbcf0b39fe0e881940e29f3949464781d9c4e4a6f84ccce5cff41d",
+        "reference.png": "87ff9f5e92a0cb7bad7ef750517630feae5df220e5bc266b2f8b3b50e3a97ab0"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 49962
+    },
+    {
       "id": "garden-gate",
       "name": "garden gate",
       "category": "garden",
@@ -10090,6 +10640,144 @@
       "animationBytes": 55264
     },
     {
+      "id": "hair-dryer",
+      "name": "hair dryer",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "hair dryer"
+        },
+        "vi": {
+          "text": "máy sấy tóc"
+        },
+        "zh-Hans": {
+          "text": "吹风机",
+          "reading": "chuī fēng jī"
+        },
+        "ja": {
+          "text": "ドライヤー",
+          "reading": "doraiyā"
+        },
+        "ko": {
+          "text": "헤어드라이어",
+          "reading": "heeodeuraieo"
+        },
+        "es": {
+          "text": "secador de pelo"
+        },
+        "fr": {
+          "text": "sèche-cheveux"
+        },
+        "de": {
+          "text": "Haartrockner"
+        },
+        "id": {
+          "text": "pengering rambut"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hair-dryer/source.png",
+        "still.png": "assets/hair-dryer/still.png",
+        "still.webp": "assets/hair-dryer/still.webp",
+        "animated.avif": "assets/hair-dryer/animated.avif",
+        "motion.json": "assets/hair-dryer/motion.json",
+        "meta.json": "assets/hair-dryer/meta.json",
+        "reference.png": "assets/hair-dryer/reference.png"
+      },
+      "sha256": {
+        "source.png": "04e6ac9d6656ead3c1daad70a64a47bb567c90d21d5d368fed5871bf96918b5a",
+        "still.png": "f19c0ad08fa74b4a17a6798bf1eb00239bf182895f83ef499d848efa99cd2192",
+        "still.webp": "f82e2e5a440f65eafbcdf0294fd240bead4f6065bd1cd359b6ab5f5fd669e88b",
+        "animated.avif": "39a97122f7080974e6b81b9189084d6d986fdefec5a45bc07643610707b4e58d",
+        "motion.json": "dbc4d270aff28aa1112e864c11efbb912d4a95fd9da43af59f49cbb16be9f94b",
+        "meta.json": "53e34bbca37de986eff3127598cc8b70540deb42957913a183df3f1d196bb168",
+        "reference.png": "f19c0ad08fa74b4a17a6798bf1eb00239bf182895f83ef499d848efa99cd2192"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 60637
+    },
+    {
+      "id": "hairbrush",
+      "name": "hairbrush",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "hairbrush"
+        },
+        "vi": {
+          "text": "lược chải tóc"
+        },
+        "zh-Hans": {
+          "text": "发刷",
+          "reading": "fà shuā"
+        },
+        "ja": {
+          "text": "ヘアブラシ",
+          "reading": "hea burashi"
+        },
+        "ko": {
+          "text": "머리빗",
+          "reading": "meoribit"
+        },
+        "es": {
+          "text": "cepillo para el pelo"
+        },
+        "fr": {
+          "text": "brosse à cheveux"
+        },
+        "de": {
+          "text": "Haarbürste"
+        },
+        "id": {
+          "text": "sikat rambut"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hairbrush/source.png",
+        "still.png": "assets/hairbrush/still.png",
+        "still.webp": "assets/hairbrush/still.webp",
+        "animated.avif": "assets/hairbrush/animated.avif",
+        "motion.json": "assets/hairbrush/motion.json",
+        "meta.json": "assets/hairbrush/meta.json",
+        "reference.png": "assets/hairbrush/reference.png"
+      },
+      "sha256": {
+        "source.png": "3c9a7630460f64c043bb3731ca18b1d1732c730f7f0b0fa699f06d32f8b54abb",
+        "still.png": "9a7e325e508d6f257087d92a66a604bcafa2267727466c3b565284b8b9b61671",
+        "still.webp": "8c3448e067dbb4bc2770f70d403dacc4445ec7c3c2c6b06320ae854ad768ef12",
+        "animated.avif": "1c5a54b50a42b5d37faaef1da28b20cbb44aa57b51994ff9b91bba4fa6c2a601",
+        "motion.json": "8b0ec9d87d6377b3b20a683a70ad8c884ebc47548024dcb88a69b59df653d2d4",
+        "meta.json": "301866d5fbb85847d862e7c04913647aa6459aa12ec692dcd3b448ae5606ea1d",
+        "reference.png": "9a7e325e508d6f257087d92a66a604bcafa2267727466c3b565284b8b9b61671"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58485
+    },
+    {
       "id": "hallway",
       "name": "hallway",
       "category": "home",
@@ -10154,6 +10842,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 15940
+    },
+    {
+      "id": "hand-puppet",
+      "name": "hand puppet",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "hand puppet"
+        },
+        "vi": {
+          "text": "rối bàn tay"
+        },
+        "zh-Hans": {
+          "text": "手偶",
+          "reading": "shǒu ǒu"
+        },
+        "ja": {
+          "text": "ハンドパペット",
+          "reading": "hando papetto"
+        },
+        "ko": {
+          "text": "손인형",
+          "reading": "soninhyeong"
+        },
+        "es": {
+          "text": "marioneta de mano"
+        },
+        "fr": {
+          "text": "marionnette à gaine"
+        },
+        "de": {
+          "text": "Handpuppe"
+        },
+        "id": {
+          "text": "boneka tangan"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hand-puppet/source.png",
+        "still.png": "assets/hand-puppet/still.png",
+        "still.webp": "assets/hand-puppet/still.webp",
+        "animated.avif": "assets/hand-puppet/animated.avif",
+        "motion.json": "assets/hand-puppet/motion.json",
+        "meta.json": "assets/hand-puppet/meta.json",
+        "reference.png": "assets/hand-puppet/reference.png"
+      },
+      "sha256": {
+        "source.png": "0baf8df95f8a4e188e00620b04915812578c9205ab225c40672891197df9720f",
+        "still.png": "1c79b2b39a4bc227a357341130a33e1ba62500d0664b3060214999e87e3bb0d4",
+        "still.webp": "37c8846b41cffd496c87a9ed1911a0504ae20a987eb0508d6ebd14dbf3c260c9",
+        "animated.avif": "bbd0498a590ab986e03698e8408e16def47918da12bd622054c35250205bac38",
+        "motion.json": "21268b6116b66f98aaf58344e9b363d10ed7118eb275725279518518a7fc8f11",
+        "meta.json": "960dd1d95af97b5594b41f4f53741f0639900efa0a33fd84e4cc4b98cce506c5",
+        "reference.png": "1c79b2b39a4bc227a357341130a33e1ba62500d0664b3060214999e87e3bb0d4"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 50498
     },
     {
       "id": "handrail",
@@ -11034,6 +11791,143 @@
       "animationBytes": 36869
     },
     {
+      "id": "hot-air-balloon",
+      "name": "hot air balloon",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "hot air balloon"
+        },
+        "vi": {
+          "text": "khinh khí cầu"
+        },
+        "zh-Hans": {
+          "text": "热气球",
+          "reading": "rè qì qiú"
+        },
+        "ja": {
+          "text": "熱気球",
+          "reading": "netsukikyū"
+        },
+        "ko": {
+          "text": "열기구",
+          "reading": "yeolgigu"
+        },
+        "es": {
+          "text": "globo aerostático"
+        },
+        "fr": {
+          "text": "montgolfière"
+        },
+        "de": {
+          "text": "Heißluftballon"
+        },
+        "id": {
+          "text": "balon udara"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hot-air-balloon/source.png",
+        "still.png": "assets/hot-air-balloon/still.png",
+        "still.webp": "assets/hot-air-balloon/still.webp",
+        "animated.avif": "assets/hot-air-balloon/animated.avif",
+        "motion.json": "assets/hot-air-balloon/motion.json",
+        "meta.json": "assets/hot-air-balloon/meta.json",
+        "reference.png": "assets/hot-air-balloon/reference.png"
+      },
+      "sha256": {
+        "source.png": "0aebe1d1f4401e1cfa394be1801682941357838d0590b6e634cd94bbc6dcdef5",
+        "still.png": "9c384fa43c075ddc14bcbdfd8d5c81ec2ea319ca0d9ce46e7b481bd994999389",
+        "still.webp": "b84e2abd86921b25837e3afc07ab589dbcc013f6c6e1e4a408a83aea26006166",
+        "animated.avif": "2955ad23d8268937d41910093df7a4645c599df495b55a8e7ccc9e3b7c4b0371",
+        "motion.json": "c332613d51f10dc39ba28ba920000480fc19afa9942407c258952daae6dda683",
+        "meta.json": "cde9ae9d81298b5697d6a9fde14a25f380882740a0a89b3bdce36ac5c12067da",
+        "reference.png": "9c384fa43c075ddc14bcbdfd8d5c81ec2ea319ca0d9ce46e7b481bd994999389"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 53385
+    },
+    {
+      "id": "hula-hoop",
+      "name": "hula hoop",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "hula hoop"
+        },
+        "vi": {
+          "text": "vòng lắc eo"
+        },
+        "zh-Hans": {
+          "text": "呼啦圈",
+          "reading": "hū lā quān"
+        },
+        "ja": {
+          "text": "フラフープ",
+          "reading": "fura fūpu"
+        },
+        "ko": {
+          "text": "훌라후프",
+          "reading": "hulla hupeu"
+        },
+        "es": {
+          "text": "aro de hula hula"
+        },
+        "fr": {
+          "text": "cerceau"
+        },
+        "de": {
+          "text": "Hula-Hoop-Reifen"
+        },
+        "id": {
+          "text": "hulahop"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hula-hoop/source.png",
+        "still.png": "assets/hula-hoop/still.png",
+        "still.webp": "assets/hula-hoop/still.webp",
+        "animated.avif": "assets/hula-hoop/animated.avif",
+        "motion.json": "assets/hula-hoop/motion.json",
+        "meta.json": "assets/hula-hoop/meta.json",
+        "reference.png": "assets/hula-hoop/reference.png"
+      },
+      "sha256": {
+        "source.png": "bbb8625b95bde1aae571a8949eb23b35c9d2918b86a7482dbb18a61776456951",
+        "still.png": "7a165d386b2f0b722be4a5167125670bae00205bba2340e7f9088f30e7ed2a5d",
+        "still.webp": "fa47b7fd099109af9a32ff7440c87a9336df21b61f596e113c00c46728769478",
+        "animated.avif": "5d82fa0b89cd9a0aff51fc274fe90e31f5edb06f0ded6ae042de8f74892e3069",
+        "motion.json": "e436c29639b0ef3671c072053df4f6556865f37ec6734b39f6586a418dc99780",
+        "meta.json": "a554047728c1a50e08243a4eaed6e69746244953dfb9541dec39914088c4daef",
+        "reference.png": "7a165d386b2f0b722be4a5167125670bae00205bba2340e7f9088f30e7ed2a5d"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 57119
+    },
+    {
       "id": "hummingbird",
       "name": "hummingbird",
       "category": "wildlife",
@@ -11841,6 +12735,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 25144
+    },
+    {
+      "id": "laundry-basket",
+      "name": "laundry basket",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "laundry basket"
+        },
+        "vi": {
+          "text": "giỏ đựng đồ giặt"
+        },
+        "zh-Hans": {
+          "text": "洗衣篮",
+          "reading": "xǐ yī lán"
+        },
+        "ja": {
+          "text": "洗濯かご",
+          "reading": "sentaku kago"
+        },
+        "ko": {
+          "text": "빨래 바구니",
+          "reading": "ppallae baguni"
+        },
+        "es": {
+          "text": "cesto de la ropa"
+        },
+        "fr": {
+          "text": "panier à linge"
+        },
+        "de": {
+          "text": "Wäschekorb"
+        },
+        "id": {
+          "text": "keranjang cucian"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/laundry-basket/source.png",
+        "still.png": "assets/laundry-basket/still.png",
+        "still.webp": "assets/laundry-basket/still.webp",
+        "animated.avif": "assets/laundry-basket/animated.avif",
+        "motion.json": "assets/laundry-basket/motion.json",
+        "meta.json": "assets/laundry-basket/meta.json",
+        "reference.png": "assets/laundry-basket/reference.png"
+      },
+      "sha256": {
+        "source.png": "e076227a0b21b613d4025dd470bd2a7dcaa8e1757c56d4272ee7a79916a801cf",
+        "still.png": "6e4b6dc1eccf50d14a74d484e3c9e449abc94ac5ed3a22bacca47d67a17dcb84",
+        "still.webp": "d5679dcab20a695aaf75f1dbff86fa50a1c337d830d2ada37ff14761f17a8ff9",
+        "animated.avif": "69311b40e78c6d036d26e5b45b1f6dd81504c9192983c13c8d6b4cb6f48aee00",
+        "motion.json": "c1298749172b57a50a88c30adfca4ec48db6bd008f202ad0f952367bd25daad6",
+        "meta.json": "a57fa6ad788291c994c6b1e8bd6542a37f8983174b5b911c81507780e1c0c5c8",
+        "reference.png": "6e4b6dc1eccf50d14a74d484e3c9e449abc94ac5ed3a22bacca47d67a17dcb84"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 52800
     },
     {
       "id": "laundry-room",
@@ -13317,6 +14280,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 43685
+    },
+    {
+      "id": "marble",
+      "name": "marble",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "marble"
+        },
+        "vi": {
+          "text": "viên bi"
+        },
+        "zh-Hans": {
+          "text": "玻璃弹珠",
+          "reading": "bō li tán zhū"
+        },
+        "ja": {
+          "text": "ビー玉",
+          "reading": "bīdama"
+        },
+        "ko": {
+          "text": "구슬",
+          "reading": "guseul"
+        },
+        "es": {
+          "text": "canica"
+        },
+        "fr": {
+          "text": "bille"
+        },
+        "de": {
+          "text": "Glasmurmel"
+        },
+        "id": {
+          "text": "kelereng"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/marble/source.png",
+        "still.png": "assets/marble/still.png",
+        "still.webp": "assets/marble/still.webp",
+        "animated.avif": "assets/marble/animated.avif",
+        "motion.json": "assets/marble/motion.json",
+        "meta.json": "assets/marble/meta.json",
+        "reference.png": "assets/marble/reference.png"
+      },
+      "sha256": {
+        "source.png": "30df36fc276896de03cae38f3c59b5bade0123421e10fb0e9d6f9995cdc5742a",
+        "still.png": "f993faf4c544391ba0b7b3f7ca0d1bc1b34edabd7998ff30926e10a600d0a412",
+        "still.webp": "798566a75123609b6ba59ac7900f28fd5a5846525958c541e6cbeb73bd5a9d10",
+        "animated.avif": "85d1c044c6c05868a28757df9f8c3023d08ed493a89d63c66620285c12532f2c",
+        "motion.json": "db3d314b65bad8cf870d63a2511827ac4b2d4d518de08817919cdc1d8a0a6c0f",
+        "meta.json": "58037868ffc57492d00fbe57296ed93f2f93427840a16feff15107adb34ec4fa",
+        "reference.png": "f993faf4c544391ba0b7b3f7ca0d1bc1b34edabd7998ff30926e10a600d0a412"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 54242
     },
     {
       "id": "marigold",
@@ -17208,6 +18240,75 @@
       "animationBytes": 11649
     },
     {
+      "id": "pinwheel",
+      "name": "pinwheel",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "pinwheel"
+        },
+        "vi": {
+          "text": "chong chóng"
+        },
+        "zh-Hans": {
+          "text": "玩具风车",
+          "reading": "wán jù fēng chē"
+        },
+        "ja": {
+          "text": "かざぐるま",
+          "reading": "kazaguruma"
+        },
+        "ko": {
+          "text": "바람개비",
+          "reading": "baramgaebi"
+        },
+        "es": {
+          "text": "molinillo de viento"
+        },
+        "fr": {
+          "text": "moulin à vent en papier"
+        },
+        "de": {
+          "text": "Windrädchen"
+        },
+        "id": {
+          "text": "kincir angin mainan"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/pinwheel/source.png",
+        "still.png": "assets/pinwheel/still.png",
+        "still.webp": "assets/pinwheel/still.webp",
+        "animated.avif": "assets/pinwheel/animated.avif",
+        "motion.json": "assets/pinwheel/motion.json",
+        "meta.json": "assets/pinwheel/meta.json",
+        "reference.png": "assets/pinwheel/reference.png"
+      },
+      "sha256": {
+        "source.png": "50ce2c9595e0bb0a23cea71695bf2c8ec1aca611ea4e6419eabe198cd57cbbbf",
+        "still.png": "10e2df7355f3968e36ad0c31a0803847d5a073eaa8a36ac3e72f56a3998b76f7",
+        "still.webp": "c0794fa4d856aaaab94c1d9c53044acd88d3c08f7302c394150c8954dfe27c06",
+        "animated.avif": "6e75f645427bac9d37de01a40b647d8f97d9ccb5807977d61e3da65cb14a9bde",
+        "motion.json": "4f63b4d778681334db1c48695f313817a9693cb28adf2823ce002ba3b1bdcb54",
+        "meta.json": "f8a7c111437727b7b451d1d3c75fa292fcb59ba2bf2ea9c251fc6b168b78f87c",
+        "reference.png": "10e2df7355f3968e36ad0c31a0803847d5a073eaa8a36ac3e72f56a3998b76f7"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 34480
+    },
+    {
       "id": "pitcher",
       "name": "pitcher",
       "category": "kitchen",
@@ -18073,6 +19174,75 @@
       "animationBytes": 22136
     },
     {
+      "id": "potty",
+      "name": "potty",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "potty"
+        },
+        "vi": {
+          "text": "bô em bé"
+        },
+        "zh-Hans": {
+          "text": "便盆",
+          "reading": "biàn pén"
+        },
+        "ja": {
+          "text": "おまる",
+          "reading": "omaru"
+        },
+        "ko": {
+          "text": "아기 변기",
+          "reading": "agi byeongi"
+        },
+        "es": {
+          "text": "orinal"
+        },
+        "fr": {
+          "text": "pot pour bébé"
+        },
+        "de": {
+          "text": "Töpfchen"
+        },
+        "id": {
+          "text": "pispot bayi"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/potty/source.png",
+        "still.png": "assets/potty/still.png",
+        "still.webp": "assets/potty/still.webp",
+        "animated.avif": "assets/potty/animated.avif",
+        "motion.json": "assets/potty/motion.json",
+        "meta.json": "assets/potty/meta.json",
+        "reference.png": "assets/potty/reference.png"
+      },
+      "sha256": {
+        "source.png": "053e1711e3df3d20d8ea29265ddabb3228343a2d396ce11d1c9490788dbef73a",
+        "still.png": "d4c461526be41816f37bfd78675968b161f87df2268f2104c82db5edd4f3cb1d",
+        "still.webp": "d67399587ebbfd85067bae0b6d9c60ac9ed06010bbcd1a1c8e4f0dac67d1d180",
+        "animated.avif": "ca55b34ee7df107491e7942e54d7cbe289d433e61a1d3f731e3fae6571ce1961",
+        "motion.json": "cefbfc67e81b9ed80707d5e4753a0877831d9a71e337a0b4673c978f6924cd31",
+        "meta.json": "11c669dc6b0481555eff4043b4a909d41898d708e9587885adf1ffe56ed766d0",
+        "reference.png": "d4c461526be41816f37bfd78675968b161f87df2268f2104c82db5edd4f3cb1d"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 55809
+    },
+    {
       "id": "puffin",
       "name": "puffin",
       "category": "wildlife",
@@ -18673,6 +19843,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 37767
+    },
+    {
+      "id": "rattle",
+      "name": "rattle",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "rattle"
+        },
+        "vi": {
+          "text": "cái xúc xắc em bé"
+        },
+        "zh-Hans": {
+          "text": "摇铃",
+          "reading": "yáo líng"
+        },
+        "ja": {
+          "text": "がらがら",
+          "reading": "garagara"
+        },
+        "ko": {
+          "text": "딸랑이",
+          "reading": "ttallangi"
+        },
+        "es": {
+          "text": "sonajero"
+        },
+        "fr": {
+          "text": "hochet"
+        },
+        "de": {
+          "text": "Rassel"
+        },
+        "id": {
+          "text": "kerincingan bayi"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/rattle/source.png",
+        "still.png": "assets/rattle/still.png",
+        "still.webp": "assets/rattle/still.webp",
+        "animated.avif": "assets/rattle/animated.avif",
+        "motion.json": "assets/rattle/motion.json",
+        "meta.json": "assets/rattle/meta.json",
+        "reference.png": "assets/rattle/reference.png"
+      },
+      "sha256": {
+        "source.png": "097b96a646119962c5885a14e2c242ce6d2bc164b90dcfd378f194cf28bfbdcd",
+        "still.png": "302fe812a83c668cdd60174195f1338f96d1f6dcbe20ceb29baab1f91e259191",
+        "still.webp": "58a4ae392692a14cb4ec94c12d6e8617ac47d35be5c64e7f64a2b64efc1c776a",
+        "animated.avif": "3fc30b9089ffa6710a8529f80da28038d4959bb5de29cbf9e2663ddf37ef1e32",
+        "motion.json": "22cfef014b3a90292189ae36aff65449115399ef40a431108e139afd85448b20",
+        "meta.json": "baf094d6dca8c0285c5fd6318a912e5923057ef087f4fb7242885e21d5a4cbbf",
+        "reference.png": "302fe812a83c668cdd60174195f1338f96d1f6dcbe20ceb29baab1f91e259191"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58904
     },
     {
       "id": "ravioli",
@@ -19413,6 +20652,75 @@
       "animationBytes": 51935
     },
     {
+      "id": "rocking-horse",
+      "name": "rocking horse",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "rocking horse"
+        },
+        "vi": {
+          "text": "ngựa bập bênh"
+        },
+        "zh-Hans": {
+          "text": "摇摇马",
+          "reading": "yáo yáo mǎ"
+        },
+        "ja": {
+          "text": "木馬",
+          "reading": "mokuba"
+        },
+        "ko": {
+          "text": "흔들말",
+          "reading": "heundeulmal"
+        },
+        "es": {
+          "text": "caballo balancín"
+        },
+        "fr": {
+          "text": "cheval à bascule"
+        },
+        "de": {
+          "text": "Schaukelpferd"
+        },
+        "id": {
+          "text": "kuda goyang"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/rocking-horse/source.png",
+        "still.png": "assets/rocking-horse/still.png",
+        "still.webp": "assets/rocking-horse/still.webp",
+        "animated.avif": "assets/rocking-horse/animated.avif",
+        "motion.json": "assets/rocking-horse/motion.json",
+        "meta.json": "assets/rocking-horse/meta.json",
+        "reference.png": "assets/rocking-horse/reference.png"
+      },
+      "sha256": {
+        "source.png": "3c1d3f207532328896eca665fa4e972623578b142297106162210e9b0dc0b1d1",
+        "still.png": "9fe50481b946c82c10a5bc607d9da93f3054dd9e9e2e4a209d2ef4b6e3b526b4",
+        "still.webp": "e76cf80b36e4717858fdeda06ab1acfd3a572115bfb200a14f7c06cf7c260171",
+        "animated.avif": "b673cb7ae5c5079067d2d9f3768b583383fbe3108be96cd0064b36d870670f2d",
+        "motion.json": "d079e8dfe4ff5ae21d5b342a16392b6f4f04b08cc8041d39e964b148208ee34a",
+        "meta.json": "9ccd8fccaf3e8b6fa5658030ac4a39ea0b831608973ac41e65c74ee5d871029e",
+        "reference.png": "9fe50481b946c82c10a5bc607d9da93f3054dd9e9e2e4a209d2ef4b6e3b526b4"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 59199
+    },
+    {
       "id": "rolling-pin",
       "name": "rolling pin",
       "category": "kitchen",
@@ -19747,6 +21055,75 @@
       "animationBytes": 25372
     },
     {
+      "id": "sand-shovel",
+      "name": "sand shovel",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "sand shovel"
+        },
+        "vi": {
+          "text": "xẻng chơi cát"
+        },
+        "zh-Hans": {
+          "text": "沙滩铲",
+          "reading": "shā tān chǎn"
+        },
+        "ja": {
+          "text": "砂場のシャベル",
+          "reading": "sunaba no shaberu"
+        },
+        "ko": {
+          "text": "모래삽",
+          "reading": "moraesap"
+        },
+        "es": {
+          "text": "pala de playa"
+        },
+        "fr": {
+          "text": "pelle de plage"
+        },
+        "de": {
+          "text": "Sandschaufel"
+        },
+        "id": {
+          "text": "sekop pasir"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sand-shovel/source.png",
+        "still.png": "assets/sand-shovel/still.png",
+        "still.webp": "assets/sand-shovel/still.webp",
+        "animated.avif": "assets/sand-shovel/animated.avif",
+        "motion.json": "assets/sand-shovel/motion.json",
+        "meta.json": "assets/sand-shovel/meta.json",
+        "reference.png": "assets/sand-shovel/reference.png"
+      },
+      "sha256": {
+        "source.png": "a2c6da051a613fd3a110355216053b86d9a0604e50f9798f7a3a0e4e2a148ee9",
+        "still.png": "b5fd806109826d08339933e5a1649f5d078114c36f1aec48fe6f0862cb9ab4cc",
+        "still.webp": "5a9e564336d4d6fbc7d55a857bafe60a409d277ae2579f0f9d7ad17c42153981",
+        "animated.avif": "d2b45f302b82ca8033014096c4256b0dc286c9d3606aedff057b50aa0958dc8b",
+        "motion.json": "1946913d8d10d1cf4b26f3162adffa2a6634e54e8bbe7dd8678ada01f0bd4309",
+        "meta.json": "fec32520a0f1b518262f355ce305dbf09de1d3ce702439e8cbf75b49def4565a",
+        "reference.png": "b5fd806109826d08339933e5a1649f5d078114c36f1aec48fe6f0862cb9ab4cc"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 55343
+    },
+    {
       "id": "saucepan",
       "name": "saucepan",
       "category": "kitchen",
@@ -19946,6 +21323,74 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 35401
+    },
+    {
+      "id": "school-bus",
+      "name": "school bus",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "school bus"
+        },
+        "vi": {
+          "text": "xe buýt trường học"
+        },
+        "zh-Hans": {
+          "text": "校车",
+          "reading": "xiào chē"
+        },
+        "ja": {
+          "text": "スクールバス",
+          "reading": "sukūru basu"
+        },
+        "ko": {
+          "text": "통학버스",
+          "reading": "tonghak beoseu"
+        },
+        "es": {
+          "text": "autobús escolar"
+        },
+        "fr": {
+          "text": "bus scolaire"
+        },
+        "de": {
+          "text": "Schulbus"
+        },
+        "id": {
+          "text": "bus sekolah"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/school-bus/source.png",
+        "still.png": "assets/school-bus/still.png",
+        "still.webp": "assets/school-bus/still.webp",
+        "animated.avif": "assets/school-bus/animated.avif",
+        "motion.json": "assets/school-bus/motion.json",
+        "meta.json": "assets/school-bus/meta.json",
+        "reference.png": "assets/school-bus/reference.png"
+      },
+      "sha256": {
+        "source.png": "91565478d850ee3c8aca0519362281133ad3443f87a7a5119fe58ca20a5bd9f6",
+        "still.png": "759d2dc6f2f0a64e61a179d0c9f8e3c168ba51464514f80504f893af322825db",
+        "still.webp": "b48bae66ff2ddde50ad0d06d8a4ffda2d61dc2d5e078e40180a689272db2fcab",
+        "animated.avif": "9a0c62c1d5133a8b6cd3c29477ae95da65c4257e09b3f551a7a748252f67109e",
+        "motion.json": "ce1c874b3d8db5ec6e8776a900179048e32d6470256cef8f893f5350a69b307f",
+        "meta.json": "c5edb7b27a50aaa1c0673fbeb30e8d6062d477175fb176091debcc1062d25502",
+        "reference.png": "759d2dc6f2f0a64e61a179d0c9f8e3c168ba51464514f80504f893af322825db"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56781
     },
     {
       "id": "school-uniform",
@@ -20893,6 +22338,75 @@
       "animationBytes": 54512
     },
     {
+      "id": "skipping-rope",
+      "name": "skipping rope",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "skipping rope"
+        },
+        "vi": {
+          "text": "dây nhảy"
+        },
+        "zh-Hans": {
+          "text": "跳绳",
+          "reading": "tiào shéng"
+        },
+        "ja": {
+          "text": "なわとび",
+          "reading": "nawatobi"
+        },
+        "ko": {
+          "text": "줄넘기 줄",
+          "reading": "julneomgi jul"
+        },
+        "es": {
+          "text": "cuerda de saltar"
+        },
+        "fr": {
+          "text": "corde à sauter"
+        },
+        "de": {
+          "text": "Springseil"
+        },
+        "id": {
+          "text": "tali lompat"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/skipping-rope/source.png",
+        "still.png": "assets/skipping-rope/still.png",
+        "still.webp": "assets/skipping-rope/still.webp",
+        "animated.avif": "assets/skipping-rope/animated.avif",
+        "motion.json": "assets/skipping-rope/motion.json",
+        "meta.json": "assets/skipping-rope/meta.json",
+        "reference.png": "assets/skipping-rope/reference.png"
+      },
+      "sha256": {
+        "source.png": "b06c13406657ffd1df8f70439c37ce73d9553d37c86eca30e809cd8ce3a8940a",
+        "still.png": "c5814b505fd843142dd410a3a3946261d5fff9155507caab49630b4da4a96c7d",
+        "still.webp": "70aae3763afa298e00dd20c589f95dafa018e1389470597fdc3fb4cf8a6852e2",
+        "animated.avif": "c3e8ba521ed3a805d460f128226a6fe1d8b2cae6dc8780ea1b8e8f1b6eddaf56",
+        "motion.json": "726c790fcdd2b9c5bb45ebefabc56020eb255edb5c40c196ed1656ffda5806c3",
+        "meta.json": "d870c4e64d82777bcf7cbe0a7894a72443db31d8a3bb3a4d839b44e71cc6d6ab",
+        "reference.png": "c5814b505fd843142dd410a3a3946261d5fff9155507caab49630b4da4a96c7d"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 39413
+    },
+    {
       "id": "skirt",
       "name": "skirt",
       "category": "clothing",
@@ -21826,6 +23340,75 @@
       "animationBytes": 25818
     },
     {
+      "id": "spinning-top",
+      "name": "spinning top",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "spinning top"
+        },
+        "vi": {
+          "text": "con quay"
+        },
+        "zh-Hans": {
+          "text": "陀螺",
+          "reading": "tuó luó"
+        },
+        "ja": {
+          "text": "こま",
+          "reading": "koma"
+        },
+        "ko": {
+          "text": "팽이",
+          "reading": "paengi"
+        },
+        "es": {
+          "text": "peonza"
+        },
+        "fr": {
+          "text": "toupie"
+        },
+        "de": {
+          "text": "Kreisel"
+        },
+        "id": {
+          "text": "gasing"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/spinning-top/source.png",
+        "still.png": "assets/spinning-top/still.png",
+        "still.webp": "assets/spinning-top/still.webp",
+        "animated.avif": "assets/spinning-top/animated.avif",
+        "motion.json": "assets/spinning-top/motion.json",
+        "meta.json": "assets/spinning-top/meta.json",
+        "reference.png": "assets/spinning-top/reference.png"
+      },
+      "sha256": {
+        "source.png": "8bf6f5c7f353347d9b9c2864805409b33fb20db4be2b6e718fdfa0f79b74ddfc",
+        "still.png": "743f30b9724d269bb6c6d069bbcd3f3c5e1c637fc9f32e2d838f19c871832356",
+        "still.webp": "d07fe0125372704669c264cc0c76504a9f4fe35ae9019185671306a91dd6b96f",
+        "animated.avif": "88b0f03c1b62a6ce28ba0da13af51624dc363f323cb6b88db58f3149b188657d",
+        "motion.json": "ca403fdfe3593968a52a138612974f9d23579a39e0a8ec45304d5b6552056a22",
+        "meta.json": "0ad54efe9c869b5fd8525a777aa26fdf54f6fc35d9973055745be99698f9a7a2",
+        "reference.png": "743f30b9724d269bb6c6d069bbcd3f3c5e1c637fc9f32e2d838f19c871832356"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 52552
+    },
+    {
       "id": "spoonbill",
       "name": "spoonbill",
       "category": "wildlife",
@@ -21893,6 +23476,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 33241
+    },
+    {
+      "id": "spray-bottle",
+      "name": "spray bottle",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "spray bottle"
+        },
+        "vi": {
+          "text": "bình xịt"
+        },
+        "zh-Hans": {
+          "text": "喷雾瓶",
+          "reading": "pēn wù píng"
+        },
+        "ja": {
+          "text": "スプレーボトル",
+          "reading": "supurē botoru"
+        },
+        "ko": {
+          "text": "스프레이 병",
+          "reading": "seupeurei byeong"
+        },
+        "es": {
+          "text": "botella con pulverizador"
+        },
+        "fr": {
+          "text": "vaporisateur"
+        },
+        "de": {
+          "text": "Sprühflasche"
+        },
+        "id": {
+          "text": "botol semprot"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/spray-bottle/source.png",
+        "still.png": "assets/spray-bottle/still.png",
+        "still.webp": "assets/spray-bottle/still.webp",
+        "animated.avif": "assets/spray-bottle/animated.avif",
+        "motion.json": "assets/spray-bottle/motion.json",
+        "meta.json": "assets/spray-bottle/meta.json",
+        "reference.png": "assets/spray-bottle/reference.png"
+      },
+      "sha256": {
+        "source.png": "9b33c1614d2fc1de572903c9ddfddc73d2b4b7722827c213075e6a4c0eb0ddbb",
+        "still.png": "75f6825c351727015240d504243074398d49a22d6be6b1255f1d59071d4cebd9",
+        "still.webp": "8225f0296b1e59e3fab8f555e109abf88af43d438430dddfb3526f6e1964b0d0",
+        "animated.avif": "cfffce759fdd03a2653a466b663ab2ea277a54bff4c592a7c970b75c3b2aab43",
+        "motion.json": "cae51327919cf84fa7c79495de9a307fdbe5673a80ee45efc2178487ff7aab09",
+        "meta.json": "a63dca285dafae04857797dbe819425342e815dd09372ec27e74fea49edfec75",
+        "reference.png": "75f6825c351727015240d504243074398d49a22d6be6b1255f1d59071d4cebd9"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 52427
     },
     {
       "id": "spring-onion",
@@ -24244,6 +25896,75 @@
       "animationBytes": 13350
     },
     {
+      "id": "toilet-paper",
+      "name": "toilet paper",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "toilet paper"
+        },
+        "vi": {
+          "text": "giấy vệ sinh"
+        },
+        "zh-Hans": {
+          "text": "卫生纸",
+          "reading": "wèi shēng zhǐ"
+        },
+        "ja": {
+          "text": "トイレットペーパー",
+          "reading": "toiretto pēpā"
+        },
+        "ko": {
+          "text": "화장지",
+          "reading": "hwajangji"
+        },
+        "es": {
+          "text": "papel higiénico"
+        },
+        "fr": {
+          "text": "papier toilette"
+        },
+        "de": {
+          "text": "Toilettenpapier"
+        },
+        "id": {
+          "text": "tisu toilet"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/toilet-paper/source.png",
+        "still.png": "assets/toilet-paper/still.png",
+        "still.webp": "assets/toilet-paper/still.webp",
+        "animated.avif": "assets/toilet-paper/animated.avif",
+        "motion.json": "assets/toilet-paper/motion.json",
+        "meta.json": "assets/toilet-paper/meta.json",
+        "reference.png": "assets/toilet-paper/reference.png"
+      },
+      "sha256": {
+        "source.png": "d8a66be51100b8c6158d733e24e5b6bd302503ebc58ba0c3a7c8cd97c752670a",
+        "still.png": "e001816b7496c545582876bfc525448f9309e7c8a83c830e09329d8c17666ed3",
+        "still.webp": "1d12c12e9b4a9712331d036d71dc904ba0aaa83c9b4f585e224b86bb1e669949",
+        "animated.avif": "d772b4d8031d126b9ebd4b7bb2e1e5a03c85a57debc8b62855dc16d413eb18ae",
+        "motion.json": "eb13bc56e5cc4758732e1fa70249a2156e0bffc47634404b0c61bd5c21c3f461",
+        "meta.json": "2662a98a654258c67ee1197cf4d4d1f55b01a5cca177ea112ef7f191152a137b",
+        "reference.png": "e001816b7496c545582876bfc525448f9309e7c8a83c830e09329d8c17666ed3"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 30452
+    },
+    {
       "id": "tomato-juice",
       "name": "tomato juice",
       "category": "meals",
@@ -24983,6 +26704,74 @@
       "animationBytes": 35675
     },
     {
+      "id": "tricycle",
+      "name": "tricycle",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "tricycle"
+        },
+        "vi": {
+          "text": "xe ba bánh"
+        },
+        "zh-Hans": {
+          "text": "三轮车",
+          "reading": "sān lún chē"
+        },
+        "ja": {
+          "text": "三輪車",
+          "reading": "sanrinsha"
+        },
+        "ko": {
+          "text": "세발자전거",
+          "reading": "sebal jajeongeo"
+        },
+        "es": {
+          "text": "triciclo"
+        },
+        "fr": {
+          "text": "tricycle"
+        },
+        "de": {
+          "text": "Dreirad"
+        },
+        "id": {
+          "text": "sepeda roda tiga"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/tricycle/source.png",
+        "still.png": "assets/tricycle/still.png",
+        "still.webp": "assets/tricycle/still.webp",
+        "animated.avif": "assets/tricycle/animated.avif",
+        "motion.json": "assets/tricycle/motion.json",
+        "meta.json": "assets/tricycle/meta.json",
+        "reference.png": "assets/tricycle/reference.png"
+      },
+      "sha256": {
+        "source.png": "14fbc82eb60550e6d797669c6f2b64e8e20db4efa8f5b91603e169f4b0186817",
+        "still.png": "224206d9d5a2ec4546987c0ce371355c3808051bfc071be98489c8d447ecde58",
+        "still.webp": "1490f32798c4e635eba17ffd510665919208ed6f68c93c47b0b811bd8b8e15ff",
+        "animated.avif": "9de5a330c9f6dd73fab02fdd66b5abe0780b51beccc1c9b6abce1c6035feed61",
+        "motion.json": "f9dafaee822013fdc8fbc684d2b834e6cf571482ef921b4936fafd438b8663fd",
+        "meta.json": "6e61b197f60bcd75dc1e8971a630f23d2451ca6c91ebd4422e5faa5d8dccb6f3",
+        "reference.png": "224206d9d5a2ec4546987c0ce371355c3808051bfc071be98489c8d447ecde58"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 50632
+    },
+    {
       "id": "trousers",
       "name": "trousers",
       "category": "clothing",
@@ -25247,6 +27036,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 24327
+    },
+    {
+      "id": "vacuum-cleaner",
+      "name": "vacuum cleaner",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "vacuum cleaner"
+        },
+        "vi": {
+          "text": "máy hút bụi"
+        },
+        "zh-Hans": {
+          "text": "吸尘器",
+          "reading": "xī chén qì"
+        },
+        "ja": {
+          "text": "掃除機",
+          "reading": "sōjiki"
+        },
+        "ko": {
+          "text": "진공청소기",
+          "reading": "jingong cheongsogi"
+        },
+        "es": {
+          "text": "aspiradora"
+        },
+        "fr": {
+          "text": "aspirateur"
+        },
+        "de": {
+          "text": "Staubsauger"
+        },
+        "id": {
+          "text": "penyedot debu"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/vacuum-cleaner/source.png",
+        "still.png": "assets/vacuum-cleaner/still.png",
+        "still.webp": "assets/vacuum-cleaner/still.webp",
+        "animated.avif": "assets/vacuum-cleaner/animated.avif",
+        "motion.json": "assets/vacuum-cleaner/motion.json",
+        "meta.json": "assets/vacuum-cleaner/meta.json",
+        "reference.png": "assets/vacuum-cleaner/reference.png"
+      },
+      "sha256": {
+        "source.png": "9088b226975ba96b435978a6cb29d7d2dbb602142ec61e62aefb35664bf54a32",
+        "still.png": "5a52646bb5b9c6b552120ce017df4dcf0943d68ee97e43620b199fd03d35368d",
+        "still.webp": "e4d1d0c9b391d33e7c0df0f0b9a04fae736e1ee4a7446a2b21ec607c99778bc2",
+        "animated.avif": "9a9f57d7e1aaecc7869a920270c4da9192e5d830f13e313ccc71f50adc77fc3d",
+        "motion.json": "0a7170ad2b98bfa86623d1d396be119320ad9e463e2c1ebd30c4390556a28f17",
+        "meta.json": "c6aacd294046f555d6b3ecce48786134e729238549e84951a0e8c6caf0e9db15",
+        "reference.png": "5a52646bb5b9c6b552120ce017df4dcf0943d68ee97e43620b199fd03d35368d"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51670
     },
     {
       "id": "vest",
@@ -25652,6 +27510,144 @@
       "animationBytes": 13373
     },
     {
+      "id": "washcloth",
+      "name": "washcloth",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "washcloth"
+        },
+        "vi": {
+          "text": "khăn mặt"
+        },
+        "zh-Hans": {
+          "text": "洗脸巾",
+          "reading": "xǐ liǎn jīn"
+        },
+        "ja": {
+          "text": "ウォッシュタオル",
+          "reading": "wosshu taoru"
+        },
+        "ko": {
+          "text": "세수 수건",
+          "reading": "sesu sugeon"
+        },
+        "es": {
+          "text": "toallita para la cara"
+        },
+        "fr": {
+          "text": "petite serviette de toilette"
+        },
+        "de": {
+          "text": "Waschlappen"
+        },
+        "id": {
+          "text": "waslap"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/washcloth/source.png",
+        "still.png": "assets/washcloth/still.png",
+        "still.webp": "assets/washcloth/still.webp",
+        "animated.avif": "assets/washcloth/animated.avif",
+        "motion.json": "assets/washcloth/motion.json",
+        "meta.json": "assets/washcloth/meta.json",
+        "reference.png": "assets/washcloth/reference.png"
+      },
+      "sha256": {
+        "source.png": "fbe149bd679612c5c28101e3909530547a920578625404e1731b2c671d75d2f6",
+        "still.png": "fd0628080efe2842aca983c913be912daef2129daab8b215d44690de8071efad",
+        "still.webp": "99785de146ffbacad662507cdd7a352cf7e04392f685e3cfd0d056187ae605fc",
+        "animated.avif": "e06a3c896d4c27a1dfe6ea7f023b27ed1ab73a6eb33615461f0777e286431052",
+        "motion.json": "40a2bc9db51170a5db1862c71f710de9d2267efdfd8ef949e676ee70aedd465b",
+        "meta.json": "6b0aa2773eb69ddd0d9741a3980551175250cbd4a45a09e39c62f44096e89c01",
+        "reference.png": "fd0628080efe2842aca983c913be912daef2129daab8b215d44690de8071efad"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 36211
+    },
+    {
+      "id": "washing-machine",
+      "name": "washing machine",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "washing machine"
+        },
+        "vi": {
+          "text": "máy giặt"
+        },
+        "zh-Hans": {
+          "text": "洗衣机",
+          "reading": "xǐ yī jī"
+        },
+        "ja": {
+          "text": "洗濯機",
+          "reading": "sentakuki"
+        },
+        "ko": {
+          "text": "세탁기",
+          "reading": "setakgi"
+        },
+        "es": {
+          "text": "lavadora"
+        },
+        "fr": {
+          "text": "machine à laver"
+        },
+        "de": {
+          "text": "Waschmaschine"
+        },
+        "id": {
+          "text": "mesin cuci"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/washing-machine/source.png",
+        "still.png": "assets/washing-machine/still.png",
+        "still.webp": "assets/washing-machine/still.webp",
+        "animated.avif": "assets/washing-machine/animated.avif",
+        "motion.json": "assets/washing-machine/motion.json",
+        "meta.json": "assets/washing-machine/meta.json",
+        "reference.png": "assets/washing-machine/reference.png"
+      },
+      "sha256": {
+        "source.png": "de2f0c21fa98d1248beb6c5c83062aed7dfed634028be8dc3713eecd0c06fcb9",
+        "still.png": "4fe73f53c6f762f037568988377c3e863add4695881a6b0210226b8fdca847db",
+        "still.webp": "27ed948e37b3331479826e5837338616c764dca8e1cf4803541aade76b534c88",
+        "animated.avif": "9bc8edae4b68664ab4cc70a0474e51fc01a450393cc2e8e3ff20a71c3e697f55",
+        "motion.json": "019dc7d8098b9a4e63051d78870aa6ddd1c55d89d257b03aec9261dff05debb5",
+        "meta.json": "f638c486a4bfbd0c67abef3e186c23aa81ecbc2219f8490ad1b4828e7277fb4c",
+        "reference.png": "4fe73f53c6f762f037568988377c3e863add4695881a6b0210226b8fdca847db"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 31178
+    },
+    {
       "id": "water-bottle",
       "name": "water bottle",
       "category": "kitchen",
@@ -25917,6 +27913,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 56307
+    },
+    {
+      "id": "wet-wipe",
+      "name": "wet wipe",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "wet wipe"
+        },
+        "vi": {
+          "text": "khăn ướt"
+        },
+        "zh-Hans": {
+          "text": "湿巾",
+          "reading": "shī jīn"
+        },
+        "ja": {
+          "text": "ウェットティッシュ",
+          "reading": "wetto tisshu"
+        },
+        "ko": {
+          "text": "물티슈",
+          "reading": "multisyu"
+        },
+        "es": {
+          "text": "toallita húmeda"
+        },
+        "fr": {
+          "text": "lingette humide"
+        },
+        "de": {
+          "text": "Feuchttuch"
+        },
+        "id": {
+          "text": "tisu basah"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/wet-wipe/source.png",
+        "still.png": "assets/wet-wipe/still.png",
+        "still.webp": "assets/wet-wipe/still.webp",
+        "animated.avif": "assets/wet-wipe/animated.avif",
+        "motion.json": "assets/wet-wipe/motion.json",
+        "meta.json": "assets/wet-wipe/meta.json",
+        "reference.png": "assets/wet-wipe/reference.png"
+      },
+      "sha256": {
+        "source.png": "5c835a9aec7abb30bb025c0de61c4969ada1df38fa2e296393c1a989a721b471",
+        "still.png": "42535f6dd4193b5bb767c0e1f5b1a8955f676ef0f19d02a5dcba998f59b85e5c",
+        "still.webp": "ca9b11b70f19c74931113fbdbd2f5b81951101dd26a7f2795b994bf3ee4b0912",
+        "animated.avif": "d9bfdc95986f154364e655659f501b60e6ae84e6b7a66c3757f27a4e28878200",
+        "motion.json": "e0ae2149c9b2e7221fcd9a5167d5dcb2131511401bcdcb29a144372c01620428",
+        "meta.json": "4e24ee85a23b257a38dd6ab9e1ae33dcb8191bd3a4e2fe304e36b4b08cd70cbe",
+        "reference.png": "42535f6dd4193b5bb767c0e1f5b1a8955f676ef0f19d02a5dcba998f59b85e5c"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 55451
     },
     {
       "id": "wheelbarrow",

@@ -1,0 +1,46 @@
+{
+  "id": "clothes-peg",
+  "name": "clothes peg",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "clothes peg"
+    },
+    "vi": {
+      "text": "kẹp phơi quần áo"
+    },
+    "zh-Hans": {
+      "text": "晾衣夹",
+      "reading": "liàng yī jiā"
+    },
+    "ja": {
+      "text": "洗濯ばさみ",
+      "reading": "sentaku basami"
+    },
+    "ko": {
+      "text": "빨래집게",
+      "reading": "ppallae jipge"
+    },
+    "es": {
+      "text": "pinza para la ropa"
+    },
+    "fr": {
+      "text": "pince à linge"
+    },
+    "de": {
+      "text": "Wäscheklammer"
+    },
+    "id": {
+      "text": "jepitan baju"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

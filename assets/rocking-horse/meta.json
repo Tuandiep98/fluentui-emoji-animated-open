@@ -1,0 +1,46 @@
+{
+  "id": "rocking-horse",
+  "name": "rocking horse",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "rocking horse"
+    },
+    "vi": {
+      "text": "ngựa bập bênh"
+    },
+    "zh-Hans": {
+      "text": "摇摇马",
+      "reading": "yáo yáo mǎ"
+    },
+    "ja": {
+      "text": "木馬",
+      "reading": "mokuba"
+    },
+    "ko": {
+      "text": "흔들말",
+      "reading": "heundeulmal"
+    },
+    "es": {
+      "text": "caballo balancín"
+    },
+    "fr": {
+      "text": "cheval à bascule"
+    },
+    "de": {
+      "text": "Schaukelpferd"
+    },
+    "id": {
+      "text": "kuda goyang"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

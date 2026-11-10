@@ -1,0 +1,122 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "e001816b7496c545582876bfc525448f9309e7c8a83c830e09329d8c17666ed3",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          151
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          151,
+          112,
+          105
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "loose-paper-tip-sway",
+      "kind": "wave",
+      "center": [
+        180,
+        208
+      ],
+      "radius": [
+        59,
+        53
+      ],
+      "amp": 4.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.5
+        ],
+        [
+          1.4,
+          -1.575
+        ],
+        [
+          2.05,
+          2.9250000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "perforated-sheet-settle",
+      "kind": "press",
+      "center": [
+        184,
+        217
+      ],
+      "radius": [
+        44,
+        29
+      ],
+      "amp": 1.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.44999999999999996,
+          0
+        ],
+        [
+          1.05,
+          1.8
+        ],
+        [
+          1.5499999999999998,
+          -0.63
+        ],
+        [
+          2.1999999999999997,
+          1.1700000000000002
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The roll and cardboard core remain pixel-exact. Only the dangling lower sheet has a soft continuous flutter; perforations and attachment remain intact."
+}

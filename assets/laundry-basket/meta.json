@@ -1,0 +1,46 @@
+{
+  "id": "laundry-basket",
+  "name": "laundry basket",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "laundry basket"
+    },
+    "vi": {
+      "text": "giỏ đựng đồ giặt"
+    },
+    "zh-Hans": {
+      "text": "洗衣篮",
+      "reading": "xǐ yī lán"
+    },
+    "ja": {
+      "text": "洗濯かご",
+      "reading": "sentaku kago"
+    },
+    "ko": {
+      "text": "빨래 바구니",
+      "reading": "ppallae baguni"
+    },
+    "es": {
+      "text": "cesto de la ropa"
+    },
+    "fr": {
+      "text": "panier à linge"
+    },
+    "de": {
+      "text": "Wäschekorb"
+    },
+    "id": {
+      "text": "keranjang cucian"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

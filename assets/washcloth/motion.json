@@ -1,0 +1,113 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "fd0628080efe2842aca983c913be912daef2129daab8b215d44690de8071efad",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          92
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "soft-front-fold-sway",
+      "kind": "wave",
+      "center": [
+        120,
+        165
+      ],
+      "radius": [
+        90,
+        65
+      ],
+      "amp": 3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3
+        ],
+        [
+          1.4,
+          -1.0499999999999998
+        ],
+        [
+          2.05,
+          1.9500000000000002
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "hem-settle",
+      "kind": "press",
+      "center": [
+        122,
+        191
+      ],
+      "radius": [
+        75,
+        32
+      ],
+      "amp": 1.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.44999999999999996,
+          0
+        ],
+        [
+          1.05,
+          1.4
+        ],
+        [
+          1.5499999999999998,
+          -0.48999999999999994
+        ],
+        [
+          2.1999999999999997,
+          0.9099999999999999
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The top folded rest is fixed. The front cotton fold and hem sway from the unchanged original fabric without separating layers."
+}

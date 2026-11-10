@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "42535f6dd4193b5bb767c0e1f5b1a8955f676ef0f19d02a5dcba998f59b85e5c",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The complete wipes pack tilts gently as one intact assembly. The small paper tip could not pass the native-scale visibility gate while keeping the nearby lid pixel-exact; preserve all lid, paper and slot geometry with rigid motion.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.3,
+        0
+      ],
+      [
+        0.95,
+        -0.6
+      ],
+      [
+        1.5,
+        0.2
+      ],
+      [
+        2.1,
+        -0.35
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

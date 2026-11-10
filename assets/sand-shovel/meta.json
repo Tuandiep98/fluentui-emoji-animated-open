@@ -1,0 +1,46 @@
+{
+  "id": "sand-shovel",
+  "name": "sand shovel",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "sand shovel"
+    },
+    "vi": {
+      "text": "xẻng chơi cát"
+    },
+    "zh-Hans": {
+      "text": "沙滩铲",
+      "reading": "shā tān chǎn"
+    },
+    "ja": {
+      "text": "砂場のシャベル",
+      "reading": "sunaba no shaberu"
+    },
+    "ko": {
+      "text": "모래삽",
+      "reading": "moraesap"
+    },
+    "es": {
+      "text": "pala de playa"
+    },
+    "fr": {
+      "text": "pelle de plage"
+    },
+    "de": {
+      "text": "Sandschaufel"
+    },
+    "id": {
+      "text": "sekop pasir"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

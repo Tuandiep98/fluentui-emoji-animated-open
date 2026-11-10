@@ -1,0 +1,113 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "d63e4790375a4dc4b005aaa5547960d21b944cf0bc49a2f5e39b28ed67325272",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          115
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "soft-bib-bottom-sway",
+      "kind": "wave",
+      "center": [
+        130,
+        184
+      ],
+      "radius": [
+        78,
+        65
+      ],
+      "amp": 3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3
+        ],
+        [
+          1.4,
+          -1.0499999999999998
+        ],
+        [
+          2.05,
+          1.9500000000000002
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "hem-settle",
+      "kind": "press",
+      "center": [
+        130,
+        219
+      ],
+      "radius": [
+        60,
+        23
+      ],
+      "amp": 1.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.48,
+          0
+        ],
+        [
+          1.08,
+          1.2
+        ],
+        [
+          1.5799999999999998,
+          -0.42
+        ],
+        [
+          2.23,
+          0.78
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Both neck straps, snaps and neck opening are fixed. Only the cloth body below the neckline sways continuously."
+}

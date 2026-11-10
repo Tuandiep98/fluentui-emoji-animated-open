@@ -1,0 +1,45 @@
+{
+  "id": "tricycle",
+  "name": "tricycle",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "tricycle"
+    },
+    "vi": {
+      "text": "xe ba bánh"
+    },
+    "zh-Hans": {
+      "text": "三轮车",
+      "reading": "sān lún chē"
+    },
+    "ja": {
+      "text": "三輪車",
+      "reading": "sanrinsha"
+    },
+    "ko": {
+      "text": "세발자전거",
+      "reading": "sebal jajeongeo"
+    },
+    "es": {
+      "text": "triciclo"
+    },
+    "fr": {
+      "text": "tricycle"
+    },
+    "de": {
+      "text": "Dreirad"
+    },
+    "id": {
+      "text": "sepeda roda tiga"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

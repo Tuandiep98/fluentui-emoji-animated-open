@@ -1,0 +1,45 @@
+{
+  "id": "school-bus",
+  "name": "school bus",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "school bus"
+    },
+    "vi": {
+      "text": "xe buýt trường học"
+    },
+    "zh-Hans": {
+      "text": "校车",
+      "reading": "xiào chē"
+    },
+    "ja": {
+      "text": "スクールバス",
+      "reading": "sukūru basu"
+    },
+    "ko": {
+      "text": "통학버스",
+      "reading": "tonghak beoseu"
+    },
+    "es": {
+      "text": "autobús escolar"
+    },
+    "fr": {
+      "text": "bus scolaire"
+    },
+    "de": {
+      "text": "Schulbus"
+    },
+    "id": {
+      "text": "bus sekolah"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

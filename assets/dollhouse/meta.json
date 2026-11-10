@@ -1,0 +1,46 @@
+{
+  "id": "dollhouse",
+  "name": "dollhouse",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "dollhouse"
+    },
+    "vi": {
+      "text": "nhà búp bê"
+    },
+    "zh-Hans": {
+      "text": "娃娃屋",
+      "reading": "wá wa wū"
+    },
+    "ja": {
+      "text": "ドールハウス",
+      "reading": "dōru hausu"
+    },
+    "ko": {
+      "text": "인형의 집",
+      "reading": "inhyeongui jip"
+    },
+    "es": {
+      "text": "casa de muñecas"
+    },
+    "fr": {
+      "text": "maison de poupée"
+    },
+    "de": {
+      "text": "Puppenhaus"
+    },
+    "id": {
+      "text": "rumah boneka"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

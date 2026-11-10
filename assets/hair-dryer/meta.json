@@ -1,0 +1,46 @@
+{
+  "id": "hair-dryer",
+  "name": "hair dryer",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "hair dryer"
+    },
+    "vi": {
+      "text": "máy sấy tóc"
+    },
+    "zh-Hans": {
+      "text": "吹风机",
+      "reading": "chuī fēng jī"
+    },
+    "ja": {
+      "text": "ドライヤー",
+      "reading": "doraiyā"
+    },
+    "ko": {
+      "text": "헤어드라이어",
+      "reading": "heeodeuraieo"
+    },
+    "es": {
+      "text": "secador de pelo"
+    },
+    "fr": {
+      "text": "sèche-cheveux"
+    },
+    "de": {
+      "text": "Haartrockner"
+    },
+    "id": {
+      "text": "pengering rambut"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

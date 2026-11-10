@@ -1,0 +1,45 @@
+{
+  "id": "excavator",
+  "name": "excavator",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "excavator"
+    },
+    "vi": {
+      "text": "máy xúc"
+    },
+    "zh-Hans": {
+      "text": "挖掘机",
+      "reading": "wā jué jī"
+    },
+    "ja": {
+      "text": "ショベルカー",
+      "reading": "shoberukā"
+    },
+    "ko": {
+      "text": "굴착기",
+      "reading": "gulchakgi"
+    },
+    "es": {
+      "text": "excavadora"
+    },
+    "fr": {
+      "text": "pelleteuse"
+    },
+    "de": {
+      "text": "Bagger"
+    },
+    "id": {
+      "text": "ekskavator"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

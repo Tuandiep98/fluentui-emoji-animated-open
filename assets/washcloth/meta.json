@@ -1,0 +1,46 @@
+{
+  "id": "washcloth",
+  "name": "washcloth",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "washcloth"
+    },
+    "vi": {
+      "text": "khăn mặt"
+    },
+    "zh-Hans": {
+      "text": "洗脸巾",
+      "reading": "xǐ liǎn jīn"
+    },
+    "ja": {
+      "text": "ウォッシュタオル",
+      "reading": "wosshu taoru"
+    },
+    "ko": {
+      "text": "세수 수건",
+      "reading": "sesu sugeon"
+    },
+    "es": {
+      "text": "toallita para la cara"
+    },
+    "fr": {
+      "text": "petite serviette de toilette"
+    },
+    "de": {
+      "text": "Waschlappen"
+    },
+    "id": {
+      "text": "waslap"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

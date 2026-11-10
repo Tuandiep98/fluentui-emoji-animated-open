@@ -1,0 +1,46 @@
+{
+  "id": "dustpan",
+  "name": "dustpan",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "dustpan"
+    },
+    "vi": {
+      "text": "cái hót rác"
+    },
+    "zh-Hans": {
+      "text": "簸箕",
+      "reading": "bò ji"
+    },
+    "ja": {
+      "text": "ちりとり",
+      "reading": "chiritori"
+    },
+    "ko": {
+      "text": "쓰레받기",
+      "reading": "sseurebatgi"
+    },
+    "es": {
+      "text": "recogedor"
+    },
+    "fr": {
+      "text": "pelle à poussière"
+    },
+    "de": {
+      "text": "Kehrschaufel"
+    },
+    "id": {
+      "text": "pengki"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

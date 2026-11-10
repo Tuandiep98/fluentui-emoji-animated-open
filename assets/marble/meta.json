@@ -1,0 +1,46 @@
+{
+  "id": "marble",
+  "name": "marble",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "marble"
+    },
+    "vi": {
+      "text": "viên bi"
+    },
+    "zh-Hans": {
+      "text": "玻璃弹珠",
+      "reading": "bō li tán zhū"
+    },
+    "ja": {
+      "text": "ビー玉",
+      "reading": "bīdama"
+    },
+    "ko": {
+      "text": "구슬",
+      "reading": "guseul"
+    },
+    "es": {
+      "text": "canica"
+    },
+    "fr": {
+      "text": "bille"
+    },
+    "de": {
+      "text": "Glasmurmel"
+    },
+    "id": {
+      "text": "kelereng"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

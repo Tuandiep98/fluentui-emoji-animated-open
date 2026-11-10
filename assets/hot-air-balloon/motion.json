@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "9c384fa43c075ddc14bcbdfd8d5c81ec2ea319ca0d9ce46e7b481bd994999389",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The complete balloon floats in a small rise and settle. Every suspension rope remains connected to envelope and basket; no detached basket sway.",
+  "tracks": {
+    "y": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -1.1
+      ],
+      [
+        1.45,
+        0.385
+      ],
+      [
+        2.1,
+        -0.6050000000000001
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.37,
+        0
+      ],
+      [
+        1.02,
+        0.4
+      ],
+      [
+        1.5699999999999998,
+        -0.13999999999999999
+      ],
+      [
+        2.22,
+        0.22000000000000003
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

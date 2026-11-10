@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "a83ffc7ca02a76ef89cfebc1e21dd92830ccb0020e1eb14c0c6c39c594fdcb1d",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A light complete-machine working settle. Tracks, boom joints and bucket remain exactly connected in their original resting geometry.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.45
+      ],
+      [
+        1.45,
+        0.1575
+      ],
+      [
+        2.1,
+        -0.24750000000000003
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0
+      ],
+      [
+        1,
+        0.35
+      ],
+      [
+        1.55,
+        -0.12249999999999998
+      ],
+      [
+        2.2,
+        0.1925
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

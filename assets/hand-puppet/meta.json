@@ -1,0 +1,46 @@
+{
+  "id": "hand-puppet",
+  "name": "hand puppet",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "hand puppet"
+    },
+    "vi": {
+      "text": "rối bàn tay"
+    },
+    "zh-Hans": {
+      "text": "手偶",
+      "reading": "shǒu ǒu"
+    },
+    "ja": {
+      "text": "ハンドパペット",
+      "reading": "hando papetto"
+    },
+    "ko": {
+      "text": "손인형",
+      "reading": "soninhyeong"
+    },
+    "es": {
+      "text": "marioneta de mano"
+    },
+    "fr": {
+      "text": "marionnette à gaine"
+    },
+    "de": {
+      "text": "Handpuppe"
+    },
+    "id": {
+      "text": "boneka tangan"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

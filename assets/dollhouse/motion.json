@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "3f680039162b34a173fbcf6cba7c5430a5f3997fd28ad69e7cabff5f8aac5029",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A small complete-dollhouse presentation tilt preserves every edge, attachment and the original assembled rest pose. No opening, reassembly, mirroring or scale change.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.65
+      ],
+      [
+        1.45,
+        0.22749999999999998
+      ],
+      [
+        2.1,
+        -0.35750000000000004
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

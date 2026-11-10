@@ -1,0 +1,113 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "c5814b505fd843142dd410a3a3946261d5fff9155507caab49630b4da4a96c7d",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          86
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "lower-cord-loop-sway",
+      "kind": "wave",
+      "center": [
+        128,
+        191
+      ],
+      "radius": [
+        114,
+        71
+      ],
+      "amp": 1.81752822,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          1.81752822
+        ],
+        [
+          1.4,
+          -0.636134877
+        ],
+        [
+          2.05,
+          1.181393343
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "cord-loop-settle",
+      "kind": "press",
+      "center": [
+        128,
+        217
+      ],
+      "radius": [
+        92,
+        38
+      ],
+      "amp": 0.7174453500000002,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.45999999999999996,
+          0
+        ],
+        [
+          1.06,
+          0.7174453500000002
+        ],
+        [
+          1.5599999999999998,
+          -0.2511058725
+        ],
+        [
+          2.21,
+          0.4663394775000001
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Approved object-only rope master locked after removing the unintended person. Both handles and end connections stay fixed; the continuous lower cord loop sways without knots, disconnected ends or a new assembly."
+}

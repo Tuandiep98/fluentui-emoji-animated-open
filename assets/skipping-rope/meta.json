@@ -1,0 +1,46 @@
+{
+  "id": "skipping-rope",
+  "name": "skipping rope",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "skipping rope"
+    },
+    "vi": {
+      "text": "dây nhảy"
+    },
+    "zh-Hans": {
+      "text": "跳绳",
+      "reading": "tiào shéng"
+    },
+    "ja": {
+      "text": "なわとび",
+      "reading": "nawatobi"
+    },
+    "ko": {
+      "text": "줄넘기 줄",
+      "reading": "julneomgi jul"
+    },
+    "es": {
+      "text": "cuerda de saltar"
+    },
+    "fr": {
+      "text": "corde à sauter"
+    },
+    "de": {
+      "text": "Springseil"
+    },
+    "id": {
+      "text": "tali lompat"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

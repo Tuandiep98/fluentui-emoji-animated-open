@@ -1,0 +1,46 @@
+{
+  "id": "diaper",
+  "name": "diaper",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "diaper"
+    },
+    "vi": {
+      "text": "tã em bé"
+    },
+    "zh-Hans": {
+      "text": "尿布",
+      "reading": "niào bù"
+    },
+    "ja": {
+      "text": "おむつ",
+      "reading": "omutsu"
+    },
+    "ko": {
+      "text": "기저귀",
+      "reading": "gijeogwi"
+    },
+    "es": {
+      "text": "pañal"
+    },
+    "fr": {
+      "text": "couche"
+    },
+    "de": {
+      "text": "Windel"
+    },
+    "id": {
+      "text": "popok"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

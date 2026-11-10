@@ -1,0 +1,46 @@
+{
+  "id": "bib",
+  "name": "bib",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bib"
+    },
+    "vi": {
+      "text": "yếm ăn"
+    },
+    "zh-Hans": {
+      "text": "围兜",
+      "reading": "wéi dōu"
+    },
+    "ja": {
+      "text": "よだれかけ",
+      "reading": "yodarekake"
+    },
+    "ko": {
+      "text": "턱받이",
+      "reading": "teokbaji"
+    },
+    "es": {
+      "text": "babero"
+    },
+    "fr": {
+      "text": "bavoir"
+    },
+    "de": {
+      "text": "Lätzchen"
+    },
+    "id": {
+      "text": "celemek bayi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}
