@@ -1,0 +1,46 @@
+{
+  "id": "toy-shop",
+  "name": "toy shop",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "toy shop"
+    },
+    "vi": {
+      "text": "cửa hàng đồ chơi"
+    },
+    "zh-Hans": {
+      "text": "玩具店",
+      "reading": "wán jù diàn"
+    },
+    "ja": {
+      "text": "おもちゃ屋",
+      "reading": "omocha ya"
+    },
+    "ko": {
+      "text": "장난감 가게",
+      "reading": "jangnangam gage"
+    },
+    "es": {
+      "text": "juguetería"
+    },
+    "fr": {
+      "text": "magasin de jouets"
+    },
+    "de": {
+      "text": "Spielzeugladen"
+    },
+    "id": {
+      "text": "toko mainan"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,126 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "7a5bb6dff861f94f41cba7aaf206297688927ae70529acfc130328677fe00ec8",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          170,
+          112,
+          86
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          84,
+          152,
+          20,
+          18
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "attached-feather-head-sway",
+      "kind": "rotate",
+      "center": [
+        150,
+        91
+      ],
+      "radius": [
+        84,
+        65
+      ],
+      "amp": 3.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.3
+        ],
+        [
+          1.4,
+          -1.1549999999999998
+        ],
+        [
+          2.05,
+          2.145
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        96,
+        155
+      ]
+    },
+    {
+      "name": "upper-soft-feather-flutter",
+      "kind": "wave",
+      "center": [
+        132,
+        55
+      ],
+      "radius": [
+        51,
+        39
+      ],
+      "amp": 2.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          2.4
+        ],
+        [
+          1.5999999999999999,
+          -0.84
+        ],
+        [
+          2.25,
+          1.56
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Handle and feather collar attachment fixed. The existing feather fan has a small staggered sway from the original pixels; no detached feathers or repainted parts."
+}

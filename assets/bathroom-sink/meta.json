@@ -1,0 +1,46 @@
+{
+  "id": "bathroom-sink",
+  "name": "bathroom sink",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bathroom sink"
+    },
+    "vi": {
+      "text": "bồn rửa mặt"
+    },
+    "zh-Hans": {
+      "text": "洗脸盆",
+      "reading": "xǐ liǎn pén"
+    },
+    "ja": {
+      "text": "洗面台",
+      "reading": "senmendai"
+    },
+    "ko": {
+      "text": "세면대",
+      "reading": "semyeondae"
+    },
+    "es": {
+      "text": "lavabo"
+    },
+    "fr": {
+      "text": "lavabo"
+    },
+    "de": {
+      "text": "Waschbecken"
+    },
+    "id": {
+      "text": "wastafel kamar mandi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

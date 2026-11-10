@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "MIT",
-  "count": 430,
+  "count": 460,
   "entries": [
     {
       "id": "aardvark",
@@ -1083,6 +1083,75 @@
       "animationBytes": 24571
     },
     {
+      "id": "bakery",
+      "name": "bakery",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "bakery"
+        },
+        "vi": {
+          "text": "tiệm bánh"
+        },
+        "zh-Hans": {
+          "text": "面包店",
+          "reading": "miàn bāo diàn"
+        },
+        "ja": {
+          "text": "パン屋",
+          "reading": "pan ya"
+        },
+        "ko": {
+          "text": "빵집",
+          "reading": "ppangjip"
+        },
+        "es": {
+          "text": "panadería"
+        },
+        "fr": {
+          "text": "boulangerie"
+        },
+        "de": {
+          "text": "Bäckerei"
+        },
+        "id": {
+          "text": "toko roti"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bakery/source.png",
+        "still.png": "assets/bakery/still.png",
+        "still.webp": "assets/bakery/still.webp",
+        "animated.avif": "assets/bakery/animated.avif",
+        "motion.json": "assets/bakery/motion.json",
+        "meta.json": "assets/bakery/meta.json",
+        "reference.png": "assets/bakery/reference.png"
+      },
+      "sha256": {
+        "source.png": "addb35c966dcdc06c29b9a31ef3bc81efe35059bf73717af5595a46a0c5d67c6",
+        "still.png": "b5ac8fec495a321264b5d55d654a348d64d505a3b543fbaa1c9928b98e496662",
+        "still.webp": "1539bb17ce04f49292049a927476402e7f6446f2296fa29d7555da887f513ab8",
+        "animated.avif": "ce5627acd693034eecfec3f72b411071c777c74b743b5535b39322fbf1dc5f2b",
+        "motion.json": "1c640a19da0561108650cbbd7d7fd04d427e1ae2932631c78d8a6a0f85e742be",
+        "meta.json": "4571a199104f853cf4c521ab38a1647ae23800c854fbe4d8ba1eab3dfb890588",
+        "reference.png": "b5ac8fec495a321264b5d55d654a348d64d505a3b543fbaa1c9928b98e496662"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 24316
+    },
+    {
       "id": "baking-tray",
       "name": "baking tray",
       "category": "kitchen",
@@ -1679,6 +1748,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 21346
+    },
+    {
+      "id": "bathroom-sink",
+      "name": "bathroom sink",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "bathroom sink"
+        },
+        "vi": {
+          "text": "bồn rửa mặt"
+        },
+        "zh-Hans": {
+          "text": "洗脸盆",
+          "reading": "xǐ liǎn pén"
+        },
+        "ja": {
+          "text": "洗面台",
+          "reading": "senmendai"
+        },
+        "ko": {
+          "text": "세면대",
+          "reading": "semyeondae"
+        },
+        "es": {
+          "text": "lavabo"
+        },
+        "fr": {
+          "text": "lavabo"
+        },
+        "de": {
+          "text": "Waschbecken"
+        },
+        "id": {
+          "text": "wastafel kamar mandi"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bathroom-sink/source.png",
+        "still.png": "assets/bathroom-sink/still.png",
+        "still.webp": "assets/bathroom-sink/still.webp",
+        "animated.avif": "assets/bathroom-sink/animated.avif",
+        "motion.json": "assets/bathroom-sink/motion.json",
+        "meta.json": "assets/bathroom-sink/meta.json",
+        "reference.png": "assets/bathroom-sink/reference.png"
+      },
+      "sha256": {
+        "source.png": "88c304b0f710f87fe468efb9e909232052336cbd71b9bbf544857b9f5ce3d415",
+        "still.png": "4aa6fcd26004ff1f32b05a3263b632ef8e0b1b10d41c727f5b1eba33703994e1",
+        "still.webp": "dba6a2fa453a1e4ba52e42c28a161720e50b0b4f99a8e5503c324e4be84402b3",
+        "animated.avif": "8c0a818d5a21546b8753c622121ffc8abec50709a70812d02fe5ddbcb343ec0e",
+        "motion.json": "ad24d9554d4e408e4d3610a260ad018351acb31e22ffb1f244de04666c1047b7",
+        "meta.json": "8f8f6803867036f30424eae4a8bf5922b4d080f98eb04b74b15c4203ead3e64c",
+        "reference.png": "4aa6fcd26004ff1f32b05a3263b632ef8e0b1b10d41c727f5b1eba33703994e1"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 45540
     },
     {
       "id": "beach-ball",
@@ -3218,6 +3356,144 @@
       "animationBytes": 16576
     },
     {
+      "id": "bookshop",
+      "name": "bookshop",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "bookshop"
+        },
+        "vi": {
+          "text": "hiệu sách"
+        },
+        "zh-Hans": {
+          "text": "书店",
+          "reading": "shū diàn"
+        },
+        "ja": {
+          "text": "本屋",
+          "reading": "honya"
+        },
+        "ko": {
+          "text": "서점",
+          "reading": "seojeom"
+        },
+        "es": {
+          "text": "librería"
+        },
+        "fr": {
+          "text": "librairie"
+        },
+        "de": {
+          "text": "Buchhandlung"
+        },
+        "id": {
+          "text": "toko buku"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bookshop/source.png",
+        "still.png": "assets/bookshop/still.png",
+        "still.webp": "assets/bookshop/still.webp",
+        "animated.avif": "assets/bookshop/animated.avif",
+        "motion.json": "assets/bookshop/motion.json",
+        "meta.json": "assets/bookshop/meta.json",
+        "reference.png": "assets/bookshop/reference.png"
+      },
+      "sha256": {
+        "source.png": "4989f93921ba5d7c394ccf5311a3a5eeaa1b8f62efec1fcb5926c8ada201aba5",
+        "still.png": "26215c6a968dedaed16c467e0865574322416a9ab8b5c20ada1489af8ca87e92",
+        "still.webp": "9950d946e6dd87e95ad0ba0c4e3c9f71c8bc583b572aa59e2e8ddc09f5769a7a",
+        "animated.avif": "f49ec406426d47fb96bf295bdd2165808afbc368b953b268e175237f24370932",
+        "motion.json": "4bca4f14d60d32dab4449adedca66dddc92a1a556937ba92e5aad586642fa964",
+        "meta.json": "268ec10e47f2545da9debad7d9f059072c1bddadfa4d18b781e677561c629a34",
+        "reference.png": "26215c6a968dedaed16c467e0865574322416a9ab8b5c20ada1489af8ca87e92"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 24626
+    },
+    {
+      "id": "bouncy-ball",
+      "name": "bouncy ball",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "bouncy ball"
+        },
+        "vi": {
+          "text": "bóng nảy"
+        },
+        "zh-Hans": {
+          "text": "弹力球",
+          "reading": "tán lì qiú"
+        },
+        "ja": {
+          "text": "スーパーボール",
+          "reading": "sūpā bōru"
+        },
+        "ko": {
+          "text": "탱탱볼",
+          "reading": "taengtaengbol"
+        },
+        "es": {
+          "text": "pelota saltarina"
+        },
+        "fr": {
+          "text": "balle rebondissante"
+        },
+        "de": {
+          "text": "Flummi"
+        },
+        "id": {
+          "text": "bola karet pantul"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bouncy-ball/source.png",
+        "still.png": "assets/bouncy-ball/still.png",
+        "still.webp": "assets/bouncy-ball/still.webp",
+        "animated.avif": "assets/bouncy-ball/animated.avif",
+        "motion.json": "assets/bouncy-ball/motion.json",
+        "meta.json": "assets/bouncy-ball/meta.json",
+        "reference.png": "assets/bouncy-ball/reference.png"
+      },
+      "sha256": {
+        "source.png": "aeb16833d4295f31a97211a475bdf79cc28353b582b6912b10f35b81219bdfe6",
+        "still.png": "7955bd7d48e548eab6be8dcae4ceb7f6ede312bfbed6fc8727ac23a5a0591631",
+        "still.webp": "71006116d37a9c0d9418fb4d4dd253a1a615323e331137329a9a7232d721e424",
+        "animated.avif": "e1dbe35acebd78f3d8128d57b4167649e68c3b7bf218f289cd81e668dbe98f26",
+        "motion.json": "c67b3e89f24a7df062e48202d90feffb203acd299d9c1b98100ad3533d7f172c",
+        "meta.json": "68fa43be6f65f0a2d7916ecfe7e171a8ab0379cbdb6bbb8b14d9deca2bf16e66",
+        "reference.png": "7955bd7d48e548eab6be8dcae4ceb7f6ede312bfbed6fc8727ac23a5a0591631"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 49548
+    },
+    {
       "id": "bowl",
       "name": "bowl",
       "category": "kitchen",
@@ -3417,6 +3693,75 @@
       "animationBytes": 28617
     },
     {
+      "id": "bubble-wand",
+      "name": "bubble wand",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "bubble wand"
+        },
+        "vi": {
+          "text": "que thổi bong bóng"
+        },
+        "zh-Hans": {
+          "text": "泡泡棒",
+          "reading": "pào pao bàng"
+        },
+        "ja": {
+          "text": "シャボン玉の輪",
+          "reading": "shabondama no wa"
+        },
+        "ko": {
+          "text": "비눗방울 막대",
+          "reading": "binutbangul makdae"
+        },
+        "es": {
+          "text": "varita para pompas"
+        },
+        "fr": {
+          "text": "baguette à bulles"
+        },
+        "de": {
+          "text": "Seifenblasenstab"
+        },
+        "id": {
+          "text": "tongkat gelembung sabun"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bubble-wand/source.png",
+        "still.png": "assets/bubble-wand/still.png",
+        "still.webp": "assets/bubble-wand/still.webp",
+        "animated.avif": "assets/bubble-wand/animated.avif",
+        "motion.json": "assets/bubble-wand/motion.json",
+        "meta.json": "assets/bubble-wand/meta.json",
+        "reference.png": "assets/bubble-wand/reference.png"
+      },
+      "sha256": {
+        "source.png": "063e01f7168655e9bfe98adb8b245564daeacad033523c0249fdb970eae1c8b4",
+        "still.png": "e84e1092c8e535f25cb67035aa5b13cfbbe4ecba8e73227ea7f058c4a93e5d8a",
+        "still.webp": "4f869f028cac37ecec37be065673b3a7972cf7229d351094726ce35d6e5ae17c",
+        "animated.avif": "275550b734b81b7e87f4a1226b40ef3004307970c5e23fe7cf62281725ea197e",
+        "motion.json": "a9588352b9bfc1cc35858fd616ad2a5eb648f59bb8b4e16e75f4fc4ccfac376a",
+        "meta.json": "62a994f76c44cc2073899e3266f65e05bb96e04624a9d41a5296630581ff71ef",
+        "reference.png": "e84e1092c8e535f25cb67035aa5b13cfbbe4ecba8e73227ea7f058c4a93e5d8a"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 60031
+    },
+    {
       "id": "bud",
       "name": "bud",
       "category": "garden",
@@ -3481,6 +3826,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 19425
+    },
+    {
+      "id": "building-bricks",
+      "name": "building bricks",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "building bricks"
+        },
+        "vi": {
+          "text": "khối lắp ráp"
+        },
+        "zh-Hans": {
+          "text": "拼插积木",
+          "reading": "pīn chā jī mù"
+        },
+        "ja": {
+          "text": "ブロック",
+          "reading": "burokku"
+        },
+        "ko": {
+          "text": "조립 블록",
+          "reading": "jorip beullok"
+        },
+        "es": {
+          "text": "bloques de construcción"
+        },
+        "fr": {
+          "text": "briques de construction"
+        },
+        "de": {
+          "text": "Klemmbausteine"
+        },
+        "id": {
+          "text": "balok susun"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/building-bricks/source.png",
+        "still.png": "assets/building-bricks/still.png",
+        "still.webp": "assets/building-bricks/still.webp",
+        "animated.avif": "assets/building-bricks/animated.avif",
+        "motion.json": "assets/building-bricks/motion.json",
+        "meta.json": "assets/building-bricks/meta.json",
+        "reference.png": "assets/building-bricks/reference.png"
+      },
+      "sha256": {
+        "source.png": "7a44eca0f53c9ad4a5cba7f61135dc520586e05e492a82e26c6367beecd3724f",
+        "still.png": "643ac72ce35b3eaa522d0c8d841b81eab56e5e417ed38f23bb4a113701b3dcdd",
+        "still.webp": "29121843d2745cd78de03f4c7518f279d665ba259f4beee7c1b41d9263e7b036",
+        "animated.avif": "d1f0d024d22de0d979d04cc6740f777fac4152661ee22efa8c492fe31d424f56",
+        "motion.json": "1e11214252692f0605bf4803b44df33fc4d3319d58195a009a7e48cc84e0ced3",
+        "meta.json": "4d95fa0fdd6c367b35a1e5a9b34b1b32d9c1069cc0ad4b6925755f71bada7bb0",
+        "reference.png": "643ac72ce35b3eaa522d0c8d841b81eab56e5e417ed38f23bb4a113701b3dcdd"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 57020
     },
     {
       "id": "bunk-bed",
@@ -4489,6 +4903,75 @@
       "animationBytes": 23285
     },
     {
+      "id": "chain",
+      "name": "chain",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "chain"
+        },
+        "vi": {
+          "text": "dây xích"
+        },
+        "zh-Hans": {
+          "text": "链条",
+          "reading": "liàn tiáo"
+        },
+        "ja": {
+          "text": "鎖",
+          "reading": "kusari"
+        },
+        "ko": {
+          "text": "사슬",
+          "reading": "saseul"
+        },
+        "es": {
+          "text": "cadena"
+        },
+        "fr": {
+          "text": "chaîne"
+        },
+        "de": {
+          "text": "Kette"
+        },
+        "id": {
+          "text": "rantai"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/chain/source.png",
+        "still.png": "assets/chain/still.png",
+        "still.webp": "assets/chain/still.webp",
+        "animated.avif": "assets/chain/animated.avif",
+        "motion.json": "assets/chain/motion.json",
+        "meta.json": "assets/chain/meta.json",
+        "reference.png": "assets/chain/reference.png"
+      },
+      "sha256": {
+        "source.png": "e79363786852a1a465cfa2d97f4db327055c8a76cbf924f206cd348adaa8da6d",
+        "still.png": "09d8e0b06301c674763d8f9cd789834fbc931987965c272e093167c9bb25153a",
+        "still.webp": "25048d9c45bb5c1d592068c1e7f943eab1ffa0feb29b2a44db4125466075a25d",
+        "animated.avif": "dadddd1c26446c0825ae31d27fddb34b2c9e3f3de5cb6fa941ddbec91763e55b",
+        "motion.json": "184cf5ca20369726e117865cb33d1e10e0b255899baf0af18b56196a9a4d597c",
+        "meta.json": "2d4c4e0de54c8fc51e0ce13317220eea97cd350da111dd8fa20a4b04478e67e4",
+        "reference.png": "09d8e0b06301c674763d8f9cd789834fbc931987965c272e093167c9bb25153a"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51960
+    },
+    {
       "id": "chalk",
       "name": "chalk",
       "category": "school-art",
@@ -5301,6 +5784,75 @@
       "animationBytes": 56479
     },
     {
+      "id": "clothesline",
+      "name": "clothesline",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "clothesline"
+        },
+        "vi": {
+          "text": "dây phơi quần áo"
+        },
+        "zh-Hans": {
+          "text": "晾衣绳",
+          "reading": "liàng yī shéng"
+        },
+        "ja": {
+          "text": "物干しロープ",
+          "reading": "monohoshi rōpu"
+        },
+        "ko": {
+          "text": "빨랫줄",
+          "reading": "ppallaetjul"
+        },
+        "es": {
+          "text": "tendedero"
+        },
+        "fr": {
+          "text": "corde à linge"
+        },
+        "de": {
+          "text": "Wäscheleine"
+        },
+        "id": {
+          "text": "tali jemuran"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/clothesline/source.png",
+        "still.png": "assets/clothesline/still.png",
+        "still.webp": "assets/clothesline/still.webp",
+        "animated.avif": "assets/clothesline/animated.avif",
+        "motion.json": "assets/clothesline/motion.json",
+        "meta.json": "assets/clothesline/meta.json",
+        "reference.png": "assets/clothesline/reference.png"
+      },
+      "sha256": {
+        "source.png": "ac12da7c4cfd9df8081e6acc92ac988388c8cbb745aad5f459900c91a6f0790a",
+        "still.png": "87967e9f508c76d972a382a08ddfd80ff8750073a3a2908d8e5334c2da7424b0",
+        "still.webp": "1d59d1f1dfdb004011a104968bc9bbccc5a73a3ecb9260fbf3f60b81039b8b50",
+        "animated.avif": "8b60ba4566001ef3aebf245abb5be620c57236acc46c86d543318a0547bc0417",
+        "motion.json": "20ea9e79a2cc581c03e36017893bdc8b14a54fb700a8bcb42ee0f1294b68f256",
+        "meta.json": "fb4b4883fbc72969906c2697aced147b253bcf5ee7c65dd85ff5375bec55bbab",
+        "reference.png": "87967e9f508c76d972a382a08ddfd80ff8750073a3a2908d8e5334c2da7424b0"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 33444
+    },
+    {
       "id": "clownfish",
       "name": "clownfish",
       "category": "wildlife",
@@ -6035,6 +6587,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 48536
+    },
+    {
+      "id": "cotton-ball",
+      "name": "cotton ball",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "cotton ball"
+        },
+        "vi": {
+          "text": "viên bông"
+        },
+        "zh-Hans": {
+          "text": "棉球",
+          "reading": "mián qiú"
+        },
+        "ja": {
+          "text": "コットンボール",
+          "reading": "kotton bōru"
+        },
+        "ko": {
+          "text": "솜뭉치",
+          "reading": "sommungchi"
+        },
+        "es": {
+          "text": "bola de algodón"
+        },
+        "fr": {
+          "text": "boule de coton"
+        },
+        "de": {
+          "text": "Wattebausch"
+        },
+        "id": {
+          "text": "bola kapas"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/cotton-ball/source.png",
+        "still.png": "assets/cotton-ball/still.png",
+        "still.webp": "assets/cotton-ball/still.webp",
+        "animated.avif": "assets/cotton-ball/animated.avif",
+        "motion.json": "assets/cotton-ball/motion.json",
+        "meta.json": "assets/cotton-ball/meta.json",
+        "reference.png": "assets/cotton-ball/reference.png"
+      },
+      "sha256": {
+        "source.png": "1e89d4ea4b08019b03df404207d5539fda25ef1584d97b5ec2b1f788d87bef65",
+        "still.png": "eb2a15aae2a84e6f42e10cfb4d41ba97697b742dbee1859185551175b157665c",
+        "still.webp": "954edc788a2ba3d996ec730b134a4f5cc123769715e4576cc8b5d69b489f477e",
+        "animated.avif": "4907db6e1197a91f974ea4be86dd68f75e51479c566b0bd809081261fcd8ec91",
+        "motion.json": "38140e9216f2a4cd0ff00f0d13e1e0f7a1eda05beabd9e034ee5ce971fd6d419",
+        "meta.json": "5f1f21a474e188673a628c9e153fbee9eed7ff928f011d97f9b0e6e35d3a76ce",
+        "reference.png": "eb2a15aae2a84e6f42e10cfb4d41ba97697b742dbee1859185551175b157665c"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 25393
     },
     {
       "id": "couscous",
@@ -8645,6 +9266,144 @@
       "animationBytes": 60288
     },
     {
+      "id": "farm",
+      "name": "farm",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "farm"
+        },
+        "vi": {
+          "text": "nông trại"
+        },
+        "zh-Hans": {
+          "text": "农场",
+          "reading": "nóng chǎng"
+        },
+        "ja": {
+          "text": "農場",
+          "reading": "nōjō"
+        },
+        "ko": {
+          "text": "농장",
+          "reading": "nongjang"
+        },
+        "es": {
+          "text": "granja"
+        },
+        "fr": {
+          "text": "ferme"
+        },
+        "de": {
+          "text": "Bauernhof"
+        },
+        "id": {
+          "text": "peternakan"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/farm/source.png",
+        "still.png": "assets/farm/still.png",
+        "still.webp": "assets/farm/still.webp",
+        "animated.avif": "assets/farm/animated.avif",
+        "motion.json": "assets/farm/motion.json",
+        "meta.json": "assets/farm/meta.json",
+        "reference.png": "assets/farm/reference.png"
+      },
+      "sha256": {
+        "source.png": "41fa54ded416049f2189d416fd6117c0cca692edbe4cb6abef8fe2082e668189",
+        "still.png": "91bdce4d9ac1385b012a81c8571f421d7db6d83b894ea19302554c96abaf16de",
+        "still.webp": "d4cd3248cd31aacdd0fcda48b73056e997ff99499021dce94a7ab33fba5d6f73",
+        "animated.avif": "ae8e60b58e102a2edd5ec12ac82a91afc7b69d9d7f9898c813fa7e9ee251f8b3",
+        "motion.json": "47a1c3327f8be604c73f63894bea9b09432b25e2184b0333a364be6e0b220691",
+        "meta.json": "ccae474bec7ee2bde41a18be2d893c13c62fd187dbf30dc63b5db42736946143",
+        "reference.png": "91bdce4d9ac1385b012a81c8571f421d7db6d83b894ea19302554c96abaf16de"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 53516
+    },
+    {
+      "id": "feather-duster",
+      "name": "feather duster",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "feather duster"
+        },
+        "vi": {
+          "text": "chổi lông"
+        },
+        "zh-Hans": {
+          "text": "鸡毛掸子",
+          "reading": "jī máo dǎn zi"
+        },
+        "ja": {
+          "text": "羽ぼうき",
+          "reading": "habōki"
+        },
+        "ko": {
+          "text": "깃털 먼지떨이",
+          "reading": "gitteol meonjitteori"
+        },
+        "es": {
+          "text": "plumero"
+        },
+        "fr": {
+          "text": "plumeau"
+        },
+        "de": {
+          "text": "Staubwedel"
+        },
+        "id": {
+          "text": "kemoceng"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/feather-duster/source.png",
+        "still.png": "assets/feather-duster/still.png",
+        "still.webp": "assets/feather-duster/still.webp",
+        "animated.avif": "assets/feather-duster/animated.avif",
+        "motion.json": "assets/feather-duster/motion.json",
+        "meta.json": "assets/feather-duster/meta.json",
+        "reference.png": "assets/feather-duster/reference.png"
+      },
+      "sha256": {
+        "source.png": "6630917b0d8a34d7dacf7ad5227e31ccafaa88619b380da8e2635bab0068280a",
+        "still.png": "7a5bb6dff861f94f41cba7aaf206297688927ae70529acfc130328677fe00ec8",
+        "still.webp": "f37bddd40e5b5c58c40655adcbf0d6dddc94b81627f0927dfdb8c7f360733188",
+        "animated.avif": "83255f491e1e8aa002e07243c5d1ba08e7e4cb97374391defe23172ab2b133ff",
+        "motion.json": "f7e16920d0e4777ed685798fd83c88df0d19ede56ec7a1a4d697dcf6c2dadde2",
+        "meta.json": "80dfcb1aacda8e178e82fdb6fd4be289f0ee01368cf2297223b752a42c290e03",
+        "reference.png": "7a5bb6dff861f94f41cba7aaf206297688927ae70529acfc130328677fe00ec8"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 32881
+    },
+    {
       "id": "fence",
       "name": "fence",
       "category": "garden",
@@ -8910,6 +9669,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 51938
+    },
+    {
+      "id": "fire-station",
+      "name": "fire station",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "fire station"
+        },
+        "vi": {
+          "text": "trạm cứu hỏa"
+        },
+        "zh-Hans": {
+          "text": "消防站",
+          "reading": "xiāo fáng zhàn"
+        },
+        "ja": {
+          "text": "消防署",
+          "reading": "shōbōsho"
+        },
+        "ko": {
+          "text": "소방서",
+          "reading": "sobangseo"
+        },
+        "es": {
+          "text": "estación de bomberos"
+        },
+        "fr": {
+          "text": "caserne de pompiers"
+        },
+        "de": {
+          "text": "Feuerwache"
+        },
+        "id": {
+          "text": "pos pemadam kebakaran"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/fire-station/source.png",
+        "still.png": "assets/fire-station/still.png",
+        "still.webp": "assets/fire-station/still.webp",
+        "animated.avif": "assets/fire-station/animated.avif",
+        "motion.json": "assets/fire-station/motion.json",
+        "meta.json": "assets/fire-station/meta.json",
+        "reference.png": "assets/fire-station/reference.png"
+      },
+      "sha256": {
+        "source.png": "65646a6ba659cda2bc196c1fce54542435386d49c455770affcd58fa48af7b69",
+        "still.png": "071e9492e7ac5bbd7c36e402bfb8ec5288d5ec7fc37e479e4bf230e395819ac7",
+        "still.webp": "8cead3e346cf9284dfba82254cadbe3cef740ec7df60a305300945374e642a70",
+        "animated.avif": "87030b4d0850505e6df1e193bda0f2a6416ae9ade2d03c461367190fbec0ad6e",
+        "motion.json": "d9eba53aca91d1085c06a5ade4fe9f89f3ce381430de95d80595667772c405b5",
+        "meta.json": "c40faa4620dae0816432955c5ef902cb8926496b5fa5d8c175baf4e88d40a57b",
+        "reference.png": "071e9492e7ac5bbd7c36e402bfb8ec5288d5ec7fc37e479e4bf230e395819ac7"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58203
     },
     {
       "id": "fish-cake",
@@ -11584,6 +12412,75 @@
       "animationBytes": 29800
     },
     {
+      "id": "hook",
+      "name": "hook",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "hook"
+        },
+        "vi": {
+          "text": "móc treo"
+        },
+        "zh-Hans": {
+          "text": "挂钩",
+          "reading": "guà gōu"
+        },
+        "ja": {
+          "text": "フック",
+          "reading": "fukku"
+        },
+        "ko": {
+          "text": "걸이",
+          "reading": "geori"
+        },
+        "es": {
+          "text": "gancho"
+        },
+        "fr": {
+          "text": "crochet"
+        },
+        "de": {
+          "text": "Haken"
+        },
+        "id": {
+          "text": "kait"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hook/source.png",
+        "still.png": "assets/hook/still.png",
+        "still.webp": "assets/hook/still.webp",
+        "animated.avif": "assets/hook/animated.avif",
+        "motion.json": "assets/hook/motion.json",
+        "meta.json": "assets/hook/meta.json",
+        "reference.png": "assets/hook/reference.png"
+      },
+      "sha256": {
+        "source.png": "17c1edfecb23ab26e2bd9df1f8fd1900196bd3ab80efa57a2693b6b9874f0f24",
+        "still.png": "a2c423b48f12a92e7f7dcb963320c6516ec0bef6f9363671eb42e282c031950c",
+        "still.webp": "537e9c029e29f43a025c6aa4c0cf030201b17929111e6b2f7d3fdd45e165a2d2",
+        "animated.avif": "34e6a412dc583bb3fd88b28df7110f36c53b10be8fc499605bd39c030ada5f71",
+        "motion.json": "d7a80621c400ff7d8e816a9d5e78eaca4349f09492211ab4b8924ce99183d3a6",
+        "meta.json": "f7f7b5adce9d293fd0d330098cead49cdb4154575e76e64519fa5b8bed0cd11e",
+        "reference.png": "a2c423b48f12a92e7f7dcb963320c6516ec0bef6f9363671eb42e282c031950c"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58925
+    },
+    {
       "id": "hoopoe",
       "name": "hoopoe",
       "category": "wildlife",
@@ -12133,6 +13030,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 56869
+    },
+    {
+      "id": "ice-cream-shop",
+      "name": "ice cream shop",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "ice cream shop"
+        },
+        "vi": {
+          "text": "tiệm kem"
+        },
+        "zh-Hans": {
+          "text": "冰淇淋店",
+          "reading": "bīng qí lín diàn"
+        },
+        "ja": {
+          "text": "アイスクリーム屋",
+          "reading": "aisu kurīmu ya"
+        },
+        "ko": {
+          "text": "아이스크림 가게",
+          "reading": "aiseukeurim gage"
+        },
+        "es": {
+          "text": "heladería"
+        },
+        "fr": {
+          "text": "boutique de glaces"
+        },
+        "de": {
+          "text": "Eisdiele"
+        },
+        "id": {
+          "text": "toko es krim"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/ice-cream-shop/source.png",
+        "still.png": "assets/ice-cream-shop/still.png",
+        "still.webp": "assets/ice-cream-shop/still.webp",
+        "animated.avif": "assets/ice-cream-shop/animated.avif",
+        "motion.json": "assets/ice-cream-shop/motion.json",
+        "meta.json": "assets/ice-cream-shop/meta.json",
+        "reference.png": "assets/ice-cream-shop/reference.png"
+      },
+      "sha256": {
+        "source.png": "a72c96ecfc02de4aec7129412449f4d4de31f080a63b1418b4e336582a66dbd5",
+        "still.png": "934efc57ebbb610b9d21b2ee4ce241b33ec3290ff55c0860b86886a169bcc0d8",
+        "still.webp": "4c27c30cd2788be248bae9dd7064faa9f1ef82a45e4f2a79cd7a5d32468f920f",
+        "animated.avif": "eb9a382a233defd143c73666d092ae0ea9590dacad80ffabc33e316542fbad92",
+        "motion.json": "9b57e43788260748805e00bcbf1665c224715854dd67634780da2be103bf5ca9",
+        "meta.json": "2abe2dfdb6f87f0d36dd3daaf2cdddcc3874af4d753055bee1154dc3fa38e512",
+        "reference.png": "934efc57ebbb610b9d21b2ee4ce241b33ec3290ff55c0860b86886a169bcc0d8"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 20195
     },
     {
       "id": "jacket",
@@ -13338,6 +14304,75 @@
       "animationBytes": 25792
     },
     {
+      "id": "library",
+      "name": "library",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "library"
+        },
+        "vi": {
+          "text": "thư viện"
+        },
+        "zh-Hans": {
+          "text": "图书馆",
+          "reading": "tú shū guǎn"
+        },
+        "ja": {
+          "text": "図書館",
+          "reading": "toshokan"
+        },
+        "ko": {
+          "text": "도서관",
+          "reading": "doseogwan"
+        },
+        "es": {
+          "text": "biblioteca"
+        },
+        "fr": {
+          "text": "bibliothèque"
+        },
+        "de": {
+          "text": "Bibliothek"
+        },
+        "id": {
+          "text": "perpustakaan"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/library/source.png",
+        "still.png": "assets/library/still.png",
+        "still.webp": "assets/library/still.webp",
+        "animated.avif": "assets/library/animated.avif",
+        "motion.json": "assets/library/motion.json",
+        "meta.json": "assets/library/meta.json",
+        "reference.png": "assets/library/reference.png"
+      },
+      "sha256": {
+        "source.png": "18e8e0b292d72f4da1f047549888b668a516300395581081c624bd9335809f64",
+        "still.png": "e6f0c0046d06f03b0dd9abada7aa99c4bf189c97b2e1febd00ad4f4bd4a26957",
+        "still.webp": "2f817c8f89b846b1718013f7d178ce391f4ee887331231963f365e9540f20b31",
+        "animated.avif": "4216e04b068621323c883bdb836444e98982fac9a92670e4df17c76c4fe2fe81",
+        "motion.json": "b00a4243fd8b765a584dc3e88fdca99db989d89c602b0a58747cdbdb02d92350",
+        "meta.json": "c3ea417522bc33961932ff75b222ad8d7d242726e6199850e36b2a7bc26c3704",
+        "reference.png": "e6f0c0046d06f03b0dd9abada7aa99c4bf189c97b2e1febd00ad4f4bd4a26957"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56133
+    },
+    {
       "id": "lid",
       "name": "lid",
       "category": "kitchen",
@@ -13402,6 +14437,75 @@
       "fps": 12,
       "duration": 3,
       "animationBytes": 50301
+    },
+    {
+      "id": "light-switch",
+      "name": "light switch",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "light switch"
+        },
+        "vi": {
+          "text": "công tắc đèn"
+        },
+        "zh-Hans": {
+          "text": "电灯开关",
+          "reading": "diàn dēng kāi guān"
+        },
+        "ja": {
+          "text": "電気のスイッチ",
+          "reading": "denki no suicchi"
+        },
+        "ko": {
+          "text": "전등 스위치",
+          "reading": "jeondeung seuwichi"
+        },
+        "es": {
+          "text": "interruptor de luz"
+        },
+        "fr": {
+          "text": "interrupteur"
+        },
+        "de": {
+          "text": "Lichtschalter"
+        },
+        "id": {
+          "text": "sakelar lampu"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/light-switch/source.png",
+        "still.png": "assets/light-switch/still.png",
+        "still.webp": "assets/light-switch/still.webp",
+        "animated.avif": "assets/light-switch/animated.avif",
+        "motion.json": "assets/light-switch/motion.json",
+        "meta.json": "assets/light-switch/meta.json",
+        "reference.png": "assets/light-switch/reference.png"
+      },
+      "sha256": {
+        "source.png": "8a7567d9437411c0a9f678e98822844c0ed2143a647ca382a3ccb269b1c01974",
+        "still.png": "e726dce7a0ee7094858ddad1eb627be5629466432d539379a3913630cc8c8594",
+        "still.webp": "063c2e0b4a01fbf508ff5258fd5219b4ab6a9215e3381f579a110b1f2a64fa70",
+        "animated.avif": "33ec7ebe1ca706198fc7406315d99008ffc30d776c2946b15830435edd6bce3f",
+        "motion.json": "a05ec60f0e1a44a2cf84b8e453352c5855f3ba44d71ef7d191702eb894c28579",
+        "meta.json": "092d55cb32d06e75403ef7aed70ebe9bb7cdb8099eb6682fdccf4754844ad530",
+        "reference.png": "e726dce7a0ee7094858ddad1eb627be5629466432d539379a3913630cc8c8594"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 28902
     },
     {
       "id": "lionfish",
@@ -15756,6 +16860,75 @@
       "animationBytes": 56100
     },
     {
+      "id": "nail-clipper",
+      "name": "nail clipper",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "nail clipper"
+        },
+        "vi": {
+          "text": "bấm móng tay"
+        },
+        "zh-Hans": {
+          "text": "指甲剪",
+          "reading": "zhǐ jia jiǎn"
+        },
+        "ja": {
+          "text": "爪切り",
+          "reading": "tsumekiri"
+        },
+        "ko": {
+          "text": "손톱깎이",
+          "reading": "sontopkkakki"
+        },
+        "es": {
+          "text": "cortauñas"
+        },
+        "fr": {
+          "text": "coupe-ongles"
+        },
+        "de": {
+          "text": "Nagelknipser"
+        },
+        "id": {
+          "text": "gunting kuku"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/nail-clipper/source.png",
+        "still.png": "assets/nail-clipper/still.png",
+        "still.webp": "assets/nail-clipper/still.webp",
+        "animated.avif": "assets/nail-clipper/animated.avif",
+        "motion.json": "assets/nail-clipper/motion.json",
+        "meta.json": "assets/nail-clipper/meta.json",
+        "reference.png": "assets/nail-clipper/reference.png"
+      },
+      "sha256": {
+        "source.png": "5be3a68ab006b804d3bb40f20d213679b9a779324474785f9399b202296093cb",
+        "still.png": "fac3f4c01c3df33486655671e7c1914dcb62ab3584e4c3362aa0a6acb6c93717",
+        "still.webp": "dab64e4318519d5595acd077df4b85407c9585bfbc09b4296132e868c1ce0d09",
+        "animated.avif": "d6ea9461e79a64a5d5eb769a4e3e681770509e7b0ad79692523b41de4f33587b",
+        "motion.json": "2539a06105f9b1a5156f0f2b8d134e912995390a7090b162ee06384d35fa39ff",
+        "meta.json": "6c0c108ab0e6dedf16a9242ab7f16707d2d5a7e42dc3b2e143ea37dd43278784",
+        "reference.png": "fac3f4c01c3df33486655671e7c1914dcb62ab3584e4c3362aa0a6acb6c93717"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 45382
+    },
+    {
       "id": "napkin",
       "name": "napkin",
       "category": "kitchen",
@@ -16024,6 +17197,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 36449
+    },
+    {
+      "id": "nesting-cups",
+      "name": "nesting cups",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "nesting cups"
+        },
+        "vi": {
+          "text": "cốc lồng nhau"
+        },
+        "zh-Hans": {
+          "text": "叠叠杯",
+          "reading": "dié dié bēi"
+        },
+        "ja": {
+          "text": "重ねカップ",
+          "reading": "kasane kappu"
+        },
+        "ko": {
+          "text": "컵 쌓기 장난감",
+          "reading": "keop ssaki jangnangam"
+        },
+        "es": {
+          "text": "vasos encajables"
+        },
+        "fr": {
+          "text": "gobelets gigognes"
+        },
+        "de": {
+          "text": "Stapelbecher"
+        },
+        "id": {
+          "text": "cangkir susun"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/nesting-cups/source.png",
+        "still.png": "assets/nesting-cups/still.png",
+        "still.webp": "assets/nesting-cups/still.webp",
+        "animated.avif": "assets/nesting-cups/animated.avif",
+        "motion.json": "assets/nesting-cups/motion.json",
+        "meta.json": "assets/nesting-cups/meta.json",
+        "reference.png": "assets/nesting-cups/reference.png"
+      },
+      "sha256": {
+        "source.png": "3a84d030dbdc5e2161f4140777ef86abb8a6e9f2a5a1c531c7bab286a33fd1c7",
+        "still.png": "a77e328ee084ee118d8f5f2e3d2d4199f600e18f6caedce7ee5dd42b53000879",
+        "still.webp": "e7994fb6ec4593e001a948b116104d5160b42b3d1f54666f7d1bde7a4234fd6b",
+        "animated.avif": "2598273f4ec13bcfa63b1581b74ce986da3daad1dab2b27fb3b8eaea18763f88",
+        "motion.json": "53206879847b426af74063a718f0e774dcfef34363474ee39f1f1122e6418f09",
+        "meta.json": "39989662c5fb80d2f2a5d915ff7ca77b5d5589d8c46bdf9c430b64e83ce77ada",
+        "reference.png": "a77e328ee084ee118d8f5f2e3d2d4199f600e18f6caedce7ee5dd42b53000879"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 59616
     },
     {
       "id": "nightdress",
@@ -18708,6 +19950,75 @@
       "animationBytes": 14791
     },
     {
+      "id": "police-station",
+      "name": "police station",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "police station"
+        },
+        "vi": {
+          "text": "đồn cảnh sát"
+        },
+        "zh-Hans": {
+          "text": "警察局",
+          "reading": "jǐng chá jú"
+        },
+        "ja": {
+          "text": "警察署",
+          "reading": "keisatsusho"
+        },
+        "ko": {
+          "text": "경찰서",
+          "reading": "gyeongchalseo"
+        },
+        "es": {
+          "text": "comisaría"
+        },
+        "fr": {
+          "text": "commissariat"
+        },
+        "de": {
+          "text": "Polizeiwache"
+        },
+        "id": {
+          "text": "kantor polisi"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/police-station/source.png",
+        "still.png": "assets/police-station/still.png",
+        "still.webp": "assets/police-station/still.webp",
+        "animated.avif": "assets/police-station/animated.avif",
+        "motion.json": "assets/police-station/motion.json",
+        "meta.json": "assets/police-station/meta.json",
+        "reference.png": "assets/police-station/reference.png"
+      },
+      "sha256": {
+        "source.png": "5f61c574eb773540d60c5bcafb1ad6394e8b691e5c40749e25611bc947279c61",
+        "still.png": "39ebbdd957b2b0849c10cc52f5f88d0ccf02f4977040a0f1f0b9f32764709691",
+        "still.webp": "d0dbb819217074f64787dcb33ebdb980ae446f80c7e3eb6fdb4ce3a1dcdb650a",
+        "animated.avif": "1a889d7c742a1102b0a37bcbfd6572e93a6aaf33928204a9b313b3651b93a121",
+        "motion.json": "b98326762ed9a130b4b5737e4503ef5cafda843bff36b6bd43c658d1d5e792c4",
+        "meta.json": "1f4bd116d5715c7ce410b759cc7f00ce9ab45fc0700c2b7f35eec58836ae03d2",
+        "reference.png": "39ebbdd957b2b0849c10cc52f5f88d0ccf02f4977040a0f1f0b9f32764709691"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 46384
+    },
+    {
       "id": "pollen",
       "name": "pollen",
       "category": "garden",
@@ -20251,6 +21562,75 @@
       "animationBytes": 58229
     },
     {
+      "id": "restaurant",
+      "name": "restaurant",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "restaurant"
+        },
+        "vi": {
+          "text": "nhà hàng"
+        },
+        "zh-Hans": {
+          "text": "餐厅",
+          "reading": "cān tīng"
+        },
+        "ja": {
+          "text": "レストラン",
+          "reading": "resutoran"
+        },
+        "ko": {
+          "text": "식당",
+          "reading": "sikdang"
+        },
+        "es": {
+          "text": "restaurante"
+        },
+        "fr": {
+          "text": "restaurant"
+        },
+        "de": {
+          "text": "Restaurant"
+        },
+        "id": {
+          "text": "restoran"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/restaurant/source.png",
+        "still.png": "assets/restaurant/still.png",
+        "still.webp": "assets/restaurant/still.webp",
+        "animated.avif": "assets/restaurant/animated.avif",
+        "motion.json": "assets/restaurant/motion.json",
+        "meta.json": "assets/restaurant/meta.json",
+        "reference.png": "assets/restaurant/reference.png"
+      },
+      "sha256": {
+        "source.png": "58306def626fbde9dd2d147e66016f3cd7ec572ee8df188d6e8a5e311545be75",
+        "still.png": "777d9744d987e3afda2d361af393beb95c7006b1174b8dcba30e04b0a4758f7b",
+        "still.webp": "b74aeb3499b3e3da21d72c757bb4bd74c328c6bb47bce1bad1e015466298b5af",
+        "animated.avif": "849db47d248c3dacad478df83564a8f6e7ca7c9901f5970e876ecf1cd4ba3723",
+        "motion.json": "45fc8eac2de71aa4af9840647b6bcfce45874e6b1b55eac2f4914f6d47eaaea8",
+        "meta.json": "bd740e495b8dc24bfccbfed6d2995b58a83a5f0165657513cce8478332e1444f",
+        "reference.png": "777d9744d987e3afda2d361af393beb95c7006b1174b8dcba30e04b0a4758f7b"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 22532
+    },
+    {
       "id": "rice-paper",
       "name": "rice paper",
       "category": "meals",
@@ -20920,6 +22300,75 @@
       "animationBytes": 34564
     },
     {
+      "id": "rope",
+      "name": "rope",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "rope"
+        },
+        "vi": {
+          "text": "sợi dây thừng"
+        },
+        "zh-Hans": {
+          "text": "绳子",
+          "reading": "shéng zi"
+        },
+        "ja": {
+          "text": "ロープ",
+          "reading": "rōpu"
+        },
+        "ko": {
+          "text": "밧줄",
+          "reading": "batjul"
+        },
+        "es": {
+          "text": "cuerda"
+        },
+        "fr": {
+          "text": "corde"
+        },
+        "de": {
+          "text": "Seil"
+        },
+        "id": {
+          "text": "tali tambang"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/rope/source.png",
+        "still.png": "assets/rope/still.png",
+        "still.webp": "assets/rope/still.webp",
+        "animated.avif": "assets/rope/animated.avif",
+        "motion.json": "assets/rope/motion.json",
+        "meta.json": "assets/rope/meta.json",
+        "reference.png": "assets/rope/reference.png"
+      },
+      "sha256": {
+        "source.png": "85c9df9931b70bb6b1ab94fbb8dee0660699c6531f3cea40c8b693d75ca92e33",
+        "still.png": "28c31a52f6df2eec4427f556f7f4bc4d1779030512d76d433eb0b16940db2b5a",
+        "still.webp": "a66be4073d50ff08eaeb40f69febc6de2bbafc26e546c4c97941169ec42b0efd",
+        "animated.avif": "291fb29150944b233731f599362f58991dfae5dad21d6d53398b5f6eb375a988",
+        "motion.json": "b173685513771df2f4396d4d87dc4f11bcc7c5fdce8d4d2174de1438b436bf31",
+        "meta.json": "60156a8b10c0e80372ed565054628ce7e00e976dc555b15d4f1d9c51eb36eae2",
+        "reference.png": "28c31a52f6df2eec4427f556f7f4bc4d1779030512d76d433eb0b16940db2b5a"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 59469
+    },
+    {
       "id": "rubber-duck",
       "name": "rubber duck",
       "category": "home",
@@ -21053,6 +22502,75 @@
       "fps": 12,
       "duration": 3,
       "animationBytes": 25372
+    },
+    {
+      "id": "sand-mold",
+      "name": "sand mold",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "sand mold"
+        },
+        "vi": {
+          "text": "khuôn chơi cát"
+        },
+        "zh-Hans": {
+          "text": "沙模",
+          "reading": "shā mó"
+        },
+        "ja": {
+          "text": "砂型",
+          "reading": "sunagata"
+        },
+        "ko": {
+          "text": "모래 틀",
+          "reading": "morae teul"
+        },
+        "es": {
+          "text": "molde de arena"
+        },
+        "fr": {
+          "text": "moule à sable"
+        },
+        "de": {
+          "text": "Sandförmchen"
+        },
+        "id": {
+          "text": "cetakan pasir"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sand-mold/source.png",
+        "still.png": "assets/sand-mold/still.png",
+        "still.webp": "assets/sand-mold/still.webp",
+        "animated.avif": "assets/sand-mold/animated.avif",
+        "motion.json": "assets/sand-mold/motion.json",
+        "meta.json": "assets/sand-mold/meta.json",
+        "reference.png": "assets/sand-mold/reference.png"
+      },
+      "sha256": {
+        "source.png": "9bcb3f48040da29b2469c5effb137f60b6c1f1c89996d058ed54671f3da08eb9",
+        "still.png": "b5f3afd3148103ceaf2c5c929a6e790efd9a8c782d4ee38d6ca91dbb5b2500ef",
+        "still.webp": "8d31f9f84a4fb0cfa6b632ddc558212afcb28eefefadbf965e46dd97a1d9c6e4",
+        "animated.avif": "64501f02095a66838b3b4283833796c4a2eb610874a34e5aebc4563687cb945d",
+        "motion.json": "97c4eaf4d6c86abdf9090ace198f3f195452a120da0ae935de894304676e56b7",
+        "meta.json": "68dc409afb47df3e1fbb3fec65a7d032d7d1d116c20cf219fa5f360a40bd2dbd",
+        "reference.png": "b5f3afd3148103ceaf2c5c929a6e790efd9a8c782d4ee38d6ca91dbb5b2500ef"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 53399
     },
     {
       "id": "sand-shovel",
@@ -22139,6 +23657,75 @@
       "animationBytes": 54596
     },
     {
+      "id": "shape-sorter",
+      "name": "shape sorter",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "shape sorter"
+        },
+        "vi": {
+          "text": "hộp thả hình"
+        },
+        "zh-Hans": {
+          "text": "形状配对盒",
+          "reading": "xíng zhuàng pèi duì hé"
+        },
+        "ja": {
+          "text": "形合わせボックス",
+          "reading": "katachi awase bokkusu"
+        },
+        "ko": {
+          "text": "도형 끼우기 상자",
+          "reading": "dohyeong kkiugi sangja"
+        },
+        "es": {
+          "text": "caja de encajar formas"
+        },
+        "fr": {
+          "text": "boîte à formes"
+        },
+        "de": {
+          "text": "Formensteckspiel"
+        },
+        "id": {
+          "text": "kotak sortir bentuk"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/shape-sorter/source.png",
+        "still.png": "assets/shape-sorter/still.png",
+        "still.webp": "assets/shape-sorter/still.webp",
+        "animated.avif": "assets/shape-sorter/animated.avif",
+        "motion.json": "assets/shape-sorter/motion.json",
+        "meta.json": "assets/shape-sorter/meta.json",
+        "reference.png": "assets/shape-sorter/reference.png"
+      },
+      "sha256": {
+        "source.png": "82084fa464b9b242a61313732558a5a969e08c6b6c0060b3778b7ef538eaf102",
+        "still.png": "ef0d685389c6ae6392ef90cb9b8379fd2ab1b235c29d4cf29920876a70367f57",
+        "still.webp": "13b68219ad2a312eaa537888c8b396ba3249830d6b13c5c017324e6243314604",
+        "animated.avif": "58bc1ed11f0b10606cc8c68eec86a5ae370b38285f3d73c791227c41a17be832",
+        "motion.json": "b57740b6b799b4548f52db198bb46ddbbf57163e51f329d27522a9f46dd4e630",
+        "meta.json": "49ec4ff1de7e253115c0fa1093ae99936d22fe0a3f4fd03abd51bee150c8442c",
+        "reference.png": "ef0d685389c6ae6392ef90cb9b8379fd2ab1b235c29d4cf29920876a70367f57"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 50106
+    },
+    {
       "id": "shirt",
       "name": "shirt",
       "category": "clothing",
@@ -22474,6 +24061,75 @@
       "animationBytes": 19168
     },
     {
+      "id": "slinky",
+      "name": "slinky",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "slinky"
+        },
+        "vi": {
+          "text": "lò xo đồ chơi"
+        },
+        "zh-Hans": {
+          "text": "弹簧玩具",
+          "reading": "tán huáng wán jù"
+        },
+        "ja": {
+          "text": "ばねのおもちゃ",
+          "reading": "bane no omocha"
+        },
+        "ko": {
+          "text": "스프링 장난감",
+          "reading": "seupeuring jangnangam"
+        },
+        "es": {
+          "text": "muelle de juguete"
+        },
+        "fr": {
+          "text": "ressort de jeu"
+        },
+        "de": {
+          "text": "Spielzeugspirale"
+        },
+        "id": {
+          "text": "mainan pegas"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/slinky/source.png",
+        "still.png": "assets/slinky/still.png",
+        "still.webp": "assets/slinky/still.webp",
+        "animated.avif": "assets/slinky/animated.avif",
+        "motion.json": "assets/slinky/motion.json",
+        "meta.json": "assets/slinky/meta.json",
+        "reference.png": "assets/slinky/reference.png"
+      },
+      "sha256": {
+        "source.png": "1e88bd7a91bc5dcd25d33c5816d9a06c22450a0a4054dbb4caa2f297b6801e28",
+        "still.png": "2339c2a87448158a979fa6a267dad7570bc2096b841ff4ba8a8cf64225b4caf3",
+        "still.webp": "4a4db0c6ba51294bfe8778ce7a2c40eba32043cebb29629d75f695f0214dd3f3",
+        "animated.avif": "d6ca815c26be5cdb1d246bb9c33ec55441fedf83020c4873f19ca11a5a7da8a1",
+        "motion.json": "d264e91a1680201d2abb86e23234c8eb3f85b0c2417f7576a8a782569d469020",
+        "meta.json": "d8ea922a05b0d6b959bea59ad5647dce21a82968ae82308cf3e905606c6a4905",
+        "reference.png": "2339c2a87448158a979fa6a267dad7570bc2096b841ff4ba8a8cf64225b4caf3"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 48719
+    },
+    {
       "id": "smock",
       "name": "smock",
       "category": "clothing",
@@ -22738,6 +24394,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 23783
+    },
+    {
+      "id": "snow-globe",
+      "name": "snow globe",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "snow globe"
+        },
+        "vi": {
+          "text": "quả cầu tuyết"
+        },
+        "zh-Hans": {
+          "text": "雪景球",
+          "reading": "xuě jǐng qiú"
+        },
+        "ja": {
+          "text": "スノードーム",
+          "reading": "sunō dōmu"
+        },
+        "ko": {
+          "text": "스노 글로브",
+          "reading": "seuno geullobeu"
+        },
+        "es": {
+          "text": "bola de nieve"
+        },
+        "fr": {
+          "text": "boule à neige"
+        },
+        "de": {
+          "text": "Schneekugel"
+        },
+        "id": {
+          "text": "bola salju hias"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/snow-globe/source.png",
+        "still.png": "assets/snow-globe/still.png",
+        "still.webp": "assets/snow-globe/still.webp",
+        "animated.avif": "assets/snow-globe/animated.avif",
+        "motion.json": "assets/snow-globe/motion.json",
+        "meta.json": "assets/snow-globe/meta.json",
+        "reference.png": "assets/snow-globe/reference.png"
+      },
+      "sha256": {
+        "source.png": "4495a9c53bfa1567919221fc7ccaa39ac4b4df821e3364c12a1e6de3fae099ee",
+        "still.png": "940092081899dfffe878d32c9c25c10211348feb2c95ae97eb2c3d73a53deba2",
+        "still.webp": "c2b7e0c969866ccc20b0e146a648a3e4963d5c6bc360d5f009ed5d09989ffca3",
+        "animated.avif": "63d6e1217806db07006e77e9e6f85d11d50a6defa815d0a08bb4826ae9415938",
+        "motion.json": "82991008ef01ae83194008840e1680d065c89077e3d0318832fc44eefd2e350f",
+        "meta.json": "f9c08ab34b2b4c2afda70ecdb6df0bbf2fd1f6c2e4445aa4aa0a918b30001b6d",
+        "reference.png": "940092081899dfffe878d32c9c25c10211348feb2c95ae97eb2c3d73a53deba2"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58714
     },
     {
       "id": "snow-leopard",
@@ -23744,6 +25469,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 34208
+    },
+    {
+      "id": "stacking-rings",
+      "name": "stacking rings",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "stacking rings"
+        },
+        "vi": {
+          "text": "vòng xếp chồng"
+        },
+        "zh-Hans": {
+          "text": "套圈玩具",
+          "reading": "tào quān wán jù"
+        },
+        "ja": {
+          "text": "輪積み",
+          "reading": "wazumi"
+        },
+        "ko": {
+          "text": "링 쌓기 장난감",
+          "reading": "ring ssaki jangnangam"
+        },
+        "es": {
+          "text": "anillos apilables"
+        },
+        "fr": {
+          "text": "anneaux à empiler"
+        },
+        "de": {
+          "text": "Stapelringe"
+        },
+        "id": {
+          "text": "mainan susun cincin"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/stacking-rings/source.png",
+        "still.png": "assets/stacking-rings/still.png",
+        "still.webp": "assets/stacking-rings/still.webp",
+        "animated.avif": "assets/stacking-rings/animated.avif",
+        "motion.json": "assets/stacking-rings/motion.json",
+        "meta.json": "assets/stacking-rings/meta.json",
+        "reference.png": "assets/stacking-rings/reference.png"
+      },
+      "sha256": {
+        "source.png": "0d0b3fa512708d58e5bc7832618b31dd2bd7e5b29d61449a771d163f40917234",
+        "still.png": "89bb7dc560fa2c355378d3e4ae83fe5713449a44d7adb8d8b4b4afcc5bcea5ac",
+        "still.webp": "a8facc6b0b5c45470703db7e912d32dd6fd445174607fc3960f260ece185be33",
+        "animated.avif": "30ceb0d640ce416617aded0af1728e7ba65457f1092bea0b1f1fd10cef0bab07",
+        "motion.json": "d1584a96288e4c99d6d0795b521d6046fab63e41091e7ed2c28df1966a9f5d30",
+        "meta.json": "860644e1ba653f4156d113d37b2e6ab0c636b0392f88469c7b2b030719a3b2cf",
+        "reference.png": "89bb7dc560fa2c355378d3e4ae83fe5713449a44d7adb8d8b4b4afcc5bcea5ac"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 59759
     },
     {
       "id": "stairs",
@@ -24889,6 +26683,75 @@
       "animationBytes": 34435
     },
     {
+      "id": "supermarket",
+      "name": "supermarket",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "supermarket"
+        },
+        "vi": {
+          "text": "siêu thị"
+        },
+        "zh-Hans": {
+          "text": "超市",
+          "reading": "chāo shì"
+        },
+        "ja": {
+          "text": "スーパー",
+          "reading": "sūpā"
+        },
+        "ko": {
+          "text": "슈퍼마켓",
+          "reading": "syupeomaket"
+        },
+        "es": {
+          "text": "supermercado"
+        },
+        "fr": {
+          "text": "supermarché"
+        },
+        "de": {
+          "text": "Supermarkt"
+        },
+        "id": {
+          "text": "supermarket"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/supermarket/source.png",
+        "still.png": "assets/supermarket/still.png",
+        "still.webp": "assets/supermarket/still.webp",
+        "animated.avif": "assets/supermarket/animated.avif",
+        "motion.json": "assets/supermarket/motion.json",
+        "meta.json": "assets/supermarket/meta.json",
+        "reference.png": "assets/supermarket/reference.png"
+      },
+      "sha256": {
+        "source.png": "1168de2c050e1ed3123da4691ae8bd119023f8ca4bdecc807f664ced36cf1d60",
+        "still.png": "16c47ac045bf85d925341a9dc57f26305ccf069fa5db552e3b653356098efdf5",
+        "still.webp": "08567adcb62d0e253775d976a619cf3fc0ca637062c524dbfa72b86c618db577",
+        "animated.avif": "cf0da21d6ebaafa333ed8681013fdb735126e0ed9c493048f9d92c6fa264a1bf",
+        "motion.json": "85d3411bf176f355eb00b871d69ab2f9b23357928f591bd358d9ad5ca8e16a14",
+        "meta.json": "114838b4086e97ed82d2354a518f3abf975d4d904b06a1ecbcf510edd70885bb",
+        "reference.png": "16c47ac045bf85d925341a9dc57f26305ccf069fa5db552e3b653356098efdf5"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 45039
+    },
+    {
       "id": "swallow",
       "name": "swallow",
       "category": "wildlife",
@@ -25425,6 +27288,75 @@
       "fps": 12,
       "duration": 3,
       "animationBytes": 34950
+    },
+    {
+      "id": "teether",
+      "name": "teether",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "teether"
+        },
+        "vi": {
+          "text": "vòng ngậm nướu"
+        },
+        "zh-Hans": {
+          "text": "牙胶",
+          "reading": "yá jiāo"
+        },
+        "ja": {
+          "text": "歯がため",
+          "reading": "hagatame"
+        },
+        "ko": {
+          "text": "치발기",
+          "reading": "chibalgi"
+        },
+        "es": {
+          "text": "mordedor"
+        },
+        "fr": {
+          "text": "anneau de dentition"
+        },
+        "de": {
+          "text": "Beißring"
+        },
+        "id": {
+          "text": "mainan gigitan bayi"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/teether/source.png",
+        "still.png": "assets/teether/still.png",
+        "still.webp": "assets/teether/still.webp",
+        "animated.avif": "assets/teether/animated.avif",
+        "motion.json": "assets/teether/motion.json",
+        "meta.json": "assets/teether/meta.json",
+        "reference.png": "assets/teether/reference.png"
+      },
+      "sha256": {
+        "source.png": "c8785598b95eaae5fd6cd2c03f12a79f06b00f30a9985ae2416558b89af59ed5",
+        "still.png": "1771d51b9f3906d5db7569612d3dbe8cb76d2ac68029b2449de79b0d21c0ea69",
+        "still.webp": "c166fff527421a4ccdd4e363c9d5cbd362774ed54fc12e58bbb82a06c9b32371",
+        "animated.avif": "5ac2bc8210655a052858284b8b1a7b29b83ee008414eec74c448d6a4fc4e9d35",
+        "motion.json": "21cad74523f230a94433d3315a7766079b74a6112d5833199658a39d70224128",
+        "meta.json": "8719fa7cc90972d5c90a0d380d2eba37e57da2439b9513632b450e4f0799bb5d",
+        "reference.png": "1771d51b9f3906d5db7569612d3dbe8cb76d2ac68029b2449de79b0d21c0ea69"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 52918
     },
     {
       "id": "tern",
@@ -26371,6 +28303,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 51582
+    },
+    {
+      "id": "toy-shop",
+      "name": "toy shop",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "toy shop"
+        },
+        "vi": {
+          "text": "cửa hàng đồ chơi"
+        },
+        "zh-Hans": {
+          "text": "玩具店",
+          "reading": "wán jù diàn"
+        },
+        "ja": {
+          "text": "おもちゃ屋",
+          "reading": "omocha ya"
+        },
+        "ko": {
+          "text": "장난감 가게",
+          "reading": "jangnangam gage"
+        },
+        "es": {
+          "text": "juguetería"
+        },
+        "fr": {
+          "text": "magasin de jouets"
+        },
+        "de": {
+          "text": "Spielzeugladen"
+        },
+        "id": {
+          "text": "toko mainan"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/toy-shop/source.png",
+        "still.png": "assets/toy-shop/still.png",
+        "still.webp": "assets/toy-shop/still.webp",
+        "animated.avif": "assets/toy-shop/animated.avif",
+        "motion.json": "assets/toy-shop/motion.json",
+        "meta.json": "assets/toy-shop/meta.json",
+        "reference.png": "assets/toy-shop/reference.png"
+      },
+      "sha256": {
+        "source.png": "637e59213ba08ef268197111f0193ca9989190f375756a5b8d6423b65e0eb5c2",
+        "still.png": "5d08b44592f9a412be141607c295f20ca0d14e09f0a21d9d6d09fe0dcb86b68e",
+        "still.webp": "a3c3b49005c4d6e191f606c74381852d6203e007bc85f17911b5fb2c2a20903c",
+        "animated.avif": "818201d18a9bc36def7b03f70bf08d3173f6aae580171b9c93b7a75ca4921070",
+        "motion.json": "2c82c0918f90126ccc1672d759ec22a7089631b9e6c37d0c7ecbae20f515b81a",
+        "meta.json": "5d7aca4ae0bc3cd3d254e8d150f2431294d2578420411a7ab71e776f9f364d1c",
+        "reference.png": "5d08b44592f9a412be141607c295f20ca0d14e09f0a21d9d6d09fe0dcb86b68e"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 25156
     },
     {
       "id": "tracksuit",
@@ -27778,6 +29779,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 44675
+    },
+    {
+      "id": "water-tap",
+      "name": "water tap",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "water tap"
+        },
+        "vi": {
+          "text": "vòi nước"
+        },
+        "zh-Hans": {
+          "text": "水龙头",
+          "reading": "shuǐ lóng tóu"
+        },
+        "ja": {
+          "text": "蛇口",
+          "reading": "jaguchi"
+        },
+        "ko": {
+          "text": "수도꼭지",
+          "reading": "sudokkokji"
+        },
+        "es": {
+          "text": "grifo"
+        },
+        "fr": {
+          "text": "robinet"
+        },
+        "de": {
+          "text": "Wasserhahn"
+        },
+        "id": {
+          "text": "keran air"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/water-tap/source.png",
+        "still.png": "assets/water-tap/still.png",
+        "still.webp": "assets/water-tap/still.webp",
+        "animated.avif": "assets/water-tap/animated.avif",
+        "motion.json": "assets/water-tap/motion.json",
+        "meta.json": "assets/water-tap/meta.json",
+        "reference.png": "assets/water-tap/reference.png"
+      },
+      "sha256": {
+        "source.png": "8fa243110f89a63ab149227ad96293ec3628269239dbbc89ad16cb463656477e",
+        "still.png": "d855177f589ee6bb716a4a9f939530dfad879e094984adcd06239e40b2964669",
+        "still.webp": "521f09988576330c9f75ea8a8f74e87d4b6cc0ea99f60d3bee485ff5bec42e0e",
+        "animated.avif": "5001c9522ff07174874969beb30dfd1aacd14d002579b077869b7e771dbac67f",
+        "motion.json": "a7d331328260ac27a59910b40adddee8b842d790e0f0fb19734f69ef038e8449",
+        "meta.json": "12f1cdd7927a23740fc2aebac7426331171a2a6167c1274c410cf0d7e11d6714",
+        "reference.png": "d855177f589ee6bb716a4a9f939530dfad879e094984adcd06239e40b2964669"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 50147
     },
     {
       "id": "watercolor",

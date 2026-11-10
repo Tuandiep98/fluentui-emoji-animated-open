@@ -1,0 +1,46 @@
+{
+  "id": "bouncy-ball",
+  "name": "bouncy ball",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bouncy ball"
+    },
+    "vi": {
+      "text": "bóng nảy"
+    },
+    "zh-Hans": {
+      "text": "弹力球",
+      "reading": "tán lì qiú"
+    },
+    "ja": {
+      "text": "スーパーボール",
+      "reading": "sūpā bōru"
+    },
+    "ko": {
+      "text": "탱탱볼",
+      "reading": "taengtaengbol"
+    },
+    "es": {
+      "text": "pelota saltarina"
+    },
+    "fr": {
+      "text": "balle rebondissante"
+    },
+    "de": {
+      "text": "Flummi"
+    },
+    "id": {
+      "text": "bola karet pantul"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

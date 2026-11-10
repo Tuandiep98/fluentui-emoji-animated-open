@@ -1,0 +1,46 @@
+{
+  "id": "feather-duster",
+  "name": "feather duster",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "feather duster"
+    },
+    "vi": {
+      "text": "chổi lông"
+    },
+    "zh-Hans": {
+      "text": "鸡毛掸子",
+      "reading": "jī máo dǎn zi"
+    },
+    "ja": {
+      "text": "羽ぼうき",
+      "reading": "habōki"
+    },
+    "ko": {
+      "text": "깃털 먼지떨이",
+      "reading": "gitteol meonjitteori"
+    },
+    "es": {
+      "text": "plumero"
+    },
+    "fr": {
+      "text": "plumeau"
+    },
+    "de": {
+      "text": "Staubwedel"
+    },
+    "id": {
+      "text": "kemoceng"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

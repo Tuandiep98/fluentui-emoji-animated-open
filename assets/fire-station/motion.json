@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "071e9492e7ac5bbd7c36e402bfb8ec5288d5ec7fc37e479e4bf230e395819ac7",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A restrained complete-fire-station presentation tilt preserves the entire original silhouette, proportions, all windows, doors, pictograms and attachments. No warped architecture, separate parts or invented opening.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.35
+      ],
+      [
+        1.45,
+        0.12249999999999998
+      ],
+      [
+        2.1,
+        -0.1925
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "farm",
+  "name": "farm",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "farm"
+    },
+    "vi": {
+      "text": "nông trại"
+    },
+    "zh-Hans": {
+      "text": "农场",
+      "reading": "nóng chǎng"
+    },
+    "ja": {
+      "text": "農場",
+      "reading": "nōjō"
+    },
+    "ko": {
+      "text": "농장",
+      "reading": "nongjang"
+    },
+    "es": {
+      "text": "granja"
+    },
+    "fr": {
+      "text": "ferme"
+    },
+    "de": {
+      "text": "Bauernhof"
+    },
+    "id": {
+      "text": "peternakan"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "chain",
+  "name": "chain",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "chain"
+    },
+    "vi": {
+      "text": "dây xích"
+    },
+    "zh-Hans": {
+      "text": "链条",
+      "reading": "liàn tiáo"
+    },
+    "ja": {
+      "text": "鎖",
+      "reading": "kusari"
+    },
+    "ko": {
+      "text": "사슬",
+      "reading": "saseul"
+    },
+    "es": {
+      "text": "cadena"
+    },
+    "fr": {
+      "text": "chaîne"
+    },
+    "de": {
+      "text": "Kette"
+    },
+    "id": {
+      "text": "rantai"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

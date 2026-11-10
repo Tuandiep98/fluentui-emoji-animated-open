@@ -1,0 +1,46 @@
+{
+  "id": "library",
+  "name": "library",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "library"
+    },
+    "vi": {
+      "text": "thư viện"
+    },
+    "zh-Hans": {
+      "text": "图书馆",
+      "reading": "tú shū guǎn"
+    },
+    "ja": {
+      "text": "図書館",
+      "reading": "toshokan"
+    },
+    "ko": {
+      "text": "도서관",
+      "reading": "doseogwan"
+    },
+    "es": {
+      "text": "biblioteca"
+    },
+    "fr": {
+      "text": "bibliothèque"
+    },
+    "de": {
+      "text": "Bibliothek"
+    },
+    "id": {
+      "text": "perpustakaan"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

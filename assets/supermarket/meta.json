@@ -1,0 +1,46 @@
+{
+  "id": "supermarket",
+  "name": "supermarket",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "supermarket"
+    },
+    "vi": {
+      "text": "siêu thị"
+    },
+    "zh-Hans": {
+      "text": "超市",
+      "reading": "chāo shì"
+    },
+    "ja": {
+      "text": "スーパー",
+      "reading": "sūpā"
+    },
+    "ko": {
+      "text": "슈퍼마켓",
+      "reading": "syupeomaket"
+    },
+    "es": {
+      "text": "supermercado"
+    },
+    "fr": {
+      "text": "supermarché"
+    },
+    "de": {
+      "text": "Supermarkt"
+    },
+    "id": {
+      "text": "supermarket"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

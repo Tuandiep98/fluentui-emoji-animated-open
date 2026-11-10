@@ -1,0 +1,46 @@
+{
+  "id": "restaurant",
+  "name": "restaurant",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "restaurant"
+    },
+    "vi": {
+      "text": "nhà hàng"
+    },
+    "zh-Hans": {
+      "text": "餐厅",
+      "reading": "cān tīng"
+    },
+    "ja": {
+      "text": "レストラン",
+      "reading": "resutoran"
+    },
+    "ko": {
+      "text": "식당",
+      "reading": "sikdang"
+    },
+    "es": {
+      "text": "restaurante"
+    },
+    "fr": {
+      "text": "restaurant"
+    },
+    "de": {
+      "text": "Restaurant"
+    },
+    "id": {
+      "text": "restoran"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

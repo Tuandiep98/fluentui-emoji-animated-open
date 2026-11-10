@@ -1,0 +1,46 @@
+{
+  "id": "building-bricks",
+  "name": "building bricks",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "building bricks"
+    },
+    "vi": {
+      "text": "khối lắp ráp"
+    },
+    "zh-Hans": {
+      "text": "拼插积木",
+      "reading": "pīn chā jī mù"
+    },
+    "ja": {
+      "text": "ブロック",
+      "reading": "burokku"
+    },
+    "ko": {
+      "text": "조립 블록",
+      "reading": "jorip beullok"
+    },
+    "es": {
+      "text": "bloques de construcción"
+    },
+    "fr": {
+      "text": "briques de construction"
+    },
+    "de": {
+      "text": "Klemmbausteine"
+    },
+    "id": {
+      "text": "balok susun"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

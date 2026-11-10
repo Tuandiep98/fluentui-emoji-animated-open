@@ -1,0 +1,46 @@
+{
+  "id": "water-tap",
+  "name": "water tap",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "water tap"
+    },
+    "vi": {
+      "text": "vòi nước"
+    },
+    "zh-Hans": {
+      "text": "水龙头",
+      "reading": "shuǐ lóng tóu"
+    },
+    "ja": {
+      "text": "蛇口",
+      "reading": "jaguchi"
+    },
+    "ko": {
+      "text": "수도꼭지",
+      "reading": "sudokkokji"
+    },
+    "es": {
+      "text": "grifo"
+    },
+    "fr": {
+      "text": "robinet"
+    },
+    "de": {
+      "text": "Wasserhahn"
+    },
+    "id": {
+      "text": "keran air"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

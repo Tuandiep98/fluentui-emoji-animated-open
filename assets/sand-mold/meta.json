@@ -1,0 +1,46 @@
+{
+  "id": "sand-mold",
+  "name": "sand mold",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "sand mold"
+    },
+    "vi": {
+      "text": "khuôn chơi cát"
+    },
+    "zh-Hans": {
+      "text": "沙模",
+      "reading": "shā mó"
+    },
+    "ja": {
+      "text": "砂型",
+      "reading": "sunagata"
+    },
+    "ko": {
+      "text": "모래 틀",
+      "reading": "morae teul"
+    },
+    "es": {
+      "text": "molde de arena"
+    },
+    "fr": {
+      "text": "moule à sable"
+    },
+    "de": {
+      "text": "Sandförmchen"
+    },
+    "id": {
+      "text": "cetakan pasir"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,135 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "87967e9f508c76d972a382a08ddfd80ff8750073a3a2908d8e5334c2da7424b0",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          121
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          121,
+          50,
+          135
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          206,
+          121,
+          50,
+          135
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "yellow-towel-sway",
+      "kind": "wave",
+      "center": [
+        96,
+        157
+      ],
+      "radius": [
+        46,
+        34
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "red-sock-sway",
+      "kind": "rotate",
+      "center": [
+        168,
+        157
+      ],
+      "radius": [
+        29,
+        34
+      ],
+      "amp": -5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.5,
+          0
+        ],
+        [
+          1.1,
+          -5
+        ],
+        [
+          1.5999999999999999,
+          1.75
+        ],
+        [
+          2.25,
+          -3.25
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        164,
+        121
+      ]
+    }
+  ],
+  "note": "Both posts, taut line and four clothespins stay pixel-exact. Only the original hanging towel and sock sway below their attached clips in staggered continuous fields."
+}

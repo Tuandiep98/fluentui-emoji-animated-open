@@ -1,0 +1,46 @@
+{
+  "id": "clothesline",
+  "name": "clothesline",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "clothesline"
+    },
+    "vi": {
+      "text": "dây phơi quần áo"
+    },
+    "zh-Hans": {
+      "text": "晾衣绳",
+      "reading": "liàng yī shéng"
+    },
+    "ja": {
+      "text": "物干しロープ",
+      "reading": "monohoshi rōpu"
+    },
+    "ko": {
+      "text": "빨랫줄",
+      "reading": "ppallaetjul"
+    },
+    "es": {
+      "text": "tendedero"
+    },
+    "fr": {
+      "text": "corde à linge"
+    },
+    "de": {
+      "text": "Wäscheleine"
+    },
+    "id": {
+      "text": "tali jemuran"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,103 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "eb2a15aae2a84e6f42e10cfb4d41ba97697b742dbee1859185551175b157665c",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [
+    {
+      "name": "soft-cotton-settle",
+      "kind": "press",
+      "center": [
+        127,
+        125
+      ],
+      "radius": [
+        107,
+        102
+      ],
+      "amp": 3.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.4
+        ],
+        [
+          1.4,
+          -1.19
+        ],
+        [
+          2.05,
+          2.21
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "surface-fiber-sway",
+      "kind": "wave",
+      "center": [
+        133,
+        117
+      ],
+      "radius": [
+        93,
+        95
+      ],
+      "amp": 2.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.44999999999999996,
+          0
+        ],
+        [
+          1.05,
+          2.4
+        ],
+        [
+          1.5499999999999998,
+          -0.84
+        ],
+        [
+          2.1999999999999997,
+          1.56
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The original cotton fibers gently settle in smooth continuous fields. Keep the single rounded cotton wad recognizable; no separate wisps, new texture or background."
+}

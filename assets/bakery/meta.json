@@ -1,0 +1,46 @@
+{
+  "id": "bakery",
+  "name": "bakery",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "bakery"
+    },
+    "vi": {
+      "text": "tiệm bánh"
+    },
+    "zh-Hans": {
+      "text": "面包店",
+      "reading": "miàn bāo diàn"
+    },
+    "ja": {
+      "text": "パン屋",
+      "reading": "pan ya"
+    },
+    "ko": {
+      "text": "빵집",
+      "reading": "ppangjip"
+    },
+    "es": {
+      "text": "panadería"
+    },
+    "fr": {
+      "text": "boulangerie"
+    },
+    "de": {
+      "text": "Bäckerei"
+    },
+    "id": {
+      "text": "toko roti"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

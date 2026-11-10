@@ -1,0 +1,46 @@
+{
+  "id": "snow-globe",
+  "name": "snow globe",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "snow globe"
+    },
+    "vi": {
+      "text": "quả cầu tuyết"
+    },
+    "zh-Hans": {
+      "text": "雪景球",
+      "reading": "xuě jǐng qiú"
+    },
+    "ja": {
+      "text": "スノードーム",
+      "reading": "sunō dōmu"
+    },
+    "ko": {
+      "text": "스노 글로브",
+      "reading": "seuno geullobeu"
+    },
+    "es": {
+      "text": "bola de nieve"
+    },
+    "fr": {
+      "text": "boule à neige"
+    },
+    "de": {
+      "text": "Schneekugel"
+    },
+    "id": {
+      "text": "bola salju hias"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

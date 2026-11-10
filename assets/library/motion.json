@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "e6f0c0046d06f03b0dd9abada7aa99c4bf189c97b2e1febd00ad4f4bd4a26957",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A restrained complete-library presentation tilt preserves the entire original silhouette, proportions, all windows, doors, pictograms and attachments. No warped architecture, separate parts or invented opening.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0
+      ],
+      [
+        1,
+        0.35
+      ],
+      [
+        1.55,
+        -0.12249999999999998
+      ],
+      [
+        2.2,
+        0.1925
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

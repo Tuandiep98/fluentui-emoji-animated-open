@@ -1,0 +1,46 @@
+{
+  "id": "bubble-wand",
+  "name": "bubble wand",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bubble wand"
+    },
+    "vi": {
+      "text": "que thổi bong bóng"
+    },
+    "zh-Hans": {
+      "text": "泡泡棒",
+      "reading": "pào pao bàng"
+    },
+    "ja": {
+      "text": "シャボン玉の輪",
+      "reading": "shabondama no wa"
+    },
+    "ko": {
+      "text": "비눗방울 막대",
+      "reading": "binutbangul makdae"
+    },
+    "es": {
+      "text": "varita para pompas"
+    },
+    "fr": {
+      "text": "baguette à bulles"
+    },
+    "de": {
+      "text": "Seifenblasenstab"
+    },
+    "id": {
+      "text": "tongkat gelembung sabun"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "16c47ac045bf85d925341a9dc57f26305ccf069fa5db552e3b653356098efdf5",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A restrained complete-supermarket presentation tilt preserves the entire original silhouette, proportions, all windows, doors, pictograms and attachments. No warped architecture, separate parts or invented opening.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0
+      ],
+      [
+        1,
+        -0.35
+      ],
+      [
+        1.55,
+        0.12249999999999998
+      ],
+      [
+        2.2,
+        -0.1925
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

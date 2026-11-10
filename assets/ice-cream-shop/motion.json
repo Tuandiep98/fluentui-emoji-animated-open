@@ -1,0 +1,88 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "934efc57ebbb610b9d21b2ee4ce241b33ec3290ff55c0860b86886a169bcc0d8",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          136
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          174,
+          256,
+          82
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          170,
+          136,
+          86,
+          38
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "ice-cream-awning-hem",
+      "kind": "wave",
+      "center": [
+        101,
+        157
+      ],
+      "radius": [
+        67,
+        16
+      ],
+      "amp": 5.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.8
+        ],
+        [
+          1.4,
+          -2.0300000000000002
+        ],
+        [
+          2.05,
+          3.77
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The cone sign, roof, service counter and doorway are fixed. Only the lower original fabric awning hem has a small sideways flutter, staying connected above."
+}

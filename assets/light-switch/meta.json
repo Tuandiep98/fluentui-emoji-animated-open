@@ -1,0 +1,46 @@
+{
+  "id": "light-switch",
+  "name": "light switch",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "light switch"
+    },
+    "vi": {
+      "text": "công tắc đèn"
+    },
+    "zh-Hans": {
+      "text": "电灯开关",
+      "reading": "diàn dēng kāi guān"
+    },
+    "ja": {
+      "text": "電気のスイッチ",
+      "reading": "denki no suicchi"
+    },
+    "ko": {
+      "text": "전등 스위치",
+      "reading": "jeondeung seuwichi"
+    },
+    "es": {
+      "text": "interruptor de luz"
+    },
+    "fr": {
+      "text": "interrupteur"
+    },
+    "de": {
+      "text": "Lichtschalter"
+    },
+    "id": {
+      "text": "sakelar lampu"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "nail-clipper",
+  "name": "nail clipper",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "nail clipper"
+    },
+    "vi": {
+      "text": "bấm móng tay"
+    },
+    "zh-Hans": {
+      "text": "指甲剪",
+      "reading": "zhǐ jia jiǎn"
+    },
+    "ja": {
+      "text": "爪切り",
+      "reading": "tsumekiri"
+    },
+    "ko": {
+      "text": "손톱깎이",
+      "reading": "sontopkkakki"
+    },
+    "es": {
+      "text": "cortauñas"
+    },
+    "fr": {
+      "text": "coupe-ongles"
+    },
+    "de": {
+      "text": "Nagelknipser"
+    },
+    "id": {
+      "text": "gunting kuku"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

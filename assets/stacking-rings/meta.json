@@ -1,0 +1,46 @@
+{
+  "id": "stacking-rings",
+  "name": "stacking rings",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "stacking rings"
+    },
+    "vi": {
+      "text": "vòng xếp chồng"
+    },
+    "zh-Hans": {
+      "text": "套圈玩具",
+      "reading": "tào quān wán jù"
+    },
+    "ja": {
+      "text": "輪積み",
+      "reading": "wazumi"
+    },
+    "ko": {
+      "text": "링 쌓기 장난감",
+      "reading": "ring ssaki jangnangam"
+    },
+    "es": {
+      "text": "anillos apilables"
+    },
+    "fr": {
+      "text": "anneaux à empiler"
+    },
+    "de": {
+      "text": "Stapelringe"
+    },
+    "id": {
+      "text": "mainan susun cincin"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

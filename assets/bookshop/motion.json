@@ -1,0 +1,88 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "26215c6a968dedaed16c467e0865574322416a9ab8b5c20ada1489af8ca87e92",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          110
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          154,
+          256,
+          102
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          174,
+          110,
+          82,
+          44
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "striped-awning-hem-flutter",
+      "kind": "wave",
+      "center": [
+        98,
+        138
+      ],
+      "radius": [
+        70,
+        13
+      ],
+      "amp": 5.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.2
+        ],
+        [
+          1.4,
+          -1.8200000000000003
+        ],
+        [
+          2.05,
+          3.3800000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Roof, sign, door, books and architecture are pixel-exact. Only the lower original fabric awning hem flutters; its upper mounting remains fixed."
+}

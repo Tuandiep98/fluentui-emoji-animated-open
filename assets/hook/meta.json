@@ -1,0 +1,46 @@
+{
+  "id": "hook",
+  "name": "hook",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "hook"
+    },
+    "vi": {
+      "text": "móc treo"
+    },
+    "zh-Hans": {
+      "text": "挂钩",
+      "reading": "guà gōu"
+    },
+    "ja": {
+      "text": "フック",
+      "reading": "fukku"
+    },
+    "ko": {
+      "text": "걸이",
+      "reading": "geori"
+    },
+    "es": {
+      "text": "gancho"
+    },
+    "fr": {
+      "text": "crochet"
+    },
+    "de": {
+      "text": "Haken"
+    },
+    "id": {
+      "text": "kait"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

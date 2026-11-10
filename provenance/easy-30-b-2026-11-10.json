@@ -1,0 +1,43 @@
+{
+  "count": 30,
+  "ids": [
+    "building-bricks",
+    "teether",
+    "slinky",
+    "snow-globe",
+    "bouncy-ball",
+    "stacking-rings",
+    "nesting-cups",
+    "shape-sorter",
+    "bubble-wand",
+    "sand-mold",
+    "nail-clipper",
+    "cotton-ball",
+    "clothesline",
+    "feather-duster",
+    "bathroom-sink",
+    "rope",
+    "chain",
+    "hook",
+    "light-switch",
+    "water-tap",
+    "library",
+    "bookshop",
+    "bakery",
+    "supermarket",
+    "restaurant",
+    "ice-cream-shop",
+    "toy-shop",
+    "fire-station",
+    "police-station",
+    "farm"
+  ],
+  "license": "MIT",
+  "sourceBaseCommit": "8139737a868f11c051d5708757c5b0c0330b15af",
+  "sourceState": "reviewed working tree; per-file hashes are authoritative",
+  "categories": {
+    "home": 20,
+    "community": 10
+  },
+  "sourceCommit": "80527cc3fb10fdbd9819fc9e525cb32febdae321"
+}

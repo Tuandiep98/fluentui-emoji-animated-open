@@ -1,0 +1,14 @@
+{
+  "reviewedOn": "2026-11-10",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Checked nine-language terms and readings; inspected original normalized artwork and seven decoded AVIF samples (0,12,22,34,46,60,71) on light/dark backgrounds. Source-locked exact neutral, facing, object attachment, pins, loop, bounds, >=96% silhouette and deformation gates passed. Rigid objects remain intact; cotton fibers, hanging laundry, feather tips and shop awning hems use measured soft fields. AI contact-sheet review, not real-time playback of every icon.",
+  "hashes": {
+    "source.png": "5be3a68ab006b804d3bb40f20d213679b9a779324474785f9399b202296093cb",
+    "still.png": "fac3f4c01c3df33486655671e7c1914dcb62ab3584e4c3362aa0a6acb6c93717",
+    "still.webp": "dab64e4318519d5595acd077df4b85407c9585bfbc09b4296132e868c1ce0d09",
+    "animated.avif": "d6ea9461e79a64a5d5eb769a4e3e681770509e7b0ad79692523b41de4f33587b",
+    "motion.json": "2539a06105f9b1a5156f0f2b8d134e912995390a7090b162ee06384d35fa39ff",
+    "meta.json": "6c0c108ab0e6dedf16a9242ab7f16707d2d5a7e42dc3b2e143ea37dd43278784",
+    "reference.png": "fac3f4c01c3df33486655671e7c1914dcb62ab3584e4c3362aa0a6acb6c93717"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "bookshop",
+  "name": "bookshop",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "bookshop"
+    },
+    "vi": {
+      "text": "hiệu sách"
+    },
+    "zh-Hans": {
+      "text": "书店",
+      "reading": "shū diàn"
+    },
+    "ja": {
+      "text": "本屋",
+      "reading": "honya"
+    },
+    "ko": {
+      "text": "서점",
+      "reading": "seojeom"
+    },
+    "es": {
+      "text": "librería"
+    },
+    "fr": {
+      "text": "librairie"
+    },
+    "de": {
+      "text": "Buchhandlung"
+    },
+    "id": {
+      "text": "toko buku"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

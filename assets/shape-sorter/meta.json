@@ -1,0 +1,46 @@
+{
+  "id": "shape-sorter",
+  "name": "shape sorter",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "shape sorter"
+    },
+    "vi": {
+      "text": "hộp thả hình"
+    },
+    "zh-Hans": {
+      "text": "形状配对盒",
+      "reading": "xíng zhuàng pèi duì hé"
+    },
+    "ja": {
+      "text": "形合わせボックス",
+      "reading": "katachi awase bokkusu"
+    },
+    "ko": {
+      "text": "도형 끼우기 상자",
+      "reading": "dohyeong kkiugi sangja"
+    },
+    "es": {
+      "text": "caja de encajar formas"
+    },
+    "fr": {
+      "text": "boîte à formes"
+    },
+    "de": {
+      "text": "Formensteckspiel"
+    },
+    "id": {
+      "text": "kotak sortir bentuk"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

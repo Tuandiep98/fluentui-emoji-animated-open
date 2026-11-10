@@ -1,0 +1,88 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "b5ac8fec495a321264b5d55d654a348d64d505a3b543fbaa1c9928b98e496662",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          121
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          160,
+          256,
+          96
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          170,
+          121,
+          86,
+          39
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "bread-shop-fabric-hem",
+      "kind": "wave",
+      "center": [
+        96,
+        145
+      ],
+      "radius": [
+        65,
+        14
+      ],
+      "amp": 5.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.8
+        ],
+        [
+          1.4,
+          -2.0300000000000002
+        ],
+        [
+          2.05,
+          3.77
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The bakery roof, croissant pictogram, door and bread display stay pixel-exact. Only the original striped fabric awning hem has a small lateral flutter below its fixed mounting."
+}

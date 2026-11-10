@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "7955bd7d48e548eab6be8dcae4ceb7f6ede312bfbed6fc8727ac23a5a0591631",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The solid rubber ball bobs and settles as one intact sphere. Preserve its round silhouette and colored stripe; no invented squash or floor.",
+  "tracks": {
+    "y": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -1.4
+      ],
+      [
+        1.45,
+        0.48999999999999994
+      ],
+      [
+        2.1,
+        -0.77
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0
+      ],
+      [
+        1,
+        0.45
+      ],
+      [
+        1.55,
+        -0.1575
+      ],
+      [
+        2.2,
+        0.24750000000000003
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

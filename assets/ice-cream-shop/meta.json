@@ -1,0 +1,46 @@
+{
+  "id": "ice-cream-shop",
+  "name": "ice cream shop",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "ice cream shop"
+    },
+    "vi": {
+      "text": "tiệm kem"
+    },
+    "zh-Hans": {
+      "text": "冰淇淋店",
+      "reading": "bīng qí lín diàn"
+    },
+    "ja": {
+      "text": "アイスクリーム屋",
+      "reading": "aisu kurīmu ya"
+    },
+    "ko": {
+      "text": "아이스크림 가게",
+      "reading": "aiseukeurim gage"
+    },
+    "es": {
+      "text": "heladería"
+    },
+    "fr": {
+      "text": "boutique de glaces"
+    },
+    "de": {
+      "text": "Eisdiele"
+    },
+    "id": {
+      "text": "toko es krim"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

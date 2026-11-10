@@ -1,0 +1,88 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "777d9744d987e3afda2d361af393beb95c7006b1174b8dcba30e04b0a4758f7b",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          136
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          166,
+          256,
+          90
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          136,
+          110,
+          30
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "dining-awning-hem",
+      "kind": "press",
+      "center": [
+        161,
+        151
+      ],
+      "radius": [
+        48,
+        14
+      ],
+      "amp": 2.7,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          2.7
+        ],
+        [
+          1.4,
+          -0.9450000000000001
+        ],
+        [
+          2.05,
+          1.7550000000000001
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Restaurant architecture, plate-and-fork pictogram, door and dining table remain pixel-exact. Only the attached red awning hem gently flutters."
+}

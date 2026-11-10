@@ -1,0 +1,46 @@
+{
+  "id": "rope",
+  "name": "rope",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "rope"
+    },
+    "vi": {
+      "text": "sợi dây thừng"
+    },
+    "zh-Hans": {
+      "text": "绳子",
+      "reading": "shéng zi"
+    },
+    "ja": {
+      "text": "ロープ",
+      "reading": "rōpu"
+    },
+    "ko": {
+      "text": "밧줄",
+      "reading": "batjul"
+    },
+    "es": {
+      "text": "cuerda"
+    },
+    "fr": {
+      "text": "corde"
+    },
+    "de": {
+      "text": "Seil"
+    },
+    "id": {
+      "text": "tali tambang"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "nesting-cups",
+  "name": "nesting cups",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "nesting cups"
+    },
+    "vi": {
+      "text": "cốc lồng nhau"
+    },
+    "zh-Hans": {
+      "text": "叠叠杯",
+      "reading": "dié dié bēi"
+    },
+    "ja": {
+      "text": "重ねカップ",
+      "reading": "kasane kappu"
+    },
+    "ko": {
+      "text": "컵 쌓기 장난감",
+      "reading": "keop ssaki jangnangam"
+    },
+    "es": {
+      "text": "vasos encajables"
+    },
+    "fr": {
+      "text": "gobelets gigognes"
+    },
+    "de": {
+      "text": "Stapelbecher"
+    },
+    "id": {
+      "text": "cangkir susun"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

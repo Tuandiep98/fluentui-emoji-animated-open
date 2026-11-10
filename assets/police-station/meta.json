@@ -1,0 +1,46 @@
+{
+  "id": "police-station",
+  "name": "police station",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "police station"
+    },
+    "vi": {
+      "text": "đồn cảnh sát"
+    },
+    "zh-Hans": {
+      "text": "警察局",
+      "reading": "jǐng chá jú"
+    },
+    "ja": {
+      "text": "警察署",
+      "reading": "keisatsusho"
+    },
+    "ko": {
+      "text": "경찰서",
+      "reading": "gyeongchalseo"
+    },
+    "es": {
+      "text": "comisaría"
+    },
+    "fr": {
+      "text": "commissariat"
+    },
+    "de": {
+      "text": "Polizeiwache"
+    },
+    "id": {
+      "text": "kantor polisi"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

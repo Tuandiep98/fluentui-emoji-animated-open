@@ -1,0 +1,46 @@
+{
+  "id": "teether",
+  "name": "teether",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "teether"
+    },
+    "vi": {
+      "text": "vòng ngậm nướu"
+    },
+    "zh-Hans": {
+      "text": "牙胶",
+      "reading": "yá jiāo"
+    },
+    "ja": {
+      "text": "歯がため",
+      "reading": "hagatame"
+    },
+    "ko": {
+      "text": "치발기",
+      "reading": "chibalgi"
+    },
+    "es": {
+      "text": "mordedor"
+    },
+    "fr": {
+      "text": "anneau de dentition"
+    },
+    "de": {
+      "text": "Beißring"
+    },
+    "id": {
+      "text": "mainan gigitan bayi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

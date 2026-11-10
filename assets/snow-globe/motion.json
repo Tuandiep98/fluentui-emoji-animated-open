@@ -1,0 +1,52 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "940092081899dfffe878d32c9c25c10211348feb2c95ae97eb2c3d73a53deba2",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A gentle whole-globe shake keeps dome, tree and base intact. No invented particles, false dome deformation or detached base.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.3,
+        0
+      ],
+      [
+        0.75,
+        -0.6
+      ],
+      [
+        1.1,
+        0.25
+      ],
+      [
+        1.5,
+        -0.4
+      ],
+      [
+        2,
+        0.2
+      ],
+      [
+        2.7,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

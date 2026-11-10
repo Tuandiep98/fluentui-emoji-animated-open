@@ -1,0 +1,46 @@
+{
+  "id": "cotton-ball",
+  "name": "cotton ball",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "cotton ball"
+    },
+    "vi": {
+      "text": "viên bông"
+    },
+    "zh-Hans": {
+      "text": "棉球",
+      "reading": "mián qiú"
+    },
+    "ja": {
+      "text": "コットンボール",
+      "reading": "kotton bōru"
+    },
+    "ko": {
+      "text": "솜뭉치",
+      "reading": "sommungchi"
+    },
+    "es": {
+      "text": "bola de algodón"
+    },
+    "fr": {
+      "text": "boule de coton"
+    },
+    "de": {
+      "text": "Wattebausch"
+    },
+    "id": {
+      "text": "bola kapas"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

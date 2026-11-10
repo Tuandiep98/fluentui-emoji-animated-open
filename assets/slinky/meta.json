@@ -1,0 +1,46 @@
+{
+  "id": "slinky",
+  "name": "slinky",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "slinky"
+    },
+    "vi": {
+      "text": "lò xo đồ chơi"
+    },
+    "zh-Hans": {
+      "text": "弹簧玩具",
+      "reading": "tán huáng wán jù"
+    },
+    "ja": {
+      "text": "ばねのおもちゃ",
+      "reading": "bane no omocha"
+    },
+    "ko": {
+      "text": "스프링 장난감",
+      "reading": "seupeuring jangnangam"
+    },
+    "es": {
+      "text": "muelle de juguete"
+    },
+    "fr": {
+      "text": "ressort de jeu"
+    },
+    "de": {
+      "text": "Spielzeugspirale"
+    },
+    "id": {
+      "text": "mainan pegas"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

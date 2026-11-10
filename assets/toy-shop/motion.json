@@ -1,0 +1,79 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "5d08b44592f9a412be141607c295f20ca0d14e09f0a21d9d6d09fe0dcb86b68e",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, assembled geometry and attachments. Never mirror or reassemble parts.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          121
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          152,
+          256,
+          104
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "toy-shop-striped-hem",
+      "kind": "wave",
+      "center": [
+        126,
+        139
+      ],
+      "radius": [
+        90,
+        11
+      ],
+      "amp": 4.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.8
+        ],
+        [
+          1.4,
+          -1.68
+        ],
+        [
+          2.05,
+          3.12
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The roof, block pictogram, teddy display, door and all architecture stay pixel-exact. Only the original striped fabric awning hem gently flutters below its fixed mounting."
+}

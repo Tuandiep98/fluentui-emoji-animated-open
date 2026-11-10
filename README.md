@@ -27,11 +27,11 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**430 emoji · 9 categories**
+**460 emoji · 10 categories**
 
 | Category | Emoji |
 | --- | ---: |
-| Home | 85 |
+| Home | 105 |
 | Kitchen | 50 |
 | Garden | 50 |
 | Fruit & vegetables | 50 |
@@ -40,7 +40,8 @@ Search names and translations in nine languages, filter categories, preview moti
 | Clothing | 30 |
 | School & art | 20 |
 | Vehicles | 5 |
-| **Total** | **430** |
+| Places & community | 10 |
+| **Total** | **460** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -259,3 +260,26 @@ hashes. The rope's rejected first draft included a person: the recorded
 correction removed that person before freezing the approved object-only art.
 Use the existing scaffold and `animate` / `review` / `approve` commands to
 contribute more familiar words and grow this open collection with AI assistance.
+
+## 30 more easy words: toys, household objects and places — 2026-11-10
+
+[Preview: 30 new easy words, original beside animation](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/easy30b/).
+
+10 familiar toys, 10 household objects and 10 everyday places, with nine-language
+metadata. Easy words come first. The new `community` category, filters and README
+counts update through `npm run catalog` as contributions arrive.
+
+Original artwork is frozen before animation. Cotton fibers, laundry, feather
+tips and attached awning hems use measured continuous fields. Rigid objects
+keep their complete shape and joins. No mirroring or reassembly. Exact neutral
+pixels, fixed anchors, facing, loop, bounds, deformation and at least 96%
+silhouette overlap pass checks. Seven decoded samples per icon were inspected
+on light/dark backgrounds; this is not real-time playback review of every icon.
+All loops are 3 seconds at 24fps, each at most 60KiB.
+
+Each `assets/<id>/` includes the transparent MIT master, immutable reference,
+PNG/WebP stills, AVIF, recipe, translations, exact prompt and review hashes.
+The bouncy ball's first draft had an unwanted external color halo; its recorded
+AI correction removed that halo before the approved reference was frozen.
+Ask AI to follow this structure and contribute more familiar emoji with the
+existing scaffold, animate, review and approve commands.

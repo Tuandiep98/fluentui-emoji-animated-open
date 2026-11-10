@@ -1,0 +1,46 @@
+{
+  "id": "fire-station",
+  "name": "fire station",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "fire station"
+    },
+    "vi": {
+      "text": "trạm cứu hỏa"
+    },
+    "zh-Hans": {
+      "text": "消防站",
+      "reading": "xiāo fáng zhàn"
+    },
+    "ja": {
+      "text": "消防署",
+      "reading": "shōbōsho"
+    },
+    "ko": {
+      "text": "소방서",
+      "reading": "sobangseo"
+    },
+    "es": {
+      "text": "estación de bomberos"
+    },
+    "fr": {
+      "text": "caserne de pompiers"
+    },
+    "de": {
+      "text": "Feuerwache"
+    },
+    "id": {
+      "text": "pos pemadam kebakaran"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}
