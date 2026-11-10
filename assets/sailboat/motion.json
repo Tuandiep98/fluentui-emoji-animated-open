@@ -1,0 +1,131 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "5efcb1df5e45488cf1dc5624219237c598ebddb2324ea526c968ba5448987627",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          107,
+          256
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          107,
+          0,
+          149,
+          48
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          107,
+          169,
+          149,
+          87
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "lower-free-sail-edge",
+      "kind": "wave",
+      "center": [
+        178,
+        134
+      ],
+      "radius": [
+        42,
+        31
+      ],
+      "amp": 5.7,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.7
+        ],
+        [
+          1.4,
+          -1.9949999999999999
+        ],
+        [
+          2.05,
+          3.705
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "upper-free-sail-edge",
+      "kind": "wave",
+      "center": [
+        142,
+        89
+      ],
+      "radius": [
+        34,
+        32
+      ],
+      "amp": 5.7,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          5.7
+        ],
+        [
+          1.5,
+          -1.9949999999999999
+        ],
+        [
+          2.15,
+          3.705
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only the original fabric sail has a small wind flutter near its free edge. Mast, upper tie, lower boom, stitching attachments, pennant and hull stay pixel-exact. No new sail folds, rotating mast or detached sail."
+}

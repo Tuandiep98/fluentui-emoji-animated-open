@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "c8de793b94b6eaade861acb49048fd284c81d54a0c4e7bb2fe5de529be4b46ab",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "Small complete-toy rock. Peg, base and both rings stay in their exact original assembled positions; no sliding through the peg or false flying rings.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.35
+      ],
+      [
+        1.45,
+        -0.12249999999999998
+      ],
+      [
+        2.1,
+        0.1925
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

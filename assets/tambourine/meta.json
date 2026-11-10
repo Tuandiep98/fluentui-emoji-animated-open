@@ -1,0 +1,46 @@
+{
+  "id": "tambourine",
+  "name": "tambourine",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "tambourine"
+    },
+    "vi": {
+      "text": "trống lục lạc"
+    },
+    "zh-Hans": {
+      "text": "铃鼓",
+      "reading": "líng gǔ"
+    },
+    "ja": {
+      "text": "タンバリン",
+      "reading": "tanbarin"
+    },
+    "ko": {
+      "text": "탬버린",
+      "reading": "taembeorin"
+    },
+    "es": {
+      "text": "la pandereta"
+    },
+    "fr": {
+      "text": "le tambourin"
+    },
+    "de": {
+      "text": "das Tamburin"
+    },
+    "id": {
+      "text": "tamborin"
+    }
+  },
+  "tags": [
+    "music",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

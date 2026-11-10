@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "2f4373980c9e213e451a50b708436809a87c21b89b106079f363171d9348bb3e",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The whole dump truck gives a short restrained jolt. Cab, chassis, wheels and lowered bed stay intact; no false bed hinge opening or detached load.",
+  "tracks": {
+    "y": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.4
+      ],
+      [
+        1.45,
+        0.13999999999999999
+      ],
+      [
+        2.1,
+        -0.22000000000000003
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.2
+      ],
+      [
+        1.45,
+        -0.06999999999999999
+      ],
+      [
+        2.1,
+        0.11000000000000001
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

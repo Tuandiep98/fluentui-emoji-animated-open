@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "MIT",
-  "count": 490,
+  "count": 520,
   "entries": [
     {
       "id": "aardvark",
@@ -1218,6 +1218,74 @@
       "animationBytes": 12676
     },
     {
+      "id": "balance-bike",
+      "name": "balance bike",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "balance bike"
+        },
+        "vi": {
+          "text": "xe thăng bằng"
+        },
+        "zh-Hans": {
+          "text": "儿童平衡车",
+          "reading": "ér tóng píng héng chē"
+        },
+        "ja": {
+          "text": "ペダルなし自転車",
+          "reading": "pedaru nashi jitensha"
+        },
+        "ko": {
+          "text": "페달 없는 자전거",
+          "reading": "pedal eomneun jajeongeo"
+        },
+        "es": {
+          "text": "la bicicleta sin pedales"
+        },
+        "fr": {
+          "text": "le vélo sans pédales"
+        },
+        "de": {
+          "text": "das Laufrad"
+        },
+        "id": {
+          "text": "sepeda keseimbangan"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/balance-bike/source.png",
+        "still.png": "assets/balance-bike/still.png",
+        "still.webp": "assets/balance-bike/still.webp",
+        "animated.avif": "assets/balance-bike/animated.avif",
+        "motion.json": "assets/balance-bike/motion.json",
+        "meta.json": "assets/balance-bike/meta.json",
+        "reference.png": "assets/balance-bike/reference.png"
+      },
+      "sha256": {
+        "source.png": "e4fbe189b40662bb28f0a278a69f2926d4e8ceb73fe587e902a30df98f882859",
+        "still.png": "4e0f5d4da241508db8179ad5b7b9ec62551a5e6bdb785f41fc2e6be5f0306f12",
+        "still.webp": "2dddb0f12d9277ba7fd730e6f18179588d943630b08f8adcd21617200d082b45",
+        "animated.avif": "150a929dafc170c5df9173dbc8567f1abd1b22b850a25ad76ffeb594c9a1f81c",
+        "motion.json": "7e44ac52e7f8e4142ec732e876f8b9e2cc22f780c8444003c36921f33483f1c4",
+        "meta.json": "308c444bc00b6068824e8da7bb1c22dbe582418e4fb7fb01140776482aeff667",
+        "reference.png": "4e0f5d4da241508db8179ad5b7b9ec62551a5e6bdb785f41fc2e6be5f0306f12"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 55560
+    },
+    {
       "id": "balcony",
       "name": "balcony",
       "category": "home",
@@ -1888,6 +1956,144 @@
       "animationBytes": 47900
     },
     {
+      "id": "bead-maze",
+      "name": "bead maze",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "bead maze"
+        },
+        "vi": {
+          "text": "mê cung hạt"
+        },
+        "zh-Hans": {
+          "text": "绕珠玩具",
+          "reading": "rào zhū wán jù"
+        },
+        "ja": {
+          "text": "ルーピング玩具",
+          "reading": "rūpingu gangu"
+        },
+        "ko": {
+          "text": "구슬 미로",
+          "reading": "guseul miro"
+        },
+        "es": {
+          "text": "el laberinto de cuentas"
+        },
+        "fr": {
+          "text": "le circuit de boules"
+        },
+        "de": {
+          "text": "die Motorikschleife"
+        },
+        "id": {
+          "text": "mainan labirin manik-manik"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bead-maze/source.png",
+        "still.png": "assets/bead-maze/still.png",
+        "still.webp": "assets/bead-maze/still.webp",
+        "animated.avif": "assets/bead-maze/animated.avif",
+        "motion.json": "assets/bead-maze/motion.json",
+        "meta.json": "assets/bead-maze/meta.json",
+        "reference.png": "assets/bead-maze/reference.png"
+      },
+      "sha256": {
+        "source.png": "1ec5bb3466aea525f8350aa7a068eeecb0fd9b827996cdd8d646b321342eb9fa",
+        "still.png": "0abb5bf42b6a2a96a4176f43f3cd8468564983b06e5b4c1ce59b869fdb236116",
+        "still.webp": "48563d1c96e64c50ea1f7f44ca34523e84bfcb256a443b1d4a0e4c2945db958a",
+        "animated.avif": "85ef87a49ca2f47f419c781bdc9f89e9a69fc43594e2b446ea846e838001c25f",
+        "motion.json": "95f4f48b8bbb740e1e4eaae139c8ed2e52769e76efa46b0dad13d6aedbb12a8a",
+        "meta.json": "f0887446818fce6a2462a5f4bac276e12b7d1a99ff8a6d163a9bbd5a9245ab42",
+        "reference.png": "0abb5bf42b6a2a96a4176f43f3cd8468564983b06e5b4c1ce59b869fdb236116"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 55569
+    },
+    {
+      "id": "beanbag",
+      "name": "beanbag",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "beanbag"
+        },
+        "vi": {
+          "text": "túi đậu đồ chơi"
+        },
+        "zh-Hans": {
+          "text": "豆袋",
+          "reading": "dòu dài"
+        },
+        "ja": {
+          "text": "お手玉",
+          "reading": "otedama"
+        },
+        "ko": {
+          "text": "콩주머니",
+          "reading": "kongjumeoni"
+        },
+        "es": {
+          "text": "el saquito de semillas"
+        },
+        "fr": {
+          "text": "le petit sac de graines"
+        },
+        "de": {
+          "text": "das Wurfsäckchen"
+        },
+        "id": {
+          "text": "kantong biji"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/beanbag/source.png",
+        "still.png": "assets/beanbag/still.png",
+        "still.webp": "assets/beanbag/still.webp",
+        "animated.avif": "assets/beanbag/animated.avif",
+        "motion.json": "assets/beanbag/motion.json",
+        "meta.json": "assets/beanbag/meta.json",
+        "reference.png": "assets/beanbag/reference.png"
+      },
+      "sha256": {
+        "source.png": "d1d30f3b62b548fe69754d6e349ae1b9f5936bbdbefe405bd878f2e5c66cca0b",
+        "still.png": "5c0fe85289b3cac78ae3e3eb0254eadcb556353efcedea5981005273c0214a4d",
+        "still.webp": "75774e448363283e4ddca48606c27ecebab9ce03d1db43c58bdc1527ca588f71",
+        "animated.avif": "0e06f74395c00f6dcee9c068e04def5d07d23148ed1bb1d6374f3b52e097ef09",
+        "motion.json": "12f540d08c13ba5694af20786718cd2e0aefe5a8836d2cd001608741a66dbaa2",
+        "meta.json": "9cff3c4b34678a258c1d59b2f7950b344796b0482690e1294eaf816183d68538",
+        "reference.png": "5c0fe85289b3cac78ae3e3eb0254eadcb556353efcedea5981005273c0214a4d"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 31328
+    },
+    {
       "id": "beanie",
       "name": "beanie",
       "category": "clothing",
@@ -2491,6 +2697,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 29433
+    },
+    {
+      "id": "binder",
+      "name": "binder",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "binder"
+        },
+        "vi": {
+          "text": "bìa còng"
+        },
+        "zh-Hans": {
+          "text": "活页夹",
+          "reading": "huóyèjiā"
+        },
+        "ja": {
+          "text": "バインダー",
+          "reading": "baindā"
+        },
+        "ko": {
+          "text": "바인더",
+          "reading": "baindeo"
+        },
+        "es": {
+          "text": "la carpeta de anillas"
+        },
+        "fr": {
+          "text": "le classeur"
+        },
+        "de": {
+          "text": "der Ringordner"
+        },
+        "id": {
+          "text": "map cincin"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/binder/source.png",
+        "still.png": "assets/binder/still.png",
+        "still.webp": "assets/binder/still.webp",
+        "animated.avif": "assets/binder/animated.avif",
+        "motion.json": "assets/binder/motion.json",
+        "meta.json": "assets/binder/meta.json",
+        "reference.png": "assets/binder/reference.png"
+      },
+      "sha256": {
+        "source.png": "c91b3a39d1f0ca711f31f5f17df70e5a3b7f3858d66fea6a0662f4be9d638399",
+        "still.png": "933be5c07a8674069d5a7485e988bb17dcf2d08abaf74256a53039e5b16409e2",
+        "still.webp": "417e60478671cae5b2cf7ffcc9c8900f461ba5170860b3fceed6046d20ffd96f",
+        "animated.avif": "552f4c85fbf1aec89bd2cacf0a9f28e89a4a82ae76f53ad56ef5209e3000b6d9",
+        "motion.json": "1c3643c4cfe1e810d2180c49b0c1d7163a27247535bf5083a670a2f99aeda32a",
+        "meta.json": "8ec9320a6889acba4b1b44a82d31ddcb2c7e3cf29a0bb0d15caf467ed0f5d67b",
+        "reference.png": "933be5c07a8674069d5a7485e988bb17dcf2d08abaf74256a53039e5b16409e2"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 54155
     },
     {
       "id": "bird-feeder",
@@ -4104,6 +4379,74 @@
       "animationBytes": 57020
     },
     {
+      "id": "bulldozer",
+      "name": "bulldozer",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "bulldozer"
+        },
+        "vi": {
+          "text": "xe ủi đất"
+        },
+        "zh-Hans": {
+          "text": "推土机",
+          "reading": "tuī tǔ jī"
+        },
+        "ja": {
+          "text": "ブルドーザー",
+          "reading": "burudōzā"
+        },
+        "ko": {
+          "text": "불도저",
+          "reading": "buldojeo"
+        },
+        "es": {
+          "text": "la topadora"
+        },
+        "fr": {
+          "text": "le bulldozer"
+        },
+        "de": {
+          "text": "die Planierraupe"
+        },
+        "id": {
+          "text": "buldoser"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bulldozer/source.png",
+        "still.png": "assets/bulldozer/still.png",
+        "still.webp": "assets/bulldozer/still.webp",
+        "animated.avif": "assets/bulldozer/animated.avif",
+        "motion.json": "assets/bulldozer/motion.json",
+        "meta.json": "assets/bulldozer/meta.json",
+        "reference.png": "assets/bulldozer/reference.png"
+      },
+      "sha256": {
+        "source.png": "ce8e6e415d4fa072dc1995098933b63351807b93a3fd83d1116cb68bf84133a9",
+        "still.png": "b72d18e05b85ac456b23c989553313beea2c0ceb22e2681d597ccf62fabcf10b",
+        "still.webp": "ffd3c99240772f00d2eef4773a1a893183f688505e7d304a52c27f37b6c35467",
+        "animated.avif": "1bd869bdf16b8eb38551ce60501e5e4ae2234654b36742e1adfb69e2621ab33c",
+        "motion.json": "72e8e4873a597980c78cad15826dc0d70697e8104bf444805ea97057596e0ed1",
+        "meta.json": "f28fb3c73861f63836c125f81b1a9aec80957212dd312c2caaacac1c593245c0",
+        "reference.png": "b72d18e05b85ac456b23c989553313beea2c0ceb22e2681d597ccf62fabcf10b"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 54383
+    },
+    {
       "id": "bunk-bed",
       "name": "bunk bed",
       "category": "home",
@@ -4578,6 +4921,75 @@
       "animationBytes": 45780
     },
     {
+      "id": "canvas",
+      "name": "canvas",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "canvas"
+        },
+        "vi": {
+          "text": "toan vẽ"
+        },
+        "zh-Hans": {
+          "text": "画布",
+          "reading": "huàbù"
+        },
+        "ja": {
+          "text": "キャンバス",
+          "reading": "kyanbasu"
+        },
+        "ko": {
+          "text": "캔버스",
+          "reading": "kaenbeoseu"
+        },
+        "es": {
+          "text": "el lienzo"
+        },
+        "fr": {
+          "text": "la toile"
+        },
+        "de": {
+          "text": "die Leinwand"
+        },
+        "id": {
+          "text": "kanvas"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/canvas/source.png",
+        "still.png": "assets/canvas/still.png",
+        "still.webp": "assets/canvas/still.webp",
+        "animated.avif": "assets/canvas/animated.avif",
+        "motion.json": "assets/canvas/motion.json",
+        "meta.json": "assets/canvas/meta.json",
+        "reference.png": "assets/canvas/reference.png"
+      },
+      "sha256": {
+        "source.png": "d4230f3af5bfff5e36b7f7bff935591b87165409ffe58bc5964d1a3f3118d30b",
+        "still.png": "b268621f101ecd38876489f3187f9e0f34487ce1fff33988ca29cc580c6600b9",
+        "still.webp": "86eff0ca781d31d41579ccf67ba6c2d64d7993b2d042a61eb06504c198e4e4f4",
+        "animated.avif": "91f425bd748fba5cfbbe2ca01d07d400cb7bccff0aa62154df5a01ef95f5e470",
+        "motion.json": "aff7006e1e802ab8e2b063ab54328278b274d38a1966cb0874d116f4847b0af9",
+        "meta.json": "279c1e81a9654ea07fe2169745f58c234aa7b91f2eb64ced8328226c479333d7",
+        "reference.png": "b268621f101ecd38876489f3187f9e0f34487ce1fff33988ca29cc580c6600b9"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 48246
+    },
+    {
       "id": "capybara",
       "name": "capybara",
       "category": "wildlife",
@@ -4714,6 +5126,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 34054
+    },
+    {
+      "id": "cardboard",
+      "name": "cardboard",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "cardboard"
+        },
+        "vi": {
+          "text": "bìa cứng"
+        },
+        "zh-Hans": {
+          "text": "硬纸板",
+          "reading": "yìngzhǐbǎn"
+        },
+        "ja": {
+          "text": "ボールがみ",
+          "reading": "bōrugami"
+        },
+        "ko": {
+          "text": "판지",
+          "reading": "panji"
+        },
+        "es": {
+          "text": "el cartón"
+        },
+        "fr": {
+          "text": "le carton"
+        },
+        "de": {
+          "text": "die Pappe"
+        },
+        "id": {
+          "text": "karton"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/cardboard/source.png",
+        "still.png": "assets/cardboard/still.png",
+        "still.webp": "assets/cardboard/still.webp",
+        "animated.avif": "assets/cardboard/animated.avif",
+        "motion.json": "assets/cardboard/motion.json",
+        "meta.json": "assets/cardboard/meta.json",
+        "reference.png": "assets/cardboard/reference.png"
+      },
+      "sha256": {
+        "source.png": "7442abeb1d40680e43108a45977f8daf42a24715e3adc74768c9e1044a6ed173",
+        "still.png": "f514f42074774ea5d64131f16b391483f63a89a27356829a41521f1c3796fc9b",
+        "still.webp": "e5267982df39b929f34c910475480aa4bbfdeb92dd72b4682aa906bd8f7deac0",
+        "animated.avif": "f95960b4d17586121c29157f4b26d46c087c54411f5d5a0e9d1365deafa36eb9",
+        "motion.json": "6699959ee71d00b69ffc178db640d94c67c9a655230719d03394021c16daded2",
+        "meta.json": "e4306910ea2e573767efc88564cc39e2eaa1fc7b7d72cdeeefbd715fb5e6bb5e",
+        "reference.png": "f514f42074774ea5d64131f16b391483f63a89a27356829a41521f1c3796fc9b"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 50023
     },
     {
       "id": "cardigan",
@@ -6867,6 +7348,75 @@
       "animationBytes": 19687
     },
     {
+      "id": "construction-paper",
+      "name": "construction paper",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "construction paper"
+        },
+        "vi": {
+          "text": "giấy thủ công màu"
+        },
+        "zh-Hans": {
+          "text": "彩色卡纸",
+          "reading": "cǎisè kǎzhǐ"
+        },
+        "ja": {
+          "text": "いろがようし",
+          "reading": "irogayōshi"
+        },
+        "ko": {
+          "text": "색 도화지",
+          "reading": "saek dohwaji"
+        },
+        "es": {
+          "text": "la cartulina de colores"
+        },
+        "fr": {
+          "text": "le papier de couleur"
+        },
+        "de": {
+          "text": "das Tonpapier"
+        },
+        "id": {
+          "text": "kertas warna tebal"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/construction-paper/source.png",
+        "still.png": "assets/construction-paper/still.png",
+        "still.webp": "assets/construction-paper/still.webp",
+        "animated.avif": "assets/construction-paper/animated.avif",
+        "motion.json": "assets/construction-paper/motion.json",
+        "meta.json": "assets/construction-paper/meta.json",
+        "reference.png": "assets/construction-paper/reference.png"
+      },
+      "sha256": {
+        "source.png": "e0bd08d7a1a838c39135ba10a17a3c47551b9abce3b59c4cf110e44440f57d2e",
+        "still.png": "fd1a9cac678f3d319a7ea37c0b2f998932295a7fd0c1f4c408e079fcdfdd97c0",
+        "still.webp": "62cd623cf4aa4b831d77fb4c5494ae30b3c39feac3a8c8d16b8dbd03b119f860",
+        "animated.avif": "16988baaf45c13af2d2edd73ff8aab8a4542d9ae5e05c59f77af475c4445b5de",
+        "motion.json": "c4238a2c9a87b313a63ac9826a4dcef17084a3db8244f60d55fd7036648abb57",
+        "meta.json": "304d895084dfbc8f9123b93cb7e762a2c0e705fd7a0728a2ce38296661158255",
+        "reference.png": "fd1a9cac678f3d319a7ea37c0b2f998932295a7fd0c1f4c408e079fcdfdd97c0"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 55105
+    },
+    {
       "id": "cookie-cutter",
       "name": "cookie cutter",
       "category": "kitchen",
@@ -8270,6 +8820,74 @@
       "animationBytes": 36410
     },
     {
+      "id": "delivery-van",
+      "name": "delivery van",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "delivery van"
+        },
+        "vi": {
+          "text": "xe giao hàng"
+        },
+        "zh-Hans": {
+          "text": "送货车",
+          "reading": "sòng huò chē"
+        },
+        "ja": {
+          "text": "配送用バン",
+          "reading": "haisōyō ban"
+        },
+        "ko": {
+          "text": "배송 밴",
+          "reading": "baesong baen"
+        },
+        "es": {
+          "text": "la furgoneta de reparto"
+        },
+        "fr": {
+          "text": "la camionnette de livraison"
+        },
+        "de": {
+          "text": "der Lieferwagen"
+        },
+        "id": {
+          "text": "mobil van pengiriman"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/delivery-van/source.png",
+        "still.png": "assets/delivery-van/still.png",
+        "still.webp": "assets/delivery-van/still.webp",
+        "animated.avif": "assets/delivery-van/animated.avif",
+        "motion.json": "assets/delivery-van/motion.json",
+        "meta.json": "assets/delivery-van/meta.json",
+        "reference.png": "assets/delivery-van/reference.png"
+      },
+      "sha256": {
+        "source.png": "8cef5f8ad03173d8af35093b8a40638e4c096537017278ae73c008e26c13dc43",
+        "still.png": "6844e7ad1d6ab9c7806665e55321fc37bdd5e61ba037b484630601ecfb8a1c80",
+        "still.webp": "2a18caf55f0b1f3273c48bcc95b33e73b02844c2e407a6c3b5a18f41b51e1a9e",
+        "animated.avif": "c95335a6b927d3eba62f103f0beee82d463ece09135b82bd828450449ac8e4a0",
+        "motion.json": "4eb5c8987a511fe584c7d7c588edd7233761d02fbc55c587161bd0b9bb6fc7c3",
+        "meta.json": "3826c43d680debbda708c3ecf3e01a924bf1d51ecec426977689ff7085e83dd5",
+        "reference.png": "6844e7ad1d6ab9c7806665e55321fc37bdd5e61ba037b484630601ecfb8a1c80"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 37943
+    },
+    {
       "id": "desk",
       "name": "desk",
       "category": "home",
@@ -9204,6 +9822,74 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 26978
+    },
+    {
+      "id": "dump-truck",
+      "name": "dump truck",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "dump truck"
+        },
+        "vi": {
+          "text": "xe ben"
+        },
+        "zh-Hans": {
+          "text": "自卸卡车",
+          "reading": "zì xiè kǎ chē"
+        },
+        "ja": {
+          "text": "ダンプカー",
+          "reading": "danpukā"
+        },
+        "ko": {
+          "text": "덤프트럭",
+          "reading": "deompeuteureok"
+        },
+        "es": {
+          "text": "el camión volquete"
+        },
+        "fr": {
+          "text": "le camion-benne"
+        },
+        "de": {
+          "text": "der Muldenkipper"
+        },
+        "id": {
+          "text": "truk jungkit"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/dump-truck/source.png",
+        "still.png": "assets/dump-truck/still.png",
+        "still.webp": "assets/dump-truck/still.webp",
+        "animated.avif": "assets/dump-truck/animated.avif",
+        "motion.json": "assets/dump-truck/motion.json",
+        "meta.json": "assets/dump-truck/meta.json",
+        "reference.png": "assets/dump-truck/reference.png"
+      },
+      "sha256": {
+        "source.png": "55d751b902b31383b444448d681b23f78649bfb1382ef3568d006c05fd8124bb",
+        "still.png": "2f4373980c9e213e451a50b708436809a87c21b89b106079f363171d9348bb3e",
+        "still.webp": "279a88b878f6fe65944a3477fdb9ead07508de2f6eb0e1972c292e70ceeb8403",
+        "animated.avif": "b69c73e03a01b1e958064e6da7d711318580a73ad8750079c7f6f4b38233074a",
+        "motion.json": "1266d3db32233b3de224e28d6c4cafd2a1aa9581a67ff04d88ac1cea8c3869a5",
+        "meta.json": "ed997c399e2629b8f2ff60998ec23e289514c1f9466f62c8d622d7a042d51364",
+        "reference.png": "2f4373980c9e213e451a50b708436809a87c21b89b106079f363171d9348bb3e"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 38200
     },
     {
       "id": "durian",
@@ -10220,6 +10906,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 51938
+    },
+    {
+      "id": "finger-puppet",
+      "name": "finger puppet",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "finger puppet"
+        },
+        "vi": {
+          "text": "rối ngón tay"
+        },
+        "zh-Hans": {
+          "text": "手指偶",
+          "reading": "shǒu zhǐ ǒu"
+        },
+        "ja": {
+          "text": "指人形",
+          "reading": "yubi ningyō"
+        },
+        "ko": {
+          "text": "손가락 인형",
+          "reading": "songarak inhyeong"
+        },
+        "es": {
+          "text": "la marioneta de dedo"
+        },
+        "fr": {
+          "text": "la marionnette à doigt"
+        },
+        "de": {
+          "text": "die Fingerpuppe"
+        },
+        "id": {
+          "text": "boneka jari"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/finger-puppet/source.png",
+        "still.png": "assets/finger-puppet/still.png",
+        "still.webp": "assets/finger-puppet/still.webp",
+        "animated.avif": "assets/finger-puppet/animated.avif",
+        "motion.json": "assets/finger-puppet/motion.json",
+        "meta.json": "assets/finger-puppet/meta.json",
+        "reference.png": "assets/finger-puppet/reference.png"
+      },
+      "sha256": {
+        "source.png": "b01e373c189066c020527112011674eb3747c0d2c026a02330c36c9cb754a34c",
+        "still.png": "6d58eb96facd00db07b7a2395f1cf0c927187370e78843ebea673978ffb9c376",
+        "still.webp": "96f2cea6195355df989e1ae87c058c7b982679ffb26974a8426990b2bcce772c",
+        "animated.avif": "12112f7e809f2242b52f9251fc484b4a6ce62c0c752bca68a29171487c5f2d12",
+        "motion.json": "d91912263275415304ee16eb954cb9291400d577f3495768b1796aedb3c0492b",
+        "meta.json": "5be4e91b0cf200e529416345454f1a82a6d5a7c55bbe55ba87cfab487ee80e16",
+        "reference.png": "6d58eb96facd00db07b7a2395f1cf0c927187370e78843ebea673978ffb9c376"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 36022
     },
     {
       "id": "fire-station",
@@ -13170,6 +13925,75 @@
       "animationBytes": 18618
     },
     {
+      "id": "hobby-horse",
+      "name": "hobby horse",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "hobby horse"
+        },
+        "vi": {
+          "text": "ngựa gậy"
+        },
+        "zh-Hans": {
+          "text": "马头棒玩具",
+          "reading": "mǎ tóu bàng wán jù"
+        },
+        "ja": {
+          "text": "棒馬",
+          "reading": "bōuma"
+        },
+        "ko": {
+          "text": "막대말",
+          "reading": "makdaemal"
+        },
+        "es": {
+          "text": "el caballo de palo"
+        },
+        "fr": {
+          "text": "le cheval bâton"
+        },
+        "de": {
+          "text": "das Steckenpferd"
+        },
+        "id": {
+          "text": "kuda tongkat"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/hobby-horse/source.png",
+        "still.png": "assets/hobby-horse/still.png",
+        "still.webp": "assets/hobby-horse/still.webp",
+        "animated.avif": "assets/hobby-horse/animated.avif",
+        "motion.json": "assets/hobby-horse/motion.json",
+        "meta.json": "assets/hobby-horse/meta.json",
+        "reference.png": "assets/hobby-horse/reference.png"
+      },
+      "sha256": {
+        "source.png": "ba900db2473ae51635d3dedbd124a4ce6b7df6429591dd3c8bef0a4de412ad99",
+        "still.png": "66b421951df4096048069e36ce14ad50ea46a1b82161dcae95dc7a6db358767a",
+        "still.webp": "0fc4f4af0c3763f3e93c74f3a7bd1f2012c1af496e5885ad75fa793c30b4d217",
+        "animated.avif": "3d37181129cadc738e93fdc81e49329e166c9722a283e86bf5d8d2ec7c3fdf77",
+        "motion.json": "d99e544679033ff509f9bd2464fd2833a0fd3d48a1e088206b9aa687898390d1",
+        "meta.json": "3f79105f19837da384bba56f4d56d6ded6820fda53297d5c6cd06f20c3bc21ea",
+        "reference.png": "66b421951df4096048069e36ce14ad50ea46a1b82161dcae95dc7a6db358767a"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 23708
+    },
+    {
       "id": "hole-punch",
       "name": "hole punch",
       "category": "school-art",
@@ -13993,6 +14817,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 20195
+    },
+    {
+      "id": "ink-pad",
+      "name": "ink pad",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "ink pad"
+        },
+        "vi": {
+          "text": "hộp mực dấu"
+        },
+        "zh-Hans": {
+          "text": "印台",
+          "reading": "yìntái"
+        },
+        "ja": {
+          "text": "スタンプだい",
+          "reading": "sutanpu dai"
+        },
+        "ko": {
+          "text": "잉크 패드",
+          "reading": "ingkeu paedeu"
+        },
+        "es": {
+          "text": "la almohadilla de tinta"
+        },
+        "fr": {
+          "text": "le tampon encreur"
+        },
+        "de": {
+          "text": "das Stempelkissen"
+        },
+        "id": {
+          "text": "bantalan tinta"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/ink-pad/source.png",
+        "still.png": "assets/ink-pad/still.png",
+        "still.webp": "assets/ink-pad/still.webp",
+        "animated.avif": "assets/ink-pad/animated.avif",
+        "motion.json": "assets/ink-pad/motion.json",
+        "meta.json": "assets/ink-pad/meta.json",
+        "reference.png": "assets/ink-pad/reference.png"
+      },
+      "sha256": {
+        "source.png": "52fc21bb876cb350d2cbbd23d31529e0e1f388152e2a28fd8289a374b3b65baf",
+        "still.png": "9ab4f18d1a3ad57488a03f8af7d095c5099d1477b016ee12d4a0e38e57f904ee",
+        "still.webp": "540c77d9c4fe26170e585c92271691721fd91eaaafd769acb1b4941a36060732",
+        "animated.avif": "d3405d0eb6233e20ccfe7026af1b93424f8f1d8caaf0a6932064290792f4f1f7",
+        "motion.json": "0e5ab12fbe977c7b1ae0de49d5eec6180b6bb1f60b068621e08d0f801304ab65",
+        "meta.json": "5439b72893b4ff223a459103a9fcdef10e4420f003fbd8275790143421b13aff",
+        "reference.png": "9ab4f18d1a3ad57488a03f8af7d095c5099d1477b016ee12d4a0e38e57f904ee"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 53681
     },
     {
       "id": "jacket",
@@ -17150,6 +18043,74 @@
       "animationBytes": 15787
     },
     {
+      "id": "minibus",
+      "name": "minibus",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "minibus"
+        },
+        "vi": {
+          "text": "xe buýt nhỏ"
+        },
+        "zh-Hans": {
+          "text": "小巴",
+          "reading": "xiǎo bā"
+        },
+        "ja": {
+          "text": "マイクロバス",
+          "reading": "maikurobasu"
+        },
+        "ko": {
+          "text": "미니버스",
+          "reading": "minibeoseu"
+        },
+        "es": {
+          "text": "el minibús"
+        },
+        "fr": {
+          "text": "le minibus"
+        },
+        "de": {
+          "text": "der Kleinbus"
+        },
+        "id": {
+          "text": "minibus"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/minibus/source.png",
+        "still.png": "assets/minibus/still.png",
+        "still.webp": "assets/minibus/still.webp",
+        "animated.avif": "assets/minibus/animated.avif",
+        "motion.json": "assets/minibus/motion.json",
+        "meta.json": "assets/minibus/meta.json",
+        "reference.png": "assets/minibus/reference.png"
+      },
+      "sha256": {
+        "source.png": "08c64c6ba9b77c75347b35373690487253aadbfd7a150b2f849d4859da5d36dd",
+        "still.png": "808951cc8e6faf265c35598d7d57909dd1b10fdf8199d70d4dc6b7dc0934906b",
+        "still.webp": "aa0a21140cd7a59d8edd7e5a46f2572f1c924b1af2c098965c2a9d4c52104158",
+        "animated.avif": "325c0b4fd6c97821cd4a69adb73e7e99f0555edacb92bfebb28b63826c96e62e",
+        "motion.json": "fd3ebcbe5c605c077c2a1ef7421bd0bed9c3dee3c510173c009c19b379be46c9",
+        "meta.json": "cd4891e7e7e9ec59d1f10bc4a1c474977bf4dfe7642dfc192d1efb9ac7f7414a",
+        "reference.png": "808951cc8e6faf265c35598d7d57909dd1b10fdf8199d70d4dc6b7dc0934906b"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 36245
+    },
+    {
       "id": "mittens",
       "name": "mittens",
       "category": "clothing",
@@ -19782,6 +20743,75 @@
       "animationBytes": 41491
     },
     {
+      "id": "paper-chain",
+      "name": "paper chain",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "paper chain"
+        },
+        "vi": {
+          "text": "dây xích giấy"
+        },
+        "zh-Hans": {
+          "text": "纸链",
+          "reading": "zhǐliàn"
+        },
+        "ja": {
+          "text": "かみのわかざり",
+          "reading": "kami no wakazari"
+        },
+        "ko": {
+          "text": "종이 고리 장식",
+          "reading": "jongi gori jangsik"
+        },
+        "es": {
+          "text": "la cadena de papel"
+        },
+        "fr": {
+          "text": "la guirlande en papier"
+        },
+        "de": {
+          "text": "die Papierkette"
+        },
+        "id": {
+          "text": "rantai kertas"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/paper-chain/source.png",
+        "still.png": "assets/paper-chain/still.png",
+        "still.webp": "assets/paper-chain/still.webp",
+        "animated.avif": "assets/paper-chain/animated.avif",
+        "motion.json": "assets/paper-chain/motion.json",
+        "meta.json": "assets/paper-chain/meta.json",
+        "reference.png": "assets/paper-chain/reference.png"
+      },
+      "sha256": {
+        "source.png": "2246e3550955e03ffb6fcd6dba1145d56692a04c0177c90a9d61ab56e92c7511",
+        "still.png": "7cc893da1567644d0ca64e958cf2a50df7d33232d1649d976c92c055c734d90d",
+        "still.webp": "6d73539c319258ae9bc26901c143db7b388e93f8d1859018282edc6768b18aec",
+        "animated.avif": "4779d7473ceac5b81cdb08c23d11ac682031bc4659e13f201a23b10856082181",
+        "motion.json": "133598826ece154f89bbb7c697b567ad51cfdf77a477b2eb32c35558ff599db6",
+        "meta.json": "27c6afedcb19e4cfaa3a701ad20f2a9b6ab7b7b621c3125242f6b7eeb50ffd49",
+        "reference.png": "7cc893da1567644d0ca64e958cf2a50df7d33232d1649d976c92c055c734d90d"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 53680
+    },
+    {
       "id": "paper-crane",
       "name": "paper crane",
       "category": "school-art",
@@ -20053,6 +21083,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 52327
+    },
+    {
+      "id": "pastel",
+      "name": "pastel",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "pastel"
+        },
+        "vi": {
+          "text": "phấn màu"
+        },
+        "zh-Hans": {
+          "text": "色粉笔",
+          "reading": "sèfěnbǐ"
+        },
+        "ja": {
+          "text": "パステル",
+          "reading": "pasuteru"
+        },
+        "ko": {
+          "text": "파스텔",
+          "reading": "paseutel"
+        },
+        "es": {
+          "text": "el pastel de dibujo"
+        },
+        "fr": {
+          "text": "le pastel"
+        },
+        "de": {
+          "text": "die Pastellkreide"
+        },
+        "id": {
+          "text": "pastel warna"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/pastel/source.png",
+        "still.png": "assets/pastel/still.png",
+        "still.webp": "assets/pastel/still.webp",
+        "animated.avif": "assets/pastel/animated.avif",
+        "motion.json": "assets/pastel/motion.json",
+        "meta.json": "assets/pastel/meta.json",
+        "reference.png": "assets/pastel/reference.png"
+      },
+      "sha256": {
+        "source.png": "0b34f2cf35544e2062fa3dd37d3f8e85479432d4e134a587953ba4f64e1cb31b",
+        "still.png": "215e1c867c0722c5c01034be868e248dd423c751be1ed1579106e09514fc5116",
+        "still.webp": "d9dc21e8bdc9f055e98b247dc2e22c21e02264ed35db00c023c779dc5801c38f",
+        "animated.avif": "3308b881340d784a7ea7e71d589c51866d38a9467f858e86f5633fe2cc4999a7",
+        "motion.json": "a18f07c3954d6e2886e968cfb447198336a86e4af0801533ee4052ac94b0b8d9",
+        "meta.json": "5e517e101d47967ceb1830f41f4f1f9af10bf0a41d627c8f3043d3c444ca6d12",
+        "reference.png": "215e1c867c0722c5c01034be868e248dd423c751be1ed1579106e09514fc5116"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 61034
     },
     {
       "id": "peanut-butter",
@@ -22204,6 +23303,75 @@
       "animationBytes": 45281
     },
     {
+      "id": "pull-along-toy",
+      "name": "pull along toy",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "pull along toy"
+        },
+        "vi": {
+          "text": "đồ chơi kéo dây"
+        },
+        "zh-Hans": {
+          "text": "拖拉玩具",
+          "reading": "tuō lā wán jù"
+        },
+        "ja": {
+          "text": "引っ張るおもちゃ",
+          "reading": "hipparu omocha"
+        },
+        "ko": {
+          "text": "끌기 장난감",
+          "reading": "kkeulgi jangnamgam"
+        },
+        "es": {
+          "text": "el juguete de arrastre"
+        },
+        "fr": {
+          "text": "le jouet à tirer"
+        },
+        "de": {
+          "text": "das Nachziehspielzeug"
+        },
+        "id": {
+          "text": "mainan tarik"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/pull-along-toy/source.png",
+        "still.png": "assets/pull-along-toy/still.png",
+        "still.webp": "assets/pull-along-toy/still.webp",
+        "animated.avif": "assets/pull-along-toy/animated.avif",
+        "motion.json": "assets/pull-along-toy/motion.json",
+        "meta.json": "assets/pull-along-toy/meta.json",
+        "reference.png": "assets/pull-along-toy/reference.png"
+      },
+      "sha256": {
+        "source.png": "ebcfbb6c7d2dc9b5ea7f5663025a4e2fb0deca8e815978834a1340de837fa440",
+        "still.png": "d6ab018028007b49744c1706a67876d683efbbc2a9f3f1e69b3e9ae236d9e8f9",
+        "still.webp": "0c805d654d1f244768ef2cc6bade56c722fe7de68f16ba440aae0cdc0776298c",
+        "animated.avif": "481b592a439b954d402c2167c8e9071f197773dd337fafb0ed93f8f4b6139f86",
+        "motion.json": "d4538374d59ea7c7718946b0ac59aa81b1e56f039b73aec1d7869d6377bcd305",
+        "meta.json": "4b1f043ceb4e6eb13290da17ef8c7fa2bf9d872f0f4c541641862b1c744e1087",
+        "reference.png": "d6ab018028007b49744c1706a67876d683efbbc2a9f3f1e69b3e9ae236d9e8f9"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 54078
+    },
+    {
       "id": "quail",
       "name": "quail",
       "category": "wildlife",
@@ -23411,6 +24579,75 @@
       "animationBytes": 23400
     },
     {
+      "id": "ring-toss",
+      "name": "ring toss",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "ring toss"
+        },
+        "vi": {
+          "text": "trò ném vòng"
+        },
+        "zh-Hans": {
+          "text": "套圈游戏",
+          "reading": "tào quān yóu xì"
+        },
+        "ja": {
+          "text": "輪投げ",
+          "reading": "wanage"
+        },
+        "ko": {
+          "text": "고리 던지기",
+          "reading": "gori deonjigi"
+        },
+        "es": {
+          "text": "el juego de lanzar aros"
+        },
+        "fr": {
+          "text": "le jeu de lancer d'anneaux"
+        },
+        "de": {
+          "text": "das Ringwurfspiel"
+        },
+        "id": {
+          "text": "permainan lempar gelang"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/ring-toss/source.png",
+        "still.png": "assets/ring-toss/still.png",
+        "still.webp": "assets/ring-toss/still.webp",
+        "animated.avif": "assets/ring-toss/animated.avif",
+        "motion.json": "assets/ring-toss/motion.json",
+        "meta.json": "assets/ring-toss/meta.json",
+        "reference.png": "assets/ring-toss/reference.png"
+      },
+      "sha256": {
+        "source.png": "2368878af16e9b106f7f396734d739ca352de215fc97385e4b8c7a18515e95c8",
+        "still.png": "c8de793b94b6eaade861acb49048fd284c81d54a0c4e7bb2fe5de529be4b46ab",
+        "still.webp": "ab11654a557ab73a6fe441d1746ff6f1038fd5f98cd64b1a63ced2d9594f5d05",
+        "animated.avif": "c1aac146ff04cc378e4c92cacb1802fb6eab9fa409871782e69cb7c47fc94c72",
+        "motion.json": "3c994ed97d3f22bd577564c6e2cec7cb3ec44c450c99963e6fa173723af4c24d",
+        "meta.json": "106003ccb765b0bd65f1f89751272e0ff362785de01a02980bcf109c5fed5b27",
+        "reference.png": "c8de793b94b6eaade861acb49048fd284c81d54a0c4e7bb2fe5de529be4b46ab"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 46029
+    },
+    {
       "id": "river",
       "name": "river",
       "category": "nature",
@@ -23477,6 +24714,74 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 23539
+    },
+    {
+      "id": "road-roller",
+      "name": "road roller",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "road roller"
+        },
+        "vi": {
+          "text": "xe lu"
+        },
+        "zh-Hans": {
+          "text": "压路机",
+          "reading": "yā lù jī"
+        },
+        "ja": {
+          "text": "ロードローラー",
+          "reading": "rōdo rōrā"
+        },
+        "ko": {
+          "text": "도로 롤러",
+          "reading": "doro rolleo"
+        },
+        "es": {
+          "text": "la apisonadora"
+        },
+        "fr": {
+          "text": "le rouleau compresseur"
+        },
+        "de": {
+          "text": "die Straßenwalze"
+        },
+        "id": {
+          "text": "mesin penggilas jalan"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/road-roller/source.png",
+        "still.png": "assets/road-roller/still.png",
+        "still.webp": "assets/road-roller/still.webp",
+        "animated.avif": "assets/road-roller/animated.avif",
+        "motion.json": "assets/road-roller/motion.json",
+        "meta.json": "assets/road-roller/meta.json",
+        "reference.png": "assets/road-roller/reference.png"
+      },
+      "sha256": {
+        "source.png": "2d29fef7374cbbe071d6bfee7e416cace47353e8dc92169cc041b9f8cfa7efe6",
+        "still.png": "53a97c1ad28900e776226d2dedb84d1e928774b025a30967aaeb17fea9c5314f",
+        "still.webp": "1d4910904059209a55bc54eb7a622870d08a0e2b10aaa6d2d5e272a88ef8024a",
+        "animated.avif": "78a051f4a59d5940c349828517d64a9e39307cb1fb7ea44978cdf7de27de4b27",
+        "motion.json": "928460be8c5f6e6d968c6f7a5196f7512fb8bfbc0479054e06a545fb749759f1",
+        "meta.json": "394560c39072968829d3b309a2079ccd0619b0350f0b9b498003130f5557fd2b",
+        "reference.png": "53a97c1ad28900e776226d2dedb84d1e928774b025a30967aaeb17fea9c5314f"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 38349
     },
     {
       "id": "roast-chicken",
@@ -24018,6 +25323,74 @@
       "animationBytes": 59469
     },
     {
+      "id": "rowing-boat",
+      "name": "rowing boat",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "rowing boat"
+        },
+        "vi": {
+          "text": "thuyền chèo"
+        },
+        "zh-Hans": {
+          "text": "划艇",
+          "reading": "huá tǐng"
+        },
+        "ja": {
+          "text": "手こぎボート",
+          "reading": "tekogi bōto"
+        },
+        "ko": {
+          "text": "노 젓는 배",
+          "reading": "no jeonneun bae"
+        },
+        "es": {
+          "text": "el bote de remos"
+        },
+        "fr": {
+          "text": "la barque à rames"
+        },
+        "de": {
+          "text": "das Ruderboot"
+        },
+        "id": {
+          "text": "perahu dayung"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/rowing-boat/source.png",
+        "still.png": "assets/rowing-boat/still.png",
+        "still.webp": "assets/rowing-boat/still.webp",
+        "animated.avif": "assets/rowing-boat/animated.avif",
+        "motion.json": "assets/rowing-boat/motion.json",
+        "meta.json": "assets/rowing-boat/meta.json",
+        "reference.png": "assets/rowing-boat/reference.png"
+      },
+      "sha256": {
+        "source.png": "fe72fe2a3740c97e25173091311f5af2a55e74f719af40ae41e92f827a059077",
+        "still.png": "7005bcb9fa4850971d5ec72565d161817bec46f2e0bd0f1e6b9d83acb25b62ff",
+        "still.webp": "38cccce49647633ec94eef72ee111857377559e021848cb0dc3d4ca5a2158592",
+        "animated.avif": "66e9cc2076171f8cb5b08ce061636342b2cbc6527cf3795c5323f89044885149",
+        "motion.json": "9207aa9bb9de8510fdeea7d9a1a546a58acd15d1fd18c94eab27e3107c3ffde6",
+        "meta.json": "92c891d8987516aca66831bd06f5c4f53f7265ff5ffb43fb0eade86a21a314e0",
+        "reference.png": "7005bcb9fa4850971d5ec72565d161817bec46f2e0bd0f1e6b9d83acb25b62ff"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 56107
+    },
+    {
       "id": "rubber-duck",
       "name": "rubber duck",
       "category": "home",
@@ -24085,6 +25458,143 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 52329
+    },
+    {
+      "id": "rubber-stamp",
+      "name": "rubber stamp",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "rubber stamp"
+        },
+        "vi": {
+          "text": "con dấu cao su"
+        },
+        "zh-Hans": {
+          "text": "橡皮印章",
+          "reading": "xiàngpí yìnzhāng"
+        },
+        "ja": {
+          "text": "ゴムいん",
+          "reading": "gomu in"
+        },
+        "ko": {
+          "text": "고무도장",
+          "reading": "gomu dojang"
+        },
+        "es": {
+          "text": "el sello de goma"
+        },
+        "fr": {
+          "text": "le tampon en caoutchouc"
+        },
+        "de": {
+          "text": "der Gummistempel"
+        },
+        "id": {
+          "text": "stempel karet"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/rubber-stamp/source.png",
+        "still.png": "assets/rubber-stamp/still.png",
+        "still.webp": "assets/rubber-stamp/still.webp",
+        "animated.avif": "assets/rubber-stamp/animated.avif",
+        "motion.json": "assets/rubber-stamp/motion.json",
+        "meta.json": "assets/rubber-stamp/meta.json",
+        "reference.png": "assets/rubber-stamp/reference.png"
+      },
+      "sha256": {
+        "source.png": "925d0ccc4901e4b96da72e198ffe1f8e0c9e9a35fc0d513b1eb00425a5593f09",
+        "still.png": "3e784389ed8fb13d03377975cc31c6f8230512ab6d617992b3bdff2b26722119",
+        "still.webp": "c043afba8b0b4608f787ee9ffdd4c3356521667ebe737fef34c5553f8925358a",
+        "animated.avif": "f574c97487a330c14e232cbb9a01f0a1650b51eec881a2df3e26cb2ee1b16424",
+        "motion.json": "8ed2e02f86de289af0bfe24384521de93dbdf40782e6320df99bba0a3982e081",
+        "meta.json": "892e9a793c2a35c833fa8dabeffe9febe272c05508148ac104b624c36ec1946d",
+        "reference.png": "3e784389ed8fb13d03377975cc31c6f8230512ab6d617992b3bdff2b26722119"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58035
+    },
+    {
+      "id": "sailboat",
+      "name": "sailboat",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "sailboat"
+        },
+        "vi": {
+          "text": "thuyền buồm"
+        },
+        "zh-Hans": {
+          "text": "帆船",
+          "reading": "fān chuán"
+        },
+        "ja": {
+          "text": "帆船",
+          "reading": "hansen"
+        },
+        "ko": {
+          "text": "돛단배",
+          "reading": "dotdanbae"
+        },
+        "es": {
+          "text": "el velero"
+        },
+        "fr": {
+          "text": "le voilier"
+        },
+        "de": {
+          "text": "das Segelboot"
+        },
+        "id": {
+          "text": "perahu layar"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sailboat/source.png",
+        "still.png": "assets/sailboat/still.png",
+        "still.webp": "assets/sailboat/still.webp",
+        "animated.avif": "assets/sailboat/animated.avif",
+        "motion.json": "assets/sailboat/motion.json",
+        "meta.json": "assets/sailboat/meta.json",
+        "reference.png": "assets/sailboat/reference.png"
+      },
+      "sha256": {
+        "source.png": "eb6c66756b167799678cf61c13e75b41c60f0d372bb69832cf90a0a61a32da50",
+        "still.png": "5efcb1df5e45488cf1dc5624219237c598ebddb2324ea526c968ba5448987627",
+        "still.webp": "0382833d5c05fa3f73ae9dfb72361b9c6812f25e99690b53e151e277ed1ad098",
+        "animated.avif": "0be262a4b037c093c94c4abe2736535fbc7bf1ecb992d478ab724a93497e0445",
+        "motion.json": "5a2dcc625d2c576c5b1e81e1e4cff1fc0f79b089c3f2b97f7fa20379b5c1ff99",
+        "meta.json": "6da6dabec36242b99f97f9e5941f380d59bc7f4f01b89a061fbaefaa40a303a2",
+        "reference.png": "5efcb1df5e45488cf1dc5624219237c598ebddb2324ea526c968ba5448987627"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 30621
     },
     {
       "id": "salt-shaker",
@@ -24758,6 +26268,75 @@
       "fps": 16,
       "duration": 3,
       "animationBytes": 19580
+    },
+    {
+      "id": "scrapbook",
+      "name": "scrapbook",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "scrapbook"
+        },
+        "vi": {
+          "text": "sổ lưu niệm"
+        },
+        "zh-Hans": {
+          "text": "剪贴簿",
+          "reading": "jiǎntiēbù"
+        },
+        "ja": {
+          "text": "スクラップブック",
+          "reading": "sukurappu bukku"
+        },
+        "ko": {
+          "text": "스크랩북",
+          "reading": "seukeuraepbuk"
+        },
+        "es": {
+          "text": "el álbum de recortes"
+        },
+        "fr": {
+          "text": "l'album de souvenirs"
+        },
+        "de": {
+          "text": "das Sammelalbum"
+        },
+        "id": {
+          "text": "buku tempel"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/scrapbook/source.png",
+        "still.png": "assets/scrapbook/still.png",
+        "still.webp": "assets/scrapbook/still.webp",
+        "animated.avif": "assets/scrapbook/animated.avif",
+        "motion.json": "assets/scrapbook/motion.json",
+        "meta.json": "assets/scrapbook/meta.json",
+        "reference.png": "assets/scrapbook/reference.png"
+      },
+      "sha256": {
+        "source.png": "3550f598597fea4c4fe5c84c16568ebaf926a4210abb29f5b42a8e0232a983da",
+        "still.png": "d9b21d0d8310e734324408d37b42a89e9f9e11e61a4486cb4f101d1abc83c546",
+        "still.webp": "58293508038dc97992ca3585266abf45a94087f31faac511691fc32d8b5c6c53",
+        "animated.avif": "3b397336d5c70955a3d44767642888b2c9f072bdf73e9fdf74213a2b560503de",
+        "motion.json": "21025e3feb67407db6f432b89ccd5bd9706cbe9d07e0060f361c3c097f224b84",
+        "meta.json": "1872947344753d0d6707d74d33f4f8bfb6dce181143d8ab755e0cd5a7c6398ae",
+        "reference.png": "d9b21d0d8310e734324408d37b42a89e9f9e11e61a4486cb4f101d1abc83c546"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 57468
     },
     {
       "id": "sea-anemone",
@@ -26320,6 +27899,75 @@
       "animationBytes": 58650
     },
     {
+      "id": "sock-puppet",
+      "name": "sock puppet",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "sock puppet"
+        },
+        "vi": {
+          "text": "rối bằng tất"
+        },
+        "zh-Hans": {
+          "text": "袜子偶",
+          "reading": "wà zi ǒu"
+        },
+        "ja": {
+          "text": "靴下人形",
+          "reading": "kutsushita ningyō"
+        },
+        "ko": {
+          "text": "양말 인형",
+          "reading": "yangmal inhyeong"
+        },
+        "es": {
+          "text": "la marioneta de calcetín"
+        },
+        "fr": {
+          "text": "la marionnette en chaussette"
+        },
+        "de": {
+          "text": "die Sockenpuppe"
+        },
+        "id": {
+          "text": "boneka kaus kaki"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sock-puppet/source.png",
+        "still.png": "assets/sock-puppet/still.png",
+        "still.webp": "assets/sock-puppet/still.webp",
+        "animated.avif": "assets/sock-puppet/animated.avif",
+        "motion.json": "assets/sock-puppet/motion.json",
+        "meta.json": "assets/sock-puppet/meta.json",
+        "reference.png": "assets/sock-puppet/reference.png"
+      },
+      "sha256": {
+        "source.png": "ab590ae0800ee14d0e9ec13bb6615b421e65b3a56bdab3e67fe4dbdd04027359",
+        "still.png": "a90f15ac3678a5a2483864d45847ded09dfd3bff130a0e5ebd8b8838ae2c5fe7",
+        "still.webp": "48f67201002aaa3c509707cd16097cf44c8db30888d44ad21555aa6935c23266",
+        "animated.avif": "d101f88a5dcf68fc2f96ce90de5287c03c67c5e4bb5048bb1b327f76f67ad9d1",
+        "motion.json": "4225c15ec596db1c541fd7e66929b450f768ca7c628c48bc42ee8aed933aab91",
+        "meta.json": "100cd48c27ce3043baed7daef1795a6f47f8580fccb3e812d53c4b026b918d78",
+        "reference.png": "a90f15ac3678a5a2483864d45847ded09dfd3bff130a0e5ebd8b8838ae2c5fe7"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 27205
+    },
+    {
       "id": "sofa",
       "name": "sofa",
       "category": "home",
@@ -27798,6 +29446,75 @@
       "animationBytes": 57140
     },
     {
+      "id": "sticky-note",
+      "name": "sticky note",
+      "category": "school-art",
+      "terms": {
+        "en": {
+          "text": "sticky note"
+        },
+        "vi": {
+          "text": "giấy ghi chú dán"
+        },
+        "zh-Hans": {
+          "text": "便利贴",
+          "reading": "biànlìtiē"
+        },
+        "ja": {
+          "text": "ふせん",
+          "reading": "fusen"
+        },
+        "ko": {
+          "text": "점착 메모지",
+          "reading": "jeomchak memoji"
+        },
+        "es": {
+          "text": "la nota adhesiva"
+        },
+        "fr": {
+          "text": "la note adhésive"
+        },
+        "de": {
+          "text": "der Haftzettel"
+        },
+        "id": {
+          "text": "catatan tempel"
+        }
+      },
+      "tags": [
+        "school",
+        "school-art"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/sticky-note/source.png",
+        "still.png": "assets/sticky-note/still.png",
+        "still.webp": "assets/sticky-note/still.webp",
+        "animated.avif": "assets/sticky-note/animated.avif",
+        "motion.json": "assets/sticky-note/motion.json",
+        "meta.json": "assets/sticky-note/meta.json",
+        "reference.png": "assets/sticky-note/reference.png"
+      },
+      "sha256": {
+        "source.png": "f0fa2c9440586ae71f159c46430fad5f5b20c52f75d5a0c2058a5576e1dcf8cb",
+        "still.png": "172f74c9114e7a07feff0ee1ff104d579d1fdd943e77e4ed510219c3504d7fd5",
+        "still.webp": "e27d1561e9c5402dd2b67768328c5a38a2467333d9af9a96e10e09806529ded6",
+        "animated.avif": "412909c1fe9a55711ea1d12200290f3a1d36c17b32468f7de4a1bcc01eab174b",
+        "motion.json": "6585abf42160f6636662de186ec0f35ed52fa1120eb0689e2b3d16346bc80f4b",
+        "meta.json": "48bfbebf0f482512d747797583b638753534ea621da5f6beeaf120e0827c3ef7",
+        "reference.png": "172f74c9114e7a07feff0ee1ff104d579d1fdd943e77e4ed510219c3504d7fd5"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 23449
+    },
+    {
       "id": "sticky-rice",
       "name": "sticky rice",
       "category": "meals",
@@ -28333,6 +30050,143 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 22161
+    },
+    {
+      "id": "stress-ball",
+      "name": "stress ball",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "stress ball"
+        },
+        "vi": {
+          "text": "bóng bóp mềm"
+        },
+        "zh-Hans": {
+          "text": "捏捏球",
+          "reading": "niē niē qiú"
+        },
+        "ja": {
+          "text": "ストレスボール",
+          "reading": "sutoresu bōru"
+        },
+        "ko": {
+          "text": "스트레스볼",
+          "reading": "seuteureseubol"
+        },
+        "es": {
+          "text": "la pelota antiestrés"
+        },
+        "fr": {
+          "text": "la balle antistress"
+        },
+        "de": {
+          "text": "der Stressball"
+        },
+        "id": {
+          "text": "bola antistres"
+        }
+      },
+      "tags": [
+        "things",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/stress-ball/source.png",
+        "still.png": "assets/stress-ball/still.png",
+        "still.webp": "assets/stress-ball/still.webp",
+        "animated.avif": "assets/stress-ball/animated.avif",
+        "motion.json": "assets/stress-ball/motion.json",
+        "meta.json": "assets/stress-ball/meta.json",
+        "reference.png": "assets/stress-ball/reference.png"
+      },
+      "sha256": {
+        "source.png": "ea6a5bd0c1ee1db30c77d0880f44a8519650717a7fdbdfd623c9578093a5ecf5",
+        "still.png": "440233897faf0d91f9a248b18e05a15b0d229d6c8f66ec6fd94bf36177cd7894",
+        "still.webp": "d3eb62e5eb2d24d54dc18b628d6a42195ec3327aa7ab6b48eca079de80e92547",
+        "animated.avif": "1b68b17da8e0131770f860cb5469bd89cf4747f3eac9c81ca51e59d4e7c33f3f",
+        "motion.json": "3bcb0f6275f624b12fb77c58a61df2f06dd2855d4d633b48f47c2fc7fc7d821d",
+        "meta.json": "d3862cf3c0cb22f169cede7a2dea4ddeea49d5392ede05e4c588546adb257141",
+        "reference.png": "440233897faf0d91f9a248b18e05a15b0d229d6c8f66ec6fd94bf36177cd7894"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 26596
+    },
+    {
+      "id": "submarine",
+      "name": "submarine",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "submarine"
+        },
+        "vi": {
+          "text": "tàu ngầm"
+        },
+        "zh-Hans": {
+          "text": "潜水艇",
+          "reading": "qián shuǐ tǐng"
+        },
+        "ja": {
+          "text": "潜水艦",
+          "reading": "sensuikan"
+        },
+        "ko": {
+          "text": "잠수함",
+          "reading": "jamsuham"
+        },
+        "es": {
+          "text": "el submarino"
+        },
+        "fr": {
+          "text": "le sous-marin"
+        },
+        "de": {
+          "text": "das U-Boot"
+        },
+        "id": {
+          "text": "kapal selam"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/submarine/source.png",
+        "still.png": "assets/submarine/still.png",
+        "still.webp": "assets/submarine/still.webp",
+        "animated.avif": "assets/submarine/animated.avif",
+        "motion.json": "assets/submarine/motion.json",
+        "meta.json": "assets/submarine/meta.json",
+        "reference.png": "assets/submarine/reference.png"
+      },
+      "sha256": {
+        "source.png": "2829c1da8a9129f7fb65bd9b46a20eea40adf445002f1cdf54c8343a966dd212",
+        "still.png": "229cfd54cacab3ca5a8416d8c02f4be29d32927c0b6c528ec218c5b692f2f4b5",
+        "still.webp": "df2b42ddf2a7e6937e2a856cfade25b3e72f0dd7472ecf82680e80d657b53ab0",
+        "animated.avif": "9ab461a5a5e83cbb089c0bd60ca1ed37decf5682e35ddd0220a2a4c6ebce1842",
+        "motion.json": "b20db9d780ea6120584d55d93207e9ae25518012ce12c6441f88b8a1b22bc89a",
+        "meta.json": "2303871b39c8b601d85f456bf5d4205431f072a4f90d5b52ae2b2371cbe5bdfc",
+        "reference.png": "229cfd54cacab3ca5a8416d8c02f4be29d32927c0b6c528ec218c5b692f2f4b5"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 60370
     },
     {
       "id": "sugar-apple",
@@ -28941,6 +30795,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 21255
+    },
+    {
+      "id": "tambourine",
+      "name": "tambourine",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "tambourine"
+        },
+        "vi": {
+          "text": "trống lục lạc"
+        },
+        "zh-Hans": {
+          "text": "铃鼓",
+          "reading": "líng gǔ"
+        },
+        "ja": {
+          "text": "タンバリン",
+          "reading": "tanbarin"
+        },
+        "ko": {
+          "text": "탬버린",
+          "reading": "taembeorin"
+        },
+        "es": {
+          "text": "la pandereta"
+        },
+        "fr": {
+          "text": "le tambourin"
+        },
+        "de": {
+          "text": "das Tamburin"
+        },
+        "id": {
+          "text": "tamborin"
+        }
+      },
+      "tags": [
+        "music",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/tambourine/source.png",
+        "still.png": "assets/tambourine/still.png",
+        "still.webp": "assets/tambourine/still.webp",
+        "animated.avif": "assets/tambourine/animated.avif",
+        "motion.json": "assets/tambourine/motion.json",
+        "meta.json": "assets/tambourine/meta.json",
+        "reference.png": "assets/tambourine/reference.png"
+      },
+      "sha256": {
+        "source.png": "fa7e138e79d3cfe249726b55a8e59a0620249c6fcc484313bbf9d9bff164a096",
+        "still.png": "ebf0126331f2f21d6c810c564e7d304cce8a1a715bf7737653e5228f5696c456",
+        "still.webp": "523eb333be24c3c46ea4f59caa88732ada571fb8b3c8a812c3c4b1b611200841",
+        "animated.avif": "5e58a991d519d6ed70e0c21971910de2ba40a02dba7efdfd30f35300cb435e92",
+        "motion.json": "69cd976ac4ba2708a91c966a70b84bac5a55c7f716307f5a0836f564566b3879",
+        "meta.json": "b1fbec226e32c6e5131b3f869b28367b3a1363a91c1c9d99dbe43faeac3cad99",
+        "reference.png": "ebf0126331f2f21d6c810c564e7d304cce8a1a715bf7737653e5228f5696c456"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 46460
     },
     {
       "id": "tape-dispenser",
@@ -30088,6 +32011,74 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 30895
+    },
+    {
+      "id": "tow-truck",
+      "name": "tow truck",
+      "category": "vehicles",
+      "terms": {
+        "en": {
+          "text": "tow truck"
+        },
+        "vi": {
+          "text": "xe cứu hộ"
+        },
+        "zh-Hans": {
+          "text": "拖车",
+          "reading": "tuō chē"
+        },
+        "ja": {
+          "text": "レッカー車",
+          "reading": "rekkāsha"
+        },
+        "ko": {
+          "text": "견인차",
+          "reading": "gyeonincha"
+        },
+        "es": {
+          "text": "la grúa de remolque"
+        },
+        "fr": {
+          "text": "la dépanneuse"
+        },
+        "de": {
+          "text": "der Abschleppwagen"
+        },
+        "id": {
+          "text": "truk derek"
+        }
+      },
+      "tags": [
+        "vehicles"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/tow-truck/source.png",
+        "still.png": "assets/tow-truck/still.png",
+        "still.webp": "assets/tow-truck/still.webp",
+        "animated.avif": "assets/tow-truck/animated.avif",
+        "motion.json": "assets/tow-truck/motion.json",
+        "meta.json": "assets/tow-truck/meta.json",
+        "reference.png": "assets/tow-truck/reference.png"
+      },
+      "sha256": {
+        "source.png": "589f68c4c9f7a25959f6f35d62a87337bc63cd550a5a06a286ae773aee6c5aed",
+        "still.png": "9b7d83853c4758ee47c13fb0d8c931a8a7aa06641717c1ef63faa0186204c3ed",
+        "still.webp": "5f025932e5ad3e07c2de87312f4103187321718b6b628fc34133a04daa5f64a7",
+        "animated.avif": "fa567f647f1bf945d1103ce73260a2616c791df864b7e03a3f90babd49d1d33d",
+        "motion.json": "3092eebd59b8404f5dfdf4f1001264da11470c1e26e44057b6bc2a7dc9dcd4d3",
+        "meta.json": "53810a024bd665cf33c201dd556f5b362c2ef26488489bcaab7cffed8bf6a3bd",
+        "reference.png": "9b7d83853c4758ee47c13fb0d8c931a8a7aa06641717c1ef63faa0186204c3ed"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 49321
     },
     {
       "id": "towel",
@@ -32710,6 +34701,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 50004
+    },
+    {
+      "id": "xylophone",
+      "name": "xylophone",
+      "category": "home",
+      "terms": {
+        "en": {
+          "text": "xylophone"
+        },
+        "vi": {
+          "text": "đàn mộc cầm"
+        },
+        "zh-Hans": {
+          "text": "木琴",
+          "reading": "mù qín"
+        },
+        "ja": {
+          "text": "木琴",
+          "reading": "mokkin"
+        },
+        "ko": {
+          "text": "실로폰",
+          "reading": "sillopon"
+        },
+        "es": {
+          "text": "el xilófono"
+        },
+        "fr": {
+          "text": "le xylophone"
+        },
+        "de": {
+          "text": "das Xylophon"
+        },
+        "id": {
+          "text": "xilofon"
+        }
+      },
+      "tags": [
+        "music",
+        "home"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-30-d-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/xylophone/source.png",
+        "still.png": "assets/xylophone/still.png",
+        "still.webp": "assets/xylophone/still.webp",
+        "animated.avif": "assets/xylophone/animated.avif",
+        "motion.json": "assets/xylophone/motion.json",
+        "meta.json": "assets/xylophone/meta.json",
+        "reference.png": "assets/xylophone/reference.png"
+      },
+      "sha256": {
+        "source.png": "c249949943c345809060f9a667de754e927b23f090a8c471997c96275347ec8d",
+        "still.png": "1685659834666352b1fb925b034c2b5bb9dfa53f2a17a0f1e74509212a9ceedd",
+        "still.webp": "0ee80372450ca6124cb11120f042baa08587cff962c75dbb85f091a543f481d6",
+        "animated.avif": "6837c0773c33fabb7579b0b6a4f616f4cce24bf84daafb35ecb042ff19a5cc10",
+        "motion.json": "ed4df91cfe001b2eaebd8cf14319f8bc1053f6ac21047e939e866700cf7df6a7",
+        "meta.json": "e30aa321956c7b0cd852e092202e75afa2d41aee97024ece52fe31430df0f7d2",
+        "reference.png": "1685659834666352b1fb925b034c2b5bb9dfa53f2a17a0f1e74509212a9ceedd"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 50417
     },
     {
       "id": "yak",

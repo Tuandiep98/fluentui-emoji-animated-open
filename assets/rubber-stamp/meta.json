@@ -1,0 +1,46 @@
+{
+  "id": "rubber-stamp",
+  "name": "rubber stamp",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "rubber stamp"
+    },
+    "vi": {
+      "text": "con dấu cao su"
+    },
+    "zh-Hans": {
+      "text": "橡皮印章",
+      "reading": "xiàngpí yìnzhāng"
+    },
+    "ja": {
+      "text": "ゴムいん",
+      "reading": "gomu in"
+    },
+    "ko": {
+      "text": "고무도장",
+      "reading": "gomu dojang"
+    },
+    "es": {
+      "text": "el sello de goma"
+    },
+    "fr": {
+      "text": "le tampon en caoutchouc"
+    },
+    "de": {
+      "text": "der Gummistempel"
+    },
+    "id": {
+      "text": "stempel karet"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

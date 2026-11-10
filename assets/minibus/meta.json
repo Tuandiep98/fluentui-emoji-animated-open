@@ -1,0 +1,45 @@
+{
+  "id": "minibus",
+  "name": "minibus",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "minibus"
+    },
+    "vi": {
+      "text": "xe buýt nhỏ"
+    },
+    "zh-Hans": {
+      "text": "小巴",
+      "reading": "xiǎo bā"
+    },
+    "ja": {
+      "text": "マイクロバス",
+      "reading": "maikurobasu"
+    },
+    "ko": {
+      "text": "미니버스",
+      "reading": "minibeoseu"
+    },
+    "es": {
+      "text": "el minibús"
+    },
+    "fr": {
+      "text": "le minibus"
+    },
+    "de": {
+      "text": "der Kleinbus"
+    },
+    "id": {
+      "text": "minibus"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "4e0f5d4da241508db8179ad5b7b9ec62551a5e6bdb785f41fc2e6be5f0306f12",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The complete pedal-free balance bike glides slightly and returns; both wheels, forks, handlebar and saddle keep exact original connections. No added pedals or separate wheel rig.",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.45
+      ],
+      [
+        1.45,
+        0.1575
+      ],
+      [
+        2.1,
+        -0.24750000000000003
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.12
+      ],
+      [
+        1.45,
+        0.041999999999999996
+      ],
+      [
+        2.1,
+        -0.066
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

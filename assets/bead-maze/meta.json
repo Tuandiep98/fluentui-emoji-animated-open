@@ -1,0 +1,46 @@
+{
+  "id": "bead-maze",
+  "name": "bead maze",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bead maze"
+    },
+    "vi": {
+      "text": "mê cung hạt"
+    },
+    "zh-Hans": {
+      "text": "绕珠玩具",
+      "reading": "rào zhū wán jù"
+    },
+    "ja": {
+      "text": "ルーピング玩具",
+      "reading": "rūpingu gangu"
+    },
+    "ko": {
+      "text": "구슬 미로",
+      "reading": "guseul miro"
+    },
+    "es": {
+      "text": "el laberinto de cuentas"
+    },
+    "fr": {
+      "text": "le circuit de boules"
+    },
+    "de": {
+      "text": "die Motorikschleife"
+    },
+    "id": {
+      "text": "mainan labirin manik-manik"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

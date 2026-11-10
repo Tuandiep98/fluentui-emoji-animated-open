@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "b72d18e05b85ac456b23c989553313beea2c0ceb22e2681d597ccf62fabcf10b",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The complete bulldozer makes a small chassis bob. Both tracks, cab and blade support arms keep exact geometry and joins; no independent blade lift or broken track.",
+  "tracks": {
+    "y": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.5
+      ],
+      [
+        1.45,
+        0.175
+      ],
+      [
+        2.1,
+        -0.275
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.2
+      ],
+      [
+        1.45,
+        0.06999999999999999
+      ],
+      [
+        2.1,
+        -0.11000000000000001
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "229cfd54cacab3ca5a8416d8c02f4be29d32927c0b6c528ec218c5b692f2f4b5",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The intact submarine glides gently. Periscope, portholes, fins and rear propeller assembly keep their exact original shape and attachment; no detached spinning blade.",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.7
+      ],
+      [
+        1.45,
+        0.24499999999999997
+      ],
+      [
+        2.1,
+        -0.385
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.15
+      ],
+      [
+        1.45,
+        -0.0525
+      ],
+      [
+        2.1,
+        0.0825
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

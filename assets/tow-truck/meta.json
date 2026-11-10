@@ -1,0 +1,45 @@
+{
+  "id": "tow-truck",
+  "name": "tow truck",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "tow truck"
+    },
+    "vi": {
+      "text": "xe cứu hộ"
+    },
+    "zh-Hans": {
+      "text": "拖车",
+      "reading": "tuō chē"
+    },
+    "ja": {
+      "text": "レッカー車",
+      "reading": "rekkāsha"
+    },
+    "ko": {
+      "text": "견인차",
+      "reading": "gyeonincha"
+    },
+    "es": {
+      "text": "la grúa de remolque"
+    },
+    "fr": {
+      "text": "la dépanneuse"
+    },
+    "de": {
+      "text": "der Abschleppwagen"
+    },
+    "id": {
+      "text": "truk derek"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

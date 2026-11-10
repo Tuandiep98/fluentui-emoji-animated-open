@@ -1,0 +1,46 @@
+{
+  "id": "scrapbook",
+  "name": "scrapbook",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "scrapbook"
+    },
+    "vi": {
+      "text": "sổ lưu niệm"
+    },
+    "zh-Hans": {
+      "text": "剪贴簿",
+      "reading": "jiǎntiēbù"
+    },
+    "ja": {
+      "text": "スクラップブック",
+      "reading": "sukurappu bukku"
+    },
+    "ko": {
+      "text": "스크랩북",
+      "reading": "seukeuraepbuk"
+    },
+    "es": {
+      "text": "el álbum de recortes"
+    },
+    "fr": {
+      "text": "l'album de souvenirs"
+    },
+    "de": {
+      "text": "das Sammelalbum"
+    },
+    "id": {
+      "text": "buku tempel"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

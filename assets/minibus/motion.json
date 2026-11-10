@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "808951cc8e6faf265c35598d7d57909dd1b10fdf8199d70d4dc6b7dc0934906b",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The complete minibus shifts gently, preserving windows, door, mirrors and wheels. No invented passengers, independent wheels or distorted body.",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.65
+      ],
+      [
+        1.45,
+        0.22749999999999998
+      ],
+      [
+        2.1,
+        -0.35750000000000004
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.12
+      ],
+      [
+        1.45,
+        -0.041999999999999996
+      ],
+      [
+        2.1,
+        0.066
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

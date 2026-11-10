@@ -1,0 +1,46 @@
+{
+  "id": "sock-puppet",
+  "name": "sock puppet",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "sock puppet"
+    },
+    "vi": {
+      "text": "rối bằng tất"
+    },
+    "zh-Hans": {
+      "text": "袜子偶",
+      "reading": "wà zi ǒu"
+    },
+    "ja": {
+      "text": "靴下人形",
+      "reading": "kutsushita ningyō"
+    },
+    "ko": {
+      "text": "양말 인형",
+      "reading": "yangmal inhyeong"
+    },
+    "es": {
+      "text": "la marioneta de calcetín"
+    },
+    "fr": {
+      "text": "la marionnette en chaussette"
+    },
+    "de": {
+      "text": "die Sockenpuppe"
+    },
+    "id": {
+      "text": "boneka kaus kaki"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

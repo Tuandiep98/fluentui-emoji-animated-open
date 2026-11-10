@@ -1,0 +1,45 @@
+{
+  "id": "sailboat",
+  "name": "sailboat",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "sailboat"
+    },
+    "vi": {
+      "text": "thuyền buồm"
+    },
+    "zh-Hans": {
+      "text": "帆船",
+      "reading": "fān chuán"
+    },
+    "ja": {
+      "text": "帆船",
+      "reading": "hansen"
+    },
+    "ko": {
+      "text": "돛단배",
+      "reading": "dotdanbae"
+    },
+    "es": {
+      "text": "el velero"
+    },
+    "fr": {
+      "text": "le voilier"
+    },
+    "de": {
+      "text": "das Segelboot"
+    },
+    "id": {
+      "text": "perahu layar"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

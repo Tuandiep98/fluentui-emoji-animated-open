@@ -1,0 +1,45 @@
+{
+  "id": "submarine",
+  "name": "submarine",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "submarine"
+    },
+    "vi": {
+      "text": "tàu ngầm"
+    },
+    "zh-Hans": {
+      "text": "潜水艇",
+      "reading": "qián shuǐ tǐng"
+    },
+    "ja": {
+      "text": "潜水艦",
+      "reading": "sensuikan"
+    },
+    "ko": {
+      "text": "잠수함",
+      "reading": "jamsuham"
+    },
+    "es": {
+      "text": "el submarino"
+    },
+    "fr": {
+      "text": "le sous-marin"
+    },
+    "de": {
+      "text": "das U-Boot"
+    },
+    "id": {
+      "text": "kapal selam"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

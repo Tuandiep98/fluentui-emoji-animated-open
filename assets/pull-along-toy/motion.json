@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "d6ab018028007b49744c1706a67876d683efbbc2a9f3f1e69b3e9ae236d9e8f9",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "The complete wooden duck toy rolls a little as one assembly and returns. Wheels, axles, pull cord and handle preserve exact original connections; no independent wheel or cord layers.",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.5
+      ],
+      [
+        1.45,
+        0.175
+      ],
+      [
+        2.1,
+        -0.275
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.18
+      ],
+      [
+        1.45,
+        0.063
+      ],
+      [
+        2.1,
+        -0.099
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "0abb5bf42b6a2a96a4176f43f3cd8468564983b06e5b4c1ce59b869fdb236116",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "Tiny complete-assembly sway. The continuous wire remains fixed in both anchors and each bead stays correctly threaded; no beads sliding through bends or changed crossings.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.18
+      ],
+      [
+        1.45,
+        0.063
+      ],
+      [
+        2.1,
+        -0.099
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "bulldozer",
+  "name": "bulldozer",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "bulldozer"
+    },
+    "vi": {
+      "text": "xe ủi đất"
+    },
+    "zh-Hans": {
+      "text": "推土机",
+      "reading": "tuī tǔ jī"
+    },
+    "ja": {
+      "text": "ブルドーザー",
+      "reading": "burudōzā"
+    },
+    "ko": {
+      "text": "불도저",
+      "reading": "buldojeo"
+    },
+    "es": {
+      "text": "la topadora"
+    },
+    "fr": {
+      "text": "le bulldozer"
+    },
+    "de": {
+      "text": "die Planierraupe"
+    },
+    "id": {
+      "text": "buldoser"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

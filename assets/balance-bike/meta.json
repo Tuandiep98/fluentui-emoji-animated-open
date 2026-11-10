@@ -1,0 +1,45 @@
+{
+  "id": "balance-bike",
+  "name": "balance bike",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "balance bike"
+    },
+    "vi": {
+      "text": "xe thăng bằng"
+    },
+    "zh-Hans": {
+      "text": "儿童平衡车",
+      "reading": "ér tóng píng héng chē"
+    },
+    "ja": {
+      "text": "ペダルなし自転車",
+      "reading": "pedaru nashi jitensha"
+    },
+    "ko": {
+      "text": "페달 없는 자전거",
+      "reading": "pedal eomneun jajeongeo"
+    },
+    "es": {
+      "text": "la bicicleta sin pedales"
+    },
+    "fr": {
+      "text": "le vélo sans pédales"
+    },
+    "de": {
+      "text": "das Laufrad"
+    },
+    "id": {
+      "text": "sepeda keseimbangan"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

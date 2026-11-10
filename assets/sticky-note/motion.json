@@ -1,0 +1,122 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "172f74c9114e7a07feff0ee1ff104d579d1fdd943e77e4ed510219c3504d7fd5",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          185
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          185,
+          121,
+          71
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "attached-curled-paper-edge",
+      "kind": "wave",
+      "center": [
+        179,
+        215
+      ],
+      "radius": [
+        57,
+        30
+      ],
+      "amp": 4.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.4
+        ],
+        [
+          1.4,
+          -1.54
+        ],
+        [
+          2.05,
+          2.8600000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "curled-paper-settle",
+      "kind": "press",
+      "center": [
+        179,
+        215
+      ],
+      "radius": [
+        57,
+        30
+      ],
+      "amp": 2.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          2.3
+        ],
+        [
+          1.4,
+          -0.8049999999999999
+        ],
+        [
+          2.05,
+          1.4949999999999999
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The original lower paper edge and existing curled corner gently flutter in continuous fields. Upper adhesive area stays pixel-exact; no peeling off, new fold or added paper layer."
+}

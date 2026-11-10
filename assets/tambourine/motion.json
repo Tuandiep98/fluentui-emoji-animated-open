@@ -1,0 +1,52 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "ebf0126331f2f21d6c810c564e7d304cce8a1a715bf7737653e5228f5696c456",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A short complete-tambourine shake preserves the taut drumhead, rigid circular rim and every mounted jingle pair. No separated jingles or deformed frame.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.6,
+        -0.45
+      ],
+      [
+        0.9,
+        0.25
+      ],
+      [
+        1.2,
+        -0.3
+      ],
+      [
+        1.6,
+        0.18
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

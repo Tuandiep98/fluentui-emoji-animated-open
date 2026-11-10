@@ -1,0 +1,70 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "a90f15ac3678a5a2483864d45847ded09dfd3bff130a0e5ebd8b8838ae2c5fe7",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          151
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-knitted-cuff-sway",
+      "kind": "wave",
+      "center": [
+        110,
+        201
+      ],
+      "radius": [
+        42,
+        43
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only the original lower knitted sleeve and cuff sway below the fixed face. Eyes, yarn tuft, open sock mouth and all joins retain their original pixels and facing; no moving jaw or reassembled mouth."
+}

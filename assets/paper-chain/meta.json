@@ -1,0 +1,46 @@
+{
+  "id": "paper-chain",
+  "name": "paper chain",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "paper chain"
+    },
+    "vi": {
+      "text": "dây xích giấy"
+    },
+    "zh-Hans": {
+      "text": "纸链",
+      "reading": "zhǐliàn"
+    },
+    "ja": {
+      "text": "かみのわかざり",
+      "reading": "kami no wakazari"
+    },
+    "ko": {
+      "text": "종이 고리 장식",
+      "reading": "jongi gori jangsik"
+    },
+    "es": {
+      "text": "la cadena de papel"
+    },
+    "fr": {
+      "text": "la guirlande en papier"
+    },
+    "de": {
+      "text": "die Papierkette"
+    },
+    "id": {
+      "text": "rantai kertas"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

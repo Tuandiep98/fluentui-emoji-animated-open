@@ -1,0 +1,46 @@
+{
+  "id": "xylophone",
+  "name": "xylophone",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "xylophone"
+    },
+    "vi": {
+      "text": "đàn mộc cầm"
+    },
+    "zh-Hans": {
+      "text": "木琴",
+      "reading": "mù qín"
+    },
+    "ja": {
+      "text": "木琴",
+      "reading": "mokkin"
+    },
+    "ko": {
+      "text": "실로폰",
+      "reading": "sillopon"
+    },
+    "es": {
+      "text": "el xilófono"
+    },
+    "fr": {
+      "text": "le xylophone"
+    },
+    "de": {
+      "text": "das Xylophon"
+    },
+    "id": {
+      "text": "xilofon"
+    }
+  },
+  "tags": [
+    "music",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

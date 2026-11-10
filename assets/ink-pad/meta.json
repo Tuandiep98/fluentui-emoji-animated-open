@@ -1,0 +1,46 @@
+{
+  "id": "ink-pad",
+  "name": "ink pad",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "ink pad"
+    },
+    "vi": {
+      "text": "hộp mực dấu"
+    },
+    "zh-Hans": {
+      "text": "印台",
+      "reading": "yìntái"
+    },
+    "ja": {
+      "text": "スタンプだい",
+      "reading": "sutanpu dai"
+    },
+    "ko": {
+      "text": "잉크 패드",
+      "reading": "ingkeu paedeu"
+    },
+    "es": {
+      "text": "la almohadilla de tinta"
+    },
+    "fr": {
+      "text": "le tampon encreur"
+    },
+    "de": {
+      "text": "das Stempelkissen"
+    },
+    "id": {
+      "text": "bantalan tinta"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

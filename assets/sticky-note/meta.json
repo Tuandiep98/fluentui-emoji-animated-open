@@ -1,0 +1,46 @@
+{
+  "id": "sticky-note",
+  "name": "sticky note",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "sticky note"
+    },
+    "vi": {
+      "text": "giấy ghi chú dán"
+    },
+    "zh-Hans": {
+      "text": "便利贴",
+      "reading": "biànlìtiē"
+    },
+    "ja": {
+      "text": "ふせん",
+      "reading": "fusen"
+    },
+    "ko": {
+      "text": "점착 메모지",
+      "reading": "jeomchak memoji"
+    },
+    "es": {
+      "text": "la nota adhesiva"
+    },
+    "fr": {
+      "text": "la note adhésive"
+    },
+    "de": {
+      "text": "der Haftzettel"
+    },
+    "id": {
+      "text": "catatan tempel"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

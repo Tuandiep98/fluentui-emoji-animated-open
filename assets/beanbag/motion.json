@@ -1,0 +1,60 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "5c0fe85289b3cac78ae3e3eb0254eadcb556353efcedea5981005273c0214a4d",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [
+    {
+      "name": "soft-fabric-pouch-settle",
+      "kind": "press",
+      "center": [
+        128,
+        133
+      ],
+      "radius": [
+        104,
+        95
+      ],
+      "amp": 3.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.2
+        ],
+        [
+          1.4,
+          -1.1199999999999999
+        ],
+        [
+          2.05,
+          2.08
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The original filled fabric pouch gently settles as one continuous surface. Keep stitched seam, colored side and rounded corners connected; no separate cloth layers."
+}

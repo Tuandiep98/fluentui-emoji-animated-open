@@ -1,0 +1,46 @@
+{
+  "id": "cardboard",
+  "name": "cardboard",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "cardboard"
+    },
+    "vi": {
+      "text": "bìa cứng"
+    },
+    "zh-Hans": {
+      "text": "硬纸板",
+      "reading": "yìngzhǐbǎn"
+    },
+    "ja": {
+      "text": "ボールがみ",
+      "reading": "bōrugami"
+    },
+    "ko": {
+      "text": "판지",
+      "reading": "panji"
+    },
+    "es": {
+      "text": "el cartón"
+    },
+    "fr": {
+      "text": "le carton"
+    },
+    "de": {
+      "text": "die Pappe"
+    },
+    "id": {
+      "text": "karton"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

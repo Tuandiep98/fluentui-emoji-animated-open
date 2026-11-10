@@ -1,0 +1,45 @@
+{
+  "id": "rowing-boat",
+  "name": "rowing boat",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "rowing boat"
+    },
+    "vi": {
+      "text": "thuyền chèo"
+    },
+    "zh-Hans": {
+      "text": "划艇",
+      "reading": "huá tǐng"
+    },
+    "ja": {
+      "text": "手こぎボート",
+      "reading": "tekogi bōto"
+    },
+    "ko": {
+      "text": "노 젓는 배",
+      "reading": "no jeonneun bae"
+    },
+    "es": {
+      "text": "el bote de remos"
+    },
+    "fr": {
+      "text": "la barque à rames"
+    },
+    "de": {
+      "text": "das Ruderboot"
+    },
+    "id": {
+      "text": "perahu dayung"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

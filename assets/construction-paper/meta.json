@@ -1,0 +1,46 @@
+{
+  "id": "construction-paper",
+  "name": "construction paper",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "construction paper"
+    },
+    "vi": {
+      "text": "giấy thủ công màu"
+    },
+    "zh-Hans": {
+      "text": "彩色卡纸",
+      "reading": "cǎisè kǎzhǐ"
+    },
+    "ja": {
+      "text": "いろがようし",
+      "reading": "irogayōshi"
+    },
+    "ko": {
+      "text": "색 도화지",
+      "reading": "saek dohwaji"
+    },
+    "es": {
+      "text": "la cartulina de colores"
+    },
+    "fr": {
+      "text": "le papier de couleur"
+    },
+    "de": {
+      "text": "das Tonpapier"
+    },
+    "id": {
+      "text": "kertas warna tebal"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

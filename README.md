@@ -27,22 +27,22 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**490 emoji · 11 categories**
+**520 emoji · 11 categories**
 
 | Category | Emoji |
 | --- | ---: |
-| Home | 105 |
+| Home | 115 |
 | Kitchen | 50 |
 | Garden | 50 |
 | Fruit & vegetables | 50 |
 | Food & drink | 50 |
 | Wildlife | 90 |
 | Clothing | 40 |
-| School & art | 30 |
-| Vehicles | 5 |
+| School & art | 40 |
+| Vehicles | 15 |
 | Places & community | 10 |
 | Nature | 10 |
-| **Total** | **490** |
+| **Total** | **520** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -308,3 +308,24 @@ Each `assets/<id>/` contains a transparent MIT master, frozen reference, PNG/Web
 stills, AVIF, motion recipe, translations, exact prompt and review hashes.
 Ask AI to follow this structure and contribute more familiar emoji through
 the scaffold, animate, review and approve commands to grow the open collection.
+
+## 30 more easy words: toys, school and vehicles — 2026-11-10
+
+[Preview: 30 new easy words, original beside animation](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/easy30d/).
+
+10 familiar toys/instruments, 10 school/art supplies and 10 everyday vehicles,
+with nine-language metadata. Easy words come first. Collection and category
+counts update automatically with `npm run catalog`.
+
+Every original is finalized before animation. Measured continuous fields move
+only soft fabric, paper and toy details while anchors stay fixed. Rigid vehicles
+and assemblies keep their exact facing, parts and joins. No mirrored pieces or
+reassembly. Exact neutral pixels, fixed anchors, bounds, loop, deformation and
+at least 96% silhouette overlap pass checks. Seven decoded samples per icon
+were reviewed on light/dark backgrounds, not real-time playback of every icon.
+Every AVIF is 3 seconds, 24fps and at most 60KiB.
+
+Each `assets/<id>/` includes a transparent MIT master, immutable reference,
+PNG/WebP stills, AVIF, motion recipe, translations, exact prompt and review
+hashes. Ask AI to follow this structure and contribute familiar emoji using
+the scaffold, animate, review and approve commands to grow this collection.

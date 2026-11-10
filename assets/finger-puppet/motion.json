@@ -1,0 +1,70 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "6d58eb96facd00db07b7a2395f1cf0c927187370e78843ebea673978ffb9c376",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          155
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-fabric-sleeve-sway",
+      "kind": "wave",
+      "center": [
+        129,
+        198
+      ],
+      "radius": [
+        78,
+        40
+      ],
+      "amp": 5.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.6
+        ],
+        [
+          1.4,
+          -1.9599999999999997
+        ],
+        [
+          2.05,
+          3.6399999999999997
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only the original lower fabric sleeve gently sways. Bear face, ears, muzzle and head-to-sleeve seam stay pixel-exact; no human finger, blink or mouth replacement."
+}

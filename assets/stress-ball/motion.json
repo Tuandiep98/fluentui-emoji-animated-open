@@ -1,0 +1,103 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "440233897faf0d91f9a248b18e05a15b0d229d6c8f66ec6fd94bf36177cd7894",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [
+    {
+      "name": "soft-foam-settle",
+      "kind": "press",
+      "center": [
+        128,
+        126
+      ],
+      "radius": [
+        106,
+        106
+      ],
+      "amp": 3.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.2
+        ],
+        [
+          1.4,
+          -1.1199999999999999
+        ],
+        [
+          2.05,
+          2.08
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "soft-foam-return",
+      "kind": "wave",
+      "center": [
+        126,
+        126
+      ],
+      "radius": [
+        105,
+        105
+      ],
+      "amp": 2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.44999999999999996,
+          0
+        ],
+        [
+          1.05,
+          2
+        ],
+        [
+          1.5499999999999998,
+          -0.7
+        ],
+        [
+          2.1999999999999997,
+          1.3
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The original foam ball makes a small continuous squeeze and settles. Keep the original shallow dent and rounded silhouette; no added hand, cutout or extreme squash."
+}

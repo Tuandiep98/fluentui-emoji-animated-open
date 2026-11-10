@@ -1,0 +1,46 @@
+{
+  "id": "ring-toss",
+  "name": "ring toss",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "ring toss"
+    },
+    "vi": {
+      "text": "trò ném vòng"
+    },
+    "zh-Hans": {
+      "text": "套圈游戏",
+      "reading": "tào quān yóu xì"
+    },
+    "ja": {
+      "text": "輪投げ",
+      "reading": "wanage"
+    },
+    "ko": {
+      "text": "고리 던지기",
+      "reading": "gori deonjigi"
+    },
+    "es": {
+      "text": "el juego de lanzar aros"
+    },
+    "fr": {
+      "text": "le jeu de lancer d'anneaux"
+    },
+    "de": {
+      "text": "das Ringwurfspiel"
+    },
+    "id": {
+      "text": "permainan lempar gelang"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

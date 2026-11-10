@@ -1,0 +1,46 @@
+{
+  "id": "stress-ball",
+  "name": "stress ball",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "stress ball"
+    },
+    "vi": {
+      "text": "bóng bóp mềm"
+    },
+    "zh-Hans": {
+      "text": "捏捏球",
+      "reading": "niē niē qiú"
+    },
+    "ja": {
+      "text": "ストレスボール",
+      "reading": "sutoresu bōru"
+    },
+    "ko": {
+      "text": "스트레스볼",
+      "reading": "seuteureseubol"
+    },
+    "es": {
+      "text": "la pelota antiestrés"
+    },
+    "fr": {
+      "text": "la balle antistress"
+    },
+    "de": {
+      "text": "der Stressball"
+    },
+    "id": {
+      "text": "bola antistres"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pull-along-toy",
+  "name": "pull along toy",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "pull along toy"
+    },
+    "vi": {
+      "text": "đồ chơi kéo dây"
+    },
+    "zh-Hans": {
+      "text": "拖拉玩具",
+      "reading": "tuō lā wán jù"
+    },
+    "ja": {
+      "text": "引っ張るおもちゃ",
+      "reading": "hipparu omocha"
+    },
+    "ko": {
+      "text": "끌기 장난감",
+      "reading": "kkeulgi jangnamgam"
+    },
+    "es": {
+      "text": "el juguete de arrastre"
+    },
+    "fr": {
+      "text": "le jouet à tirer"
+    },
+    "de": {
+      "text": "das Nachziehspielzeug"
+    },
+    "id": {
+      "text": "mainan tarik"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

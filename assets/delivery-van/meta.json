@@ -1,0 +1,45 @@
+{
+  "id": "delivery-van",
+  "name": "delivery van",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "delivery van"
+    },
+    "vi": {
+      "text": "xe giao hàng"
+    },
+    "zh-Hans": {
+      "text": "送货车",
+      "reading": "sòng huò chē"
+    },
+    "ja": {
+      "text": "配送用バン",
+      "reading": "haisōyō ban"
+    },
+    "ko": {
+      "text": "배송 밴",
+      "reading": "baesong baen"
+    },
+    "es": {
+      "text": "la furgoneta de reparto"
+    },
+    "fr": {
+      "text": "la camionnette de livraison"
+    },
+    "de": {
+      "text": "der Lieferwagen"
+    },
+    "id": {
+      "text": "mobil van pengiriman"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

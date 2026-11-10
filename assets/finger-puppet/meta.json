@@ -1,0 +1,46 @@
+{
+  "id": "finger-puppet",
+  "name": "finger puppet",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "finger puppet"
+    },
+    "vi": {
+      "text": "rối ngón tay"
+    },
+    "zh-Hans": {
+      "text": "手指偶",
+      "reading": "shǒu zhǐ ǒu"
+    },
+    "ja": {
+      "text": "指人形",
+      "reading": "yubi ningyō"
+    },
+    "ko": {
+      "text": "손가락 인형",
+      "reading": "songarak inhyeong"
+    },
+    "es": {
+      "text": "la marioneta de dedo"
+    },
+    "fr": {
+      "text": "la marionnette à doigt"
+    },
+    "de": {
+      "text": "die Fingerpuppe"
+    },
+    "id": {
+      "text": "boneka jari"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

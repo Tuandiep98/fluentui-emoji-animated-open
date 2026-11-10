@@ -1,0 +1,78 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "7005bcb9fa4850971d5ec72565d161817bec46f2e0bd0f1e6b9d83acb25b62ff",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A gentle complete-boat bob preserves hull, benches, both oars and their retaining clips. No invented rowing stroke or moving oars through the hull.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.45
+      ],
+      [
+        1.45,
+        -0.1575
+      ],
+      [
+        2.1,
+        0.24750000000000003
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ],
+    "y": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.4
+      ],
+      [
+        1.45,
+        0.13999999999999999
+      ],
+      [
+        2.1,
+        -0.22000000000000003
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

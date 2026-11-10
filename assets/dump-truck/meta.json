@@ -1,0 +1,45 @@
+{
+  "id": "dump-truck",
+  "name": "dump truck",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "dump truck"
+    },
+    "vi": {
+      "text": "xe ben"
+    },
+    "zh-Hans": {
+      "text": "自卸卡车",
+      "reading": "zì xiè kǎ chē"
+    },
+    "ja": {
+      "text": "ダンプカー",
+      "reading": "danpukā"
+    },
+    "ko": {
+      "text": "덤프트럭",
+      "reading": "deompeuteureok"
+    },
+    "es": {
+      "text": "el camión volquete"
+    },
+    "fr": {
+      "text": "le camion-benne"
+    },
+    "de": {
+      "text": "der Muldenkipper"
+    },
+    "id": {
+      "text": "truk jungkit"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

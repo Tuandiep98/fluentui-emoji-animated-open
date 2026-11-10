@@ -1,0 +1,46 @@
+{
+  "id": "binder",
+  "name": "binder",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "binder"
+    },
+    "vi": {
+      "text": "bìa còng"
+    },
+    "zh-Hans": {
+      "text": "活页夹",
+      "reading": "huóyèjiā"
+    },
+    "ja": {
+      "text": "バインダー",
+      "reading": "baindā"
+    },
+    "ko": {
+      "text": "바인더",
+      "reading": "baindeo"
+    },
+    "es": {
+      "text": "la carpeta de anillas"
+    },
+    "fr": {
+      "text": "le classeur"
+    },
+    "de": {
+      "text": "der Ringordner"
+    },
+    "id": {
+      "text": "map cincin"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

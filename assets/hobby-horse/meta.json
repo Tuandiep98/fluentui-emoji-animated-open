@@ -1,0 +1,46 @@
+{
+  "id": "hobby-horse",
+  "name": "hobby horse",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "hobby horse"
+    },
+    "vi": {
+      "text": "ngựa gậy"
+    },
+    "zh-Hans": {
+      "text": "马头棒玩具",
+      "reading": "mǎ tóu bàng wán jù"
+    },
+    "ja": {
+      "text": "棒馬",
+      "reading": "bōuma"
+    },
+    "ko": {
+      "text": "막대말",
+      "reading": "makdaemal"
+    },
+    "es": {
+      "text": "el caballo de palo"
+    },
+    "fr": {
+      "text": "le cheval bâton"
+    },
+    "de": {
+      "text": "das Steckenpferd"
+    },
+    "id": {
+      "text": "kuda tongkat"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

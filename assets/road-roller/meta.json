@@ -1,0 +1,45 @@
+{
+  "id": "road-roller",
+  "name": "road roller",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "road roller"
+    },
+    "vi": {
+      "text": "xe lu"
+    },
+    "zh-Hans": {
+      "text": "压路机",
+      "reading": "yā lù jī"
+    },
+    "ja": {
+      "text": "ロードローラー",
+      "reading": "rōdo rōrā"
+    },
+    "ko": {
+      "text": "도로 롤러",
+      "reading": "doro rolleo"
+    },
+    "es": {
+      "text": "la apisonadora"
+    },
+    "fr": {
+      "text": "le rouleau compresseur"
+    },
+    "de": {
+      "text": "die Straßenwalze"
+    },
+    "id": {
+      "text": "mesin penggilas jalan"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-d-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}
