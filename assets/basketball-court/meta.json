@@ -1,0 +1,46 @@
+{
+  "id": "basketball-court",
+  "name": "basketball court",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "basketball court"
+    },
+    "vi": {
+      "text": "sân bóng rổ"
+    },
+    "zh-Hans": {
+      "text": "篮球场",
+      "reading": "lán qiú chǎng"
+    },
+    "ja": {
+      "text": "バスケットボールコート",
+      "reading": "basukettobōru kōto"
+    },
+    "ko": {
+      "text": "농구장",
+      "reading": "nonggujang"
+    },
+    "es": {
+      "text": "la cancha de baloncesto"
+    },
+    "fr": {
+      "text": "le terrain de basket"
+    },
+    "de": {
+      "text": "der Basketballplatz"
+    },
+    "id": {
+      "text": "lapangan basket"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

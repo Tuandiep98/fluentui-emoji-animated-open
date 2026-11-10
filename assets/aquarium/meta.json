@@ -1,0 +1,46 @@
+{
+  "id": "aquarium",
+  "name": "aquarium",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "aquarium"
+    },
+    "vi": {
+      "text": "thủy cung"
+    },
+    "zh-Hans": {
+      "text": "水族馆",
+      "reading": "shuǐ zú guǎn"
+    },
+    "ja": {
+      "text": "水族館",
+      "reading": "suizokukan"
+    },
+    "ko": {
+      "text": "수족관",
+      "reading": "sujokgwan"
+    },
+    "es": {
+      "text": "el acuario"
+    },
+    "fr": {
+      "text": "l'aquarium"
+    },
+    "de": {
+      "text": "das Aquarium"
+    },
+    "id": {
+      "text": "akuarium umum"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

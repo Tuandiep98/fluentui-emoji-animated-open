@@ -1,0 +1,46 @@
+{
+  "id": "orchard",
+  "name": "orchard",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "orchard"
+    },
+    "vi": {
+      "text": "vườn cây ăn quả"
+    },
+    "zh-Hans": {
+      "text": "果园",
+      "reading": "guǒ yuán"
+    },
+    "ja": {
+      "text": "果樹園",
+      "reading": "kajuen"
+    },
+    "ko": {
+      "text": "과수원",
+      "reading": "gwasuwon"
+    },
+    "es": {
+      "text": "el huerto de árboles frutales"
+    },
+    "fr": {
+      "text": "le verger"
+    },
+    "de": {
+      "text": "der Obstgarten"
+    },
+    "id": {
+      "text": "kebun buah"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

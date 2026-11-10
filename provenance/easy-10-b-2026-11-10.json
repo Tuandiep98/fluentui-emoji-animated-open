@@ -1,0 +1,22 @@
+{
+  "count": 10,
+  "ids": [
+    "parking-lot",
+    "bus-station",
+    "pedestrian-crossing",
+    "football-pitch",
+    "basketball-court",
+    "tennis-court",
+    "museum",
+    "aquarium",
+    "orchard",
+    "lighthouse"
+  ],
+  "license": "MIT",
+  "sourceBaseCommit": "d4387b600b681a463e8c2d81f53278b944d4eced",
+  "sourceState": "committed reviewed release; per-file hashes are authoritative",
+  "categories": {
+    "community": 10
+  },
+  "sourceCommit": "f1569c54391017b36aefa464fb65a6e20f85b0d5"
+}

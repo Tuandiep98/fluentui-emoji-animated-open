@@ -1,0 +1,46 @@
+{
+  "id": "parking-lot",
+  "name": "parking lot",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "parking lot"
+    },
+    "vi": {
+      "text": "bãi đỗ xe"
+    },
+    "zh-Hans": {
+      "text": "停车场",
+      "reading": "tíng chē chǎng"
+    },
+    "ja": {
+      "text": "駐車場",
+      "reading": "chūshajō"
+    },
+    "ko": {
+      "text": "주차장",
+      "reading": "juchajang"
+    },
+    "es": {
+      "text": "el aparcamiento"
+    },
+    "fr": {
+      "text": "le parking"
+    },
+    "de": {
+      "text": "der Parkplatz"
+    },
+    "id": {
+      "text": "tempat parkir"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

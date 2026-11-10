@@ -1,0 +1,46 @@
+{
+  "id": "tennis-court",
+  "name": "tennis court",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "tennis court"
+    },
+    "vi": {
+      "text": "sân quần vợt"
+    },
+    "zh-Hans": {
+      "text": "网球场",
+      "reading": "wǎng qiú chǎng"
+    },
+    "ja": {
+      "text": "テニスコート",
+      "reading": "tenisu kōto"
+    },
+    "ko": {
+      "text": "테니스 코트",
+      "reading": "teniseu koteu"
+    },
+    "es": {
+      "text": "la pista de tenis"
+    },
+    "fr": {
+      "text": "le court de tennis"
+    },
+    "de": {
+      "text": "der Tennisplatz"
+    },
+    "id": {
+      "text": "lapangan tenis"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

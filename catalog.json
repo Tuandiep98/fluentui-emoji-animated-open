@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "MIT",
-  "count": 550,
+  "count": 560,
   "entries": [
     {
       "id": "aardvark",
@@ -750,6 +750,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 27560
+    },
+    {
+      "id": "aquarium",
+      "name": "aquarium",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "aquarium"
+        },
+        "vi": {
+          "text": "thủy cung"
+        },
+        "zh-Hans": {
+          "text": "水族馆",
+          "reading": "shuǐ zú guǎn"
+        },
+        "ja": {
+          "text": "水族館",
+          "reading": "suizokukan"
+        },
+        "ko": {
+          "text": "수족관",
+          "reading": "sujokgwan"
+        },
+        "es": {
+          "text": "el acuario"
+        },
+        "fr": {
+          "text": "l'aquarium"
+        },
+        "de": {
+          "text": "das Aquarium"
+        },
+        "id": {
+          "text": "akuarium umum"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/aquarium/source.png",
+        "still.png": "assets/aquarium/still.png",
+        "still.webp": "assets/aquarium/still.webp",
+        "animated.avif": "assets/aquarium/animated.avif",
+        "motion.json": "assets/aquarium/motion.json",
+        "meta.json": "assets/aquarium/meta.json",
+        "reference.png": "assets/aquarium/reference.png"
+      },
+      "sha256": {
+        "source.png": "271116adcc6e72866fe323f4a2341656b478e352b60c0390e6a84602c1838911",
+        "still.png": "fc69d578339f835d017f99d323856e37d70de0239cfebc7d4984fe3cb8ca6729",
+        "still.webp": "a2e409b903b65d808819adbaf68e427c05cf63fde408073f2a0304fad4c8f475",
+        "animated.avif": "b46b55c51f005941d0f3f890e68105eb336dc2488b23496f8644753ada3b776f",
+        "motion.json": "87c603cb7023e7d0a8b4dde19d1f60055f8eb2d23702e5311a476e0a694f8292",
+        "meta.json": "4c25fb6fdc50f22c5ddee9b4b448e47215fb39f58a54501312d66a517803b59b",
+        "reference.png": "fc69d578339f835d017f99d323856e37d70de0239cfebc7d4984fe3cb8ca6729"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 58867
     },
     {
       "id": "armadillo",
@@ -1683,6 +1752,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 17011
+    },
+    {
+      "id": "basketball-court",
+      "name": "basketball court",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "basketball court"
+        },
+        "vi": {
+          "text": "sân bóng rổ"
+        },
+        "zh-Hans": {
+          "text": "篮球场",
+          "reading": "lán qiú chǎng"
+        },
+        "ja": {
+          "text": "バスケットボールコート",
+          "reading": "basukettobōru kōto"
+        },
+        "ko": {
+          "text": "농구장",
+          "reading": "nonggujang"
+        },
+        "es": {
+          "text": "la cancha de baloncesto"
+        },
+        "fr": {
+          "text": "le terrain de basket"
+        },
+        "de": {
+          "text": "der Basketballplatz"
+        },
+        "id": {
+          "text": "lapangan basket"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/basketball-court/source.png",
+        "still.png": "assets/basketball-court/still.png",
+        "still.webp": "assets/basketball-court/still.webp",
+        "animated.avif": "assets/basketball-court/animated.avif",
+        "motion.json": "assets/basketball-court/motion.json",
+        "meta.json": "assets/basketball-court/meta.json",
+        "reference.png": "assets/basketball-court/reference.png"
+      },
+      "sha256": {
+        "source.png": "443d2bf5e782a5ac158bcc9a070ae1b68c302c4fc74dadba670250df965a21d0",
+        "still.png": "aa2db432fb867d7f199f76b3c8d44062544e8a75d2f7c686e506888199137df2",
+        "still.webp": "3505d15b746b1c990a5a5c066131ff223a296fab46700fe5059b63eae6de5881",
+        "animated.avif": "6581a7df3713fcd19c2551323b2881a606baa40cec7ce1e8d9a061f404af639b",
+        "motion.json": "45589906d76757a6830173797c6bd95c72962251e1e46b15f1da8138a51c4575",
+        "meta.json": "bdb13f34657446a857334f9182458cb37c4df4365b1674de504cfb870cb95b68",
+        "reference.png": "aa2db432fb867d7f199f76b3c8d44062544e8a75d2f7c686e506888199137df2"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 59566
     },
     {
       "id": "bath-mat",
@@ -4580,6 +4718,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 24210
+    },
+    {
+      "id": "bus-station",
+      "name": "bus station",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "bus station"
+        },
+        "vi": {
+          "text": "bến xe buýt"
+        },
+        "zh-Hans": {
+          "text": "公交总站",
+          "reading": "gōng jiāo zǒng zhàn"
+        },
+        "ja": {
+          "text": "バスターミナル",
+          "reading": "basu tāminaru"
+        },
+        "ko": {
+          "text": "버스 터미널",
+          "reading": "beoseu teomineol"
+        },
+        "es": {
+          "text": "la estación de autobuses"
+        },
+        "fr": {
+          "text": "la gare routière"
+        },
+        "de": {
+          "text": "der Busbahnhof"
+        },
+        "id": {
+          "text": "terminal bus"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/bus-station/source.png",
+        "still.png": "assets/bus-station/still.png",
+        "still.webp": "assets/bus-station/still.webp",
+        "animated.avif": "assets/bus-station/animated.avif",
+        "motion.json": "assets/bus-station/motion.json",
+        "meta.json": "assets/bus-station/meta.json",
+        "reference.png": "assets/bus-station/reference.png"
+      },
+      "sha256": {
+        "source.png": "6329d3c6011e9d4eb5cb1ada963ef49446cc38549855260bc750c86e9ed14798",
+        "still.png": "e401aa2fcb1fbfb4b64c68489e36fd4cb6263de412456c2297591555c5bbe9af",
+        "still.webp": "05706f32b30b4eb051c0e1bdb069577cb16a266821c4f1d1ad4920326f6092b0",
+        "animated.avif": "3afa5b61e24347c9b8b08629e7d9bb3216f74f2a8e7ae3325bb34efb38f787cb",
+        "motion.json": "2f8e69f7b7560fa8a86597308e435799f73e71cc3d4c0cfd6b5dcf0e7b13cd60",
+        "meta.json": "90885056157d6a51ab99ea2fe9fbc1d81795074bdb810b8bcd5d8666b8f3b8db",
+        "reference.png": "e401aa2fcb1fbfb4b64c68489e36fd4cb6263de412456c2297591555c5bbe9af"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 41108
     },
     {
       "id": "butterflyfish",
@@ -11723,6 +11930,75 @@
       "animationBytes": 29150
     },
     {
+      "id": "football-pitch",
+      "name": "football pitch",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "football pitch"
+        },
+        "vi": {
+          "text": "sân bóng đá"
+        },
+        "zh-Hans": {
+          "text": "足球场",
+          "reading": "zú qiú chǎng"
+        },
+        "ja": {
+          "text": "サッカー場",
+          "reading": "sakkājō"
+        },
+        "ko": {
+          "text": "축구장",
+          "reading": "chukgujang"
+        },
+        "es": {
+          "text": "el campo de fútbol"
+        },
+        "fr": {
+          "text": "le terrain de football"
+        },
+        "de": {
+          "text": "der Fußballplatz"
+        },
+        "id": {
+          "text": "lapangan sepak bola"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/football-pitch/source.png",
+        "still.png": "assets/football-pitch/still.png",
+        "still.webp": "assets/football-pitch/still.webp",
+        "animated.avif": "assets/football-pitch/animated.avif",
+        "motion.json": "assets/football-pitch/motion.json",
+        "meta.json": "assets/football-pitch/meta.json",
+        "reference.png": "assets/football-pitch/reference.png"
+      },
+      "sha256": {
+        "source.png": "ebea87c0226f374f589228db1384f0bc5c4cb7dbcda5625447f4fe4fb89cb285",
+        "still.png": "8222210c6b3f6bfcd41c1c45b3b8b130308c2c2092d70b2e7d9b1fba7996cbec",
+        "still.webp": "0a77c776c387da0a6680448e08a6d822efc5f03da16883cfe280543b55378b52",
+        "animated.avif": "1e3ae55b9b5167357244ec1855e19225611e4d469d1e8b9c0686d4f8c231a864",
+        "motion.json": "7949891bacfc44ddecbf579942b51d2cf4011030753fe8d344e9cc31c76edfb9",
+        "meta.json": "4c82a5e302846c5cc710e80d8c8c3ca44332a897c65f7132ad6b2f64691959ca",
+        "reference.png": "8222210c6b3f6bfcd41c1c45b3b8b130308c2c2092d70b2e7d9b1fba7996cbec"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 38526
+    },
+    {
       "id": "forest",
       "name": "forest",
       "category": "nature",
@@ -17048,6 +17324,75 @@
       "animationBytes": 28902
     },
     {
+      "id": "lighthouse",
+      "name": "lighthouse",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "lighthouse"
+        },
+        "vi": {
+          "text": "ngọn hải đăng"
+        },
+        "zh-Hans": {
+          "text": "灯塔",
+          "reading": "dēng tǎ"
+        },
+        "ja": {
+          "text": "灯台",
+          "reading": "tōdai"
+        },
+        "ko": {
+          "text": "등대",
+          "reading": "deungdae"
+        },
+        "es": {
+          "text": "el faro"
+        },
+        "fr": {
+          "text": "le phare"
+        },
+        "de": {
+          "text": "der Leuchtturm"
+        },
+        "id": {
+          "text": "mercusuar"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/lighthouse/source.png",
+        "still.png": "assets/lighthouse/still.png",
+        "still.webp": "assets/lighthouse/still.webp",
+        "animated.avif": "assets/lighthouse/animated.avif",
+        "motion.json": "assets/lighthouse/motion.json",
+        "meta.json": "assets/lighthouse/meta.json",
+        "reference.png": "assets/lighthouse/reference.png"
+      },
+      "sha256": {
+        "source.png": "c88d1a8f49d7f48760c65d61a9d19001a94456780333b65d058b234bedec3be6",
+        "still.png": "c6de01b420b417568aa90c646445b4556c3dc5cfa69fdba5d7bb4126ed24dbd7",
+        "still.webp": "622cce00641a0cfb233d421a1b0bf4139c4be5a9e0b55de8b18f5056be82d8ea",
+        "animated.avif": "edd927af314e958faabd80e6a5f3c51af6202345bc74cc54a5fe0e93a74706af",
+        "motion.json": "5f1ae8e85f0496988a1ae89576c32515e4d18922d671d34c52aed23edf60b2ed",
+        "meta.json": "be5d08e7e4a8264fc732c5cecb7c5246c7932dd18fe823df5674761a681527ad",
+        "reference.png": "c6de01b420b417568aa90c646445b4556c3dc5cfa69fdba5d7bb4126ed24dbd7"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 45569
+    },
+    {
       "id": "lionfish",
       "name": "lionfish",
       "category": "wildlife",
@@ -19536,6 +19881,75 @@
       "animationBytes": 26198
     },
     {
+      "id": "museum",
+      "name": "museum",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "museum"
+        },
+        "vi": {
+          "text": "bảo tàng"
+        },
+        "zh-Hans": {
+          "text": "博物馆",
+          "reading": "bó wù guǎn"
+        },
+        "ja": {
+          "text": "博物館",
+          "reading": "hakubutsukan"
+        },
+        "ko": {
+          "text": "박물관",
+          "reading": "bangmulgwan"
+        },
+        "es": {
+          "text": "el museo"
+        },
+        "fr": {
+          "text": "le musée"
+        },
+        "de": {
+          "text": "das Museum"
+        },
+        "id": {
+          "text": "museum"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/museum/source.png",
+        "still.png": "assets/museum/still.png",
+        "still.webp": "assets/museum/still.webp",
+        "animated.avif": "assets/museum/animated.avif",
+        "motion.json": "assets/museum/motion.json",
+        "meta.json": "assets/museum/meta.json",
+        "reference.png": "assets/museum/reference.png"
+      },
+      "sha256": {
+        "source.png": "30a7f87d6c62a65de8b8ed0b27ee0253ca90c060897f51ad63b85193be04660e",
+        "still.png": "8efab92bb757c91984d8ae2742f72d418a9fbc67f27583e68cabe60aba0aef5b",
+        "still.webp": "724eca3d2e8c0e8692281735c4dc07fb226afa2bb209ae7159d1610462eb07bd",
+        "animated.avif": "d81f56fb845d1fe6b7e9ddb60cbc666fce6083cc13cfb108dd3684669faa06cc",
+        "motion.json": "5edfdbc13cfde48845949d7a7f5f55c50ea6a33ff43e151ff4132cfaf8fdf077",
+        "meta.json": "42b7788a941664eb7ac308b6a61a7402cbb0292061a4aece742557b159f943ff",
+        "reference.png": "8efab92bb757c91984d8ae2742f72d418a9fbc67f27583e68cabe60aba0aef5b"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 52339
+    },
+    {
       "id": "musk-ox",
       "name": "musk ox",
       "category": "wildlife",
@@ -20753,6 +21167,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 26370
+    },
+    {
+      "id": "orchard",
+      "name": "orchard",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "orchard"
+        },
+        "vi": {
+          "text": "vườn cây ăn quả"
+        },
+        "zh-Hans": {
+          "text": "果园",
+          "reading": "guǒ yuán"
+        },
+        "ja": {
+          "text": "果樹園",
+          "reading": "kajuen"
+        },
+        "ko": {
+          "text": "과수원",
+          "reading": "gwasuwon"
+        },
+        "es": {
+          "text": "el huerto de árboles frutales"
+        },
+        "fr": {
+          "text": "le verger"
+        },
+        "de": {
+          "text": "der Obstgarten"
+        },
+        "id": {
+          "text": "kebun buah"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/orchard/source.png",
+        "still.png": "assets/orchard/still.png",
+        "still.webp": "assets/orchard/still.webp",
+        "animated.avif": "assets/orchard/animated.avif",
+        "motion.json": "assets/orchard/motion.json",
+        "meta.json": "assets/orchard/meta.json",
+        "reference.png": "assets/orchard/reference.png"
+      },
+      "sha256": {
+        "source.png": "7742056fb4dd44df9a4bc9c215a0c21855b951da6561f2884b98c121ebcfefdc",
+        "still.png": "ae2625c46a677024a400a0813519707f6f61610c1527254977b1eecaf28e04b8",
+        "still.webp": "15e25889685097f2b6f97a00702bda97713ae59cf3b346bff6b4d7ee5c32dc9c",
+        "animated.avif": "6842098aa2911336d56d2976b2c8f1c76ec8441402498469126b5405aaaab93d",
+        "motion.json": "73da616dda077710170bbe488455041b8e4c2eec0f6af06de72d6009cd68e1d6",
+        "meta.json": "f732507670e95f7368d88f6c636b1e22bda650ba5e3f5ce73251c3a28eef0c65",
+        "reference.png": "ae2625c46a677024a400a0813519707f6f61610c1527254977b1eecaf28e04b8"
+      },
+      "preset": "still",
+      "motionType": "organic",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 38468
     },
     {
       "id": "origami",
@@ -22048,6 +22531,75 @@
       "animationBytes": 28778
     },
     {
+      "id": "parking-lot",
+      "name": "parking lot",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "parking lot"
+        },
+        "vi": {
+          "text": "bãi đỗ xe"
+        },
+        "zh-Hans": {
+          "text": "停车场",
+          "reading": "tíng chē chǎng"
+        },
+        "ja": {
+          "text": "駐車場",
+          "reading": "chūshajō"
+        },
+        "ko": {
+          "text": "주차장",
+          "reading": "juchajang"
+        },
+        "es": {
+          "text": "el aparcamiento"
+        },
+        "fr": {
+          "text": "le parking"
+        },
+        "de": {
+          "text": "der Parkplatz"
+        },
+        "id": {
+          "text": "tempat parkir"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/parking-lot/source.png",
+        "still.png": "assets/parking-lot/still.png",
+        "still.webp": "assets/parking-lot/still.webp",
+        "animated.avif": "assets/parking-lot/animated.avif",
+        "motion.json": "assets/parking-lot/motion.json",
+        "meta.json": "assets/parking-lot/meta.json",
+        "reference.png": "assets/parking-lot/reference.png"
+      },
+      "sha256": {
+        "source.png": "5bf78f6a7e2251342f526dfab64391fc274d4e6662f160b01ad2e72dc2a19a01",
+        "still.png": "ee1c38b143aa24cd2af70fb601e524f9a60c66f6def58cbd613d028c93f92520",
+        "still.webp": "345a2939c9fdb9b84f8da316ac4986e513652d795bc2978a2d4fd718456d6c83",
+        "animated.avif": "e4dea898ce655ea2c5eaaa0e6df3371d64f79a76fb8f666c86983927b2f0047f",
+        "motion.json": "7daa8905573d9eb92114d49f8111da9885afa68c29548f7f9e9c7fd39161d660",
+        "meta.json": "a44c2cc8931cacb6a43db9895ba567c5d357d1a9c7508acba0afc136da84e7c4",
+        "reference.png": "ee1c38b143aa24cd2af70fb601e524f9a60c66f6def58cbd613d028c93f92520"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 39509
+    },
+    {
       "id": "parrotfish",
       "name": "parrotfish",
       "category": "wildlife",
@@ -22384,6 +22936,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 44024
+    },
+    {
+      "id": "pedestrian-crossing",
+      "name": "pedestrian crossing",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "pedestrian crossing"
+        },
+        "vi": {
+          "text": "vạch qua đường"
+        },
+        "zh-Hans": {
+          "text": "人行横道",
+          "reading": "rén xíng héng dào"
+        },
+        "ja": {
+          "text": "横断歩道",
+          "reading": "ōdan hodō"
+        },
+        "ko": {
+          "text": "횡단보도",
+          "reading": "hoengdanbodo"
+        },
+        "es": {
+          "text": "el paso de peatones"
+        },
+        "fr": {
+          "text": "le passage piéton"
+        },
+        "de": {
+          "text": "der Fußgängerüberweg"
+        },
+        "id": {
+          "text": "penyeberangan pejalan kaki"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/pedestrian-crossing/source.png",
+        "still.png": "assets/pedestrian-crossing/still.png",
+        "still.webp": "assets/pedestrian-crossing/still.webp",
+        "animated.avif": "assets/pedestrian-crossing/animated.avif",
+        "motion.json": "assets/pedestrian-crossing/motion.json",
+        "meta.json": "assets/pedestrian-crossing/meta.json",
+        "reference.png": "assets/pedestrian-crossing/reference.png"
+      },
+      "sha256": {
+        "source.png": "b5eab614b3ede601cb4f67745e382ecc891dcff1a26ab2fa046a1d3a9eccc736",
+        "still.png": "1a50dc780f31c8c40541c47d0318b9ac72892d488a5623f97672d9ebf30c2ac9",
+        "still.webp": "2538f2a68c5e6a8200eb913adbd56dfbeac2bb2eb58c78877753913baabc7412",
+        "animated.avif": "4af6d12ad361c2a68ad3dc6bf7c6d1cbb234f3707fb729501cf52470f92385d9",
+        "motion.json": "0ed89b37e3099bd89e60543d3fc4e53611a7350732a05dd808a6863c6168b727",
+        "meta.json": "22a80fac6a990f58a44f11fcbd13c57a97df5ce34a02b26d577ac12e7767b0cf",
+        "reference.png": "1a50dc780f31c8c40541c47d0318b9ac72892d488a5623f97672d9ebf30c2ac9"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 42158
     },
     {
       "id": "peeler",
@@ -33057,6 +33678,75 @@
       "fps": 24,
       "duration": 3,
       "animationBytes": 52918
+    },
+    {
+      "id": "tennis-court",
+      "name": "tennis court",
+      "category": "community",
+      "terms": {
+        "en": {
+          "text": "tennis court"
+        },
+        "vi": {
+          "text": "sân quần vợt"
+        },
+        "zh-Hans": {
+          "text": "网球场",
+          "reading": "wǎng qiú chǎng"
+        },
+        "ja": {
+          "text": "テニスコート",
+          "reading": "tenisu kōto"
+        },
+        "ko": {
+          "text": "테니스 코트",
+          "reading": "teniseu koteu"
+        },
+        "es": {
+          "text": "la pista de tenis"
+        },
+        "fr": {
+          "text": "le court de tennis"
+        },
+        "de": {
+          "text": "der Tennisplatz"
+        },
+        "id": {
+          "text": "lapangan tenis"
+        }
+      },
+      "tags": [
+        "places",
+        "community"
+      ],
+      "license": "MIT",
+      "origin": "original-ai-generated",
+      "release": "easy-10-b-2026-11-10",
+      "addedAt": "2026-11-10",
+      "status": "ready",
+      "files": {
+        "source.png": "assets/tennis-court/source.png",
+        "still.png": "assets/tennis-court/still.png",
+        "still.webp": "assets/tennis-court/still.webp",
+        "animated.avif": "assets/tennis-court/animated.avif",
+        "motion.json": "assets/tennis-court/motion.json",
+        "meta.json": "assets/tennis-court/meta.json",
+        "reference.png": "assets/tennis-court/reference.png"
+      },
+      "sha256": {
+        "source.png": "8e0ba0ba093cd8508dac835adcc80ffc16fe0e1c74f6c06776642f94024da770",
+        "still.png": "bdb6dd4920ee1c0bdcafd7cb9f84d8a575a1a6a4403c0bfd4cb8a64ac16a2f97",
+        "still.webp": "69f5b7163861be49578952d2032dbd24418ede47d8c76433dfd8d08fd5eb96d2",
+        "animated.avif": "35de10e74b4b505192a51b8b1d750ebceec5097fc84acf807238f6cdb09c25be",
+        "motion.json": "5fb0f2c663db258199e94ef7fcd1ec8332a146b4d7932de4dcf3802f2b059d1c",
+        "meta.json": "4829268cd82abb4184af3616362f12082ee4838d1f41a0b0f3d27ad1154ff6b9",
+        "reference.png": "bdb6dd4920ee1c0bdcafd7cb9f84d8a575a1a6a4403c0bfd4cb8a64ac16a2f97"
+      },
+      "preset": "still",
+      "motionType": "rigid",
+      "fps": 24,
+      "duration": 3,
+      "animationBytes": 51052
     },
     {
       "id": "tern",

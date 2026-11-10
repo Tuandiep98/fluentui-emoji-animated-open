@@ -1,0 +1,46 @@
+{
+  "id": "bus-station",
+  "name": "bus station",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "bus station"
+    },
+    "vi": {
+      "text": "bến xe buýt"
+    },
+    "zh-Hans": {
+      "text": "公交总站",
+      "reading": "gōng jiāo zǒng zhàn"
+    },
+    "ja": {
+      "text": "バスターミナル",
+      "reading": "basu tāminaru"
+    },
+    "ko": {
+      "text": "버스 터미널",
+      "reading": "beoseu teomineol"
+    },
+    "es": {
+      "text": "la estación de autobuses"
+    },
+    "fr": {
+      "text": "la gare routière"
+    },
+    "de": {
+      "text": "der Busbahnhof"
+    },
+    "id": {
+      "text": "terminal bus"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -27,7 +27,7 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**550 emoji · 12 categories**
+**560 emoji · 12 categories**
 
 | Category | Emoji |
 | --- | ---: |
@@ -41,9 +41,9 @@ Search names and translations in nine languages, filter categories, preview moti
 | School & art | 40 |
 | Tools & safety | 10 |
 | Vehicles | 15 |
-| Places & community | 20 |
+| Places & community | 30 |
 | Nature | 20 |
-| **Total** | **550** |
+| **Total** | **560** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -347,6 +347,28 @@ neutral pixels, anchors, loop, bounds, deformation and at least 96% silhouette
 overlap pass checks. Seven decoded samples per icon are reviewed on light/dark
 backgrounds, not real-time playback of every icon. Each AVIF is 3 seconds, 24fps
 and at most 60KiB.
+
+Each `assets/<id>/` contains the transparent MIT master, immutable reference,
+PNG/WebP stills, AVIF, motion recipe, translations, exact prompt and review hashes.
+Ask AI to follow this structure and contribute familiar emoji using the scaffold,
+animate, review and approve commands to grow the collection.
+
+## 10 more easy words: familiar places — 2026-11-10
+
+[Preview: 10 new easy words, original beside animation](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/easy10b/).
+
+Parking lot, bus station, pedestrian crossing, football pitch, basketball court,
+tennis court, museum, aquarium, orchard and lighthouse. All include nine-language
+metadata. Familiar words come before specialist vocabulary. Collection and category
+counts update automatically with `npm run catalog`.
+
+Original artwork is finalized and frozen before animation. Buildings, court lines,
+goals and nets preserve their exact original assembly and orientation. Any soft
+foliage movement uses a continuous field with fixed roots and trunks. No cutout
+reassembly or mirrored pieces. Exact neutral pixels, anchors, loop, bounds,
+deformation and at least 96% silhouette overlap pass checks. Seven decoded
+samples per icon are reviewed on light/dark backgrounds, not real-time playback
+of every icon. Each AVIF is 3 seconds, 24fps and at most 60KiB.
 
 Each `assets/<id>/` contains the transparent MIT master, immutable reference,
 PNG/WebP stills, AVIF, motion recipe, translations, exact prompt and review hashes.

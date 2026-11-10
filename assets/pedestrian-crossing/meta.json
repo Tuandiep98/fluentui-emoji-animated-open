@@ -1,0 +1,46 @@
+{
+  "id": "pedestrian-crossing",
+  "name": "pedestrian crossing",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "pedestrian crossing"
+    },
+    "vi": {
+      "text": "vạch qua đường"
+    },
+    "zh-Hans": {
+      "text": "人行横道",
+      "reading": "rén xíng héng dào"
+    },
+    "ja": {
+      "text": "横断歩道",
+      "reading": "ōdan hodō"
+    },
+    "ko": {
+      "text": "횡단보도",
+      "reading": "hoengdanbodo"
+    },
+    "es": {
+      "text": "el paso de peatones"
+    },
+    "fr": {
+      "text": "le passage piéton"
+    },
+    "de": {
+      "text": "der Fußgängerüberweg"
+    },
+    "id": {
+      "text": "penyeberangan pejalan kaki"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

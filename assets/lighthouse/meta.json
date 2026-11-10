@@ -1,0 +1,46 @@
+{
+  "id": "lighthouse",
+  "name": "lighthouse",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "lighthouse"
+    },
+    "vi": {
+      "text": "ngọn hải đăng"
+    },
+    "zh-Hans": {
+      "text": "灯塔",
+      "reading": "dēng tǎ"
+    },
+    "ja": {
+      "text": "灯台",
+      "reading": "tōdai"
+    },
+    "ko": {
+      "text": "등대",
+      "reading": "deungdae"
+    },
+    "es": {
+      "text": "el faro"
+    },
+    "fr": {
+      "text": "le phare"
+    },
+    "de": {
+      "text": "der Leuchtturm"
+    },
+    "id": {
+      "text": "mercusuar"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

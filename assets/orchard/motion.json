@@ -1,0 +1,174 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "ae2625c46a677024a400a0813519707f6f61610c1527254977b1eecaf28e04b8",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          162,
+          256,
+          94
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          110,
+          84,
+          52
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          182,
+          110,
+          74,
+          52
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "left-upper-canopy",
+      "kind": "wave",
+      "center": [
+        76,
+        65
+      ],
+      "radius": [
+        55,
+        44
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "right-upper-canopy",
+      "kind": "wave",
+      "center": [
+        188,
+        68
+      ],
+      "radius": [
+        47,
+        42
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          4
+        ],
+        [
+          1.5,
+          -1.4
+        ],
+        [
+          2.15,
+          2.6
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "front-canopy",
+      "kind": "wave",
+      "center": [
+        133,
+        130
+      ],
+      "radius": [
+        49,
+        32
+      ],
+      "amp": 3.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.44999999999999996,
+          0
+        ],
+        [
+          1.05,
+          3.6
+        ],
+        [
+          1.5499999999999998,
+          -1.26
+        ],
+        [
+          2.1999999999999997,
+          2.3400000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "A light breeze moves the three original canopies continuously. Apples remain attached within their original canopies; lower canopy joins, all trunks, roots and ground are pixel-fixed. No separated layers, mirrored branches, moving fruit independently or reassembly."
+}

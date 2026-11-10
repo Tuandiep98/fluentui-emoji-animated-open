@@ -1,0 +1,46 @@
+{
+  "id": "museum",
+  "name": "museum",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "museum"
+    },
+    "vi": {
+      "text": "bảo tàng"
+    },
+    "zh-Hans": {
+      "text": "博物馆",
+      "reading": "bó wù guǎn"
+    },
+    "ja": {
+      "text": "博物館",
+      "reading": "hakubutsukan"
+    },
+    "ko": {
+      "text": "박물관",
+      "reading": "bangmulgwan"
+    },
+    "es": {
+      "text": "el museo"
+    },
+    "fr": {
+      "text": "le musée"
+    },
+    "de": {
+      "text": "das Museum"
+    },
+    "id": {
+      "text": "museum"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

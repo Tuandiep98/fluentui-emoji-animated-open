@@ -1,0 +1,46 @@
+{
+  "id": "football-pitch",
+  "name": "football pitch",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "football pitch"
+    },
+    "vi": {
+      "text": "sân bóng đá"
+    },
+    "zh-Hans": {
+      "text": "足球场",
+      "reading": "zú qiú chǎng"
+    },
+    "ja": {
+      "text": "サッカー場",
+      "reading": "sakkājō"
+    },
+    "ko": {
+      "text": "축구장",
+      "reading": "chukgujang"
+    },
+    "es": {
+      "text": "el campo de fútbol"
+    },
+    "fr": {
+      "text": "le terrain de football"
+    },
+    "de": {
+      "text": "der Fußballplatz"
+    },
+    "id": {
+      "text": "lapangan sepak bola"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-10-b-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}
