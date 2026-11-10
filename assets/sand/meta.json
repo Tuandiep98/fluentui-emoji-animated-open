@@ -1,0 +1,45 @@
+{
+  "id": "sand",
+  "name": "sand",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "sand"
+    },
+    "vi": {
+      "text": "cát"
+    },
+    "zh-Hans": {
+      "text": "沙子",
+      "reading": "shāzi"
+    },
+    "ja": {
+      "text": "すな",
+      "reading": "suna"
+    },
+    "ko": {
+      "text": "모래",
+      "reading": "morae"
+    },
+    "es": {
+      "text": "la arena"
+    },
+    "fr": {
+      "text": "le sable"
+    },
+    "de": {
+      "text": "der Sand"
+    },
+    "id": {
+      "text": "pasir"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

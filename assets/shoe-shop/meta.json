@@ -1,0 +1,46 @@
+{
+  "id": "shoe-shop",
+  "name": "shoe shop",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "shoe shop"
+    },
+    "vi": {
+      "text": "cửa hàng giày"
+    },
+    "zh-Hans": {
+      "text": "鞋店",
+      "reading": "xié diàn"
+    },
+    "ja": {
+      "text": "靴屋",
+      "reading": "kutsuya"
+    },
+    "ko": {
+      "text": "신발 가게",
+      "reading": "sinbal gage"
+    },
+    "es": {
+      "text": "la zapatería"
+    },
+    "fr": {
+      "text": "le magasin de chaussures"
+    },
+    "de": {
+      "text": "das Schuhgeschäft"
+    },
+    "id": {
+      "text": "toko sepatu"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

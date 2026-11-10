@@ -1,0 +1,46 @@
+{
+  "id": "hard-hat",
+  "name": "hard hat",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "hard hat"
+    },
+    "vi": {
+      "text": "mũ bảo hộ"
+    },
+    "zh-Hans": {
+      "text": "安全帽",
+      "reading": "ān quán mào"
+    },
+    "ja": {
+      "text": "安全ヘルメット",
+      "reading": "anzen herumetto"
+    },
+    "ko": {
+      "text": "안전모",
+      "reading": "anjeonmo"
+    },
+    "es": {
+      "text": "el casco de seguridad"
+    },
+    "fr": {
+      "text": "le casque de chantier"
+    },
+    "de": {
+      "text": "der Schutzhelm"
+    },
+    "id": {
+      "text": "helm keselamatan"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

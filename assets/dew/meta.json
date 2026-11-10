@@ -1,0 +1,45 @@
+{
+  "id": "dew",
+  "name": "dew",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "dew"
+    },
+    "vi": {
+      "text": "sương đọng"
+    },
+    "zh-Hans": {
+      "text": "露水",
+      "reading": "lùshuǐ"
+    },
+    "ja": {
+      "text": "つゆ",
+      "reading": "tsuyu"
+    },
+    "ko": {
+      "text": "이슬",
+      "reading": "iseul"
+    },
+    "es": {
+      "text": "el rocío"
+    },
+    "fr": {
+      "text": "la rosée"
+    },
+    "de": {
+      "text": "der Tau"
+    },
+    "id": {
+      "text": "embun"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

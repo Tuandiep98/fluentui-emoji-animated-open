@@ -1,0 +1,122 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "1815c1cfd3b6c3f1d51587ce82438f6d09b6d2ba37e746291ae5f30e415af150",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          124,
+          256,
+          132
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          88,
+          143,
+          36
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "upper-palm-fronds",
+      "kind": "wave",
+      "center": [
+        93,
+        48
+      ],
+      "radius": [
+        65,
+        40
+      ],
+      "amp": 5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5
+        ],
+        [
+          1.4,
+          -1.75
+        ],
+        [
+          2.05,
+          3.25
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "right-palm-fronds",
+      "kind": "wave",
+      "center": [
+        196,
+        94
+      ],
+      "radius": [
+        39,
+        30
+      ],
+      "amp": 4.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          4.8
+        ],
+        [
+          1.5,
+          -1.68
+        ],
+        [
+          2.15,
+          3.12
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "A light breeze moves only the original upper palm fronds. All trunks, their lower joins, understory and ground tile remain pixel-fixed; no mirrored leaves, cutout parts or changed facing."
+}

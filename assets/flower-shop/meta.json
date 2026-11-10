@@ -1,0 +1,46 @@
+{
+  "id": "flower-shop",
+  "name": "flower shop",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "flower shop"
+    },
+    "vi": {
+      "text": "cửa hàng hoa"
+    },
+    "zh-Hans": {
+      "text": "花店",
+      "reading": "huā diàn"
+    },
+    "ja": {
+      "text": "花屋",
+      "reading": "hanaya"
+    },
+    "ko": {
+      "text": "꽃집",
+      "reading": "kkotjip"
+    },
+    "es": {
+      "text": "la floristería"
+    },
+    "fr": {
+      "text": "le magasin de fleurs"
+    },
+    "de": {
+      "text": "der Blumenladen"
+    },
+    "id": {
+      "text": "toko bunga"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

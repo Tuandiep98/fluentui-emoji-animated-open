@@ -1,0 +1,46 @@
+{
+  "id": "sidewalk",
+  "name": "sidewalk",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "sidewalk"
+    },
+    "vi": {
+      "text": "vỉa hè"
+    },
+    "zh-Hans": {
+      "text": "人行道",
+      "reading": "rén xíng dào"
+    },
+    "ja": {
+      "text": "歩道",
+      "reading": "hodō"
+    },
+    "ko": {
+      "text": "인도",
+      "reading": "indo"
+    },
+    "es": {
+      "text": "la acera"
+    },
+    "fr": {
+      "text": "le trottoir"
+    },
+    "de": {
+      "text": "der Gehweg"
+    },
+    "id": {
+      "text": "trotoar"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "paint-can",
+  "name": "paint can",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "paint can"
+    },
+    "vi": {
+      "text": "thùng sơn"
+    },
+    "zh-Hans": {
+      "text": "油漆罐",
+      "reading": "yóu qī guàn"
+    },
+    "ja": {
+      "text": "ペンキ缶",
+      "reading": "penki kan"
+    },
+    "ko": {
+      "text": "페인트 통",
+      "reading": "peinteu tong"
+    },
+    "es": {
+      "text": "el bote de pintura"
+    },
+    "fr": {
+      "text": "le pot de peinture"
+    },
+    "de": {
+      "text": "die Farbdose"
+    },
+    "id": {
+      "text": "kaleng cat"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cliff",
+  "name": "cliff",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "cliff"
+    },
+    "vi": {
+      "text": "vách đá"
+    },
+    "zh-Hans": {
+      "text": "悬崖",
+      "reading": "xuányá"
+    },
+    "ja": {
+      "text": "がけ",
+      "reading": "gake"
+    },
+    "ko": {
+      "text": "절벽",
+      "reading": "jeolbyeok"
+    },
+    "es": {
+      "text": "el acantilado"
+    },
+    "fr": {
+      "text": "la falaise"
+    },
+    "de": {
+      "text": "die Klippe"
+    },
+    "id": {
+      "text": "tebing"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

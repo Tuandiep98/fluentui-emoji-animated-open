@@ -1,0 +1,46 @@
+{
+  "id": "tape-measure",
+  "name": "tape measure",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "tape measure"
+    },
+    "vi": {
+      "text": "thước cuộn"
+    },
+    "zh-Hans": {
+      "text": "卷尺",
+      "reading": "juǎn chǐ"
+    },
+    "ja": {
+      "text": "巻き尺",
+      "reading": "makijaku"
+    },
+    "ko": {
+      "text": "줄자",
+      "reading": "julja"
+    },
+    "es": {
+      "text": "la cinta métrica"
+    },
+    "fr": {
+      "text": "le mètre ruban"
+    },
+    "de": {
+      "text": "das Maßband"
+    },
+    "id": {
+      "text": "meteran gulung"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

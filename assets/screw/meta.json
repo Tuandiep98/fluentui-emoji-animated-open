@@ -1,0 +1,46 @@
+{
+  "id": "screw",
+  "name": "screw",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "screw"
+    },
+    "vi": {
+      "text": "ốc vít"
+    },
+    "zh-Hans": {
+      "text": "螺丝钉",
+      "reading": "luó sī dīng"
+    },
+    "ja": {
+      "text": "ねじ",
+      "reading": "neji"
+    },
+    "ko": {
+      "text": "나사",
+      "reading": "nasa"
+    },
+    "es": {
+      "text": "el tornillo"
+    },
+    "fr": {
+      "text": "la vis"
+    },
+    "de": {
+      "text": "die Schraube"
+    },
+    "id": {
+      "text": "sekrup"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

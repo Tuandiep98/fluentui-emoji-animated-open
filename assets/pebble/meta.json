@@ -1,0 +1,45 @@
+{
+  "id": "pebble",
+  "name": "pebble",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "pebble"
+    },
+    "vi": {
+      "text": "viên sỏi"
+    },
+    "zh-Hans": {
+      "text": "鹅卵石",
+      "reading": "éluǎnshí"
+    },
+    "ja": {
+      "text": "こいし",
+      "reading": "koishi"
+    },
+    "ko": {
+      "text": "조약돌",
+      "reading": "joyakdol"
+    },
+    "es": {
+      "text": "el guijarro"
+    },
+    "fr": {
+      "text": "le galet"
+    },
+    "de": {
+      "text": "der Kieselstein"
+    },
+    "id": {
+      "text": "kerikil bulat"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

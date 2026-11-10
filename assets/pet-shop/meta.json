@@ -1,0 +1,46 @@
+{
+  "id": "pet-shop",
+  "name": "pet shop",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "pet shop"
+    },
+    "vi": {
+      "text": "cửa hàng thú cưng"
+    },
+    "zh-Hans": {
+      "text": "宠物店",
+      "reading": "chǒng wù diàn"
+    },
+    "ja": {
+      "text": "ペットショップ",
+      "reading": "petto shoppu"
+    },
+    "ko": {
+      "text": "반려동물 가게",
+      "reading": "ballyeodongmul gage"
+    },
+    "es": {
+      "text": "la tienda de mascotas"
+    },
+    "fr": {
+      "text": "l'animalerie"
+    },
+    "de": {
+      "text": "die Tierhandlung"
+    },
+    "id": {
+      "text": "toko hewan peliharaan"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

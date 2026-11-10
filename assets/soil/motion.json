@@ -1,0 +1,122 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "2bed52ef917af0fae35d6a170281d09057e0bcf9935e8f5f1c5d6ddc0db5f67d",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          101,
+          256,
+          155
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          126,
+          84,
+          20,
+          17
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "seedling-left-leaf",
+      "kind": "wave",
+      "center": [
+        87,
+        63
+      ],
+      "radius": [
+        54,
+        33
+      ],
+      "amp": 4.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.3
+        ],
+        [
+          1.4,
+          -1.505
+        ],
+        [
+          2.05,
+          2.795
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    },
+    {
+      "name": "seedling-right-leaf",
+      "kind": "wave",
+      "center": [
+        171,
+        49
+      ],
+      "radius": [
+        44,
+        34
+      ],
+      "amp": 4.6,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          1,
+          4.6
+        ],
+        [
+          1.5,
+          -1.6099999999999999
+        ],
+        [
+          2.15,
+          2.9899999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The seedling leaves sway subtly from their original pixels while the lower stem, root connection and complete soil mound remain fixed. No detached leaves or altered soil texture."
+}

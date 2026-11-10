@@ -1,0 +1,46 @@
+{
+  "id": "hair-salon",
+  "name": "hair salon",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "hair salon"
+    },
+    "vi": {
+      "text": "tiệm làm tóc"
+    },
+    "zh-Hans": {
+      "text": "美发店",
+      "reading": "měi fà diàn"
+    },
+    "ja": {
+      "text": "美容院",
+      "reading": "biyōin"
+    },
+    "ko": {
+      "text": "미용실",
+      "reading": "miyongsil"
+    },
+    "es": {
+      "text": "el salón de peluquería"
+    },
+    "fr": {
+      "text": "le salon de coiffure"
+    },
+    "de": {
+      "text": "der Friseursalon"
+    },
+    "id": {
+      "text": "salon rambut"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

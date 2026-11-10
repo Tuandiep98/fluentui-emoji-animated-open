@@ -1,0 +1,46 @@
+{
+  "id": "airport",
+  "name": "airport",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "airport"
+    },
+    "vi": {
+      "text": "sân bay"
+    },
+    "zh-Hans": {
+      "text": "机场",
+      "reading": "jī chǎng"
+    },
+    "ja": {
+      "text": "空港",
+      "reading": "kūkō"
+    },
+    "ko": {
+      "text": "공항",
+      "reading": "gonghang"
+    },
+    "es": {
+      "text": "el aeropuerto"
+    },
+    "fr": {
+      "text": "l'aéroport"
+    },
+    "de": {
+      "text": "der Flughafen"
+    },
+    "id": {
+      "text": "bandara"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

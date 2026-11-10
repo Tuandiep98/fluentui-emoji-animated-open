@@ -1,0 +1,46 @@
+{
+  "id": "step-ladder",
+  "name": "step ladder",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "step ladder"
+    },
+    "vi": {
+      "text": "thang chữ A"
+    },
+    "zh-Hans": {
+      "text": "折叠梯",
+      "reading": "zhé dié tī"
+    },
+    "ja": {
+      "text": "脚立",
+      "reading": "kyatatsu"
+    },
+    "ko": {
+      "text": "접이식 사다리",
+      "reading": "jeobisik sadari"
+    },
+    "es": {
+      "text": "la escalera de tijera"
+    },
+    "fr": {
+      "text": "l'escabeau"
+    },
+    "de": {
+      "text": "die Stehleiter"
+    },
+    "id": {
+      "text": "tangga lipat"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

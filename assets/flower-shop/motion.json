@@ -1,0 +1,97 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "88e7d8580417948e41c67a8614b4448122e235f134c6f198774fdc87e0076707",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          146
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          202,
+          256,
+          54
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          146,
+          85,
+          56
+        ]
+      },
+      {
+        "name": "fixed-anchor-4",
+        "rect": [
+          163,
+          146,
+          93,
+          56
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "central-flower-bunch",
+      "kind": "wave",
+      "center": [
+        124,
+        174
+      ],
+      "radius": [
+        39,
+        28
+      ],
+      "amp": 4.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.8
+        ],
+        [
+          1.4,
+          -1.68
+        ],
+        [
+          2.05,
+          3.12
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only the soft central flower bunch sways from its original pixels; building, pots, lower stems and the outer bunches remain fixed. No detached petals or new pieces."
+}

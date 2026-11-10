@@ -1,0 +1,14 @@
+{
+  "reviewedOn": "2026-11-10",
+  "method": "AI still and decoded-frame contact-sheet review; decoded transparency/motion and frame/loop/bounds gates",
+  "notes": "Checked nine-language terms and readings; inspected original normalized artwork and seven decoded AVIF samples (0,12,22,34,46,60,71) on light/dark backgrounds. Source-locked exact neutral, facing, object attachment, pins, loop, bounds, >=96% silhouette and deformation gates passed. Rigid objects remain intact; canopy folds, foliage and measured soft surface details use measured soft fields. AI contact-sheet review, not real-time playback of every icon.",
+  "hashes": {
+    "source.png": "c8d99165c799eea9f99a75aa46a2ccd2edb0b62a8ea1e3ef65cac706ac9527cc",
+    "still.png": "a9f223a528641a613c661bac6c88d5554e418833a998d2fd67b58d9ce490bc31",
+    "still.webp": "fe0795f1066278ddad5e0122ad4e70d7206232dca51a62e5f609d243e823b5b4",
+    "animated.avif": "2bbae599f9c9b400e5dbf2bd98c59fa776ae08bf865d6f8fe7868b944a76ef49",
+    "motion.json": "8898e1e79700424f2ec63b20e61f197dce4a95be27f5e74295ecb185ef798501",
+    "meta.json": "33018fdd665a9867f554472758839bc86f7183fdfa5665c038f115a90ecbfff7",
+    "reference.png": "a9f223a528641a613c661bac6c88d5554e418833a998d2fd67b58d9ce490bc31"
+  }
+}

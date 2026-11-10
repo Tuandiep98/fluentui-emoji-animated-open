@@ -1,0 +1,45 @@
+{
+  "id": "mud",
+  "name": "mud",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "mud"
+    },
+    "vi": {
+      "text": "bùn"
+    },
+    "zh-Hans": {
+      "text": "泥巴",
+      "reading": "níba"
+    },
+    "ja": {
+      "text": "どろ",
+      "reading": "doro"
+    },
+    "ko": {
+      "text": "진흙",
+      "reading": "jinheuk"
+    },
+    "es": {
+      "text": "el barro"
+    },
+    "fr": {
+      "text": "la boue"
+    },
+    "de": {
+      "text": "der Schlamm"
+    },
+    "id": {
+      "text": "lumpur"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

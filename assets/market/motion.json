@@ -1,0 +1,97 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "41592a6e4d016b83e8053c623055743035b500a2814f5dc35365ecfe52b2dd3f",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          58
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          110,
+          256,
+          146
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          58,
+          38,
+          52
+        ]
+      },
+      {
+        "name": "fixed-anchor-4",
+        "rect": [
+          218,
+          58,
+          38,
+          52
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "free-canopy-fabric",
+      "kind": "wave",
+      "center": [
+        128,
+        84
+      ],
+      "radius": [
+        90,
+        26
+      ],
+      "amp": 5.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.3
+        ],
+        [
+          1.4,
+          -1.8549999999999998
+        ],
+        [
+          2.05,
+          3.445
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "A small wave passes through only the free central canopy fabric. Roof upper edge, support poles, counter and all fruit remain exactly fixed; the fully assembled original is never cut apart."
+}

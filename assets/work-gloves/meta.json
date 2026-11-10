@@ -1,0 +1,46 @@
+{
+  "id": "work-gloves",
+  "name": "work gloves",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "work gloves"
+    },
+    "vi": {
+      "text": "găng tay lao động"
+    },
+    "zh-Hans": {
+      "text": "工作手套",
+      "reading": "gōng zuò shǒu tào"
+    },
+    "ja": {
+      "text": "作業用手袋",
+      "reading": "sagyōyō tebukuro"
+    },
+    "ko": {
+      "text": "작업용 장갑",
+      "reading": "jageobyong janggap"
+    },
+    "es": {
+      "text": "los guantes de trabajo"
+    },
+    "fr": {
+      "text": "les gants de travail"
+    },
+    "de": {
+      "text": "die Arbeitshandschuhe"
+    },
+    "id": {
+      "text": "sarung tangan kerja"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

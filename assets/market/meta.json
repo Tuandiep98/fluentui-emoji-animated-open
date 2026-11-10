@@ -1,0 +1,46 @@
+{
+  "id": "market",
+  "name": "market",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "market"
+    },
+    "vi": {
+      "text": "chợ"
+    },
+    "zh-Hans": {
+      "text": "市场",
+      "reading": "shì chǎng"
+    },
+    "ja": {
+      "text": "市場",
+      "reading": "ichiba"
+    },
+    "ko": {
+      "text": "시장",
+      "reading": "sijang"
+    },
+    "es": {
+      "text": "el mercado"
+    },
+    "fr": {
+      "text": "le marché"
+    },
+    "de": {
+      "text": "der Markt"
+    },
+    "id": {
+      "text": "pasar"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

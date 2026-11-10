@@ -1,0 +1,45 @@
+{
+  "id": "valley",
+  "name": "valley",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "valley"
+    },
+    "vi": {
+      "text": "thung lũng"
+    },
+    "zh-Hans": {
+      "text": "山谷",
+      "reading": "shāngǔ"
+    },
+    "ja": {
+      "text": "たに",
+      "reading": "tani"
+    },
+    "ko": {
+      "text": "골짜기",
+      "reading": "goljjagi"
+    },
+    "es": {
+      "text": "el valle"
+    },
+    "fr": {
+      "text": "la vallée"
+    },
+    "de": {
+      "text": "das Tal"
+    },
+    "id": {
+      "text": "lembah"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

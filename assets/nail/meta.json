@@ -1,0 +1,46 @@
+{
+  "id": "nail",
+  "name": "nail",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "nail"
+    },
+    "vi": {
+      "text": "đinh"
+    },
+    "zh-Hans": {
+      "text": "钉子",
+      "reading": "dīng zi"
+    },
+    "ja": {
+      "text": "釘",
+      "reading": "kugi"
+    },
+    "ko": {
+      "text": "못",
+      "reading": "mot"
+    },
+    "es": {
+      "text": "el clavo"
+    },
+    "fr": {
+      "text": "le clou"
+    },
+    "de": {
+      "text": "der Nagel"
+    },
+    "id": {
+      "text": "paku"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "field",
+  "name": "field",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "field"
+    },
+    "vi": {
+      "text": "cánh đồng"
+    },
+    "zh-Hans": {
+      "text": "田野",
+      "reading": "tiányě"
+    },
+    "ja": {
+      "text": "はたけ",
+      "reading": "hatake"
+    },
+    "ko": {
+      "text": "들판",
+      "reading": "deulpan"
+    },
+    "es": {
+      "text": "el campo"
+    },
+    "fr": {
+      "text": "le champ"
+    },
+    "de": {
+      "text": "das Feld"
+    },
+    "id": {
+      "text": "ladang"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

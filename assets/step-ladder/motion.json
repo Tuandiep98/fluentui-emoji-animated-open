@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "9f8348736161791c25326ee75343a8f0df920d58d17f865fddeb6e0edc2ef479",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A small intact step-ladder presentation tilt preserves the exact original artwork, silhouette, facing and all connections. No separated parts, mirroring, changing geometry or invented mechanisms.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.35,
+        0
+      ],
+      [
+        1,
+        -0.36450000000000005
+      ],
+      [
+        1.55,
+        0.12757500000000002
+      ],
+      [
+        2.2,
+        -0.20047500000000004
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

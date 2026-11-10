@@ -1,0 +1,46 @@
+{
+  "id": "paint-roller",
+  "name": "paint roller",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "paint roller"
+    },
+    "vi": {
+      "text": "con lăn sơn"
+    },
+    "zh-Hans": {
+      "text": "油漆滚筒",
+      "reading": "yóu qī gǔn tǒng"
+    },
+    "ja": {
+      "text": "ペイントローラー",
+      "reading": "peinto rōrā"
+    },
+    "ko": {
+      "text": "페인트 롤러",
+      "reading": "peinteu rolleo"
+    },
+    "es": {
+      "text": "el rodillo de pintura"
+    },
+    "fr": {
+      "text": "le rouleau à peinture"
+    },
+    "de": {
+      "text": "die Farbrolle"
+    },
+    "id": {
+      "text": "rol cat"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "icicle",
+  "name": "icicle",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "icicle"
+    },
+    "vi": {
+      "text": "cột băng"
+    },
+    "zh-Hans": {
+      "text": "冰柱",
+      "reading": "bīngzhù"
+    },
+    "ja": {
+      "text": "つらら",
+      "reading": "tsurara"
+    },
+    "ko": {
+      "text": "고드름",
+      "reading": "godeureum"
+    },
+    "es": {
+      "text": "el carámbano"
+    },
+    "fr": {
+      "text": "le glaçon suspendu"
+    },
+    "de": {
+      "text": "der Eiszapfen"
+    },
+    "id": {
+      "text": "es gantung"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

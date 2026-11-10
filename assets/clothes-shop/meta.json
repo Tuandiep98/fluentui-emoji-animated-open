@@ -1,0 +1,46 @@
+{
+  "id": "clothes-shop",
+  "name": "clothes shop",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "clothes shop"
+    },
+    "vi": {
+      "text": "cửa hàng quần áo"
+    },
+    "zh-Hans": {
+      "text": "服装店",
+      "reading": "fú zhuāng diàn"
+    },
+    "ja": {
+      "text": "洋服屋",
+      "reading": "yōfukuya"
+    },
+    "ko": {
+      "text": "옷 가게",
+      "reading": "ot gage"
+    },
+    "es": {
+      "text": "la tienda de ropa"
+    },
+    "fr": {
+      "text": "le magasin de vêtements"
+    },
+    "de": {
+      "text": "das Bekleidungsgeschäft"
+    },
+    "id": {
+      "text": "toko pakaian"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

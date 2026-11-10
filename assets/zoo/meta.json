@@ -1,0 +1,46 @@
+{
+  "id": "zoo",
+  "name": "zoo",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "zoo"
+    },
+    "vi": {
+      "text": "vườn thú"
+    },
+    "zh-Hans": {
+      "text": "动物园",
+      "reading": "dòng wù yuán"
+    },
+    "ja": {
+      "text": "動物園",
+      "reading": "dōbutsuen"
+    },
+    "ko": {
+      "text": "동물원",
+      "reading": "dongmurwon"
+    },
+    "es": {
+      "text": "el zoológico"
+    },
+    "fr": {
+      "text": "le zoo"
+    },
+    "de": {
+      "text": "der Zoo"
+    },
+    "id": {
+      "text": "kebun binatang"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

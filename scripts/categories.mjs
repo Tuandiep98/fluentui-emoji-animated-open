@@ -7,6 +7,7 @@ export const CATEGORY_LABELS = {
   wildlife: 'Wildlife',
   clothing: 'Clothing',
   'school-art': 'School & art',
+  tools: 'Tools & safety',
   vehicles: 'Vehicles',
   community: 'Places & community',
   nature: 'Nature',

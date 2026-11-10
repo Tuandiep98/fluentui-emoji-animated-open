@@ -1,0 +1,46 @@
+{
+  "id": "safety-goggles",
+  "name": "safety goggles",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "safety goggles"
+    },
+    "vi": {
+      "text": "kính bảo hộ"
+    },
+    "zh-Hans": {
+      "text": "护目镜",
+      "reading": "hù mù jìng"
+    },
+    "ja": {
+      "text": "保護ゴーグル",
+      "reading": "hogo gōguru"
+    },
+    "ko": {
+      "text": "보안경",
+      "reading": "boangyeong"
+    },
+    "es": {
+      "text": "las gafas de seguridad"
+    },
+    "fr": {
+      "text": "les lunettes de protection"
+    },
+    "de": {
+      "text": "die Schutzbrille"
+    },
+    "id": {
+      "text": "kacamata pelindung"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "paint-tray",
+  "name": "paint tray",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "paint tray"
+    },
+    "vi": {
+      "text": "khay sơn"
+    },
+    "zh-Hans": {
+      "text": "油漆托盘",
+      "reading": "yóu qī tuō pán"
+    },
+    "ja": {
+      "text": "ペイントトレー",
+      "reading": "peinto torē"
+    },
+    "ko": {
+      "text": "페인트 트레이",
+      "reading": "peinteu teurei"
+    },
+    "es": {
+      "text": "la bandeja de pintura"
+    },
+    "fr": {
+      "text": "le bac à peinture"
+    },
+    "de": {
+      "text": "die Farbwanne"
+    },
+    "id": {
+      "text": "baki cat"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

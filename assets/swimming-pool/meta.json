@@ -1,0 +1,46 @@
+{
+  "id": "swimming-pool",
+  "name": "swimming pool",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "swimming pool"
+    },
+    "vi": {
+      "text": "hồ bơi"
+    },
+    "zh-Hans": {
+      "text": "游泳池",
+      "reading": "yóu yǒng chí"
+    },
+    "ja": {
+      "text": "プール",
+      "reading": "pūru"
+    },
+    "ko": {
+      "text": "수영장",
+      "reading": "suyeongjang"
+    },
+    "es": {
+      "text": "la piscina"
+    },
+    "fr": {
+      "text": "la piscine"
+    },
+    "de": {
+      "text": "das Schwimmbecken"
+    },
+    "id": {
+      "text": "kolam renang"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

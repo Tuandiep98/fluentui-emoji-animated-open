@@ -1,0 +1,45 @@
+{
+  "id": "soil",
+  "name": "soil",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "soil"
+    },
+    "vi": {
+      "text": "đất"
+    },
+    "zh-Hans": {
+      "text": "土壤",
+      "reading": "tǔrǎng"
+    },
+    "ja": {
+      "text": "つち",
+      "reading": "tsuchi"
+    },
+    "ko": {
+      "text": "흙",
+      "reading": "heuk"
+    },
+    "es": {
+      "text": "la tierra"
+    },
+    "fr": {
+      "text": "la terre"
+    },
+    "de": {
+      "text": "der Erdboden"
+    },
+    "id": {
+      "text": "tanah"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

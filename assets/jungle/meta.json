@@ -1,0 +1,45 @@
+{
+  "id": "jungle",
+  "name": "jungle",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "jungle"
+    },
+    "vi": {
+      "text": "rừng rậm"
+    },
+    "zh-Hans": {
+      "text": "丛林",
+      "reading": "cónglín"
+    },
+    "ja": {
+      "text": "ジャングル",
+      "reading": "janguru"
+    },
+    "ko": {
+      "text": "정글",
+      "reading": "jeonggeul"
+    },
+    "es": {
+      "text": "la selva"
+    },
+    "fr": {
+      "text": "la jungle"
+    },
+    "de": {
+      "text": "der Dschungel"
+    },
+    "id": {
+      "text": "rimba"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-30-e-2026-11-10",
+  "addedAt": "2026-11-10",
+  "status": "ready"
+}

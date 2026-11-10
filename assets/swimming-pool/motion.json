@@ -1,0 +1,97 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "633a34bc942aec123aa9a2d9165ccf1c7c6f9ed57cf188f464d00499db251696",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          111
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          159,
+          256,
+          97
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          111,
+          71,
+          48
+        ]
+      },
+      {
+        "name": "fixed-anchor-4",
+        "rect": [
+          159,
+          111,
+          97,
+          48
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "interior-water-ripple",
+      "kind": "wave",
+      "center": [
+        115,
+        135
+      ],
+      "radius": [
+        44,
+        24
+      ],
+      "amp": 5.3,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.3
+        ],
+        [
+          1.4,
+          -1.8549999999999998
+        ],
+        [
+          2.05,
+          3.445
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "A small continuous ripple shifts the existing water reflections only inside the basin. Tile rim, pool wall and the complete ladder stay exactly fixed. No moving or replaced geometry."
+}
