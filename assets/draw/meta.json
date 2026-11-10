@@ -1,0 +1,45 @@
+{
+  "id": "draw",
+  "name": "draw",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "draw"
+    },
+    "vi": {
+      "text": "vẽ"
+    },
+    "zh-Hans": {
+      "text": "画画",
+      "reading": "huà huà"
+    },
+    "ja": {
+      "text": "絵を描く",
+      "reading": "e o kaku"
+    },
+    "ko": {
+      "text": "그리다",
+      "reading": "geurida"
+    },
+    "es": {
+      "text": "dibujar"
+    },
+    "fr": {
+      "text": "dessiner"
+    },
+    "de": {
+      "text": "zeichnen"
+    },
+    "id": {
+      "text": "menggambar"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

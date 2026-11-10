@@ -1,0 +1,45 @@
+{
+  "id": "crawl",
+  "name": "crawl",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "crawl"
+    },
+    "vi": {
+      "text": "bò"
+    },
+    "zh-Hans": {
+      "text": "爬行",
+      "reading": "páxíng"
+    },
+    "ja": {
+      "text": "はいはいする",
+      "reading": "haihai suru"
+    },
+    "ko": {
+      "text": "기다",
+      "reading": "gida"
+    },
+    "es": {
+      "text": "gatear"
+    },
+    "fr": {
+      "text": "marcher à quatre pattes"
+    },
+    "de": {
+      "text": "krabbeln"
+    },
+    "id": {
+      "text": "merangkak"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

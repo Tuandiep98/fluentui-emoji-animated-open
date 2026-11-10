@@ -1,0 +1,88 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "114c96d93a124c4720b6cae3e3afd5f5edf442b3a7c411594479baea06b4c2a8",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          125
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          187,
+          256,
+          69
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          125,
+          152,
+          62
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "interior-lake-ripple",
+      "kind": "press",
+      "center": [
+        191,
+        156
+      ],
+      "radius": [
+        39,
+        31
+      ],
+      "amp": 5.7,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.699999999999999
+        ],
+        [
+          1.4,
+          -1.9949999999999999
+        ],
+        [
+          2.05,
+          3.705
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only the interior lake-water reflections shift slightly; grassy bank, pebbles, roots and shoreline remain exactly fixed. No terrain reassembly."
+}

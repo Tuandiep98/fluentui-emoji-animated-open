@@ -1,0 +1,46 @@
+{
+  "id": "art-gallery",
+  "name": "art gallery",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "art gallery"
+    },
+    "vi": {
+      "text": "phòng trưng bày tranh"
+    },
+    "zh-Hans": {
+      "text": "画廊",
+      "reading": "huà láng"
+    },
+    "ja": {
+      "text": "画廊",
+      "reading": "garō"
+    },
+    "ko": {
+      "text": "미술관",
+      "reading": "misulgwan"
+    },
+    "es": {
+      "text": "la galería de arte"
+    },
+    "fr": {
+      "text": "la galerie d'art"
+    },
+    "de": {
+      "text": "die Kunstgalerie"
+    },
+    "id": {
+      "text": "galeri seni"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

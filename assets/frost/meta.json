@@ -1,0 +1,45 @@
+{
+  "id": "frost",
+  "name": "frost",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "frost"
+    },
+    "vi": {
+      "text": "sương giá"
+    },
+    "zh-Hans": {
+      "text": "霜",
+      "reading": "shuāng"
+    },
+    "ja": {
+      "text": "しも",
+      "reading": "shimo"
+    },
+    "ko": {
+      "text": "서리",
+      "reading": "seori"
+    },
+    "es": {
+      "text": "la escarcha"
+    },
+    "fr": {
+      "text": "le givre"
+    },
+    "de": {
+      "text": "der Reif"
+    },
+    "id": {
+      "text": "embun beku"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

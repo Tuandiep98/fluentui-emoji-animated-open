@@ -1,0 +1,45 @@
+{
+  "id": "forklift",
+  "name": "forklift",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "forklift"
+    },
+    "vi": {
+      "text": "xe nâng"
+    },
+    "zh-Hans": {
+      "text": "叉车",
+      "reading": "chā chē"
+    },
+    "ja": {
+      "text": "フォークリフト",
+      "reading": "fōkurifuto"
+    },
+    "ko": {
+      "text": "지게차",
+      "reading": "jigecha"
+    },
+    "es": {
+      "text": "la carretilla elevadora"
+    },
+    "fr": {
+      "text": "le chariot élévateur"
+    },
+    "de": {
+      "text": "der Gabelstapler"
+    },
+    "id": {
+      "text": "forklift"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

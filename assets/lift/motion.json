@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "3fe3a01bab55ea6d775afa5dad9075ab7aa41d87adcc1ff8dd8f17d6edda8bc9",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "Small upward lift-pose accent of the complete child and supported box together. Original hands, joints and box contact remain exact. No cutout lifting mechanism.",
+  "tracks": {
+    "y": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -1.377
+      ],
+      [
+        1.45,
+        0.48195
+      ],
+      [
+        2.1,
+        -0.7573500000000001
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

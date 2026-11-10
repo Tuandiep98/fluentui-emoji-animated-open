@@ -1,0 +1,45 @@
+{
+  "id": "ankle",
+  "name": "ankle",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "ankle"
+    },
+    "vi": {
+      "text": "mắt cá chân"
+    },
+    "zh-Hans": {
+      "text": "脚踝",
+      "reading": "jiǎo huái"
+    },
+    "ja": {
+      "text": "足首",
+      "reading": "ashikubi"
+    },
+    "ko": {
+      "text": "발목",
+      "reading": "balmok"
+    },
+    "es": {
+      "text": "el tobillo"
+    },
+    "fr": {
+      "text": "la cheville"
+    },
+    "de": {
+      "text": "das Fußgelenk"
+    },
+    "id": {
+      "text": "pergelangan kaki"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

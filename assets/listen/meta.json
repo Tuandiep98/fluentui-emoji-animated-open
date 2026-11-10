@@ -1,0 +1,45 @@
+{
+  "id": "listen",
+  "name": "listen",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "listen"
+    },
+    "vi": {
+      "text": "lắng nghe"
+    },
+    "zh-Hans": {
+      "text": "听",
+      "reading": "tīng"
+    },
+    "ja": {
+      "text": "聞く",
+      "reading": "kiku"
+    },
+    "ko": {
+      "text": "듣다",
+      "reading": "deutda"
+    },
+    "es": {
+      "text": "escuchar"
+    },
+    "fr": {
+      "text": "écouter"
+    },
+    "de": {
+      "text": "zuhören"
+    },
+    "id": {
+      "text": "mendengarkan"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "glue",
+  "name": "glue",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "glue"
+    },
+    "vi": {
+      "text": "dán keo"
+    },
+    "zh-Hans": {
+      "text": "涂胶粘贴",
+      "reading": "tú jiāo zhān tiē"
+    },
+    "ja": {
+      "text": "のりで貼る",
+      "reading": "nori de haru"
+    },
+    "ko": {
+      "text": "풀로 붙이다",
+      "reading": "pullo buchida"
+    },
+    "es": {
+      "text": "pegar con pegamento"
+    },
+    "fr": {
+      "text": "coller"
+    },
+    "de": {
+      "text": "kleben"
+    },
+    "id": {
+      "text": "menempelkan dengan lem"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

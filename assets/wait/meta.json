@@ -1,0 +1,45 @@
+{
+  "id": "wait",
+  "name": "wait",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "wait"
+    },
+    "vi": {
+      "text": "chờ"
+    },
+    "zh-Hans": {
+      "text": "等待",
+      "reading": "děng dài"
+    },
+    "ja": {
+      "text": "待つ",
+      "reading": "matsu"
+    },
+    "ko": {
+      "text": "기다리다",
+      "reading": "gidarida"
+    },
+    "es": {
+      "text": "esperar"
+    },
+    "fr": {
+      "text": "attendre"
+    },
+    "de": {
+      "text": "warten"
+    },
+    "id": {
+      "text": "menunggu"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

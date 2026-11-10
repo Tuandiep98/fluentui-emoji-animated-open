@@ -1,0 +1,46 @@
+{
+  "id": "water-wheel",
+  "name": "water wheel",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "water wheel"
+    },
+    "vi": {
+      "text": "bánh xe nước"
+    },
+    "zh-Hans": {
+      "text": "水车",
+      "reading": "shuǐ chē"
+    },
+    "ja": {
+      "text": "水車",
+      "reading": "suisha"
+    },
+    "ko": {
+      "text": "물레방아",
+      "reading": "mullebanga"
+    },
+    "es": {
+      "text": "la rueda de agua"
+    },
+    "fr": {
+      "text": "la roue à eau"
+    },
+    "de": {
+      "text": "das Wasserrad"
+    },
+    "id": {
+      "text": "kincir air"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

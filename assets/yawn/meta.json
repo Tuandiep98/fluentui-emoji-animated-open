@@ -1,0 +1,45 @@
+{
+  "id": "yawn",
+  "name": "yawn",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "yawn"
+    },
+    "vi": {
+      "text": "ngáp"
+    },
+    "zh-Hans": {
+      "text": "打哈欠",
+      "reading": "dǎ hā qian"
+    },
+    "ja": {
+      "text": "あくびをする",
+      "reading": "akubi o suru"
+    },
+    "ko": {
+      "text": "하품하다",
+      "reading": "hapumhada"
+    },
+    "es": {
+      "text": "bostezar"
+    },
+    "fr": {
+      "text": "bâiller"
+    },
+    "de": {
+      "text": "gähnen"
+    },
+    "id": {
+      "text": "menguap"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

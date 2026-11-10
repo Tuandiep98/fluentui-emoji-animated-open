@@ -1,0 +1,46 @@
+{
+  "id": "cup-and-ball",
+  "name": "cup and ball",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "cup and ball"
+    },
+    "vi": {
+      "text": "đồ chơi cốc hứng bóng"
+    },
+    "zh-Hans": {
+      "text": "接球玩具",
+      "reading": "jiē qiú wán jù"
+    },
+    "ja": {
+      "text": "カップアンドボール",
+      "reading": "kappu ando bōru"
+    },
+    "ko": {
+      "text": "컵과 공 장난감",
+      "reading": "keopgwa gong jangnamgam"
+    },
+    "es": {
+      "text": "el juego de copa y bola"
+    },
+    "fr": {
+      "text": "le bilboquet"
+    },
+    "de": {
+      "text": "das Kugelfangspiel"
+    },
+    "id": {
+      "text": "mainan cangkir dan bola"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

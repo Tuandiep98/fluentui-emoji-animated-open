@@ -1,0 +1,45 @@
+{
+  "id": "go-kart",
+  "name": "go kart",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "go kart"
+    },
+    "vi": {
+      "text": "xe go kart"
+    },
+    "zh-Hans": {
+      "text": "卡丁车",
+      "reading": "kǎ dīng chē"
+    },
+    "ja": {
+      "text": "ゴーカート",
+      "reading": "gōkāto"
+    },
+    "ko": {
+      "text": "고카트",
+      "reading": "gokateu"
+    },
+    "es": {
+      "text": "el kart"
+    },
+    "fr": {
+      "text": "le kart"
+    },
+    "de": {
+      "text": "das Gokart"
+    },
+    "id": {
+      "text": "gokar"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

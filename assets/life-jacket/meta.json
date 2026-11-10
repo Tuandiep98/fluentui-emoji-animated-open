@@ -1,0 +1,46 @@
+{
+  "id": "life-jacket",
+  "name": "life jacket",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "life jacket"
+    },
+    "vi": {
+      "text": "áo phao"
+    },
+    "zh-Hans": {
+      "text": "救生衣",
+      "reading": "jiùshēngyī"
+    },
+    "ja": {
+      "text": "ライフジャケット",
+      "reading": "raifu jaketto"
+    },
+    "ko": {
+      "text": "구명조끼",
+      "reading": "gumyeong jokki"
+    },
+    "es": {
+      "text": "el chaleco salvavidas"
+    },
+    "fr": {
+      "text": "le gilet de sauvetage"
+    },
+    "de": {
+      "text": "die Rettungsweste"
+    },
+    "id": {
+      "text": "jaket pelampung"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

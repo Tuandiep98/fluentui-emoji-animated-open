@@ -1,0 +1,45 @@
+{
+  "id": "lift",
+  "name": "lift",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "lift"
+    },
+    "vi": {
+      "text": "nhấc lên"
+    },
+    "zh-Hans": {
+      "text": "举起",
+      "reading": "jǔqǐ"
+    },
+    "ja": {
+      "text": "もちあげる",
+      "reading": "mochiageru"
+    },
+    "ko": {
+      "text": "들어 올리다",
+      "reading": "deureo ollida"
+    },
+    "es": {
+      "text": "levantar"
+    },
+    "fr": {
+      "text": "soulever"
+    },
+    "de": {
+      "text": "hochheben"
+    },
+    "id": {
+      "text": "mengangkat"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

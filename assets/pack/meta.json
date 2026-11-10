@@ -1,0 +1,45 @@
+{
+  "id": "pack",
+  "name": "pack",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "pack"
+    },
+    "vi": {
+      "text": "xếp đồ vào túi"
+    },
+    "zh-Hans": {
+      "text": "收拾行李",
+      "reading": "shōu shi xíng li"
+    },
+    "ja": {
+      "text": "荷物を詰める",
+      "reading": "nimotsu o tsumeru"
+    },
+    "ko": {
+      "text": "짐을 싸다",
+      "reading": "jimeul ssada"
+    },
+    "es": {
+      "text": "hacer la maleta"
+    },
+    "fr": {
+      "text": "faire son sac"
+    },
+    "de": {
+      "text": "einpacken"
+    },
+    "id": {
+      "text": "mengemas"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

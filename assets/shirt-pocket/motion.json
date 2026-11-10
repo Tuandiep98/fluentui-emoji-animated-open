@@ -1,0 +1,97 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "e7d36149f26b3fe2a4ddee74e9809ce44c44d8fd0d58e5875b211e659498e3f1",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          103
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          167,
+          256,
+          89
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          103,
+          124,
+          64
+        ]
+      },
+      {
+        "name": "fixed-anchor-4",
+        "rect": [
+          198,
+          103,
+          58,
+          64
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "pocket-lower-fabric-settle",
+      "kind": "press",
+      "center": [
+        161,
+        135
+      ],
+      "radius": [
+        37,
+        32
+      ],
+      "amp": 5.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.8
+        ],
+        [
+          1.4,
+          -2.03
+        ],
+        [
+          2.05,
+          3.77
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The lower original pocket fabric settles a few pixels continuously while the pocket lip/upper seam, collar, sleeves and garment silhouette remain fixed. Stitches stay connected to the same cloth; no separate patch layer or reassembly."
+}

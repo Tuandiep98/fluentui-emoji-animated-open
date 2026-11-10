@@ -1,0 +1,46 @@
+{
+  "id": "toy-cash-register",
+  "name": "toy cash register",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "toy cash register"
+    },
+    "vi": {
+      "text": "máy tính tiền đồ chơi"
+    },
+    "zh-Hans": {
+      "text": "玩具收银机",
+      "reading": "wán jù shōu yín jī"
+    },
+    "ja": {
+      "text": "おもちゃのレジ",
+      "reading": "omocha no reji"
+    },
+    "ko": {
+      "text": "장난감 계산대",
+      "reading": "jangnamgam gyesandae"
+    },
+    "es": {
+      "text": "caja registradora de juguete"
+    },
+    "fr": {
+      "text": "la caisse enregistreuse jouet"
+    },
+    "de": {
+      "text": "die Spielzeugkasse"
+    },
+    "id": {
+      "text": "mesin kasir mainan"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

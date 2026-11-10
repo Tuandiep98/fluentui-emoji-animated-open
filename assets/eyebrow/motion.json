@@ -1,0 +1,79 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "b5e42cecb7cb8f55d8906e9200abc1bb70567f0181641d3deb5dad44e1de2b26",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          95
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          141,
+          256,
+          115
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "eyebrow-lift",
+      "kind": "press",
+      "center": [
+        128,
+        118
+      ],
+      "radius": [
+        88,
+        23
+      ],
+      "amp": -3.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          -3.4
+        ],
+        [
+          1.4,
+          1.19
+        ],
+        [
+          2.05,
+          -2.21
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The two original eyebrows lift a few pixels continuously. Upper hair and lower face/eyes remain fixed. No separate facial pieces or new painted expression."
+}

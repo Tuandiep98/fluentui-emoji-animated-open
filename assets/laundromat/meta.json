@@ -1,0 +1,46 @@
+{
+  "id": "laundromat",
+  "name": "laundromat",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "laundromat"
+    },
+    "vi": {
+      "text": "tiệm giặt tự động"
+    },
+    "zh-Hans": {
+      "text": "自助洗衣店",
+      "reading": "zì zhù xǐ yī diàn"
+    },
+    "ja": {
+      "text": "コインランドリー",
+      "reading": "koin randorī"
+    },
+    "ko": {
+      "text": "빨래방",
+      "reading": "ppallaebang"
+    },
+    "es": {
+      "text": "la lavandería autoservicio"
+    },
+    "fr": {
+      "text": "la laverie automatique"
+    },
+    "de": {
+      "text": "der Waschsalon"
+    },
+    "id": {
+      "text": "laundry swalayan"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

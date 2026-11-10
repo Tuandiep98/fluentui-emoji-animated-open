@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "9db48e3bdf8879062525636eedcd509c36f03ad7b58d71f6da031af33a7e1c48",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "Small leftward pull-pose accent of the complete child, rope and wagon together. Hand-rope-wagon contact, anatomy and facing remain exact; not a full walking cycle.",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.7748409780000003
+      ],
+      [
+        1.45,
+        0.27119434230000006
+      ],
+      [
+        2.1,
+        -0.42616253790000014
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

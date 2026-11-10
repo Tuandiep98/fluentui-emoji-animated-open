@@ -1,0 +1,45 @@
+{
+  "id": "hair",
+  "name": "hair",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "hair"
+    },
+    "vi": {
+      "text": "mái tóc"
+    },
+    "zh-Hans": {
+      "text": "头发",
+      "reading": "tóu fa"
+    },
+    "ja": {
+      "text": "髪",
+      "reading": "kami"
+    },
+    "ko": {
+      "text": "머리카락",
+      "reading": "meorikarak"
+    },
+    "es": {
+      "text": "el pelo"
+    },
+    "fr": {
+      "text": "les cheveux"
+    },
+    "de": {
+      "text": "die Haare"
+    },
+    "id": {
+      "text": "rambut"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

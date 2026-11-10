@@ -1,0 +1,88 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "1e7309b6681eb0963b5959627e3d8dfc1d8c641e91e2d35e9207b12b2e7fb564",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          133
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          173,
+          256,
+          83
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          151,
+          133,
+          105,
+          40
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "wiping-cloth-and-hand",
+      "kind": "wave",
+      "center": [
+        105,
+        153
+      ],
+      "radius": [
+        45,
+        20
+      ],
+      "amp": 4.4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.4
+        ],
+        [
+          1.4,
+          -1.54
+        ],
+        [
+          2.05,
+          2.8600000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "A small continuous sideways wipe moves the original cloth and contacting hand within the tabletop. Upper arm/body, table edge and legs stay fixed. Contact is preserved without cutout pieces."
+}

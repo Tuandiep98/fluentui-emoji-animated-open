@@ -1,0 +1,46 @@
+{
+  "id": "hood",
+  "name": "hood",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "hood"
+    },
+    "vi": {
+      "text": "mũ áo"
+    },
+    "zh-Hans": {
+      "text": "兜帽",
+      "reading": "dōumào"
+    },
+    "ja": {
+      "text": "フード",
+      "reading": "fūdo"
+    },
+    "ko": {
+      "text": "후드",
+      "reading": "hudeu"
+    },
+    "es": {
+      "text": "la capucha"
+    },
+    "fr": {
+      "text": "la capuche"
+    },
+    "de": {
+      "text": "die Kapuze"
+    },
+    "id": {
+      "text": "tudung"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

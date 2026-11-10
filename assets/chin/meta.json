@@ -1,0 +1,45 @@
+{
+  "id": "chin",
+  "name": "chin",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "chin"
+    },
+    "vi": {
+      "text": "cằm"
+    },
+    "zh-Hans": {
+      "text": "下巴",
+      "reading": "xià ba"
+    },
+    "ja": {
+      "text": "顎",
+      "reading": "ago"
+    },
+    "ko": {
+      "text": "턱",
+      "reading": "teok"
+    },
+    "es": {
+      "text": "la barbilla"
+    },
+    "fr": {
+      "text": "le menton"
+    },
+    "de": {
+      "text": "das Kinn"
+    },
+    "id": {
+      "text": "dagu"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

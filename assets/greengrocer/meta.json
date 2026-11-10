@@ -1,0 +1,46 @@
+{
+  "id": "greengrocer",
+  "name": "greengrocer",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "greengrocer"
+    },
+    "vi": {
+      "text": "cửa hàng rau quả"
+    },
+    "zh-Hans": {
+      "text": "蔬果店",
+      "reading": "shū guǒ diàn"
+    },
+    "ja": {
+      "text": "八百屋",
+      "reading": "yaoya"
+    },
+    "ko": {
+      "text": "채소 가게",
+      "reading": "chaeso gage"
+    },
+    "es": {
+      "text": "la frutería y verdulería"
+    },
+    "fr": {
+      "text": "le magasin de primeurs"
+    },
+    "de": {
+      "text": "der Obst- und Gemüseladen"
+    },
+    "id": {
+      "text": "toko sayur dan buah"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

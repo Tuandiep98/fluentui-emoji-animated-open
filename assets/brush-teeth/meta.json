@@ -1,0 +1,45 @@
+{
+  "id": "brush-teeth",
+  "name": "brush teeth",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "brush teeth"
+    },
+    "vi": {
+      "text": "đánh răng"
+    },
+    "zh-Hans": {
+      "text": "刷牙",
+      "reading": "shuā yá"
+    },
+    "ja": {
+      "text": "歯を磨く",
+      "reading": "ha o migaku"
+    },
+    "ko": {
+      "text": "이를 닦다",
+      "reading": "ireul dakda"
+    },
+    "es": {
+      "text": "cepillarse los dientes"
+    },
+    "fr": {
+      "text": "se brosser les dents"
+    },
+    "de": {
+      "text": "die Zähne putzen"
+    },
+    "id": {
+      "text": "menggosok gigi"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

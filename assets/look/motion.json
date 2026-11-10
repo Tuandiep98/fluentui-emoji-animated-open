@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "595ac5222b3fb95cb5d84c0f079a8f2a3d47eb2b7c727ac7bcf148576dfd81c0",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A small intact look presentation tilt preserves the exact original artwork, silhouette, facing and all connections. No separated parts, mirroring, changing geometry or invented mechanisms.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.36450000000000005
+      ],
+      [
+        1.45,
+        -0.12757500000000002
+      ],
+      [
+        2.1,
+        0.20047500000000004
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

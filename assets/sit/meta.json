@@ -1,0 +1,45 @@
+{
+  "id": "sit",
+  "name": "sit",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "sit"
+    },
+    "vi": {
+      "text": "ngồi"
+    },
+    "zh-Hans": {
+      "text": "坐",
+      "reading": "zuò"
+    },
+    "ja": {
+      "text": "すわる",
+      "reading": "suwaru"
+    },
+    "ko": {
+      "text": "앉다",
+      "reading": "antta"
+    },
+    "es": {
+      "text": "sentarse"
+    },
+    "fr": {
+      "text": "s'asseoir"
+    },
+    "de": {
+      "text": "sitzen"
+    },
+    "id": {
+      "text": "duduk"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

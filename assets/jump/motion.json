@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "4323a7cc2c5392931c62a32214139a60fc44e9ecbbd60b3a5078f10ff95e5da6",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A small vertical accent reinforces the already airborne original jump pose. The full original body remains intact; this is not a full articulated jump cycle.",
+  "tracks": {
+    "y": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.8609344200000003
+      ],
+      [
+        1.45,
+        0.30132704700000007
+      ],
+      [
+        2.1,
+        -0.47351393100000017
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

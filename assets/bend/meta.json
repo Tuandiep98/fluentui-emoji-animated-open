@@ -1,0 +1,45 @@
+{
+  "id": "bend",
+  "name": "bend",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "bend"
+    },
+    "vi": {
+      "text": "cúi người"
+    },
+    "zh-Hans": {
+      "text": "弯腰",
+      "reading": "wānyāo"
+    },
+    "ja": {
+      "text": "からだをまげる",
+      "reading": "karada o mageru"
+    },
+    "ko": {
+      "text": "몸을 굽히다",
+      "reading": "momeul gupida"
+    },
+    "es": {
+      "text": "doblar el cuerpo"
+    },
+    "fr": {
+      "text": "se pencher"
+    },
+    "de": {
+      "text": "sich beugen"
+    },
+    "id": {
+      "text": "membengkokkan badan"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

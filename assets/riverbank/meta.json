@@ -1,0 +1,45 @@
+{
+  "id": "riverbank",
+  "name": "riverbank",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "riverbank"
+    },
+    "vi": {
+      "text": "bờ sông"
+    },
+    "zh-Hans": {
+      "text": "河岸",
+      "reading": "hé'àn"
+    },
+    "ja": {
+      "text": "かわぎし",
+      "reading": "kawagishi"
+    },
+    "ko": {
+      "text": "강둑",
+      "reading": "gangduk"
+    },
+    "es": {
+      "text": "la ribera"
+    },
+    "fr": {
+      "text": "la berge"
+    },
+    "de": {
+      "text": "das Flussufer"
+    },
+    "id": {
+      "text": "tepi sungai"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

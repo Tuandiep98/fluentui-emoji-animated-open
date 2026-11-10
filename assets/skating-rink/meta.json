@@ -1,0 +1,46 @@
+{
+  "id": "skating-rink",
+  "name": "skating rink",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "skating rink"
+    },
+    "vi": {
+      "text": "sân trượt băng"
+    },
+    "zh-Hans": {
+      "text": "滑冰场",
+      "reading": "huá bīng chǎng"
+    },
+    "ja": {
+      "text": "スケートリンク",
+      "reading": "sukēto rinku"
+    },
+    "ko": {
+      "text": "스케이트장",
+      "reading": "seukeiteujang"
+    },
+    "es": {
+      "text": "la pista de patinaje"
+    },
+    "fr": {
+      "text": "la patinoire"
+    },
+    "de": {
+      "text": "die Eisbahn"
+    },
+    "id": {
+      "text": "arena seluncur es"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

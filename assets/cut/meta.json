@@ -1,0 +1,45 @@
+{
+  "id": "cut",
+  "name": "cut",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "cut"
+    },
+    "vi": {
+      "text": "cắt"
+    },
+    "zh-Hans": {
+      "text": "剪",
+      "reading": "jiǎn"
+    },
+    "ja": {
+      "text": "切る",
+      "reading": "kiru"
+    },
+    "ko": {
+      "text": "자르다",
+      "reading": "jareuda"
+    },
+    "es": {
+      "text": "cortar"
+    },
+    "fr": {
+      "text": "couper"
+    },
+    "de": {
+      "text": "schneiden"
+    },
+    "id": {
+      "text": "memotong"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "push-toy",
+  "name": "push toy",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "push toy"
+    },
+    "vi": {
+      "text": "đồ chơi đẩy"
+    },
+    "zh-Hans": {
+      "text": "推行玩具",
+      "reading": "tuī xíng wán jù"
+    },
+    "ja": {
+      "text": "押すおもちゃ",
+      "reading": "osu omocha"
+    },
+    "ko": {
+      "text": "밀기 장난감",
+      "reading": "milgi jangnamgam"
+    },
+    "es": {
+      "text": "el juguete para empujar"
+    },
+    "fr": {
+      "text": "le jouet à pousser"
+    },
+    "de": {
+      "text": "das Schiebespielzeug"
+    },
+    "id": {
+      "text": "mainan dorong"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

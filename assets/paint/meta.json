@@ -1,0 +1,45 @@
+{
+  "id": "paint",
+  "name": "paint",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "paint"
+    },
+    "vi": {
+      "text": "tô màu"
+    },
+    "zh-Hans": {
+      "text": "涂颜色",
+      "reading": "tú yán sè"
+    },
+    "ja": {
+      "text": "色を塗る",
+      "reading": "iro o nuru"
+    },
+    "ko": {
+      "text": "색칠하다",
+      "reading": "saekchilhada"
+    },
+    "es": {
+      "text": "pintar"
+    },
+    "fr": {
+      "text": "peindre"
+    },
+    "de": {
+      "text": "malen"
+    },
+    "id": {
+      "text": "mewarnai"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

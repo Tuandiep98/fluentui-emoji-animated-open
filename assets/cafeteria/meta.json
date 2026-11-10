@@ -1,0 +1,46 @@
+{
+  "id": "cafeteria",
+  "name": "cafeteria",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "cafeteria"
+    },
+    "vi": {
+      "text": "nhà ăn"
+    },
+    "zh-Hans": {
+      "text": "食堂",
+      "reading": "shí táng"
+    },
+    "ja": {
+      "text": "食堂",
+      "reading": "shokudō"
+    },
+    "ko": {
+      "text": "구내식당",
+      "reading": "gunaesikdang"
+    },
+    "es": {
+      "text": "la cafetería de autoservicio"
+    },
+    "fr": {
+      "text": "la cantine"
+    },
+    "de": {
+      "text": "die Kantine"
+    },
+    "id": {
+      "text": "kantin"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

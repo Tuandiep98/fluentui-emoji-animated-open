@@ -1,0 +1,45 @@
+{
+  "id": "cheek",
+  "name": "cheek",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "cheek"
+    },
+    "vi": {
+      "text": "má"
+    },
+    "zh-Hans": {
+      "text": "脸颊",
+      "reading": "liǎn jiá"
+    },
+    "ja": {
+      "text": "頬",
+      "reading": "hoho"
+    },
+    "ko": {
+      "text": "볼",
+      "reading": "bol"
+    },
+    "es": {
+      "text": "la mejilla"
+    },
+    "fr": {
+      "text": "la joue"
+    },
+    "de": {
+      "text": "die Wange"
+    },
+    "id": {
+      "text": "pipi"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

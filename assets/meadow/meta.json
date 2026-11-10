@@ -1,0 +1,45 @@
+{
+  "id": "meadow",
+  "name": "meadow",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "meadow"
+    },
+    "vi": {
+      "text": "đồng cỏ hoa"
+    },
+    "zh-Hans": {
+      "text": "草甸",
+      "reading": "cǎodiàn"
+    },
+    "ja": {
+      "text": "くさはら",
+      "reading": "kusahara"
+    },
+    "ko": {
+      "text": "초원",
+      "reading": "chowon"
+    },
+    "es": {
+      "text": "la pradera"
+    },
+    "fr": {
+      "text": "la prairie"
+    },
+    "de": {
+      "text": "die Wiese"
+    },
+    "id": {
+      "text": "padang rumput"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

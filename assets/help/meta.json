@@ -1,0 +1,45 @@
+{
+  "id": "help",
+  "name": "help",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "help"
+    },
+    "vi": {
+      "text": "giúp đỡ"
+    },
+    "zh-Hans": {
+      "text": "帮助",
+      "reading": "bāng zhù"
+    },
+    "ja": {
+      "text": "手伝う",
+      "reading": "tetsudau"
+    },
+    "ko": {
+      "text": "돕다",
+      "reading": "dopda"
+    },
+    "es": {
+      "text": "ayudar"
+    },
+    "fr": {
+      "text": "aider"
+    },
+    "de": {
+      "text": "helfen"
+    },
+    "id": {
+      "text": "membantu"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

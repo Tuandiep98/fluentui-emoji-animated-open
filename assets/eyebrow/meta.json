@@ -1,0 +1,45 @@
+{
+  "id": "eyebrow",
+  "name": "eyebrow",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "eyebrow"
+    },
+    "vi": {
+      "text": "lông mày"
+    },
+    "zh-Hans": {
+      "text": "眉毛",
+      "reading": "méi mao"
+    },
+    "ja": {
+      "text": "眉毛",
+      "reading": "mayuge"
+    },
+    "ko": {
+      "text": "눈썹",
+      "reading": "nunsseop"
+    },
+    "es": {
+      "text": "la ceja"
+    },
+    "fr": {
+      "text": "le sourcil"
+    },
+    "de": {
+      "text": "die Augenbraue"
+    },
+    "id": {
+      "text": "alis"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

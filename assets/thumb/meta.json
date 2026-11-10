@@ -1,0 +1,45 @@
+{
+  "id": "thumb",
+  "name": "thumb",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "thumb"
+    },
+    "vi": {
+      "text": "ngón tay cái"
+    },
+    "zh-Hans": {
+      "text": "拇指",
+      "reading": "mǔ zhǐ"
+    },
+    "ja": {
+      "text": "親指",
+      "reading": "oyayubi"
+    },
+    "ko": {
+      "text": "엄지손가락",
+      "reading": "eomjisongarak"
+    },
+    "es": {
+      "text": "el pulgar"
+    },
+    "fr": {
+      "text": "le pouce"
+    },
+    "de": {
+      "text": "der Daumen"
+    },
+    "id": {
+      "text": "ibu jari"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pliers",
+  "name": "pliers",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "pliers"
+    },
+    "vi": {
+      "text": "cái kìm"
+    },
+    "zh-Hans": {
+      "text": "钳子",
+      "reading": "qián zi"
+    },
+    "ja": {
+      "text": "ペンチ",
+      "reading": "penchi"
+    },
+    "ko": {
+      "text": "펜치",
+      "reading": "penchi"
+    },
+    "es": {
+      "text": "los alicates"
+    },
+    "fr": {
+      "text": "la pince universelle"
+    },
+    "de": {
+      "text": "die Zange"
+    },
+    "id": {
+      "text": "tang"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

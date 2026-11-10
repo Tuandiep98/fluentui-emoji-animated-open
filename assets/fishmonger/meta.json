@@ -1,0 +1,46 @@
+{
+  "id": "fishmonger",
+  "name": "fishmonger",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "fishmonger"
+    },
+    "vi": {
+      "text": "cửa hàng cá"
+    },
+    "zh-Hans": {
+      "text": "鱼店",
+      "reading": "yú diàn"
+    },
+    "ja": {
+      "text": "魚屋",
+      "reading": "sakanaya"
+    },
+    "ko": {
+      "text": "생선 가게",
+      "reading": "saengseon gage"
+    },
+    "es": {
+      "text": "la pescadería"
+    },
+    "fr": {
+      "text": "la poissonnerie"
+    },
+    "de": {
+      "text": "das Fischgeschäft"
+    },
+    "id": {
+      "text": "toko ikan"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

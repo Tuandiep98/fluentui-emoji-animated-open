@@ -1,0 +1,46 @@
+{
+  "id": "running-track",
+  "name": "running track",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "running track"
+    },
+    "vi": {
+      "text": "đường chạy"
+    },
+    "zh-Hans": {
+      "text": "跑道",
+      "reading": "pǎo dào"
+    },
+    "ja": {
+      "text": "陸上トラック",
+      "reading": "rikujō torakku"
+    },
+    "ko": {
+      "text": "육상 트랙",
+      "reading": "yuksang teuraek"
+    },
+    "es": {
+      "text": "la pista de atletismo"
+    },
+    "fr": {
+      "text": "la piste d'athlétisme"
+    },
+    "de": {
+      "text": "die Laufbahn"
+    },
+    "id": {
+      "text": "lintasan lari"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

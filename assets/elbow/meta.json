@@ -1,0 +1,45 @@
+{
+  "id": "elbow",
+  "name": "elbow",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "elbow"
+    },
+    "vi": {
+      "text": "khuỷu tay"
+    },
+    "zh-Hans": {
+      "text": "胳膊肘",
+      "reading": "gē bo zhǒu"
+    },
+    "ja": {
+      "text": "肘",
+      "reading": "hiji"
+    },
+    "ko": {
+      "text": "팔꿈치",
+      "reading": "palkkumchi"
+    },
+    "es": {
+      "text": "el codo"
+    },
+    "fr": {
+      "text": "le coude"
+    },
+    "de": {
+      "text": "der Ellenbogen"
+    },
+    "id": {
+      "text": "siku"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

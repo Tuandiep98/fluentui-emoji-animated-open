@@ -1,0 +1,46 @@
+{
+  "id": "duct-tape",
+  "name": "duct tape",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "duct tape"
+    },
+    "vi": {
+      "text": "băng keo vải"
+    },
+    "zh-Hans": {
+      "text": "布基胶带",
+      "reading": "bù jī jiāo dài"
+    },
+    "ja": {
+      "text": "布テープ",
+      "reading": "nuno tēpu"
+    },
+    "ko": {
+      "text": "덕트 테이프",
+      "reading": "deokteu teipeu"
+    },
+    "es": {
+      "text": "la cinta americana"
+    },
+    "fr": {
+      "text": "le ruban adhésif toilé"
+    },
+    "de": {
+      "text": "das Gewebeband"
+    },
+    "id": {
+      "text": "lakban kain"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

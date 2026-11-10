@@ -1,0 +1,46 @@
+{
+  "id": "pegboard",
+  "name": "pegboard",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "pegboard"
+    },
+    "vi": {
+      "text": "bảng cắm chốt"
+    },
+    "zh-Hans": {
+      "text": "插钉板",
+      "reading": "chā dīng bǎn"
+    },
+    "ja": {
+      "text": "ペグボード",
+      "reading": "pegu bōdo"
+    },
+    "ko": {
+      "text": "페그보드",
+      "reading": "pegeubodeu"
+    },
+    "es": {
+      "text": "el tablero de clavijas"
+    },
+    "fr": {
+      "text": "la planche à chevilles"
+    },
+    "de": {
+      "text": "das Steckbrett"
+    },
+    "id": {
+      "text": "papan pasak"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "subway-station",
+  "name": "subway station",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "subway station"
+    },
+    "vi": {
+      "text": "ga tàu điện ngầm"
+    },
+    "zh-Hans": {
+      "text": "地铁站",
+      "reading": "dì tiě zhàn"
+    },
+    "ja": {
+      "text": "地下鉄の駅",
+      "reading": "chikatetsu no eki"
+    },
+    "ko": {
+      "text": "지하철역",
+      "reading": "jihacheolyeok"
+    },
+    "es": {
+      "text": "la estación de metro"
+    },
+    "fr": {
+      "text": "la station de métro"
+    },
+    "de": {
+      "text": "der U-Bahnhof"
+    },
+    "id": {
+      "text": "stasiun kereta bawah tanah"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "double-decker-bus",
+  "name": "double decker bus",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "double decker bus"
+    },
+    "vi": {
+      "text": "xe buýt hai tầng"
+    },
+    "zh-Hans": {
+      "text": "双层巴士",
+      "reading": "shuāng céng bā shì"
+    },
+    "ja": {
+      "text": "二階建てバス",
+      "reading": "nikaidate basu"
+    },
+    "ko": {
+      "text": "이층 버스",
+      "reading": "icheung beoseu"
+    },
+    "es": {
+      "text": "el autobús de dos pisos"
+    },
+    "fr": {
+      "text": "le bus à deux étages"
+    },
+    "de": {
+      "text": "der Doppeldeckerbus"
+    },
+    "id": {
+      "text": "bus tingkat"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

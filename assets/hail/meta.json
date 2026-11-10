@@ -1,0 +1,45 @@
+{
+  "id": "hail",
+  "name": "hail",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "hail"
+    },
+    "vi": {
+      "text": "mưa đá"
+    },
+    "zh-Hans": {
+      "text": "冰雹",
+      "reading": "bīngbáo"
+    },
+    "ja": {
+      "text": "ひょう",
+      "reading": "hyō"
+    },
+    "ko": {
+      "text": "우박",
+      "reading": "ubak"
+    },
+    "es": {
+      "text": "el granizo"
+    },
+    "fr": {
+      "text": "la grêle"
+    },
+    "de": {
+      "text": "der Hagel"
+    },
+    "id": {
+      "text": "hujan es"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

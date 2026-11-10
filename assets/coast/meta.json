@@ -1,0 +1,45 @@
+{
+  "id": "coast",
+  "name": "coast",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "coast"
+    },
+    "vi": {
+      "text": "bờ biển"
+    },
+    "zh-Hans": {
+      "text": "海岸",
+      "reading": "hǎi'àn"
+    },
+    "ja": {
+      "text": "かいがん",
+      "reading": "kaigan"
+    },
+    "ko": {
+      "text": "해안",
+      "reading": "haean"
+    },
+    "es": {
+      "text": "la costa"
+    },
+    "fr": {
+      "text": "la côte"
+    },
+    "de": {
+      "text": "die Küste"
+    },
+    "id": {
+      "text": "pesisir"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

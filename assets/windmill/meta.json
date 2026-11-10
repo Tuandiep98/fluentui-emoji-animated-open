@@ -1,0 +1,46 @@
+{
+  "id": "windmill",
+  "name": "windmill",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "windmill"
+    },
+    "vi": {
+      "text": "cối xay gió"
+    },
+    "zh-Hans": {
+      "text": "风车磨坊",
+      "reading": "fēng chē mò fáng"
+    },
+    "ja": {
+      "text": "風車",
+      "reading": "fūsha"
+    },
+    "ko": {
+      "text": "풍차",
+      "reading": "pungcha"
+    },
+    "es": {
+      "text": "el molino de viento"
+    },
+    "fr": {
+      "text": "le moulin à vent"
+    },
+    "de": {
+      "text": "die Windmühle"
+    },
+    "id": {
+      "text": "kincir angin"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

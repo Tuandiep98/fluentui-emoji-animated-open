@@ -1,0 +1,46 @@
+{
+  "id": "snow-boots",
+  "name": "snow boots",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "snow boots"
+    },
+    "vi": {
+      "text": "ủng đi tuyết"
+    },
+    "zh-Hans": {
+      "text": "雪地靴",
+      "reading": "xuědìxuē"
+    },
+    "ja": {
+      "text": "スノーブーツ",
+      "reading": "sunō būtsu"
+    },
+    "ko": {
+      "text": "방한 부츠",
+      "reading": "banghan bucheu"
+    },
+    "es": {
+      "text": "las botas de nieve"
+    },
+    "fr": {
+      "text": "les bottes de neige"
+    },
+    "de": {
+      "text": "die Schneestiefel"
+    },
+    "id": {
+      "text": "sepatu bot salju"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

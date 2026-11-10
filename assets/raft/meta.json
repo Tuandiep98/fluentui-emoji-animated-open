@@ -1,0 +1,45 @@
+{
+  "id": "raft",
+  "name": "raft",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "raft"
+    },
+    "vi": {
+      "text": "bè"
+    },
+    "zh-Hans": {
+      "text": "木筏",
+      "reading": "mù fá"
+    },
+    "ja": {
+      "text": "いかだ",
+      "reading": "ikada"
+    },
+    "ko": {
+      "text": "뗏목",
+      "reading": "ttenmok"
+    },
+    "es": {
+      "text": "la balsa"
+    },
+    "fr": {
+      "text": "le radeau"
+    },
+    "de": {
+      "text": "das Floß"
+    },
+    "id": {
+      "text": "rakit"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

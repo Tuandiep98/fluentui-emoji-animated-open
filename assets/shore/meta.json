@@ -1,0 +1,45 @@
+{
+  "id": "shore",
+  "name": "shore",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "shore"
+    },
+    "vi": {
+      "text": "bờ nước"
+    },
+    "zh-Hans": {
+      "text": "水边",
+      "reading": "shuǐbiān"
+    },
+    "ja": {
+      "text": "みずべ",
+      "reading": "mizube"
+    },
+    "ko": {
+      "text": "물가",
+      "reading": "mulga"
+    },
+    "es": {
+      "text": "la orilla"
+    },
+    "fr": {
+      "text": "la rive"
+    },
+    "de": {
+      "text": "das Ufer"
+    },
+    "id": {
+      "text": "tepian air"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

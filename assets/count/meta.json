@@ -1,0 +1,45 @@
+{
+  "id": "count",
+  "name": "count",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "count"
+    },
+    "vi": {
+      "text": "đếm"
+    },
+    "zh-Hans": {
+      "text": "数数",
+      "reading": "shǔ shù"
+    },
+    "ja": {
+      "text": "数える",
+      "reading": "kazoeru"
+    },
+    "ko": {
+      "text": "세다",
+      "reading": "seda"
+    },
+    "es": {
+      "text": "contar"
+    },
+    "fr": {
+      "text": "compter"
+    },
+    "de": {
+      "text": "zählen"
+    },
+    "id": {
+      "text": "menghitung"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

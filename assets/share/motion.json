@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "8eb5456cfb1867b3260ab7cef3914e17c4cb2cec97d5092a4f3540ec4f85199d",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "Small intact sharing-pose accent. Both children and the offered ball retain exact original anatomy, hand positions and orientation; no limb or prop is separated.",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.81
+      ],
+      [
+        1.45,
+        -0.28350000000000003
+      ],
+      [
+        2.1,
+        0.44550000000000006
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

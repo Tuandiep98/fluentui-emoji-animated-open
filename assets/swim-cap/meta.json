@@ -1,0 +1,46 @@
+{
+  "id": "swim-cap",
+  "name": "swim cap",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "swim cap"
+    },
+    "vi": {
+      "text": "mũ bơi"
+    },
+    "zh-Hans": {
+      "text": "泳帽",
+      "reading": "yǒngmào"
+    },
+    "ja": {
+      "text": "すいえいぼう",
+      "reading": "suiei bō"
+    },
+    "ko": {
+      "text": "수영모",
+      "reading": "suyeongmo"
+    },
+    "es": {
+      "text": "el gorro de natación"
+    },
+    "fr": {
+      "text": "le bonnet de bain"
+    },
+    "de": {
+      "text": "die Badekappe"
+    },
+    "id": {
+      "text": "topi renang"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

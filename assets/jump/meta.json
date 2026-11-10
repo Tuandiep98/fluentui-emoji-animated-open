@@ -1,0 +1,45 @@
+{
+  "id": "jump",
+  "name": "jump",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "jump"
+    },
+    "vi": {
+      "text": "nhảy"
+    },
+    "zh-Hans": {
+      "text": "跳",
+      "reading": "tiào"
+    },
+    "ja": {
+      "text": "ジャンプする",
+      "reading": "janpu suru"
+    },
+    "ko": {
+      "text": "점프하다",
+      "reading": "jeompeuhada"
+    },
+    "es": {
+      "text": "saltar"
+    },
+    "fr": {
+      "text": "sauter"
+    },
+    "de": {
+      "text": "springen"
+    },
+    "id": {
+      "text": "melompat"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

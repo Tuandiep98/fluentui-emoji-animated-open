@@ -1,0 +1,45 @@
+{
+  "id": "neck",
+  "name": "neck",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "neck"
+    },
+    "vi": {
+      "text": "cổ"
+    },
+    "zh-Hans": {
+      "text": "脖子",
+      "reading": "bó zi"
+    },
+    "ja": {
+      "text": "首",
+      "reading": "kubi"
+    },
+    "ko": {
+      "text": "목",
+      "reading": "mok"
+    },
+    "es": {
+      "text": "el cuello"
+    },
+    "fr": {
+      "text": "le cou"
+    },
+    "de": {
+      "text": "der Hals"
+    },
+    "id": {
+      "text": "leher"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

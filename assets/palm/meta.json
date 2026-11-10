@@ -1,0 +1,45 @@
+{
+  "id": "palm",
+  "name": "palm",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "palm"
+    },
+    "vi": {
+      "text": "lòng bàn tay"
+    },
+    "zh-Hans": {
+      "text": "手掌",
+      "reading": "shǒu zhǎng"
+    },
+    "ja": {
+      "text": "手のひら",
+      "reading": "tenohira"
+    },
+    "ko": {
+      "text": "손바닥",
+      "reading": "sonbadak"
+    },
+    "es": {
+      "text": "la palma de la mano"
+    },
+    "fr": {
+      "text": "la paume"
+    },
+    "de": {
+      "text": "die Handfläche"
+    },
+    "id": {
+      "text": "telapak tangan"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

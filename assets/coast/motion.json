@@ -1,0 +1,88 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "9ff245e505bd8b1012524dfbaadcdf6d383b3f36c84b72d3e1f5d0249c5278be",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          114
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          178,
+          256,
+          78
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          114,
+          136,
+          64
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "open-ocean-ripple",
+      "kind": "press",
+      "center": [
+        179,
+        146
+      ],
+      "radius": [
+        43,
+        32
+      ],
+      "amp": 5.7,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.7
+        ],
+        [
+          1.4,
+          -1.9949999999999999
+        ],
+        [
+          2.05,
+          3.705
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only original open-water reflections ripple in a measured interior field. Beach, foam boundary, headland and rocks remain fixed; no coastline geometry is changed."
+}

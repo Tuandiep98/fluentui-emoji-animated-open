@@ -1,0 +1,46 @@
+{
+  "id": "socket",
+  "name": "socket",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "socket"
+    },
+    "vi": {
+      "text": "ổ cắm điện"
+    },
+    "zh-Hans": {
+      "text": "电源插座",
+      "reading": "diàn yuán chā zuò"
+    },
+    "ja": {
+      "text": "コンセント",
+      "reading": "konsento"
+    },
+    "ko": {
+      "text": "콘센트",
+      "reading": "konsenteu"
+    },
+    "es": {
+      "text": "la toma de corriente"
+    },
+    "fr": {
+      "text": "la prise électrique"
+    },
+    "de": {
+      "text": "die Steckdose"
+    },
+    "id": {
+      "text": "stopkontak"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

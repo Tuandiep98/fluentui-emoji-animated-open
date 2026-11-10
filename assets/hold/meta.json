@@ -1,0 +1,45 @@
+{
+  "id": "hold",
+  "name": "hold",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "hold"
+    },
+    "vi": {
+      "text": "cầm"
+    },
+    "zh-Hans": {
+      "text": "拿着",
+      "reading": "názhe"
+    },
+    "ja": {
+      "text": "もつ",
+      "reading": "motsu"
+    },
+    "ko": {
+      "text": "쥐다",
+      "reading": "jwida"
+    },
+    "es": {
+      "text": "sostener"
+    },
+    "fr": {
+      "text": "tenir"
+    },
+    "de": {
+      "text": "halten"
+    },
+    "id": {
+      "text": "memegang"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

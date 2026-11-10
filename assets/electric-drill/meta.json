@@ -1,0 +1,46 @@
+{
+  "id": "electric-drill",
+  "name": "electric drill",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "electric drill"
+    },
+    "vi": {
+      "text": "máy khoan điện"
+    },
+    "zh-Hans": {
+      "text": "电钻",
+      "reading": "diàn zuàn"
+    },
+    "ja": {
+      "text": "電動ドリル",
+      "reading": "dendō doriru"
+    },
+    "ko": {
+      "text": "전동 드릴",
+      "reading": "jeondong deuril"
+    },
+    "es": {
+      "text": "el taladro eléctrico"
+    },
+    "fr": {
+      "text": "la perceuse électrique"
+    },
+    "de": {
+      "text": "die Bohrmaschine"
+    },
+    "id": {
+      "text": "bor listrik"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

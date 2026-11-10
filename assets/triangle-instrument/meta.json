@@ -1,0 +1,46 @@
+{
+  "id": "triangle-instrument",
+  "name": "triangle instrument",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "triangle instrument"
+    },
+    "vi": {
+      "text": "nhạc cụ tam giác"
+    },
+    "zh-Hans": {
+      "text": "三角铁",
+      "reading": "sān jiǎo tiě"
+    },
+    "ja": {
+      "text": "トライアングル",
+      "reading": "toraianguru"
+    },
+    "ko": {
+      "text": "트라이앵글",
+      "reading": "teurai-aenggeul"
+    },
+    "es": {
+      "text": "el triángulo musical"
+    },
+    "fr": {
+      "text": "le triangle musical"
+    },
+    "de": {
+      "text": "die Triangel"
+    },
+    "id": {
+      "text": "alat musik triangle"
+    }
+  },
+  "tags": [
+    "music",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

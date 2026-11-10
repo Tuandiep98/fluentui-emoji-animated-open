@@ -27,23 +27,25 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**560 emoji · 12 categories**
+**660 emoji · 14 categories**
 
 | Category | Emoji |
 | --- | ---: |
-| Home | 115 |
+| Body | 14 |
+| Actions | 30 |
+| Home | 125 |
 | Kitchen | 50 |
 | Garden | 50 |
 | Fruit & vegetables | 50 |
 | Food & drink | 50 |
 | Wildlife | 90 |
-| Clothing | 40 |
+| Clothing | 46 |
 | School & art | 40 |
-| Tools & safety | 10 |
-| Vehicles | 15 |
-| Places & community | 30 |
-| Nature | 20 |
-| **Total** | **560** |
+| Tools & safety | 20 |
+| Vehicles | 25 |
+| Places & community | 40 |
+| Nature | 30 |
+| **Total** | **660** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -374,3 +376,27 @@ Each `assets/<id>/` contains the transparent MIT master, immutable reference,
 PNG/WebP stills, AVIF, motion recipe, translations, exact prompt and review hashes.
 Ask AI to follow this structure and contribute familiar emoji using the scaffold,
 animate, review and approve commands to grow the collection.
+
+## 100 more easy words: body, actions and everyday life — 2026-11-11
+
+[Preview: 100 new easy words, original beside animation](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/easy100/).
+
+14 body parts, 30 core actions, 6 clothing details, 10 toys, 10 vehicles,
+10 community places, 10 nature icons and 10 everyday tools. All have
+nine-language metadata. Familiar words come before specialist vocabulary.
+Collection and category counts update automatically with `npm run catalog`.
+
+Complete original artwork is finalized and frozen before animation. Anatomy,
+facing, connected components and contact with props remain faithful to the
+original. Continuous local motion has fixed anchors; intact rigid poses may
+receive a small presentation accent. Action icons show recognizable poses and
+small gestures, not full body-mechanics cycles. No cutout reassembly or mirroring.
+Exact neutral pixels, anchors, loop, bounds, deformation and at least 96%
+silhouette overlap pass checks. Seven decoded samples per icon are reviewed
+on light/dark backgrounds, not real-time playback of every icon. Each AVIF
+is 3 seconds, 24fps and at most 60KiB.
+
+Each `assets/<id>/` contains a transparent MIT master, immutable reference,
+PNG/WebP stills, AVIF, motion recipe, translations, exact prompt and review
+hashes. Ask AI to follow this structure and contribute familiar emoji using
+the scaffold, animate, review and approve commands to grow the collection.

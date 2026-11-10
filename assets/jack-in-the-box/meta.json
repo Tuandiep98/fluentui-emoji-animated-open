@@ -1,0 +1,46 @@
+{
+  "id": "jack-in-the-box",
+  "name": "jack in the box",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "jack in the box"
+    },
+    "vi": {
+      "text": "hộp đồ chơi bật lên"
+    },
+    "zh-Hans": {
+      "text": "惊喜弹跳盒",
+      "reading": "jīng xǐ tán tiào hé"
+    },
+    "ja": {
+      "text": "びっくり箱",
+      "reading": "bikkuribako"
+    },
+    "ko": {
+      "text": "깜짝 상자",
+      "reading": "kkamjjak sangja"
+    },
+    "es": {
+      "text": "la caja sorpresa con muñeco"
+    },
+    "fr": {
+      "text": "la boîte à surprise"
+    },
+    "de": {
+      "text": "der Springteufel"
+    },
+    "id": {
+      "text": "kotak boneka kejutan"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

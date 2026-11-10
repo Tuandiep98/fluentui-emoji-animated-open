@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "bd2ce32c49bfdcf3365c5ae20f389e79bead5c804946367280413b86932a0f86",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "Small forward push-pose accent of child and toy box together; original palm-box contacts and anatomy are fixed relative to each other.",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -1.1809800000000004
+      ],
+      [
+        1.45,
+        0.41334300000000007
+      ],
+      [
+        2.1,
+        -0.6495390000000002
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

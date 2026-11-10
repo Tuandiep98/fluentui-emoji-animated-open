@@ -1,4 +1,6 @@
 export const CATEGORY_LABELS = {
+  body: 'Body',
+  actions: 'Actions',
   home: 'Home',
   kitchen: 'Kitchen',
   garden: 'Garden',

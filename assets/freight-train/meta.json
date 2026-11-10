@@ -1,0 +1,45 @@
+{
+  "id": "freight-train",
+  "name": "freight train",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "freight train"
+    },
+    "vi": {
+      "text": "tàu chở hàng"
+    },
+    "zh-Hans": {
+      "text": "货运列车",
+      "reading": "huò yùn liè chē"
+    },
+    "ja": {
+      "text": "貨物列車",
+      "reading": "kamotsu ressha"
+    },
+    "ko": {
+      "text": "화물열차",
+      "reading": "hwamul yeolcha"
+    },
+    "es": {
+      "text": "el tren de mercancías"
+    },
+    "fr": {
+      "text": "le train de marchandises"
+    },
+    "de": {
+      "text": "der Güterzug"
+    },
+    "id": {
+      "text": "kereta barang"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

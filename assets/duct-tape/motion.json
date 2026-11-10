@@ -1,0 +1,88 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "6f4df551dcdaddb96a0371b4a5a245091336ac84e5f2c4a0222f8eb3fdab164e",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          180
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          180,
+          124,
+          76
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          246,
+          256,
+          10
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "free-tape-tip",
+      "kind": "wave",
+      "center": [
+        185,
+        213
+      ],
+      "radius": [
+        61,
+        33
+      ],
+      "amp": 5.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.8
+        ],
+        [
+          1.4,
+          -2.03
+        ],
+        [
+          2.05,
+          3.77
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The free original tape flap sways continuously below its fixed roll attachment. The complete tape roll and core remain fixed, with no separated strip or invented pieces."
+}

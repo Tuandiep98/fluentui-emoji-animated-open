@@ -1,0 +1,79 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "1ad37b336c7aabc1de8a586d39b4c16d98eefb5ef86a24a393ea7e438344bbf0",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          67
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          111,
+          256,
+          145
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "small-brushing-gesture",
+      "kind": "press",
+      "center": [
+        114,
+        89
+      ],
+      "radius": [
+        43,
+        22
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "A tiny source-based brushing gesture shifts the contacting toothbrush/hand and adjacent mouth together. Upper head/eyes and lower body remain fixed. Original anatomy and brush-to-mouth contact remain continuous."
+}

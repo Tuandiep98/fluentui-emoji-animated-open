@@ -1,0 +1,45 @@
+{
+  "id": "snowdrift",
+  "name": "snowdrift",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "snowdrift"
+    },
+    "vi": {
+      "text": "đụn tuyết"
+    },
+    "zh-Hans": {
+      "text": "雪堆",
+      "reading": "xuěduī"
+    },
+    "ja": {
+      "text": "ふきだまり",
+      "reading": "fukidamari"
+    },
+    "ko": {
+      "text": "눈더미",
+      "reading": "nundeomi"
+    },
+    "es": {
+      "text": "el montón de nieve"
+    },
+    "fr": {
+      "text": "la congère"
+    },
+    "de": {
+      "text": "die Schneewehe"
+    },
+    "id": {
+      "text": "gundukan salju"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

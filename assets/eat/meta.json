@@ -1,0 +1,45 @@
+{
+  "id": "eat",
+  "name": "eat",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "eat"
+    },
+    "vi": {
+      "text": "ăn"
+    },
+    "zh-Hans": {
+      "text": "吃",
+      "reading": "chī"
+    },
+    "ja": {
+      "text": "食べる",
+      "reading": "taberu"
+    },
+    "ko": {
+      "text": "먹다",
+      "reading": "meokda"
+    },
+    "es": {
+      "text": "comer"
+    },
+    "fr": {
+      "text": "manger"
+    },
+    "de": {
+      "text": "essen"
+    },
+    "id": {
+      "text": "makan"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

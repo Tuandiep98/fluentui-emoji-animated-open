@@ -1,0 +1,45 @@
+{
+  "id": "sweep",
+  "name": "sweep",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "sweep"
+    },
+    "vi": {
+      "text": "quét nhà"
+    },
+    "zh-Hans": {
+      "text": "扫地",
+      "reading": "sǎo dì"
+    },
+    "ja": {
+      "text": "掃く",
+      "reading": "haku"
+    },
+    "ko": {
+      "text": "쓸다",
+      "reading": "sseulda"
+    },
+    "es": {
+      "text": "barrer"
+    },
+    "fr": {
+      "text": "balayer"
+    },
+    "de": {
+      "text": "fegen"
+    },
+    "id": {
+      "text": "menyapu"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

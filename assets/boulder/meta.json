@@ -1,0 +1,45 @@
+{
+  "id": "boulder",
+  "name": "boulder",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "boulder"
+    },
+    "vi": {
+      "text": "tảng đá lớn"
+    },
+    "zh-Hans": {
+      "text": "巨石",
+      "reading": "jùshí"
+    },
+    "ja": {
+      "text": "おおいわ",
+      "reading": "ōiwa"
+    },
+    "ko": {
+      "text": "큰 바위",
+      "reading": "keun bawi"
+    },
+    "es": {
+      "text": "la roca grande"
+    },
+    "fr": {
+      "text": "le bloc rocheux"
+    },
+    "de": {
+      "text": "der Felsblock"
+    },
+    "id": {
+      "text": "batu besar"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "fold",
+  "name": "fold",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "fold"
+    },
+    "vi": {
+      "text": "gấp"
+    },
+    "zh-Hans": {
+      "text": "折叠",
+      "reading": "zhé dié"
+    },
+    "ja": {
+      "text": "畳む",
+      "reading": "tatamu"
+    },
+    "ko": {
+      "text": "접다",
+      "reading": "jeopda"
+    },
+    "es": {
+      "text": "doblar"
+    },
+    "fr": {
+      "text": "plier"
+    },
+    "de": {
+      "text": "falten"
+    },
+    "id": {
+      "text": "melipat"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

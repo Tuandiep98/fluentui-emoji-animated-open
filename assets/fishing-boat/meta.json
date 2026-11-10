@@ -1,0 +1,45 @@
+{
+  "id": "fishing-boat",
+  "name": "fishing boat",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "fishing boat"
+    },
+    "vi": {
+      "text": "thuyền đánh cá"
+    },
+    "zh-Hans": {
+      "text": "渔船",
+      "reading": "yú chuán"
+    },
+    "ja": {
+      "text": "漁船",
+      "reading": "gyosen"
+    },
+    "ko": {
+      "text": "어선",
+      "reading": "eoseon"
+    },
+    "es": {
+      "text": "el barco de pesca"
+    },
+    "fr": {
+      "text": "le bateau de pêche"
+    },
+    "de": {
+      "text": "das Fischerboot"
+    },
+    "id": {
+      "text": "perahu nelayan"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

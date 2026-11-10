@@ -1,0 +1,46 @@
+{
+  "id": "collar",
+  "name": "collar",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "collar"
+    },
+    "vi": {
+      "text": "cổ áo"
+    },
+    "zh-Hans": {
+      "text": "衣领",
+      "reading": "yīlǐng"
+    },
+    "ja": {
+      "text": "えり",
+      "reading": "eri"
+    },
+    "ko": {
+      "text": "옷깃",
+      "reading": "otgit"
+    },
+    "es": {
+      "text": "el cuello de camisa"
+    },
+    "fr": {
+      "text": "le col"
+    },
+    "de": {
+      "text": "der Kragen"
+    },
+    "id": {
+      "text": "kerah"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

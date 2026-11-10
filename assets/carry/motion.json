@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "2c3453360961d3b3f4e35dc1625816644e0f8dca45dedd6ed225cf435a38115b",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "Small forward carry-pose accent of the complete original child and supported box together. Hand-box contact, anatomy and original facing remain exact; no reassembly or independent prop movement.",
+  "tracks": {
+    "x": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -0.9034497000000002
+      ],
+      [
+        1.45,
+        0.316207395
+      ],
+      [
+        2.1,
+        -0.4968973350000001
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

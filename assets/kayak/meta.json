@@ -1,0 +1,45 @@
+{
+  "id": "kayak",
+  "name": "kayak",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "kayak"
+    },
+    "vi": {
+      "text": "thuyền kayak"
+    },
+    "zh-Hans": {
+      "text": "皮划艇",
+      "reading": "pí huá tǐng"
+    },
+    "ja": {
+      "text": "カヤック",
+      "reading": "kayakku"
+    },
+    "ko": {
+      "text": "카약",
+      "reading": "kayak"
+    },
+    "es": {
+      "text": "el kayak"
+    },
+    "fr": {
+      "text": "le kayak"
+    },
+    "de": {
+      "text": "das Kajak"
+    },
+    "id": {
+      "text": "kayak"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

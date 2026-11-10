@@ -1,0 +1,46 @@
+{
+  "id": "sandpaper",
+  "name": "sandpaper",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "sandpaper"
+    },
+    "vi": {
+      "text": "giấy nhám"
+    },
+    "zh-Hans": {
+      "text": "砂纸",
+      "reading": "shā zhǐ"
+    },
+    "ja": {
+      "text": "紙やすり",
+      "reading": "kamiyasuri"
+    },
+    "ko": {
+      "text": "사포",
+      "reading": "sapo"
+    },
+    "es": {
+      "text": "el papel de lija"
+    },
+    "fr": {
+      "text": "le papier de verre"
+    },
+    "de": {
+      "text": "das Schleifpapier"
+    },
+    "id": {
+      "text": "ampelas"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "workbench",
+  "name": "workbench",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "workbench"
+    },
+    "vi": {
+      "text": "bàn làm mộc"
+    },
+    "zh-Hans": {
+      "text": "工作台",
+      "reading": "gōng zuò tái"
+    },
+    "ja": {
+      "text": "作業台",
+      "reading": "sagyōdai"
+    },
+    "ko": {
+      "text": "작업대",
+      "reading": "jageopdae"
+    },
+    "es": {
+      "text": "el banco de trabajo"
+    },
+    "fr": {
+      "text": "l'établi"
+    },
+    "de": {
+      "text": "die Werkbank"
+    },
+    "id": {
+      "text": "meja kerja"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

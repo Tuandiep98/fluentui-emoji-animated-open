@@ -1,0 +1,46 @@
+{
+  "id": "pipe",
+  "name": "pipe",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "pipe"
+    },
+    "vi": {
+      "text": "ống nước"
+    },
+    "zh-Hans": {
+      "text": "管道",
+      "reading": "guǎn dào"
+    },
+    "ja": {
+      "text": "パイプ",
+      "reading": "paipu"
+    },
+    "ko": {
+      "text": "파이프",
+      "reading": "paipeu"
+    },
+    "es": {
+      "text": "el tubo"
+    },
+    "fr": {
+      "text": "le tuyau"
+    },
+    "de": {
+      "text": "das Rohr"
+    },
+    "id": {
+      "text": "pipa"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

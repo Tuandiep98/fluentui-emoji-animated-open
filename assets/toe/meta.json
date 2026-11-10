@@ -1,0 +1,45 @@
+{
+  "id": "toe",
+  "name": "toe",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "toe"
+    },
+    "vi": {
+      "text": "ngón chân"
+    },
+    "zh-Hans": {
+      "text": "脚趾",
+      "reading": "jiǎo zhǐ"
+    },
+    "ja": {
+      "text": "足の指",
+      "reading": "ashi no yubi"
+    },
+    "ko": {
+      "text": "발가락",
+      "reading": "balgarak"
+    },
+    "es": {
+      "text": "el dedo del pie"
+    },
+    "fr": {
+      "text": "l'orteil"
+    },
+    "de": {
+      "text": "der Zeh"
+    },
+    "id": {
+      "text": "jari kaki"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

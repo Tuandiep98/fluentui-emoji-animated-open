@@ -1,0 +1,45 @@
+{
+  "id": "crystal",
+  "name": "crystal",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "crystal"
+    },
+    "vi": {
+      "text": "tinh thể"
+    },
+    "zh-Hans": {
+      "text": "晶体",
+      "reading": "jīngtǐ"
+    },
+    "ja": {
+      "text": "けっしょう",
+      "reading": "kesshō"
+    },
+    "ko": {
+      "text": "결정",
+      "reading": "gyeoljeong"
+    },
+    "es": {
+      "text": "el cristal"
+    },
+    "fr": {
+      "text": "le cristal"
+    },
+    "de": {
+      "text": "der Kristall"
+    },
+    "id": {
+      "text": "kristal"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

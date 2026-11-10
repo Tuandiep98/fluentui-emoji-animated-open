@@ -1,0 +1,46 @@
+{
+  "id": "harmonica",
+  "name": "harmonica",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "harmonica"
+    },
+    "vi": {
+      "text": "kèn harmonica"
+    },
+    "zh-Hans": {
+      "text": "口琴",
+      "reading": "kǒu qín"
+    },
+    "ja": {
+      "text": "ハーモニカ",
+      "reading": "hāmonika"
+    },
+    "ko": {
+      "text": "하모니카",
+      "reading": "hamonika"
+    },
+    "es": {
+      "text": "la armónica"
+    },
+    "fr": {
+      "text": "l'harmonica"
+    },
+    "de": {
+      "text": "die Mundharmonika"
+    },
+    "id": {
+      "text": "harmonika"
+    }
+  },
+  "tags": [
+    "music",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

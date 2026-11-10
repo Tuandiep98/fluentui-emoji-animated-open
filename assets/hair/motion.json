@@ -1,0 +1,70 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "3ecbbd46cd6bca6c0ab3e7d19320c57ba1cfa9df066cb3181385c4e726f5f07e",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          101,
+          256,
+          155
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "upper-hair-sway",
+      "kind": "wave",
+      "center": [
+        128,
+        59
+      ],
+      "radius": [
+        96,
+        42
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "Only the upper original hair tufts sway subtly. The hairline below the field, face, brows and ears remain pixel-fixed; no separated strands or changed head shape."
+}

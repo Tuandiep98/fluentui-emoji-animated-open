@@ -1,0 +1,45 @@
+{
+  "id": "cement-mixer",
+  "name": "cement mixer",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "cement mixer"
+    },
+    "vi": {
+      "text": "xe trộn bê tông"
+    },
+    "zh-Hans": {
+      "text": "混凝土搅拌车",
+      "reading": "hùn níng tǔ jiǎo bàn chē"
+    },
+    "ja": {
+      "text": "コンクリートミキサー車",
+      "reading": "konkurīto mikisāsha"
+    },
+    "ko": {
+      "text": "콘크리트 믹서 트럭",
+      "reading": "konkeuriteu mikseo teureok"
+    },
+    "es": {
+      "text": "el camión hormigonera"
+    },
+    "fr": {
+      "text": "le camion toupie"
+    },
+    "de": {
+      "text": "der Betonmischer"
+    },
+    "id": {
+      "text": "truk pengaduk semen"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "butcher-shop",
+  "name": "butcher shop",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "butcher shop"
+    },
+    "vi": {
+      "text": "cửa hàng thịt"
+    },
+    "zh-Hans": {
+      "text": "肉店",
+      "reading": "ròu diàn"
+    },
+    "ja": {
+      "text": "肉屋",
+      "reading": "nikuya"
+    },
+    "ko": {
+      "text": "정육점",
+      "reading": "jeongyukjeom"
+    },
+    "es": {
+      "text": "la carnicería"
+    },
+    "fr": {
+      "text": "la boucherie"
+    },
+    "de": {
+      "text": "die Metzgerei"
+    },
+    "id": {
+      "text": "toko daging"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

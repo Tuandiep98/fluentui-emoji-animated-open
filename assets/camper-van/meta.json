@@ -1,0 +1,45 @@
+{
+  "id": "camper-van",
+  "name": "camper van",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "camper van"
+    },
+    "vi": {
+      "text": "xe cắm trại"
+    },
+    "zh-Hans": {
+      "text": "露营车",
+      "reading": "lù yíng chē"
+    },
+    "ja": {
+      "text": "キャンピングカー",
+      "reading": "kyanpingu kā"
+    },
+    "ko": {
+      "text": "캠핑카",
+      "reading": "kaempingka"
+    },
+    "es": {
+      "text": "la furgoneta camper"
+    },
+    "fr": {
+      "text": "le fourgon aménagé"
+    },
+    "de": {
+      "text": "der Campingbus"
+    },
+    "id": {
+      "text": "mobil kemah"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

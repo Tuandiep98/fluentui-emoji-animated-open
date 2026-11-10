@@ -1,0 +1,45 @@
+{
+  "id": "pull",
+  "name": "pull",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "pull"
+    },
+    "vi": {
+      "text": "kéo"
+    },
+    "zh-Hans": {
+      "text": "拉",
+      "reading": "lā"
+    },
+    "ja": {
+      "text": "ひく",
+      "reading": "hiku"
+    },
+    "ko": {
+      "text": "당기다",
+      "reading": "danggida"
+    },
+    "es": {
+      "text": "tirar de algo"
+    },
+    "fr": {
+      "text": "tirer"
+    },
+    "de": {
+      "text": "ziehen"
+    },
+    "id": {
+      "text": "menarik"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

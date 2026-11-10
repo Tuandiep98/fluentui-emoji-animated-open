@@ -1,0 +1,45 @@
+{
+  "id": "push",
+  "name": "push",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "push"
+    },
+    "vi": {
+      "text": "đẩy"
+    },
+    "zh-Hans": {
+      "text": "推",
+      "reading": "tuī"
+    },
+    "ja": {
+      "text": "おす",
+      "reading": "osu"
+    },
+    "ko": {
+      "text": "밀다",
+      "reading": "milda"
+    },
+    "es": {
+      "text": "empujar"
+    },
+    "fr": {
+      "text": "pousser"
+    },
+    "de": {
+      "text": "schieben"
+    },
+    "id": {
+      "text": "mendorong"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "wash-hands",
+  "name": "wash hands",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "wash hands"
+    },
+    "vi": {
+      "text": "rửa tay"
+    },
+    "zh-Hans": {
+      "text": "洗手",
+      "reading": "xǐ shǒu"
+    },
+    "ja": {
+      "text": "手を洗う",
+      "reading": "te o arau"
+    },
+    "ko": {
+      "text": "손을 씻다",
+      "reading": "soneul ssitda"
+    },
+    "es": {
+      "text": "lavarse las manos"
+    },
+    "fr": {
+      "text": "se laver les mains"
+    },
+    "de": {
+      "text": "die Hände waschen"
+    },
+    "id": {
+      "text": "mencuci tangan"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

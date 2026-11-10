@@ -1,0 +1,45 @@
+{
+  "id": "wrist",
+  "name": "wrist",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "wrist"
+    },
+    "vi": {
+      "text": "cổ tay"
+    },
+    "zh-Hans": {
+      "text": "手腕",
+      "reading": "shǒu wàn"
+    },
+    "ja": {
+      "text": "手首",
+      "reading": "tekubi"
+    },
+    "ko": {
+      "text": "손목",
+      "reading": "sonmok"
+    },
+    "es": {
+      "text": "la muñeca"
+    },
+    "fr": {
+      "text": "le poignet"
+    },
+    "de": {
+      "text": "das Handgelenk"
+    },
+    "id": {
+      "text": "pergelangan tangan"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

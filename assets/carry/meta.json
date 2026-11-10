@@ -1,0 +1,45 @@
+{
+  "id": "carry",
+  "name": "carry",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "carry"
+    },
+    "vi": {
+      "text": "mang"
+    },
+    "zh-Hans": {
+      "text": "搬运",
+      "reading": "bānyùn"
+    },
+    "ja": {
+      "text": "はこぶ",
+      "reading": "hakobu"
+    },
+    "ko": {
+      "text": "나르다",
+      "reading": "nareuda"
+    },
+    "es": {
+      "text": "llevar"
+    },
+    "fr": {
+      "text": "porter"
+    },
+    "de": {
+      "text": "tragen"
+    },
+    "id": {
+      "text": "membawa"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

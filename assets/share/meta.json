@@ -1,0 +1,45 @@
+{
+  "id": "share",
+  "name": "share",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "share"
+    },
+    "vi": {
+      "text": "chia sẻ"
+    },
+    "zh-Hans": {
+      "text": "分享",
+      "reading": "fēn xiǎng"
+    },
+    "ja": {
+      "text": "分け合う",
+      "reading": "wakeau"
+    },
+    "ko": {
+      "text": "나누다",
+      "reading": "nanuda"
+    },
+    "es": {
+      "text": "compartir"
+    },
+    "fr": {
+      "text": "partager"
+    },
+    "de": {
+      "text": "teilen"
+    },
+    "id": {
+      "text": "berbagi"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

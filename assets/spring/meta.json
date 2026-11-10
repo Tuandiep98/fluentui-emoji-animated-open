@@ -1,0 +1,46 @@
+{
+  "id": "spring",
+  "name": "spring",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "spring"
+    },
+    "vi": {
+      "text": "lò xo"
+    },
+    "zh-Hans": {
+      "text": "弹簧",
+      "reading": "tán huáng"
+    },
+    "ja": {
+      "text": "ばね",
+      "reading": "bane"
+    },
+    "ko": {
+      "text": "용수철",
+      "reading": "yongsucheol"
+    },
+    "es": {
+      "text": "el resorte"
+    },
+    "fr": {
+      "text": "le ressort"
+    },
+    "de": {
+      "text": "die Feder"
+    },
+    "id": {
+      "text": "pegas"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

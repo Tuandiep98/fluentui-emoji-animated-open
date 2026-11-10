@@ -1,0 +1,45 @@
+{
+  "id": "stretch",
+  "name": "stretch",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "stretch"
+    },
+    "vi": {
+      "text": "vươn vai"
+    },
+    "zh-Hans": {
+      "text": "伸懒腰",
+      "reading": "shēn lǎnyāo"
+    },
+    "ja": {
+      "text": "のびをする",
+      "reading": "nobi o suru"
+    },
+    "ko": {
+      "text": "기지개를 켜다",
+      "reading": "gijigaereul kyeoda"
+    },
+    "es": {
+      "text": "estirarse"
+    },
+    "fr": {
+      "text": "s'étirer"
+    },
+    "de": {
+      "text": "sich strecken"
+    },
+    "id": {
+      "text": "menggeliat"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

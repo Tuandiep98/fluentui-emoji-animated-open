@@ -1,0 +1,45 @@
+{
+  "id": "caravan",
+  "name": "caravan",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "caravan"
+    },
+    "vi": {
+      "text": "nhà di động kéo theo"
+    },
+    "zh-Hans": {
+      "text": "旅行拖车",
+      "reading": "lǚ xíng tuō chē"
+    },
+    "ja": {
+      "text": "キャンピングトレーラー",
+      "reading": "kyanpingu torērā"
+    },
+    "ko": {
+      "text": "캠핑 트레일러",
+      "reading": "kaemping teureilleo"
+    },
+    "es": {
+      "text": "la caravana"
+    },
+    "fr": {
+      "text": "la caravane"
+    },
+    "de": {
+      "text": "der Wohnwagen"
+    },
+    "id": {
+      "text": "karavan"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

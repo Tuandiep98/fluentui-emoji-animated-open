@@ -1,0 +1,45 @@
+{
+  "id": "wipe",
+  "name": "wipe",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "wipe"
+    },
+    "vi": {
+      "text": "lau"
+    },
+    "zh-Hans": {
+      "text": "擦",
+      "reading": "cā"
+    },
+    "ja": {
+      "text": "拭く",
+      "reading": "fuku"
+    },
+    "ko": {
+      "text": "닦다",
+      "reading": "dakda"
+    },
+    "es": {
+      "text": "limpiar con un paño"
+    },
+    "fr": {
+      "text": "essuyer"
+    },
+    "de": {
+      "text": "abwischen"
+    },
+    "id": {
+      "text": "mengelap"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

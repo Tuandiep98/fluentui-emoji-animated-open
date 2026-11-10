@@ -1,0 +1,45 @@
+{
+  "id": "heel",
+  "name": "heel",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "heel"
+    },
+    "vi": {
+      "text": "gót chân"
+    },
+    "zh-Hans": {
+      "text": "脚跟",
+      "reading": "jiǎo gēn"
+    },
+    "ja": {
+      "text": "かかと",
+      "reading": "kakato"
+    },
+    "ko": {
+      "text": "발뒤꿈치",
+      "reading": "baldwikkumchi"
+    },
+    "es": {
+      "text": "el talón"
+    },
+    "fr": {
+      "text": "le talon"
+    },
+    "de": {
+      "text": "die Ferse"
+    },
+    "id": {
+      "text": "tumit"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,79 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "a4dd35d25adde7995d2d9e0b2a722db5b1d72b4c298bb1b5df0139b142b891fa",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          85
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          141,
+          256,
+          115
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "small-yawn-expression",
+      "kind": "press",
+      "center": [
+        141,
+        113
+      ],
+      "radius": [
+        28,
+        28
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4
+        ],
+        [
+          1.4,
+          -1.4
+        ],
+        [
+          2.05,
+          2.6
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "A small continuous accent on the original yawn expression; the covering hand, lower arm/body and upper eyes/hair remain fixed outside the measured mouth field. No repainted facial pieces."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "gravel",
+  "name": "gravel",
+  "category": "nature",
+  "terms": {
+    "en": {
+      "text": "gravel"
+    },
+    "vi": {
+      "text": "sỏi vụn"
+    },
+    "zh-Hans": {
+      "text": "碎石",
+      "reading": "suìshí"
+    },
+    "ja": {
+      "text": "じゃり",
+      "reading": "jari"
+    },
+    "ko": {
+      "text": "자갈",
+      "reading": "jagal"
+    },
+    "es": {
+      "text": "la grava"
+    },
+    "fr": {
+      "text": "le gravier"
+    },
+    "de": {
+      "text": "der Kies"
+    },
+    "id": {
+      "text": "kerikil"
+    }
+  },
+  "tags": [
+    "nature"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tool-belt",
+  "name": "tool belt",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "tool belt"
+    },
+    "vi": {
+      "text": "đai đựng dụng cụ"
+    },
+    "zh-Hans": {
+      "text": "工具腰带",
+      "reading": "gōng jù yāo dài"
+    },
+    "ja": {
+      "text": "工具ベルト",
+      "reading": "kōgu beruto"
+    },
+    "ko": {
+      "text": "공구 벨트",
+      "reading": "gonggu belteu"
+    },
+    "es": {
+      "text": "el cinturón de herramientas"
+    },
+    "fr": {
+      "text": "la ceinture à outils"
+    },
+    "de": {
+      "text": "der Werkzeuggürtel"
+    },
+    "id": {
+      "text": "sabuk perkakas"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "look",
+  "name": "look",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "look"
+    },
+    "vi": {
+      "text": "nhìn"
+    },
+    "zh-Hans": {
+      "text": "看",
+      "reading": "kàn"
+    },
+    "ja": {
+      "text": "見る",
+      "reading": "miru"
+    },
+    "ko": {
+      "text": "보다",
+      "reading": "boda"
+    },
+    "es": {
+      "text": "mirar"
+    },
+    "fr": {
+      "text": "regarder"
+    },
+    "de": {
+      "text": "schauen"
+    },
+    "id": {
+      "text": "melihat"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

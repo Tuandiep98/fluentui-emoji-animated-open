@@ -1,0 +1,45 @@
+{
+  "id": "shoulder",
+  "name": "shoulder",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "shoulder"
+    },
+    "vi": {
+      "text": "vai"
+    },
+    "zh-Hans": {
+      "text": "肩膀",
+      "reading": "jiān bǎng"
+    },
+    "ja": {
+      "text": "肩",
+      "reading": "kata"
+    },
+    "ko": {
+      "text": "어깨",
+      "reading": "eokkae"
+    },
+    "es": {
+      "text": "el hombro"
+    },
+    "fr": {
+      "text": "l'épaule"
+    },
+    "de": {
+      "text": "die Schulter"
+    },
+    "id": {
+      "text": "bahu"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

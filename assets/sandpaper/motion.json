@@ -1,0 +1,88 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "e67b54b261896b39d5a458e4a2374751c58b1829e5cd6e22bdfafeff01bac06b",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          148
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          218,
+          256,
+          38
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          148,
+          127,
+          70
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "curled-paper-corner",
+      "kind": "wave",
+      "center": [
+        176,
+        183
+      ],
+      "radius": [
+        49,
+        35
+      ],
+      "amp": 4.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.2
+        ],
+        [
+          1.4,
+          -1.47
+        ],
+        [
+          2.05,
+          2.7300000000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ]
+    }
+  ],
+  "note": "The original curled paper corner flexes lightly while the upper sheet and left side remain fixed. No extra sheets, detached corner or changed texture."
+}

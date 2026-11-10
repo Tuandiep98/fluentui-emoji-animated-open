@@ -1,0 +1,45 @@
+{
+  "id": "read",
+  "name": "read",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "read"
+    },
+    "vi": {
+      "text": "đọc"
+    },
+    "zh-Hans": {
+      "text": "阅读",
+      "reading": "yuè dú"
+    },
+    "ja": {
+      "text": "読む",
+      "reading": "yomu"
+    },
+    "ko": {
+      "text": "읽다",
+      "reading": "ikda"
+    },
+    "es": {
+      "text": "leer"
+    },
+    "fr": {
+      "text": "lire"
+    },
+    "de": {
+      "text": "lesen"
+    },
+    "id": {
+      "text": "membaca"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

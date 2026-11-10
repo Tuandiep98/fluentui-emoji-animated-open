@@ -1,0 +1,46 @@
+{
+  "id": "shirt-pocket",
+  "name": "shirt pocket",
+  "category": "clothing",
+  "terms": {
+    "en": {
+      "text": "shirt pocket"
+    },
+    "vi": {
+      "text": "túi áo sơ mi"
+    },
+    "zh-Hans": {
+      "text": "衬衫口袋",
+      "reading": "chènshān kǒudài"
+    },
+    "ja": {
+      "text": "むねポケット",
+      "reading": "mune poketto"
+    },
+    "ko": {
+      "text": "가슴주머니",
+      "reading": "gaseum jumeoni"
+    },
+    "es": {
+      "text": "el bolsillo de la camisa"
+    },
+    "fr": {
+      "text": "la poche de chemise"
+    },
+    "de": {
+      "text": "die Brusttasche"
+    },
+    "id": {
+      "text": "saku kemeja"
+    }
+  },
+  "tags": [
+    "clothes",
+    "clothing"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

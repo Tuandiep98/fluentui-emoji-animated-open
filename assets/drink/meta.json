@@ -1,0 +1,45 @@
+{
+  "id": "drink",
+  "name": "drink",
+  "category": "actions",
+  "terms": {
+    "en": {
+      "text": "drink"
+    },
+    "vi": {
+      "text": "uống"
+    },
+    "zh-Hans": {
+      "text": "喝",
+      "reading": "hē"
+    },
+    "ja": {
+      "text": "飲む",
+      "reading": "nomu"
+    },
+    "ko": {
+      "text": "마시다",
+      "reading": "masida"
+    },
+    "es": {
+      "text": "beber"
+    },
+    "fr": {
+      "text": "boire"
+    },
+    "de": {
+      "text": "trinken"
+    },
+    "id": {
+      "text": "minum"
+    }
+  },
+  "tags": [
+    "actions"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

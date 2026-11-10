@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "195f56d98fc93232b5f9bc5695174761dcf4edb9d2539bb4c59daf05ae6baf41",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "Small upward accent on the already connected helping pose. The supporting hand connection and both original bodies remain unchanged; not a complete standing-up cycle.",
+  "tracks": {
+    "y": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        -1
+      ],
+      [
+        1.45,
+        0.35
+      ],
+      [
+        2.1,
+        -0.55
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

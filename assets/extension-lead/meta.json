@@ -1,0 +1,46 @@
+{
+  "id": "extension-lead",
+  "name": "extension lead",
+  "category": "tools",
+  "terms": {
+    "en": {
+      "text": "extension lead"
+    },
+    "vi": {
+      "text": "ổ cắm nối dài"
+    },
+    "zh-Hans": {
+      "text": "插线板",
+      "reading": "chā xiàn bǎn"
+    },
+    "ja": {
+      "text": "延長コード",
+      "reading": "enchō kōdo"
+    },
+    "ko": {
+      "text": "멀티탭",
+      "reading": "meoltitaep"
+    },
+    "es": {
+      "text": "la regleta con cable"
+    },
+    "fr": {
+      "text": "la multiprise avec rallonge"
+    },
+    "de": {
+      "text": "die Steckdosenleiste"
+    },
+    "id": {
+      "text": "kabel terminal listrik"
+    }
+  },
+  "tags": [
+    "things",
+    "tools"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

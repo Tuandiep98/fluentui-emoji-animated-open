@@ -1,0 +1,46 @@
+{
+  "id": "music-box",
+  "name": "music box",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "music box"
+    },
+    "vi": {
+      "text": "hộp nhạc"
+    },
+    "zh-Hans": {
+      "text": "音乐盒",
+      "reading": "yīn yuè hé"
+    },
+    "ja": {
+      "text": "オルゴール",
+      "reading": "orugōru"
+    },
+    "ko": {
+      "text": "오르골",
+      "reading": "oreugol"
+    },
+    "es": {
+      "text": "la caja de música"
+    },
+    "fr": {
+      "text": "la boîte à musique"
+    },
+    "de": {
+      "text": "die Spieluhr"
+    },
+    "id": {
+      "text": "kotak musik"
+    }
+  },
+  "tags": [
+    "music",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ball-maze",
+  "name": "ball maze",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "ball maze"
+    },
+    "vi": {
+      "text": "mê cung bóng"
+    },
+    "zh-Hans": {
+      "text": "滚球迷宫",
+      "reading": "gǔn qiú mí gōng"
+    },
+    "ja": {
+      "text": "ボール迷路",
+      "reading": "bōru meiro"
+    },
+    "ko": {
+      "text": "공 미로",
+      "reading": "gong miro"
+    },
+    "es": {
+      "text": "el laberinto de bolas"
+    },
+    "fr": {
+      "text": "le labyrinthe à bille"
+    },
+    "de": {
+      "text": "das Kugellabyrinth"
+    },
+    "id": {
+      "text": "labirin bola"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

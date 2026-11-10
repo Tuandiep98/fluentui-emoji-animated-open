@@ -1,0 +1,45 @@
+{
+  "id": "knee",
+  "name": "knee",
+  "category": "body",
+  "terms": {
+    "en": {
+      "text": "knee"
+    },
+    "vi": {
+      "text": "đầu gối"
+    },
+    "zh-Hans": {
+      "text": "膝盖",
+      "reading": "xī gài"
+    },
+    "ja": {
+      "text": "膝",
+      "reading": "hiza"
+    },
+    "ko": {
+      "text": "무릎",
+      "reading": "mureup"
+    },
+    "es": {
+      "text": "la rodilla"
+    },
+    "fr": {
+      "text": "le genou"
+    },
+    "de": {
+      "text": "das Knie"
+    },
+    "id": {
+      "text": "lutut"
+    }
+  },
+  "tags": [
+    "body"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-100-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}
