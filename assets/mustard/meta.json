@@ -1,0 +1,46 @@
+{
+  "id": "mustard",
+  "name": "mustard",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "mustard"
+    },
+    "vi": {
+      "text": "mù tạt"
+    },
+    "zh-Hans": {
+      "text": "芥末酱",
+      "reading": "jiè mo jiàng"
+    },
+    "ja": {
+      "text": "マスタード",
+      "reading": "masutādo"
+    },
+    "ko": {
+      "text": "머스터드",
+      "reading": "meoseuteodeu"
+    },
+    "es": {
+      "text": "la mostaza"
+    },
+    "fr": {
+      "text": "la moutarde"
+    },
+    "de": {
+      "text": "der Senf"
+    },
+    "id": {
+      "text": "moster"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

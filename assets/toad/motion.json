@@ -1,0 +1,83 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "00817b4b7ed080cb7870eeea59300c9e675090b67e772f88cef82d6b7d9abef7",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          91
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          209,
+          256,
+          47
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "soft-throat-breath",
+      "kind": "press",
+      "center": [
+        128,
+        132
+      ],
+      "radius": [
+        70,
+        34
+      ],
+      "amp": 4.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.2
+        ],
+        [
+          1.4,
+          -1.47
+        ],
+        [
+          2.05,
+          2.7300000000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        171
+      ]
+    }
+  ],
+  "note": "Small continuous throat/lower-lip breathing accent; eyes, upper face and grounded feet stay fixed. All four limbs and connections remain exactly assembled from the original."
+}

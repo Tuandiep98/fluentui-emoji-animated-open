@@ -1,0 +1,46 @@
+{
+  "id": "traffic-cone",
+  "name": "traffic cone",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "traffic cone"
+    },
+    "vi": {
+      "text": "cọc tiêu giao thông"
+    },
+    "zh-Hans": {
+      "text": "交通锥",
+      "reading": "jiāo tōng zhuī"
+    },
+    "ja": {
+      "text": "カラーコーン",
+      "reading": "karā kōn"
+    },
+    "ko": {
+      "text": "안전 고깔",
+      "reading": "anjeon gokkal"
+    },
+    "es": {
+      "text": "el cono de tráfico"
+    },
+    "fr": {
+      "text": "le cône de signalisation"
+    },
+    "de": {
+      "text": "der Verkehrskegel"
+    },
+    "id": {
+      "text": "kerucut lalu lintas"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

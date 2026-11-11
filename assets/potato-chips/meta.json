@@ -1,0 +1,46 @@
+{
+  "id": "potato-chips",
+  "name": "potato chips",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "potato chips"
+    },
+    "vi": {
+      "text": "khoai tây lát chiên"
+    },
+    "zh-Hans": {
+      "text": "薯片",
+      "reading": "shǔ piàn"
+    },
+    "ja": {
+      "text": "ポテトチップス",
+      "reading": "poteto chippusu"
+    },
+    "ko": {
+      "text": "감자칩",
+      "reading": "gamjachip"
+    },
+    "es": {
+      "text": "las patatas fritas de bolsa"
+    },
+    "fr": {
+      "text": "les chips"
+    },
+    "de": {
+      "text": "die Kartoffelchips"
+    },
+    "id": {
+      "text": "keripik kentang"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

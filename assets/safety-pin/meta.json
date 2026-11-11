@@ -1,0 +1,46 @@
+{
+  "id": "safety-pin",
+  "name": "safety pin",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "safety pin"
+    },
+    "vi": {
+      "text": "kim băng"
+    },
+    "zh-Hans": {
+      "text": "安全别针",
+      "reading": "ān quán bié zhēn"
+    },
+    "ja": {
+      "text": "安全ピン",
+      "reading": "anzen pin"
+    },
+    "ko": {
+      "text": "옷핀",
+      "reading": "otpin"
+    },
+    "es": {
+      "text": "el imperdible"
+    },
+    "fr": {
+      "text": "l'épingle de sûreté"
+    },
+    "de": {
+      "text": "die Sicherheitsnadel"
+    },
+    "id": {
+      "text": "peniti"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

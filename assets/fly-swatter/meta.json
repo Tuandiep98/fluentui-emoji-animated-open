@@ -1,0 +1,46 @@
+{
+  "id": "fly-swatter",
+  "name": "fly swatter",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "fly swatter"
+    },
+    "vi": {
+      "text": "vỉ đập ruồi"
+    },
+    "zh-Hans": {
+      "text": "苍蝇拍",
+      "reading": "cāng ying pāi"
+    },
+    "ja": {
+      "text": "ハエたたき",
+      "reading": "hae tataki"
+    },
+    "ko": {
+      "text": "파리채",
+      "reading": "parichae"
+    },
+    "es": {
+      "text": "el matamoscas"
+    },
+    "fr": {
+      "text": "la tapette à mouches"
+    },
+    "de": {
+      "text": "die Fliegenklatsche"
+    },
+    "id": {
+      "text": "pemukul lalat"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

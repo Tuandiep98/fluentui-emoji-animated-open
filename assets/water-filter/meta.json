@@ -1,0 +1,46 @@
+{
+  "id": "water-filter",
+  "name": "water filter",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "water filter"
+    },
+    "vi": {
+      "text": "bình lọc nước"
+    },
+    "zh-Hans": {
+      "text": "滤水壶",
+      "reading": "lǜ shuǐ hú"
+    },
+    "ja": {
+      "text": "浄水ポット",
+      "reading": "jōsui potto"
+    },
+    "ko": {
+      "text": "정수 주전자",
+      "reading": "jeongsu jujeonja"
+    },
+    "es": {
+      "text": "la jarra filtrante"
+    },
+    "fr": {
+      "text": "la carafe filtrante"
+    },
+    "de": {
+      "text": "die Wasserfilterkanne"
+    },
+    "id": {
+      "text": "teko penyaring air"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "eeb4d007f66cb2a40c7d269a6bdfcc1c1e510b130f5ef051b0f77143523bfa7e",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          111,
+          256,
+          145
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "soft-bag-opening",
+      "kind": "wave",
+      "center": [
+        128,
+        49
+      ],
+      "radius": [
+        100,
+        39
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        91
+      ]
+    }
+  ],
+  "note": "Upper folded paper edge gently flexes as a continuous source field. Lower bag and wheat pictogram are pinned. No opening/closing mechanism or detached pieces."
+}

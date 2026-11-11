@@ -1,0 +1,45 @@
+{
+  "id": "firefly",
+  "name": "firefly",
+  "category": "insects",
+  "terms": {
+    "en": {
+      "text": "firefly"
+    },
+    "vi": {
+      "text": "con đom đóm"
+    },
+    "zh-Hans": {
+      "text": "萤火虫",
+      "reading": "yíng huǒ chóng"
+    },
+    "ja": {
+      "text": "ホタル",
+      "reading": "hotaru"
+    },
+    "ko": {
+      "text": "반딧불이",
+      "reading": "banditburi"
+    },
+    "es": {
+      "text": "la luciérnaga"
+    },
+    "fr": {
+      "text": "la luciole"
+    },
+    "de": {
+      "text": "das Glühwürmchen"
+    },
+    "id": {
+      "text": "kunang-kunang"
+    }
+  },
+  "tags": [
+    "insects"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

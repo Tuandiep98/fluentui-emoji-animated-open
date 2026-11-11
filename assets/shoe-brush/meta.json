@@ -1,0 +1,46 @@
+{
+  "id": "shoe-brush",
+  "name": "shoe brush",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "shoe brush"
+    },
+    "vi": {
+      "text": "bàn chải đánh giày"
+    },
+    "zh-Hans": {
+      "text": "鞋刷",
+      "reading": "xié shuā"
+    },
+    "ja": {
+      "text": "靴ブラシ",
+      "reading": "kutsu burashi"
+    },
+    "ko": {
+      "text": "구두솔",
+      "reading": "gudusol"
+    },
+    "es": {
+      "text": "el cepillo para zapatos"
+    },
+    "fr": {
+      "text": "la brosse à chaussures"
+    },
+    "de": {
+      "text": "die Schuhbürste"
+    },
+    "id": {
+      "text": "sikat sepatu"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

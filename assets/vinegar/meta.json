@@ -1,0 +1,46 @@
+{
+  "id": "vinegar",
+  "name": "vinegar",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "vinegar"
+    },
+    "vi": {
+      "text": "giấm"
+    },
+    "zh-Hans": {
+      "text": "醋",
+      "reading": "cù"
+    },
+    "ja": {
+      "text": "酢",
+      "reading": "su"
+    },
+    "ko": {
+      "text": "식초",
+      "reading": "sikcho"
+    },
+    "es": {
+      "text": "el vinagre"
+    },
+    "fr": {
+      "text": "le vinaigre"
+    },
+    "de": {
+      "text": "der Essig"
+    },
+    "id": {
+      "text": "cuka"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

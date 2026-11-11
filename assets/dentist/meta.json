@@ -1,0 +1,46 @@
+{
+  "id": "dentist",
+  "name": "dentist",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "dentist"
+    },
+    "vi": {
+      "text": "nha sĩ"
+    },
+    "zh-Hans": {
+      "text": "牙医",
+      "reading": "yá yī"
+    },
+    "ja": {
+      "text": "歯医者",
+      "reading": "haisha"
+    },
+    "ko": {
+      "text": "치과 의사",
+      "reading": "chigwa uisa"
+    },
+    "es": {
+      "text": "el dentista"
+    },
+    "fr": {
+      "text": "le dentiste"
+    },
+    "de": {
+      "text": "der Zahnarzt"
+    },
+    "id": {
+      "text": "dokter gigi"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "soy-sauce",
+  "name": "soy sauce",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "soy sauce"
+    },
+    "vi": {
+      "text": "nước tương"
+    },
+    "zh-Hans": {
+      "text": "酱油",
+      "reading": "jiàng yóu"
+    },
+    "ja": {
+      "text": "しょうゆ",
+      "reading": "shōyu"
+    },
+    "ko": {
+      "text": "간장",
+      "reading": "ganjang"
+    },
+    "es": {
+      "text": "la salsa de soja"
+    },
+    "fr": {
+      "text": "la sauce soja"
+    },
+    "de": {
+      "text": "die Sojasoße"
+    },
+    "id": {
+      "text": "kecap asin"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

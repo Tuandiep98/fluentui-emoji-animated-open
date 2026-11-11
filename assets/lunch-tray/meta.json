@@ -1,0 +1,46 @@
+{
+  "id": "lunch-tray",
+  "name": "lunch tray",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "lunch tray"
+    },
+    "vi": {
+      "text": "khay ăn"
+    },
+    "zh-Hans": {
+      "text": "餐盘",
+      "reading": "cān pán"
+    },
+    "ja": {
+      "text": "給食トレー",
+      "reading": "kyūshoku torē"
+    },
+    "ko": {
+      "text": "급식판",
+      "reading": "geupsikpan"
+    },
+    "es": {
+      "text": "la bandeja de comedor"
+    },
+    "fr": {
+      "text": "le plateau-repas"
+    },
+    "de": {
+      "text": "das Essenstablett"
+    },
+    "id": {
+      "text": "baki makan"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

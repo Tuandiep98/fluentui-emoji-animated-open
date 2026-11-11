@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "282c6b8a2a7884c2459b75889698655ec8c0db9267d8e4202f8269fbe1edf2f5",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          118,
+          256,
+          138
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "tied-bag-top",
+      "kind": "wave",
+      "center": [
+        128,
+        55
+      ],
+      "radius": [
+        74,
+        43
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4
+        ],
+        [
+          1.4,
+          -1.4
+        ],
+        [
+          2.05,
+          2.6
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        94
+      ]
+    }
+  ],
+  "note": "The tied soft bag top sways gently as one continuous original field; its lower filled volume remains fixed and the knot stays attached."
+}

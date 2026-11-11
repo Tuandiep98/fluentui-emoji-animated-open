@@ -1,0 +1,45 @@
+{
+  "id": "praying-mantis",
+  "name": "praying mantis",
+  "category": "insects",
+  "terms": {
+    "en": {
+      "text": "praying mantis"
+    },
+    "vi": {
+      "text": "con bọ ngựa"
+    },
+    "zh-Hans": {
+      "text": "螳螂",
+      "reading": "táng láng"
+    },
+    "ja": {
+      "text": "カマキリ",
+      "reading": "kamakiri"
+    },
+    "ko": {
+      "text": "사마귀",
+      "reading": "samagwi"
+    },
+    "es": {
+      "text": "la mantis religiosa"
+    },
+    "fr": {
+      "text": "la mante religieuse"
+    },
+    "de": {
+      "text": "die Gottesanbeterin"
+    },
+    "id": {
+      "text": "belalang sembah"
+    }
+  },
+  "tags": [
+    "insects"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

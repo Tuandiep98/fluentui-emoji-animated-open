@@ -1,0 +1,46 @@
+{
+  "id": "food-container",
+  "name": "food container",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "food container"
+    },
+    "vi": {
+      "text": "hộp đựng thức ăn"
+    },
+    "zh-Hans": {
+      "text": "食物保鲜盒",
+      "reading": "shí wù bǎo xiān hé"
+    },
+    "ja": {
+      "text": "食品保存容器",
+      "reading": "shokuhin hozon yōki"
+    },
+    "ko": {
+      "text": "식품 보관 용기",
+      "reading": "sikpum bogwan yonggi"
+    },
+    "es": {
+      "text": "el recipiente de comida"
+    },
+    "fr": {
+      "text": "la boîte alimentaire"
+    },
+    "de": {
+      "text": "die Frischhaltedose"
+    },
+    "id": {
+      "text": "wadah makanan"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

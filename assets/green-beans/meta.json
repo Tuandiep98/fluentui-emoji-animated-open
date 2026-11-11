@@ -1,0 +1,46 @@
+{
+  "id": "green-beans",
+  "name": "green beans",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "green beans"
+    },
+    "vi": {
+      "text": "đậu cô ve"
+    },
+    "zh-Hans": {
+      "text": "四季豆",
+      "reading": "sì jì dòu"
+    },
+    "ja": {
+      "text": "さやいんげん",
+      "reading": "sayaingen"
+    },
+    "ko": {
+      "text": "껍질콩",
+      "reading": "kkeopjilkong"
+    },
+    "es": {
+      "text": "las judías verdes"
+    },
+    "fr": {
+      "text": "les haricots verts"
+    },
+    "de": {
+      "text": "die grünen Bohnen"
+    },
+    "id": {
+      "text": "buncis"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

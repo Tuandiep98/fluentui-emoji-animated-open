@@ -1,0 +1,83 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "010c8f53f9852b4e25b8cada7dd2e96036e2f1d94b2501ced2a0bb2e01cae4fd",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          171
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          0,
+          106,
+          256
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "lower-original-wing-tips",
+      "kind": "press",
+      "center": [
+        177,
+        207
+      ],
+      "radius": [
+        45,
+        29
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        147,
+        164
+      ]
+    }
+  ],
+  "note": "Lower original wing tips receive a restrained continuous flex; face, thorax and all six leg roots and contacts stay fixed. Wing placement remains identical to the original."
+}

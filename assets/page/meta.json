@@ -1,0 +1,46 @@
+{
+  "id": "page",
+  "name": "page",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "page"
+    },
+    "vi": {
+      "text": "trang sách"
+    },
+    "zh-Hans": {
+      "text": "书页",
+      "reading": "shū yè"
+    },
+    "ja": {
+      "text": "ページ",
+      "reading": "pēji"
+    },
+    "ko": {
+      "text": "쪽",
+      "reading": "jjok"
+    },
+    "es": {
+      "text": "la página"
+    },
+    "fr": {
+      "text": "la page"
+    },
+    "de": {
+      "text": "die Buchseite"
+    },
+    "id": {
+      "text": "halaman buku"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

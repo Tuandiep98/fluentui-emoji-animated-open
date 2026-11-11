@@ -1,0 +1,46 @@
+{
+  "id": "cashew",
+  "name": "cashew",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "cashew"
+    },
+    "vi": {
+      "text": "hạt điều"
+    },
+    "zh-Hans": {
+      "text": "腰果",
+      "reading": "yāo guǒ"
+    },
+    "ja": {
+      "text": "カシューナッツ",
+      "reading": "kashū nattsu"
+    },
+    "ko": {
+      "text": "캐슈너트",
+      "reading": "kaesyu neoteu"
+    },
+    "es": {
+      "text": "el anacardo"
+    },
+    "fr": {
+      "text": "la noix de cajou"
+    },
+    "de": {
+      "text": "die Cashewnuss"
+    },
+    "id": {
+      "text": "kacang mete"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

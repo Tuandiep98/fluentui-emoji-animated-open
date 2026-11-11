@@ -1,0 +1,46 @@
+{
+  "id": "sesame-seeds",
+  "name": "sesame seeds",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "sesame seeds"
+    },
+    "vi": {
+      "text": "hạt mè"
+    },
+    "zh-Hans": {
+      "text": "芝麻",
+      "reading": "zhī ma"
+    },
+    "ja": {
+      "text": "ごま",
+      "reading": "goma"
+    },
+    "ko": {
+      "text": "참깨",
+      "reading": "chamkkae"
+    },
+    "es": {
+      "text": "las semillas de sésamo"
+    },
+    "fr": {
+      "text": "les graines de sésame"
+    },
+    "de": {
+      "text": "der Sesam"
+    },
+    "id": {
+      "text": "biji wijen"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

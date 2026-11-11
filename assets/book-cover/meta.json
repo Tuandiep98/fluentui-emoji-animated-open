@@ -1,0 +1,46 @@
+{
+  "id": "book-cover",
+  "name": "book cover",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "book cover"
+    },
+    "vi": {
+      "text": "bìa sách"
+    },
+    "zh-Hans": {
+      "text": "书封面",
+      "reading": "shū fēng miàn"
+    },
+    "ja": {
+      "text": "本の表紙",
+      "reading": "hon no hyōshi"
+    },
+    "ko": {
+      "text": "책 표지",
+      "reading": "chaek pyoji"
+    },
+    "es": {
+      "text": "la cubierta del libro"
+    },
+    "fr": {
+      "text": "la couverture du livre"
+    },
+    "de": {
+      "text": "der Buchdeckel"
+    },
+    "id": {
+      "text": "sampul buku"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

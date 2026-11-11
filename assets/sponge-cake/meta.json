@@ -1,0 +1,46 @@
+{
+  "id": "sponge-cake",
+  "name": "sponge cake",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "sponge cake"
+    },
+    "vi": {
+      "text": "bánh bông lan"
+    },
+    "zh-Hans": {
+      "text": "海绵蛋糕",
+      "reading": "hǎi mián dàn gāo"
+    },
+    "ja": {
+      "text": "スポンジケーキ",
+      "reading": "suponji kēki"
+    },
+    "ko": {
+      "text": "스펀지케이크",
+      "reading": "seupeonji keikeu"
+    },
+    "es": {
+      "text": "el bizcocho"
+    },
+    "fr": {
+      "text": "la génoise"
+    },
+    "de": {
+      "text": "der Biskuitkuchen"
+    },
+    "id": {
+      "text": "kue bolu"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

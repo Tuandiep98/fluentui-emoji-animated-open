@@ -1,0 +1,46 @@
+{
+  "id": "cashier",
+  "name": "cashier",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "cashier"
+    },
+    "vi": {
+      "text": "thu ngân"
+    },
+    "zh-Hans": {
+      "text": "收银员",
+      "reading": "shōu yín yuán"
+    },
+    "ja": {
+      "text": "レジ係",
+      "reading": "reji gakari"
+    },
+    "ko": {
+      "text": "계산원",
+      "reading": "gyesanwon"
+    },
+    "es": {
+      "text": "el cajero"
+    },
+    "fr": {
+      "text": "le caissier"
+    },
+    "de": {
+      "text": "der Kassierer"
+    },
+    "id": {
+      "text": "kasir"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

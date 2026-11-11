@@ -1,0 +1,46 @@
+{
+  "id": "nurse",
+  "name": "nurse",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "nurse"
+    },
+    "vi": {
+      "text": "y tá"
+    },
+    "zh-Hans": {
+      "text": "护士",
+      "reading": "hù shi"
+    },
+    "ja": {
+      "text": "看護師",
+      "reading": "kangoshi"
+    },
+    "ko": {
+      "text": "간호사",
+      "reading": "ganhosa"
+    },
+    "es": {
+      "text": "el enfermero"
+    },
+    "fr": {
+      "text": "l'infirmier"
+    },
+    "de": {
+      "text": "die Pflegekraft"
+    },
+    "id": {
+      "text": "perawat"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

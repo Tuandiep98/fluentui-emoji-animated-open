@@ -1,0 +1,46 @@
+{
+  "id": "rice-cooker",
+  "name": "rice cooker",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "rice cooker"
+    },
+    "vi": {
+      "text": "nồi cơm điện"
+    },
+    "zh-Hans": {
+      "text": "电饭锅",
+      "reading": "diàn fàn guō"
+    },
+    "ja": {
+      "text": "炊飯器",
+      "reading": "suihanki"
+    },
+    "ko": {
+      "text": "전기밥솥",
+      "reading": "jeongibapsot"
+    },
+    "es": {
+      "text": "la arrocera"
+    },
+    "fr": {
+      "text": "le cuiseur à riz"
+    },
+    "de": {
+      "text": "der Reiskocher"
+    },
+    "id": {
+      "text": "penanak nasi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

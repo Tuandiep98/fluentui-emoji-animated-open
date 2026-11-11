@@ -1,0 +1,45 @@
+{
+  "id": "dragonfly",
+  "name": "dragonfly",
+  "category": "insects",
+  "terms": {
+    "en": {
+      "text": "dragonfly"
+    },
+    "vi": {
+      "text": "con chuồn chuồn"
+    },
+    "zh-Hans": {
+      "text": "蜻蜓",
+      "reading": "qīng tíng"
+    },
+    "ja": {
+      "text": "トンボ",
+      "reading": "tonbo"
+    },
+    "ko": {
+      "text": "잠자리",
+      "reading": "jamjari"
+    },
+    "es": {
+      "text": "la libélula"
+    },
+    "fr": {
+      "text": "la libellule"
+    },
+    "de": {
+      "text": "die Libelle"
+    },
+    "id": {
+      "text": "capung"
+    }
+  },
+  "tags": [
+    "insects"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

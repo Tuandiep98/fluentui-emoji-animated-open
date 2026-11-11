@@ -1,0 +1,46 @@
+{
+  "id": "school-gate",
+  "name": "school gate",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "school gate"
+    },
+    "vi": {
+      "text": "cổng trường"
+    },
+    "zh-Hans": {
+      "text": "校门",
+      "reading": "xiào mén"
+    },
+    "ja": {
+      "text": "校門",
+      "reading": "kōmon"
+    },
+    "ko": {
+      "text": "교문",
+      "reading": "gyomun"
+    },
+    "es": {
+      "text": "la puerta de la escuela"
+    },
+    "fr": {
+      "text": "le portail de l'école"
+    },
+    "de": {
+      "text": "das Schultor"
+    },
+    "id": {
+      "text": "gerbang sekolah"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

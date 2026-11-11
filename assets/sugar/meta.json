@@ -1,0 +1,46 @@
+{
+  "id": "sugar",
+  "name": "sugar",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "sugar"
+    },
+    "vi": {
+      "text": "đường"
+    },
+    "zh-Hans": {
+      "text": "糖",
+      "reading": "táng"
+    },
+    "ja": {
+      "text": "砂糖",
+      "reading": "satō"
+    },
+    "ko": {
+      "text": "설탕",
+      "reading": "seoltang"
+    },
+    "es": {
+      "text": "el azúcar"
+    },
+    "fr": {
+      "text": "le sucre"
+    },
+    "de": {
+      "text": "der Zucker"
+    },
+    "id": {
+      "text": "gula"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

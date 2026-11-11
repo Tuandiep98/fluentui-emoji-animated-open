@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "192cdc3fc6d7efe637afe3d0b1894a896b1c9a5d414fb404aa3ddf9886249667",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          194,
+          256
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "loose-thread-end",
+      "kind": "press",
+      "center": [
+        224,
+        205
+      ],
+      "radius": [
+        28,
+        42
+      ],
+      "amp": 5.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.8
+        ],
+        [
+          1.4,
+          -2.03
+        ],
+        [
+          2.05,
+          3.77
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        195,
+        182
+      ]
+    }
+  ],
+  "note": "Only the original loose thread tip flexes continuously; the entire wound spool is pinned, with the end still attached."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "trash-bag",
+  "name": "trash bag",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "trash bag"
+    },
+    "vi": {
+      "text": "túi rác"
+    },
+    "zh-Hans": {
+      "text": "垃圾袋",
+      "reading": "lā jī dài"
+    },
+    "ja": {
+      "text": "ごみ袋",
+      "reading": "gomibukuro"
+    },
+    "ko": {
+      "text": "쓰레기봉투",
+      "reading": "sseuregibongtu"
+    },
+    "es": {
+      "text": "la bolsa de basura"
+    },
+    "fr": {
+      "text": "le sac-poubelle"
+    },
+    "de": {
+      "text": "der Müllbeutel"
+    },
+    "id": {
+      "text": "kantong sampah"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

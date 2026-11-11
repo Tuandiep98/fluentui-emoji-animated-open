@@ -1,0 +1,46 @@
+{
+  "id": "sewing-thread",
+  "name": "sewing thread",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "sewing thread"
+    },
+    "vi": {
+      "text": "chỉ may"
+    },
+    "zh-Hans": {
+      "text": "缝纫线",
+      "reading": "féng rèn xiàn"
+    },
+    "ja": {
+      "text": "縫い糸",
+      "reading": "nuiito"
+    },
+    "ko": {
+      "text": "재봉실",
+      "reading": "jaebongsil"
+    },
+    "es": {
+      "text": "el hilo de coser"
+    },
+    "fr": {
+      "text": "le fil à coudre"
+    },
+    "de": {
+      "text": "der Nähfaden"
+    },
+    "id": {
+      "text": "benang jahit"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

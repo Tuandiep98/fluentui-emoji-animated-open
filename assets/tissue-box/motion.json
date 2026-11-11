@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "77929057c2a2a271101e1f145c5b616a77cef05380b45a74084519e173568d4c",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          111,
+          256,
+          145
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "tissue-tip",
+      "kind": "wave",
+      "center": [
+        128,
+        56
+      ],
+      "radius": [
+        82,
+        40
+      ],
+      "amp": 4,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4
+        ],
+        [
+          1.4,
+          -1.4
+        ],
+        [
+          2.05,
+          2.6
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        103
+      ]
+    }
+  ],
+  "note": "The exposed original tissue edge gently sways. Complete box, opening and tissue root stay fixed, with no new sheets or separated layers."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mayonnaise",
+  "name": "mayonnaise",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "mayonnaise"
+    },
+    "vi": {
+      "text": "xốt mayonnaise"
+    },
+    "zh-Hans": {
+      "text": "蛋黄酱",
+      "reading": "dàn huáng jiàng"
+    },
+    "ja": {
+      "text": "マヨネーズ",
+      "reading": "mayonēzu"
+    },
+    "ko": {
+      "text": "마요네즈",
+      "reading": "mayonejeu"
+    },
+    "es": {
+      "text": "la mayonesa"
+    },
+    "fr": {
+      "text": "la mayonnaise"
+    },
+    "de": {
+      "text": "die Mayonnaise"
+    },
+    "id": {
+      "text": "mayones"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

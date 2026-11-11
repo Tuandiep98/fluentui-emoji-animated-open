@@ -1,0 +1,46 @@
+{
+  "id": "aluminum-foil",
+  "name": "aluminum foil",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "aluminum foil"
+    },
+    "vi": {
+      "text": "giấy bạc"
+    },
+    "zh-Hans": {
+      "text": "铝箔",
+      "reading": "lǚ bó"
+    },
+    "ja": {
+      "text": "アルミホイル",
+      "reading": "arumi hoiru"
+    },
+    "ko": {
+      "text": "알루미늄 포일",
+      "reading": "alluminyum poil"
+    },
+    "es": {
+      "text": "el papel de aluminio"
+    },
+    "fr": {
+      "text": "le papier aluminium"
+    },
+    "de": {
+      "text": "die Alufolie"
+    },
+    "id": {
+      "text": "aluminium foil"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

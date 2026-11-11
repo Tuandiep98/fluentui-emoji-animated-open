@@ -1,0 +1,130 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "2e50ce2e4685ce17944eea0245349bec8391ca2b54304f13be49476525258362",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          148
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          112,
+          0,
+          37,
+          256
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "left-resting-wing-tip",
+      "kind": "press",
+      "center": [
+        58,
+        194
+      ],
+      "radius": [
+        47,
+        40
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        109,
+        145
+      ]
+    },
+    {
+      "name": "right-resting-wing-tip",
+      "kind": "press",
+      "center": [
+        198,
+        194
+      ],
+      "radius": [
+        44,
+        40
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.42,
+          0
+        ],
+        [
+          1.02,
+          3.5
+        ],
+        [
+          1.52,
+          -1.2249999999999999
+        ],
+        [
+          2.17,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        147,
+        145
+      ]
+    }
+  ],
+  "note": "Original closed wing tips flutter slightly with continuous soft fields. Head, antennae, visible limbs and central abdomen remain fixed; never split, mirror or open the moth wings."
+}

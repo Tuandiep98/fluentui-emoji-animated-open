@@ -1,0 +1,46 @@
+{
+  "id": "gecko",
+  "name": "gecko",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "gecko"
+    },
+    "vi": {
+      "text": "con tắc kè"
+    },
+    "zh-Hans": {
+      "text": "壁虎",
+      "reading": "bì hǔ"
+    },
+    "ja": {
+      "text": "ヤモリ",
+      "reading": "yamori"
+    },
+    "ko": {
+      "text": "도마뱀붙이",
+      "reading": "domabaembuchi"
+    },
+    "es": {
+      "text": "el geco"
+    },
+    "fr": {
+      "text": "le gecko"
+    },
+    "de": {
+      "text": "der Gecko"
+    },
+    "id": {
+      "text": "tokek"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

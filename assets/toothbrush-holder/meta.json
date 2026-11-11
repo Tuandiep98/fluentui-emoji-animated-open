@@ -1,0 +1,46 @@
+{
+  "id": "toothbrush-holder",
+  "name": "toothbrush holder",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "toothbrush holder"
+    },
+    "vi": {
+      "text": "cốc đựng bàn chải"
+    },
+    "zh-Hans": {
+      "text": "牙刷杯",
+      "reading": "yá shuā bēi"
+    },
+    "ja": {
+      "text": "歯ブラシ立て",
+      "reading": "haburashi tate"
+    },
+    "ko": {
+      "text": "칫솔꽂이",
+      "reading": "chitsol kkoji"
+    },
+    "es": {
+      "text": "el portacepillos"
+    },
+    "fr": {
+      "text": "le porte-brosses à dents"
+    },
+    "de": {
+      "text": "der Zahnbürstenhalter"
+    },
+    "id": {
+      "text": "tempat sikat gigi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cocoa-powder",
+  "name": "cocoa powder",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "cocoa powder"
+    },
+    "vi": {
+      "text": "bột ca cao"
+    },
+    "zh-Hans": {
+      "text": "可可粉",
+      "reading": "kě kě fěn"
+    },
+    "ja": {
+      "text": "ココアパウダー",
+      "reading": "kokoa paudā"
+    },
+    "ko": {
+      "text": "코코아 가루",
+      "reading": "kokoa garu"
+    },
+    "es": {
+      "text": "el cacao en polvo"
+    },
+    "fr": {
+      "text": "le cacao en poudre"
+    },
+    "de": {
+      "text": "das Kakaopulver"
+    },
+    "id": {
+      "text": "bubuk kakao"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "flour",
+  "name": "flour",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "flour"
+    },
+    "vi": {
+      "text": "bột mì"
+    },
+    "zh-Hans": {
+      "text": "面粉",
+      "reading": "miàn fěn"
+    },
+    "ja": {
+      "text": "小麦粉",
+      "reading": "komugiko"
+    },
+    "ko": {
+      "text": "밀가루",
+      "reading": "milgaru"
+    },
+    "es": {
+      "text": "la harina"
+    },
+    "fr": {
+      "text": "la farine"
+    },
+    "de": {
+      "text": "das Mehl"
+    },
+    "id": {
+      "text": "tepung terigu"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

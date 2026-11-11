@@ -1,0 +1,46 @@
+{
+  "id": "wallet",
+  "name": "wallet",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "wallet"
+    },
+    "vi": {
+      "text": "ví tiền"
+    },
+    "zh-Hans": {
+      "text": "钱包",
+      "reading": "qián bāo"
+    },
+    "ja": {
+      "text": "財布",
+      "reading": "saifu"
+    },
+    "ko": {
+      "text": "지갑",
+      "reading": "jigap"
+    },
+    "es": {
+      "text": "la cartera"
+    },
+    "fr": {
+      "text": "le portefeuille"
+    },
+    "de": {
+      "text": "der Geldbeutel"
+    },
+    "id": {
+      "text": "dompet"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

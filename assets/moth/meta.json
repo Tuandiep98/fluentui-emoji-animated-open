@@ -1,0 +1,45 @@
+{
+  "id": "moth",
+  "name": "moth",
+  "category": "insects",
+  "terms": {
+    "en": {
+      "text": "moth"
+    },
+    "vi": {
+      "text": "con bướm đêm"
+    },
+    "zh-Hans": {
+      "text": "飞蛾",
+      "reading": "fēi é"
+    },
+    "ja": {
+      "text": "ガ",
+      "reading": "ga"
+    },
+    "ko": {
+      "text": "나방",
+      "reading": "nabang"
+    },
+    "es": {
+      "text": "la polilla"
+    },
+    "fr": {
+      "text": "le papillon de nuit"
+    },
+    "de": {
+      "text": "die Motte"
+    },
+    "id": {
+      "text": "ngengat"
+    }
+  },
+  "tags": [
+    "insects"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

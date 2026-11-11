@@ -1,0 +1,46 @@
+{
+  "id": "tadpole",
+  "name": "tadpole",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "tadpole"
+    },
+    "vi": {
+      "text": "con nòng nọc"
+    },
+    "zh-Hans": {
+      "text": "蝌蚪",
+      "reading": "kē dǒu"
+    },
+    "ja": {
+      "text": "オタマジャクシ",
+      "reading": "otamajakushi"
+    },
+    "ko": {
+      "text": "올챙이",
+      "reading": "olchaengi"
+    },
+    "es": {
+      "text": "el renacuajo"
+    },
+    "fr": {
+      "text": "le têtard"
+    },
+    "de": {
+      "text": "die Kaulquappe"
+    },
+    "id": {
+      "text": "berudu"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

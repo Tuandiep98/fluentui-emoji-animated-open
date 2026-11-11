@@ -1,0 +1,46 @@
+{
+  "id": "rubber-band",
+  "name": "rubber band",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "rubber band"
+    },
+    "vi": {
+      "text": "dây thun"
+    },
+    "zh-Hans": {
+      "text": "橡皮筋",
+      "reading": "xiàng pí jīn"
+    },
+    "ja": {
+      "text": "輪ゴム",
+      "reading": "wagomu"
+    },
+    "ko": {
+      "text": "고무줄",
+      "reading": "gomujul"
+    },
+    "es": {
+      "text": "la goma elástica"
+    },
+    "fr": {
+      "text": "l'élastique"
+    },
+    "de": {
+      "text": "das Gummiband"
+    },
+    "id": {
+      "text": "karet gelang"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

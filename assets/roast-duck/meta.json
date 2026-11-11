@@ -1,0 +1,46 @@
+{
+  "id": "roast-duck",
+  "name": "roast duck",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "roast duck"
+    },
+    "vi": {
+      "text": "vịt quay"
+    },
+    "zh-Hans": {
+      "text": "烤鸭",
+      "reading": "kǎo yā"
+    },
+    "ja": {
+      "text": "ローストダック",
+      "reading": "rōsuto dakku"
+    },
+    "ko": {
+      "text": "오리구이",
+      "reading": "origui"
+    },
+    "es": {
+      "text": "el pato asado"
+    },
+    "fr": {
+      "text": "le canard rôti"
+    },
+    "de": {
+      "text": "die gebratene Ente"
+    },
+    "id": {
+      "text": "bebek panggang"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

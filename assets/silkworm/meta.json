@@ -1,0 +1,45 @@
+{
+  "id": "silkworm",
+  "name": "silkworm",
+  "category": "insects",
+  "terms": {
+    "en": {
+      "text": "silkworm"
+    },
+    "vi": {
+      "text": "con tằm"
+    },
+    "zh-Hans": {
+      "text": "蚕",
+      "reading": "cán"
+    },
+    "ja": {
+      "text": "カイコ",
+      "reading": "kaiko"
+    },
+    "ko": {
+      "text": "누에",
+      "reading": "nue"
+    },
+    "es": {
+      "text": "el gusano de seda"
+    },
+    "fr": {
+      "text": "le ver à soie"
+    },
+    "de": {
+      "text": "die Seidenraupe"
+    },
+    "id": {
+      "text": "ulat sutra"
+    }
+  },
+  "tags": [
+    "insects"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

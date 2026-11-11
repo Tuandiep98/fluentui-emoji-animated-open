@@ -1,6 +1,8 @@
 export const CATEGORY_LABELS = {
   body: 'Body',
   actions: 'Actions',
+  people: 'People & occupations',
+  insects: 'Insects',
   home: 'Home',
   kitchen: 'Kitchen',
   garden: 'Garden',

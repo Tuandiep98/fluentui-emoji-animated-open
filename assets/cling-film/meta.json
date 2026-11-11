@@ -1,0 +1,46 @@
+{
+  "id": "cling-film",
+  "name": "cling film",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "cling film"
+    },
+    "vi": {
+      "text": "màng bọc thực phẩm"
+    },
+    "zh-Hans": {
+      "text": "保鲜膜",
+      "reading": "bǎo xiān mó"
+    },
+    "ja": {
+      "text": "ラップ",
+      "reading": "rappu"
+    },
+    "ko": {
+      "text": "식품용 랩",
+      "reading": "sikpumyong raep"
+    },
+    "es": {
+      "text": "el film transparente"
+    },
+    "fr": {
+      "text": "le film alimentaire"
+    },
+    "de": {
+      "text": "die Frischhaltefolie"
+    },
+    "id": {
+      "text": "plastik pembungkus"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

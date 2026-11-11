@@ -1,0 +1,46 @@
+{
+  "id": "whistle",
+  "name": "whistle",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "whistle"
+    },
+    "vi": {
+      "text": "còi"
+    },
+    "zh-Hans": {
+      "text": "哨子",
+      "reading": "shào zi"
+    },
+    "ja": {
+      "text": "ホイッスル",
+      "reading": "hoissuru"
+    },
+    "ko": {
+      "text": "호루라기",
+      "reading": "horuragi"
+    },
+    "es": {
+      "text": "el silbato"
+    },
+    "fr": {
+      "text": "le sifflet"
+    },
+    "de": {
+      "text": "die Trillerpfeife"
+    },
+    "id": {
+      "text": "peluit"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

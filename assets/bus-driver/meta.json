@@ -1,0 +1,46 @@
+{
+  "id": "bus-driver",
+  "name": "bus driver",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "bus driver"
+    },
+    "vi": {
+      "text": "tài xế xe buýt"
+    },
+    "zh-Hans": {
+      "text": "公交车司机",
+      "reading": "gōng jiāo chē sī jī"
+    },
+    "ja": {
+      "text": "バスの運転手",
+      "reading": "basu no untenshu"
+    },
+    "ko": {
+      "text": "버스 기사",
+      "reading": "beoseu gisa"
+    },
+    "es": {
+      "text": "el conductor de autobús"
+    },
+    "fr": {
+      "text": "le chauffeur de bus"
+    },
+    "de": {
+      "text": "der Busfahrer"
+    },
+    "id": {
+      "text": "sopir bus"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

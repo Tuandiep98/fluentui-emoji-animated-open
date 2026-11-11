@@ -1,0 +1,46 @@
+{
+  "id": "tortoise",
+  "name": "tortoise",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "tortoise"
+    },
+    "vi": {
+      "text": "con rùa cạn"
+    },
+    "zh-Hans": {
+      "text": "陆龟",
+      "reading": "lù guī"
+    },
+    "ja": {
+      "text": "リクガメ",
+      "reading": "rikugame"
+    },
+    "ko": {
+      "text": "육지거북",
+      "reading": "yukjigeobuk"
+    },
+    "es": {
+      "text": "la tortuga terrestre"
+    },
+    "fr": {
+      "text": "la tortue terrestre"
+    },
+    "de": {
+      "text": "die Landschildkröte"
+    },
+    "id": {
+      "text": "kura-kura darat"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "baker",
+  "name": "baker",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "baker"
+    },
+    "vi": {
+      "text": "thợ làm bánh"
+    },
+    "zh-Hans": {
+      "text": "面包师",
+      "reading": "miàn bāo shī"
+    },
+    "ja": {
+      "text": "パン職人",
+      "reading": "pan shokunin"
+    },
+    "ko": {
+      "text": "제빵사",
+      "reading": "jeppangsa"
+    },
+    "es": {
+      "text": "el panadero"
+    },
+    "fr": {
+      "text": "le boulanger"
+    },
+    "de": {
+      "text": "der Bäcker"
+    },
+    "id": {
+      "text": "pembuat roti"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

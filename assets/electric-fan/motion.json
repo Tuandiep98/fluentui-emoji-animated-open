@@ -1,0 +1,48 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "rigid",
+    "sha256": "a2e38e3d836470254ce1e75fc8b9b6d6b66a5439e256fd7509f14b472e9bfaed",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": []
+  },
+  "regions": [],
+  "note": "A restrained intact presentation tilt preserves the original blades, protective grille and stand as one exact rigid assembly; this does not depict blade rotation.",
+  "tracks": {
+    "rotation": [
+      [
+        0,
+        0
+      ],
+      [
+        0.25,
+        0
+      ],
+      [
+        0.9,
+        0.18
+      ],
+      [
+        1.45,
+        -0.063
+      ],
+      [
+        2.1,
+        0.099
+      ],
+      [
+        2.8,
+        0
+      ],
+      [
+        3,
+        0
+      ]
+    ]
+  }
+}

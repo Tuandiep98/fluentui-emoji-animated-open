@@ -1,0 +1,46 @@
+{
+  "id": "laundry-detergent",
+  "name": "laundry detergent",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "laundry detergent"
+    },
+    "vi": {
+      "text": "nước giặt"
+    },
+    "zh-Hans": {
+      "text": "洗衣液",
+      "reading": "xǐ yī yè"
+    },
+    "ja": {
+      "text": "洗濯洗剤",
+      "reading": "sentaku senzai"
+    },
+    "ko": {
+      "text": "세탁 세제",
+      "reading": "setak seje"
+    },
+    "es": {
+      "text": "el detergente para ropa"
+    },
+    "fr": {
+      "text": "la lessive"
+    },
+    "de": {
+      "text": "das Waschmittel"
+    },
+    "id": {
+      "text": "detergen pakaian"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

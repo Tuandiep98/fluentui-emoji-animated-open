@@ -1,0 +1,46 @@
+{
+  "id": "doorstop",
+  "name": "doorstop",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "doorstop"
+    },
+    "vi": {
+      "text": "chặn cửa"
+    },
+    "zh-Hans": {
+      "text": "门挡",
+      "reading": "mén dǎng"
+    },
+    "ja": {
+      "text": "ドアストッパー",
+      "reading": "doa sutoppā"
+    },
+    "ko": {
+      "text": "문고정 장치",
+      "reading": "mun gojeong jangchi"
+    },
+    "es": {
+      "text": "el tope de puerta"
+    },
+    "fr": {
+      "text": "la cale-porte"
+    },
+    "de": {
+      "text": "der Türstopper"
+    },
+    "id": {
+      "text": "pengganjal pintu"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

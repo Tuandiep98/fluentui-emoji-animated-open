@@ -1,0 +1,46 @@
+{
+  "id": "cleaner",
+  "name": "cleaner",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "cleaner"
+    },
+    "vi": {
+      "text": "nhân viên vệ sinh"
+    },
+    "zh-Hans": {
+      "text": "清洁工",
+      "reading": "qīng jié gōng"
+    },
+    "ja": {
+      "text": "清掃員",
+      "reading": "seisōin"
+    },
+    "ko": {
+      "text": "청소원",
+      "reading": "cheongsowon"
+    },
+    "es": {
+      "text": "el trabajador de limpieza"
+    },
+    "fr": {
+      "text": "l'agent de nettoyage"
+    },
+    "de": {
+      "text": "die Reinigungskraft"
+    },
+    "id": {
+      "text": "petugas kebersihan"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

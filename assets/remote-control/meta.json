@@ -1,0 +1,46 @@
+{
+  "id": "remote-control",
+  "name": "remote control",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "remote control"
+    },
+    "vi": {
+      "text": "điều khiển từ xa"
+    },
+    "zh-Hans": {
+      "text": "遥控器",
+      "reading": "yáo kòng qì"
+    },
+    "ja": {
+      "text": "リモコン",
+      "reading": "rimokon"
+    },
+    "ko": {
+      "text": "리모컨",
+      "reading": "rimokeon"
+    },
+    "es": {
+      "text": "el mando a distancia"
+    },
+    "fr": {
+      "text": "la télécommande"
+    },
+    "de": {
+      "text": "die Fernbedienung"
+    },
+    "id": {
+      "text": "remote kontrol"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

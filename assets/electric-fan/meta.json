@@ -1,0 +1,46 @@
+{
+  "id": "electric-fan",
+  "name": "electric fan",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "electric fan"
+    },
+    "vi": {
+      "text": "quạt điện"
+    },
+    "zh-Hans": {
+      "text": "电风扇",
+      "reading": "diàn fēng shàn"
+    },
+    "ja": {
+      "text": "扇風機",
+      "reading": "senpūki"
+    },
+    "ko": {
+      "text": "선풍기",
+      "reading": "seonpunggi"
+    },
+    "es": {
+      "text": "el ventilador"
+    },
+    "fr": {
+      "text": "le ventilateur"
+    },
+    "de": {
+      "text": "der Ventilator"
+    },
+    "id": {
+      "text": "kipas angin"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

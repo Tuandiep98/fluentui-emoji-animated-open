@@ -1,0 +1,83 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "1e74df478024893302b790bf6f72e7c3865fb3bcfc019c6ed70b2bd81afce530",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          141
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          0,
+          116,
+          256
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-loose-sheet",
+      "kind": "press",
+      "center": [
+        178,
+        173
+      ],
+      "radius": [
+        58,
+        27
+      ],
+      "amp": 5.22,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.22
+        ],
+        [
+          1.4,
+          -1.827
+        ],
+        [
+          2.05,
+          3.3930000000000002
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        157,
+        146
+      ]
+    }
+  ],
+  "note": "Only the original loose sheet edge flexes continuously. Roll, cardboard core and sheet-to-roll connection remain fixed; no unrolling mechanism or separate layers."
+}

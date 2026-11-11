@@ -1,0 +1,46 @@
+{
+  "id": "bread-roll",
+  "name": "bread roll",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "bread roll"
+    },
+    "vi": {
+      "text": "bánh mì tròn"
+    },
+    "zh-Hans": {
+      "text": "小圆面包",
+      "reading": "xiǎo yuán miàn bāo"
+    },
+    "ja": {
+      "text": "丸パン",
+      "reading": "marupan"
+    },
+    "ko": {
+      "text": "모닝빵",
+      "reading": "moningppang"
+    },
+    "es": {
+      "text": "el panecillo"
+    },
+    "fr": {
+      "text": "le petit pain"
+    },
+    "de": {
+      "text": "das Brötchen"
+    },
+    "id": {
+      "text": "roti bulat"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

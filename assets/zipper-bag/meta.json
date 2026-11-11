@@ -1,0 +1,46 @@
+{
+  "id": "zipper-bag",
+  "name": "zipper bag",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "zipper bag"
+    },
+    "vi": {
+      "text": "túi khóa kéo"
+    },
+    "zh-Hans": {
+      "text": "密封袋",
+      "reading": "mì fēng dài"
+    },
+    "ja": {
+      "text": "チャック付き袋",
+      "reading": "chakku tsuki bukuro"
+    },
+    "ko": {
+      "text": "지퍼백",
+      "reading": "jipeobaek"
+    },
+    "es": {
+      "text": "la bolsa con cierre"
+    },
+    "fr": {
+      "text": "le sachet refermable"
+    },
+    "de": {
+      "text": "der Druckverschlussbeutel"
+    },
+    "id": {
+      "text": "kantong zip"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

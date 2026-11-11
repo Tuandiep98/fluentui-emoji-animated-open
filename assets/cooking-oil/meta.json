@@ -1,0 +1,46 @@
+{
+  "id": "cooking-oil",
+  "name": "cooking oil",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "cooking oil"
+    },
+    "vi": {
+      "text": "dầu ăn"
+    },
+    "zh-Hans": {
+      "text": "食用油",
+      "reading": "shí yòng yóu"
+    },
+    "ja": {
+      "text": "食用油",
+      "reading": "shokuyō abura"
+    },
+    "ko": {
+      "text": "식용유",
+      "reading": "sigyongyu"
+    },
+    "es": {
+      "text": "el aceite de cocina"
+    },
+    "fr": {
+      "text": "l'huile de cuisson"
+    },
+    "de": {
+      "text": "das Speiseöl"
+    },
+    "id": {
+      "text": "minyak goreng"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

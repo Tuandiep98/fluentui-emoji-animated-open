@@ -1,0 +1,46 @@
+{
+  "id": "delivery-worker",
+  "name": "delivery worker",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "delivery worker"
+    },
+    "vi": {
+      "text": "nhân viên giao hàng"
+    },
+    "zh-Hans": {
+      "text": "快递员",
+      "reading": "kuài dì yuán"
+    },
+    "ja": {
+      "text": "配達員",
+      "reading": "haitatsuin"
+    },
+    "ko": {
+      "text": "배달원",
+      "reading": "baedarwon"
+    },
+    "es": {
+      "text": "el repartidor"
+    },
+    "fr": {
+      "text": "le livreur"
+    },
+    "de": {
+      "text": "der Zusteller"
+    },
+    "id": {
+      "text": "kurir"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

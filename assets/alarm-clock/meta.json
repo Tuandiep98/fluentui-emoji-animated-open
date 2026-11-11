@@ -1,0 +1,46 @@
+{
+  "id": "alarm-clock",
+  "name": "alarm clock",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "alarm clock"
+    },
+    "vi": {
+      "text": "đồng hồ báo thức"
+    },
+    "zh-Hans": {
+      "text": "闹钟",
+      "reading": "nào zhōng"
+    },
+    "ja": {
+      "text": "目覚まし時計",
+      "reading": "mezamashi dokei"
+    },
+    "ko": {
+      "text": "알람 시계",
+      "reading": "allam sigye"
+    },
+    "es": {
+      "text": "el despertador"
+    },
+    "fr": {
+      "text": "le réveil"
+    },
+    "de": {
+      "text": "der Wecker"
+    },
+    "id": {
+      "text": "jam weker"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

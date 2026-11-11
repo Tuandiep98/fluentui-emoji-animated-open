@@ -1,0 +1,46 @@
+{
+  "id": "soap-dish",
+  "name": "soap dish",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "soap dish"
+    },
+    "vi": {
+      "text": "khay đựng xà phòng"
+    },
+    "zh-Hans": {
+      "text": "肥皂盒",
+      "reading": "féi zào hé"
+    },
+    "ja": {
+      "text": "石けん皿",
+      "reading": "sekkenzara"
+    },
+    "ko": {
+      "text": "비누 받침",
+      "reading": "binu batchim"
+    },
+    "es": {
+      "text": "la jabonera"
+    },
+    "fr": {
+      "text": "le porte-savon"
+    },
+    "de": {
+      "text": "die Seifenschale"
+    },
+    "id": {
+      "text": "tempat sabun"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

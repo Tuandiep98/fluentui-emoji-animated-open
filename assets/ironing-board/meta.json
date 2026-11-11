@@ -1,0 +1,46 @@
+{
+  "id": "ironing-board",
+  "name": "ironing board",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "ironing board"
+    },
+    "vi": {
+      "text": "bàn để ủi"
+    },
+    "zh-Hans": {
+      "text": "熨衣板",
+      "reading": "yùn yī bǎn"
+    },
+    "ja": {
+      "text": "アイロン台",
+      "reading": "airondai"
+    },
+    "ko": {
+      "text": "다리미판",
+      "reading": "darimipan"
+    },
+    "es": {
+      "text": "la tabla de planchar"
+    },
+    "fr": {
+      "text": "la table à repasser"
+    },
+    "de": {
+      "text": "das Bügelbrett"
+    },
+    "id": {
+      "text": "papan setrika"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "pork",
+  "name": "pork",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "pork"
+    },
+    "vi": {
+      "text": "thịt heo"
+    },
+    "zh-Hans": {
+      "text": "猪肉",
+      "reading": "zhū ròu"
+    },
+    "ja": {
+      "text": "豚肉",
+      "reading": "butaniku"
+    },
+    "ko": {
+      "text": "돼지고기",
+      "reading": "dwaejigogi"
+    },
+    "es": {
+      "text": "la carne de cerdo"
+    },
+    "fr": {
+      "text": "le porc"
+    },
+    "de": {
+      "text": "das Schweinefleisch"
+    },
+    "id": {
+      "text": "daging babi"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

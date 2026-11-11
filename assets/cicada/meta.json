@@ -1,0 +1,45 @@
+{
+  "id": "cicada",
+  "name": "cicada",
+  "category": "insects",
+  "terms": {
+    "en": {
+      "text": "cicada"
+    },
+    "vi": {
+      "text": "con ve sầu"
+    },
+    "zh-Hans": {
+      "text": "蝉",
+      "reading": "chán"
+    },
+    "ja": {
+      "text": "セミ",
+      "reading": "semi"
+    },
+    "ko": {
+      "text": "매미",
+      "reading": "maemi"
+    },
+    "es": {
+      "text": "la cigarra"
+    },
+    "fr": {
+      "text": "la cigale"
+    },
+    "de": {
+      "text": "die Zikade"
+    },
+    "id": {
+      "text": "tonggeret"
+    }
+  },
+  "tags": [
+    "insects"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

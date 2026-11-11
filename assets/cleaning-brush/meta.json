@@ -1,0 +1,46 @@
+{
+  "id": "cleaning-brush",
+  "name": "cleaning brush",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "cleaning brush"
+    },
+    "vi": {
+      "text": "bàn chải cọ rửa"
+    },
+    "zh-Hans": {
+      "text": "清洁刷",
+      "reading": "qīng jié shuā"
+    },
+    "ja": {
+      "text": "掃除ブラシ",
+      "reading": "sōji burashi"
+    },
+    "ko": {
+      "text": "청소솔",
+      "reading": "cheongsol"
+    },
+    "es": {
+      "text": "el cepillo de limpieza"
+    },
+    "fr": {
+      "text": "la brosse à récurer"
+    },
+    "de": {
+      "text": "die Scheuerbürste"
+    },
+    "id": {
+      "text": "sikat pembersih"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ketchup",
+  "name": "ketchup",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "ketchup"
+    },
+    "vi": {
+      "text": "tương cà"
+    },
+    "zh-Hans": {
+      "text": "番茄酱",
+      "reading": "fān qié jiàng"
+    },
+    "ja": {
+      "text": "ケチャップ",
+      "reading": "kechappu"
+    },
+    "ko": {
+      "text": "케첩",
+      "reading": "kecheop"
+    },
+    "es": {
+      "text": "el kétchup"
+    },
+    "fr": {
+      "text": "le ketchup"
+    },
+    "de": {
+      "text": "der Ketchup"
+    },
+    "id": {
+      "text": "saus tomat"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

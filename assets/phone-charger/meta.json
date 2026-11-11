@@ -1,0 +1,46 @@
+{
+  "id": "phone-charger",
+  "name": "phone charger",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "phone charger"
+    },
+    "vi": {
+      "text": "sạc điện thoại"
+    },
+    "zh-Hans": {
+      "text": "手机充电器",
+      "reading": "shǒu jī chōng diàn qì"
+    },
+    "ja": {
+      "text": "スマホの充電器",
+      "reading": "sumaho no jūdenki"
+    },
+    "ko": {
+      "text": "휴대폰 충전기",
+      "reading": "hyudaepon chungjeongi"
+    },
+    "es": {
+      "text": "el cargador de móvil"
+    },
+    "fr": {
+      "text": "le chargeur de téléphone"
+    },
+    "de": {
+      "text": "das Handy-Ladegerät"
+    },
+    "id": {
+      "text": "pengisi daya ponsel"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,42 @@
+{
+  "count": 30,
+  "ids": [
+    "rice-cooker",
+    "electric-kettle",
+    "electric-fan",
+    "air-conditioner",
+    "remote-control",
+    "phone-charger",
+    "laundry-detergent",
+    "dish-soap",
+    "trash-bag",
+    "alarm-clock",
+    "clothes-hanger",
+    "ironing-board",
+    "clothes-iron",
+    "sewing-needle",
+    "sewing-thread",
+    "safety-pin",
+    "zipper-bag",
+    "food-container",
+    "cling-film",
+    "aluminum-foil",
+    "rubber-band",
+    "wallet",
+    "water-filter",
+    "toothbrush-holder",
+    "soap-dish",
+    "tissue-box",
+    "cleaning-brush",
+    "shoe-brush",
+    "fly-swatter",
+    "doorstop"
+  ],
+  "license": "MIT",
+  "sourceBaseCommit": "d04818020ed150d8f925cb100c9a6e95c37ebff0",
+  "sourceState": "Committed LLS source; per-file hashes are authoritative",
+  "categories": {
+    "home": 30
+  },
+  "sourceCommit": "3fe5b1db80b87ea4d602eb042aa96588989c74f7"
+}

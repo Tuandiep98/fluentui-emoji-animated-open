@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "88487d9ad71c6cf23ba28c5616ba4c90f2d730768a6061cc7e2343ec376b2e05",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          153
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-airflow-tips",
+      "kind": "wave",
+      "center": [
+        128,
+        194
+      ],
+      "radius": [
+        92,
+        34
+      ],
+      "amp": 4.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.5
+        ],
+        [
+          1.4,
+          -1.575
+        ],
+        [
+          2.05,
+          2.9250000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        154
+      ]
+    }
+  ],
+  "note": "Only the three airflow marks already present in the original sway gently, with the complete casing and vent fixed. No fan reconstruction or new effects."
+}

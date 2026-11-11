@@ -1,0 +1,46 @@
+{
+  "id": "coconut-water",
+  "name": "coconut water",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "coconut water"
+    },
+    "vi": {
+      "text": "nước dừa"
+    },
+    "zh-Hans": {
+      "text": "椰子水",
+      "reading": "yē zi shuǐ"
+    },
+    "ja": {
+      "text": "ココナッツウォーター",
+      "reading": "kokonattsu wōtā"
+    },
+    "ko": {
+      "text": "코코넛 워터",
+      "reading": "kokoneot woteo"
+    },
+    "es": {
+      "text": "el agua de coco"
+    },
+    "fr": {
+      "text": "l'eau de coco"
+    },
+    "de": {
+      "text": "das Kokoswasser"
+    },
+    "id": {
+      "text": "air kelapa"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

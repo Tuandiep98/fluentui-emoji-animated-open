@@ -1,0 +1,46 @@
+{
+  "id": "sausage",
+  "name": "sausage",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "sausage"
+    },
+    "vi": {
+      "text": "xúc xích"
+    },
+    "zh-Hans": {
+      "text": "香肠",
+      "reading": "xiāng cháng"
+    },
+    "ja": {
+      "text": "ソーセージ",
+      "reading": "sōsēji"
+    },
+    "ko": {
+      "text": "소시지",
+      "reading": "sosiji"
+    },
+    "es": {
+      "text": "la salchicha"
+    },
+    "fr": {
+      "text": "la saucisse"
+    },
+    "de": {
+      "text": "die Wurst"
+    },
+    "id": {
+      "text": "sosis"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

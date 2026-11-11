@@ -1,0 +1,46 @@
+{
+  "id": "clothes-hanger",
+  "name": "clothes hanger",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "clothes hanger"
+    },
+    "vi": {
+      "text": "móc áo"
+    },
+    "zh-Hans": {
+      "text": "衣架",
+      "reading": "yī jià"
+    },
+    "ja": {
+      "text": "ハンガー",
+      "reading": "hangā"
+    },
+    "ko": {
+      "text": "옷걸이",
+      "reading": "otgeori"
+    },
+    "es": {
+      "text": "la percha"
+    },
+    "fr": {
+      "text": "le cintre"
+    },
+    "de": {
+      "text": "der Kleiderbügel"
+    },
+    "id": {
+      "text": "gantungan baju"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

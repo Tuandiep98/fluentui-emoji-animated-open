@@ -1,0 +1,46 @@
+{
+  "id": "coffee",
+  "name": "coffee",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "coffee"
+    },
+    "vi": {
+      "text": "cà phê"
+    },
+    "zh-Hans": {
+      "text": "咖啡",
+      "reading": "kā fēi"
+    },
+    "ja": {
+      "text": "コーヒー",
+      "reading": "kōhī"
+    },
+    "ko": {
+      "text": "커피",
+      "reading": "keopi"
+    },
+    "es": {
+      "text": "el café"
+    },
+    "fr": {
+      "text": "le café"
+    },
+    "de": {
+      "text": "der Kaffee"
+    },
+    "id": {
+      "text": "kopi"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

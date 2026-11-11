@@ -1,0 +1,46 @@
+{
+  "id": "gardener",
+  "name": "gardener",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "gardener"
+    },
+    "vi": {
+      "text": "người làm vườn"
+    },
+    "zh-Hans": {
+      "text": "园丁",
+      "reading": "yuán dīng"
+    },
+    "ja": {
+      "text": "庭師",
+      "reading": "niwashi"
+    },
+    "ko": {
+      "text": "정원사",
+      "reading": "jeongwonsa"
+    },
+    "es": {
+      "text": "el jardinero"
+    },
+    "fr": {
+      "text": "le jardinier"
+    },
+    "de": {
+      "text": "der Gärtner"
+    },
+    "id": {
+      "text": "tukang kebun"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

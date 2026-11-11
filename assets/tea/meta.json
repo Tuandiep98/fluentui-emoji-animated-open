@@ -1,0 +1,46 @@
+{
+  "id": "tea",
+  "name": "tea",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "tea"
+    },
+    "vi": {
+      "text": "trà"
+    },
+    "zh-Hans": {
+      "text": "茶",
+      "reading": "chá"
+    },
+    "ja": {
+      "text": "お茶",
+      "reading": "ocha"
+    },
+    "ko": {
+      "text": "차",
+      "reading": "cha"
+    },
+    "es": {
+      "text": "el té"
+    },
+    "fr": {
+      "text": "le thé"
+    },
+    "de": {
+      "text": "der Tee"
+    },
+    "id": {
+      "text": "teh"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

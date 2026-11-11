@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "b1dfb4ffab6fc168767a41d7174e156c0c11ae6225ea7946bd1a38ca6d72454d",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          100,
+          256,
+          156
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "hair-tip-accent",
+      "kind": "wave",
+      "center": [
+        128,
+        40
+      ],
+      "radius": [
+        58,
+        34
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        78
+      ]
+    }
+  ],
+  "note": "Small continuous upper hair accent, preserving the original face, outfit, stethoscope and chest. No disassembled anatomy."
+}

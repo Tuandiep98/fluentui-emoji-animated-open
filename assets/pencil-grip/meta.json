@@ -1,0 +1,46 @@
+{
+  "id": "pencil-grip",
+  "name": "pencil grip",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "pencil grip"
+    },
+    "vi": {
+      "text": "đệm cầm bút chì"
+    },
+    "zh-Hans": {
+      "text": "握笔器",
+      "reading": "wò bǐ qì"
+    },
+    "ja": {
+      "text": "鉛筆グリップ",
+      "reading": "enpitsu gurippu"
+    },
+    "ko": {
+      "text": "연필 그립",
+      "reading": "yeonpil geurip"
+    },
+    "es": {
+      "text": "el adaptador de lápiz"
+    },
+    "fr": {
+      "text": "le grip de crayon"
+    },
+    "de": {
+      "text": "die Stifthilfe"
+    },
+    "id": {
+      "text": "pegangan pensil"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

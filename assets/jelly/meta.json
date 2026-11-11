@@ -1,0 +1,46 @@
+{
+  "id": "jelly",
+  "name": "jelly",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "jelly"
+    },
+    "vi": {
+      "text": "thạch"
+    },
+    "zh-Hans": {
+      "text": "果冻",
+      "reading": "guǒ dòng"
+    },
+    "ja": {
+      "text": "ゼリー",
+      "reading": "zerī"
+    },
+    "ko": {
+      "text": "젤리",
+      "reading": "jelli"
+    },
+    "es": {
+      "text": "la gelatina"
+    },
+    "fr": {
+      "text": "la gelée"
+    },
+    "de": {
+      "text": "der Wackelpudding"
+    },
+    "id": {
+      "text": "jeli"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

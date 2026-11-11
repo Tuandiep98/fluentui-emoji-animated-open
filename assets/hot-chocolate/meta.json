@@ -1,0 +1,46 @@
+{
+  "id": "hot-chocolate",
+  "name": "hot chocolate",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "hot chocolate"
+    },
+    "vi": {
+      "text": "sô cô la nóng"
+    },
+    "zh-Hans": {
+      "text": "热巧克力",
+      "reading": "rè qiǎo kè lì"
+    },
+    "ja": {
+      "text": "ホットチョコレート",
+      "reading": "hotto chokorēto"
+    },
+    "ko": {
+      "text": "핫초코",
+      "reading": "hat-choko"
+    },
+    "es": {
+      "text": "el chocolate caliente"
+    },
+    "fr": {
+      "text": "le chocolat chaud"
+    },
+    "de": {
+      "text": "die heiße Schokolade"
+    },
+    "id": {
+      "text": "cokelat panas"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

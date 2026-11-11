@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "343526479a0baff859fd0c5ef62a0b572fae4549fdb9b5624e8ba2eb3aeba21a",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          132,
+          256
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-tail-tip",
+      "kind": "press",
+      "center": [
+        192,
+        125
+      ],
+      "radius": [
+        49,
+        39
+      ],
+      "amp": 4.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.5
+        ],
+        [
+          1.4,
+          -1.575
+        ],
+        [
+          2.05,
+          2.9250000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        137,
+        142
+      ]
+    }
+  ],
+  "note": "Original single tadpole tail gently swishes in a continuous field, retaining its rooted join. Head, face and rounded body remain fixed; no invented limbs or flipped facing."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "clothes-iron",
+  "name": "clothes iron",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "clothes iron"
+    },
+    "vi": {
+      "text": "bàn ủi"
+    },
+    "zh-Hans": {
+      "text": "电熨斗",
+      "reading": "diàn yùn dǒu"
+    },
+    "ja": {
+      "text": "アイロン",
+      "reading": "airon"
+    },
+    "ko": {
+      "text": "다리미",
+      "reading": "darimi"
+    },
+    "es": {
+      "text": "la plancha"
+    },
+    "fr": {
+      "text": "le fer à repasser"
+    },
+    "de": {
+      "text": "das Bügeleisen"
+    },
+    "id": {
+      "text": "setrika"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "beef",
+  "name": "beef",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "beef"
+    },
+    "vi": {
+      "text": "thịt bò"
+    },
+    "zh-Hans": {
+      "text": "牛肉",
+      "reading": "niú ròu"
+    },
+    "ja": {
+      "text": "牛肉",
+      "reading": "gyūniku"
+    },
+    "ko": {
+      "text": "소고기",
+      "reading": "sogogi"
+    },
+    "es": {
+      "text": "la carne de res"
+    },
+    "fr": {
+      "text": "le bœuf"
+    },
+    "de": {
+      "text": "das Rindfleisch"
+    },
+    "id": {
+      "text": "daging sapi"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

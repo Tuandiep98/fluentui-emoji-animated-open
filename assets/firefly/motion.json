@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "32eeca339ca17a665132d86512ff41a7ffb8a48a544272de8176a036a47199c8",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          82,
+          256,
+          174
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "paired-antenna-tips",
+      "kind": "wave",
+      "center": [
+        82,
+        44
+      ],
+      "radius": [
+        62,
+        28
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        83,
+        75
+      ]
+    }
+  ],
+  "note": "Paired antenna tips sway gently as a continuous field. The complete face, six legs, wing covers and opaque yellow abdomen remain fixed; no external glow or reassembled parts."
+}

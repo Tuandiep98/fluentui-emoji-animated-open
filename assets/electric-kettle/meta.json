@@ -1,0 +1,46 @@
+{
+  "id": "electric-kettle",
+  "name": "electric kettle",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "electric kettle"
+    },
+    "vi": {
+      "text": "ấm đun nước điện"
+    },
+    "zh-Hans": {
+      "text": "电水壶",
+      "reading": "diàn shuǐ hú"
+    },
+    "ja": {
+      "text": "電気ケトル",
+      "reading": "denki ketoru"
+    },
+    "ko": {
+      "text": "전기 주전자",
+      "reading": "jeongi jujeonja"
+    },
+    "es": {
+      "text": "el hervidor eléctrico"
+    },
+    "fr": {
+      "text": "la bouilloire électrique"
+    },
+    "de": {
+      "text": "der Wasserkocher"
+    },
+    "id": {
+      "text": "ketel listrik"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

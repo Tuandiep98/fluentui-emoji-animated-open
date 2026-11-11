@@ -1,0 +1,46 @@
+{
+  "id": "tissue-box",
+  "name": "tissue box",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "tissue box"
+    },
+    "vi": {
+      "text": "hộp khăn giấy"
+    },
+    "zh-Hans": {
+      "text": "纸巾盒",
+      "reading": "zhǐ jīn hé"
+    },
+    "ja": {
+      "text": "ティッシュ箱",
+      "reading": "tisshu bako"
+    },
+    "ko": {
+      "text": "티슈 상자",
+      "reading": "tisyu sangja"
+    },
+    "es": {
+      "text": "la caja de pañuelos"
+    },
+    "fr": {
+      "text": "la boîte de mouchoirs"
+    },
+    "de": {
+      "text": "die Taschentuchbox"
+    },
+    "id": {
+      "text": "kotak tisu"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

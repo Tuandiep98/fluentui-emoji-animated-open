@@ -1,0 +1,46 @@
+{
+  "id": "ham",
+  "name": "ham",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "ham"
+    },
+    "vi": {
+      "text": "thịt nguội"
+    },
+    "zh-Hans": {
+      "text": "火腿",
+      "reading": "huǒ tuǐ"
+    },
+    "ja": {
+      "text": "ハム",
+      "reading": "hamu"
+    },
+    "ko": {
+      "text": "햄",
+      "reading": "haem"
+    },
+    "es": {
+      "text": "el jamón"
+    },
+    "fr": {
+      "text": "le jambon"
+    },
+    "de": {
+      "text": "der Schinken"
+    },
+    "id": {
+      "text": "ham"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

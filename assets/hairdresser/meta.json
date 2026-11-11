@@ -1,0 +1,46 @@
+{
+  "id": "hairdresser",
+  "name": "hairdresser",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "hairdresser"
+    },
+    "vi": {
+      "text": "thợ làm tóc"
+    },
+    "zh-Hans": {
+      "text": "理发师",
+      "reading": "lǐ fà shī"
+    },
+    "ja": {
+      "text": "美容師",
+      "reading": "biyōshi"
+    },
+    "ko": {
+      "text": "미용사",
+      "reading": "miyongsa"
+    },
+    "es": {
+      "text": "el peluquero"
+    },
+    "fr": {
+      "text": "le coiffeur"
+    },
+    "de": {
+      "text": "der Friseur"
+    },
+    "id": {
+      "text": "penata rambut"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

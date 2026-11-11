@@ -1,0 +1,46 @@
+{
+  "id": "librarian",
+  "name": "librarian",
+  "category": "people",
+  "terms": {
+    "en": {
+      "text": "librarian"
+    },
+    "vi": {
+      "text": "thủ thư"
+    },
+    "zh-Hans": {
+      "text": "图书管理员",
+      "reading": "tú shū guǎn lǐ yuán"
+    },
+    "ja": {
+      "text": "司書",
+      "reading": "shisho"
+    },
+    "ko": {
+      "text": "사서",
+      "reading": "saseo"
+    },
+    "es": {
+      "text": "el bibliotecario"
+    },
+    "fr": {
+      "text": "le bibliothécaire"
+    },
+    "de": {
+      "text": "der Bibliothekar"
+    },
+    "id": {
+      "text": "pustakawan"
+    }
+  },
+  "tags": [
+    "family-people",
+    "people"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

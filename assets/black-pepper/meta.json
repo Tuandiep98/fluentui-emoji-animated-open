@@ -1,0 +1,46 @@
+{
+  "id": "black-pepper",
+  "name": "black pepper",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "black pepper"
+    },
+    "vi": {
+      "text": "hạt tiêu đen"
+    },
+    "zh-Hans": {
+      "text": "黑胡椒",
+      "reading": "hēi hú jiāo"
+    },
+    "ja": {
+      "text": "黒こしょう",
+      "reading": "kurokoshō"
+    },
+    "ko": {
+      "text": "후추",
+      "reading": "huchu"
+    },
+    "es": {
+      "text": "la pimienta negra"
+    },
+    "fr": {
+      "text": "le poivre noir"
+    },
+    "de": {
+      "text": "der schwarze Pfeffer"
+    },
+    "id": {
+      "text": "lada hitam"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

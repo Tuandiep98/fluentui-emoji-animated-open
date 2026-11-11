@@ -1,0 +1,46 @@
+{
+  "id": "almond",
+  "name": "almond",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "almond"
+    },
+    "vi": {
+      "text": "hạt hạnh nhân"
+    },
+    "zh-Hans": {
+      "text": "扁桃仁",
+      "reading": "biǎn táo rén"
+    },
+    "ja": {
+      "text": "アーモンド",
+      "reading": "āmondo"
+    },
+    "ko": {
+      "text": "아몬드",
+      "reading": "amondeu"
+    },
+    "es": {
+      "text": "la almendra"
+    },
+    "fr": {
+      "text": "l'amande"
+    },
+    "de": {
+      "text": "die Mandel"
+    },
+    "id": {
+      "text": "almon"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

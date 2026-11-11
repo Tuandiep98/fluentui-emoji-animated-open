@@ -1,0 +1,46 @@
+{
+  "id": "walnut",
+  "name": "walnut",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "walnut"
+    },
+    "vi": {
+      "text": "quả óc chó"
+    },
+    "zh-Hans": {
+      "text": "核桃",
+      "reading": "hé tao"
+    },
+    "ja": {
+      "text": "クルミ",
+      "reading": "kurumi"
+    },
+    "ko": {
+      "text": "호두",
+      "reading": "hodu"
+    },
+    "es": {
+      "text": "la nuez"
+    },
+    "fr": {
+      "text": "la noix"
+    },
+    "de": {
+      "text": "die Walnuss"
+    },
+    "id": {
+      "text": "kacang walnut"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

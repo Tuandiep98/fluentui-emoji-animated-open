@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "ab9996beffa1c4d2e19ca0469074af07449dd552677f94ce94b616efd4650eee",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          62,
+          256,
+          194
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "antennae",
+      "kind": "wave",
+      "center": [
+        81,
+        30
+      ],
+      "radius": [
+        60,
+        24
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        79,
+        58
+      ]
+    }
+  ],
+  "note": "Only the original paired antenna tips sway in a continuous field. Face, all six limbs, thorax, wings and ground contacts are pinned intact."
+}

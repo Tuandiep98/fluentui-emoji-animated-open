@@ -1,0 +1,46 @@
+{
+  "id": "schoolyard",
+  "name": "schoolyard",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "schoolyard"
+    },
+    "vi": {
+      "text": "sân trường"
+    },
+    "zh-Hans": {
+      "text": "校园操场",
+      "reading": "xiào yuán cāo chǎng"
+    },
+    "ja": {
+      "text": "校庭",
+      "reading": "kōtei"
+    },
+    "ko": {
+      "text": "학교 운동장",
+      "reading": "hakgyo undongjang"
+    },
+    "es": {
+      "text": "el patio escolar"
+    },
+    "fr": {
+      "text": "la cour de récréation"
+    },
+    "de": {
+      "text": "der Schulhof"
+    },
+    "id": {
+      "text": "halaman sekolah"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

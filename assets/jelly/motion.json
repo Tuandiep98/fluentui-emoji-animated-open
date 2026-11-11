@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "63391b43cad490255cd387b68daab70ee38e10af4b6380cdaacce9996d2c541e",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          210,
+          256,
+          46
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "jelly-wobble",
+      "kind": "wave",
+      "center": [
+        128,
+        100
+      ],
+      "radius": [
+        94,
+        76
+      ],
+      "amp": 4.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.2
+        ],
+        [
+          1.4,
+          -1.47
+        ],
+        [
+          2.05,
+          2.7300000000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        193
+      ]
+    }
+  ],
+  "note": "The original jelly dome wobbles gently as a continuous field; the serving plate stays fixed. Preserve its base contact and original silhouette, with no duplicated parts."
+}

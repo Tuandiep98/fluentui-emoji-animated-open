@@ -1,0 +1,83 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "1315f1427623f484c4723627474f83541014781102b1510bb1f1ea926f02d4de",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          128,
+          256,
+          128
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          0,
+          145,
+          256
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "curled-tail-tip",
+      "kind": "wave",
+      "center": [
+        208,
+        82
+      ],
+      "radius": [
+        34,
+        39
+      ],
+      "amp": 4.2,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.2
+        ],
+        [
+          1.4,
+          -1.47
+        ],
+        [
+          2.05,
+          2.7300000000000004
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        203,
+        128
+      ]
+    }
+  ],
+  "note": "Only the upper curled original tail tip sways. Complete face, torso, four legs, all visible toe pads and ground contacts are pinned, with the tail base still attached."
+}

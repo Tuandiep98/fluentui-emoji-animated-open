@@ -1,0 +1,46 @@
+{
+  "id": "name-tag",
+  "name": "name tag",
+  "category": "school-art",
+  "terms": {
+    "en": {
+      "text": "name tag"
+    },
+    "vi": {
+      "text": "thẻ tên"
+    },
+    "zh-Hans": {
+      "text": "姓名牌",
+      "reading": "xìng míng pái"
+    },
+    "ja": {
+      "text": "名札",
+      "reading": "nafuda"
+    },
+    "ko": {
+      "text": "이름표",
+      "reading": "ireumpyo"
+    },
+    "es": {
+      "text": "la tarjeta de nombre"
+    },
+    "fr": {
+      "text": "le badge nominatif"
+    },
+    "de": {
+      "text": "das Namensschild"
+    },
+    "id": {
+      "text": "tanda nama"
+    }
+  },
+  "tags": [
+    "school",
+    "school-art"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

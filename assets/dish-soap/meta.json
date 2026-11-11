@@ -1,0 +1,46 @@
+{
+  "id": "dish-soap",
+  "name": "dish soap",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "dish soap"
+    },
+    "vi": {
+      "text": "nước rửa chén"
+    },
+    "zh-Hans": {
+      "text": "洗洁精",
+      "reading": "xǐ jié jīng"
+    },
+    "ja": {
+      "text": "食器用洗剤",
+      "reading": "shokkiyō senzai"
+    },
+    "ko": {
+      "text": "주방 세제",
+      "reading": "jubang seje"
+    },
+    "es": {
+      "text": "el lavavajillas líquido"
+    },
+    "fr": {
+      "text": "le liquide vaisselle"
+    },
+    "de": {
+      "text": "das Spülmittel"
+    },
+    "id": {
+      "text": "sabun cuci piring"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

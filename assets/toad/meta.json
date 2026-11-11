@@ -1,0 +1,46 @@
+{
+  "id": "toad",
+  "name": "toad",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "toad"
+    },
+    "vi": {
+      "text": "con cóc"
+    },
+    "zh-Hans": {
+      "text": "蟾蜍",
+      "reading": "chán chú"
+    },
+    "ja": {
+      "text": "ヒキガエル",
+      "reading": "hikigaeru"
+    },
+    "ko": {
+      "text": "두꺼비",
+      "reading": "dukkeobi"
+    },
+    "es": {
+      "text": "el sapo"
+    },
+    "fr": {
+      "text": "le crapaud"
+    },
+    "de": {
+      "text": "die Kröte"
+    },
+    "id": {
+      "text": "kodok buduk"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

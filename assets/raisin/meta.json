@@ -1,0 +1,46 @@
+{
+  "id": "raisin",
+  "name": "raisin",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "raisin"
+    },
+    "vi": {
+      "text": "nho khô"
+    },
+    "zh-Hans": {
+      "text": "葡萄干",
+      "reading": "pú tao gān"
+    },
+    "ja": {
+      "text": "レーズン",
+      "reading": "rēzun"
+    },
+    "ko": {
+      "text": "건포도",
+      "reading": "geonpodo"
+    },
+    "es": {
+      "text": "la pasa"
+    },
+    "fr": {
+      "text": "le raisin sec"
+    },
+    "de": {
+      "text": "die Rosine"
+    },
+    "id": {
+      "text": "kismis"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

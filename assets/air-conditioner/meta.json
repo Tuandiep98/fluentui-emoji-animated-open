@@ -1,0 +1,46 @@
+{
+  "id": "air-conditioner",
+  "name": "air conditioner",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "air conditioner"
+    },
+    "vi": {
+      "text": "máy lạnh"
+    },
+    "zh-Hans": {
+      "text": "空调",
+      "reading": "kōng tiáo"
+    },
+    "ja": {
+      "text": "エアコン",
+      "reading": "eakon"
+    },
+    "ko": {
+      "text": "에어컨",
+      "reading": "eeokeon"
+    },
+    "es": {
+      "text": "el aire acondicionado"
+    },
+    "fr": {
+      "text": "le climatiseur"
+    },
+    "de": {
+      "text": "die Klimaanlage"
+    },
+    "id": {
+      "text": "AC"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "fish-fillet",
+  "name": "fish fillet",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "fish fillet"
+    },
+    "vi": {
+      "text": "phi lê cá"
+    },
+    "zh-Hans": {
+      "text": "鱼片",
+      "reading": "yú piàn"
+    },
+    "ja": {
+      "text": "魚の切り身",
+      "reading": "sakana no kirimi"
+    },
+    "ko": {
+      "text": "생선살",
+      "reading": "saengseonsal"
+    },
+    "es": {
+      "text": "el filete de pescado"
+    },
+    "fr": {
+      "text": "le filet de poisson"
+    },
+    "de": {
+      "text": "das Fischfilet"
+    },
+    "id": {
+      "text": "filet ikan"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-1-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

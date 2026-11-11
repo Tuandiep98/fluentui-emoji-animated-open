@@ -1,0 +1,46 @@
+{
+  "id": "classroom",
+  "name": "classroom",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "classroom"
+    },
+    "vi": {
+      "text": "lớp học"
+    },
+    "zh-Hans": {
+      "text": "教室",
+      "reading": "jiào shì"
+    },
+    "ja": {
+      "text": "教室",
+      "reading": "kyōshitsu"
+    },
+    "ko": {
+      "text": "교실",
+      "reading": "gyosil"
+    },
+    "es": {
+      "text": "el aula"
+    },
+    "fr": {
+      "text": "la salle de classe"
+    },
+    "de": {
+      "text": "das Klassenzimmer"
+    },
+    "id": {
+      "text": "ruang kelas"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-3-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}

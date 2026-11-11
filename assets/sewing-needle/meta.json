@@ -1,0 +1,46 @@
+{
+  "id": "sewing-needle",
+  "name": "sewing needle",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "sewing needle"
+    },
+    "vi": {
+      "text": "kim khâu"
+    },
+    "zh-Hans": {
+      "text": "缝衣针",
+      "reading": "féng yī zhēn"
+    },
+    "ja": {
+      "text": "縫い針",
+      "reading": "nuibari"
+    },
+    "ko": {
+      "text": "바늘",
+      "reading": "baneul"
+    },
+    "es": {
+      "text": "la aguja de coser"
+    },
+    "fr": {
+      "text": "l'aiguille à coudre"
+    },
+    "de": {
+      "text": "die Nähnadel"
+    },
+    "id": {
+      "text": "jarum jahit"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-2-2026-11-11",
+  "addedAt": "2026-11-11",
+  "status": "ready"
+}
