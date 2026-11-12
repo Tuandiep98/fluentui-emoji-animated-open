@@ -1,0 +1,46 @@
+{
+  "id": "barn",
+  "name": "barn",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "barn"
+    },
+    "vi": {
+      "text": "nhà kho nông trại"
+    },
+    "zh-Hans": {
+      "text": "农场谷仓",
+      "reading": "nóng chǎng gǔ cāng"
+    },
+    "ja": {
+      "text": "納屋",
+      "reading": "naya"
+    },
+    "ko": {
+      "text": "헛간",
+      "reading": "heotgan"
+    },
+    "es": {
+      "text": "el granero"
+    },
+    "fr": {
+      "text": "la grange"
+    },
+    "de": {
+      "text": "die Scheune"
+    },
+    "id": {
+      "text": "lumbung peternakan"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

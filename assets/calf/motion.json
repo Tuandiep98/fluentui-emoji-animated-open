@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "033974caefcb57866000c050c0f8bea86f4912033b0898b91e9e18fa4c73d971",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          92,
+          256,
+          164
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-soft-detail",
+      "kind": "wave",
+      "center": [
+        82,
+        45
+      ],
+      "radius": [
+        63,
+        30
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        83,
+        80
+      ]
+    }
+  ],
+  "note": "A small soft ear/forelock accent retains the original head, neck, four legs and tail. All lower pixels stay fixed."
+}

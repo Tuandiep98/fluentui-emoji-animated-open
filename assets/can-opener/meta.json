@@ -1,0 +1,46 @@
+{
+  "id": "can-opener",
+  "name": "can opener",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "can opener"
+    },
+    "vi": {
+      "text": "đồ khui hộp"
+    },
+    "zh-Hans": {
+      "text": "开罐器",
+      "reading": "kāi guàn qì"
+    },
+    "ja": {
+      "text": "缶切り",
+      "reading": "kankiri"
+    },
+    "ko": {
+      "text": "깡통따개",
+      "reading": "kkangttongttagae"
+    },
+    "es": {
+      "text": "el abrelatas"
+    },
+    "fr": {
+      "text": "l'ouvre-boîte"
+    },
+    "de": {
+      "text": "der Dosenöffner"
+    },
+    "id": {
+      "text": "pembuka kaleng"
+    }
+  },
+  "tags": [
+    "things",
+    "kitchen"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

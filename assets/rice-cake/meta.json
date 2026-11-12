@@ -1,0 +1,46 @@
+{
+  "id": "rice-cake",
+  "name": "rice cake",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "rice cake"
+    },
+    "vi": {
+      "text": "bánh gạo phồng"
+    },
+    "zh-Hans": {
+      "text": "膨化米饼",
+      "reading": "péng huà mǐ bǐng"
+    },
+    "ja": {
+      "text": "ポンせん",
+      "reading": "ponsen"
+    },
+    "ko": {
+      "text": "뻥튀기",
+      "reading": "ppeongtwigi"
+    },
+    "es": {
+      "text": "la tortita de arroz"
+    },
+    "fr": {
+      "text": "la galette de riz soufflé"
+    },
+    "de": {
+      "text": "die Reiswaffel"
+    },
+    "id": {
+      "text": "kue beras kembung"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

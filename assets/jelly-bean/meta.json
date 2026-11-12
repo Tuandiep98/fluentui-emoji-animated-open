@@ -1,0 +1,46 @@
+{
+  "id": "jelly-bean",
+  "name": "jelly bean",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "jelly bean"
+    },
+    "vi": {
+      "text": "kẹo dẻo hạt đậu"
+    },
+    "zh-Hans": {
+      "text": "软糖豆",
+      "reading": "ruǎn táng dòu"
+    },
+    "ja": {
+      "text": "ジェリービーンズ",
+      "reading": "jerī bīnzu"
+    },
+    "ko": {
+      "text": "젤리빈",
+      "reading": "jellibin"
+    },
+    "es": {
+      "text": "la gragea de gelatina"
+    },
+    "fr": {
+      "text": "le bonbon haricot"
+    },
+    "de": {
+      "text": "die Geleebohne"
+    },
+    "id": {
+      "text": "permen jelly bean"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

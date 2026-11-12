@@ -1,0 +1,46 @@
+{
+  "id": "fire-hydrant",
+  "name": "fire hydrant",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "fire hydrant"
+    },
+    "vi": {
+      "text": "trụ nước chữa cháy"
+    },
+    "zh-Hans": {
+      "text": "消防栓",
+      "reading": "xiāo fáng shuān"
+    },
+    "ja": {
+      "text": "消火栓",
+      "reading": "shōkasen"
+    },
+    "ko": {
+      "text": "소화전",
+      "reading": "sohwajeon"
+    },
+    "es": {
+      "text": "la boca de incendios"
+    },
+    "fr": {
+      "text": "la borne d'incendie"
+    },
+    "de": {
+      "text": "der Hydrant"
+    },
+    "id": {
+      "text": "hidran"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

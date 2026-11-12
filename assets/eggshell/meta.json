@@ -1,0 +1,46 @@
+{
+  "id": "eggshell",
+  "name": "eggshell",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "eggshell"
+    },
+    "vi": {
+      "text": "vỏ trứng"
+    },
+    "zh-Hans": {
+      "text": "蛋壳",
+      "reading": "dàn ké"
+    },
+    "ja": {
+      "text": "卵の殻",
+      "reading": "tamago no kara"
+    },
+    "ko": {
+      "text": "달걀 껍데기",
+      "reading": "dalgyal kkeopdegi"
+    },
+    "es": {
+      "text": "la cáscara de huevo"
+    },
+    "fr": {
+      "text": "la coquille d'œuf"
+    },
+    "de": {
+      "text": "die Eierschale"
+    },
+    "id": {
+      "text": "cangkang telur"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

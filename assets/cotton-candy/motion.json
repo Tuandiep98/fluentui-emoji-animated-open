@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "38fbeafbab5d0d8be46732f2d7e4a14d765740e531abd050c7e78998ad0c66c4",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          170,
+          256,
+          86
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-candy-fluff",
+      "kind": "press",
+      "center": [
+        128,
+        88
+      ],
+      "radius": [
+        69,
+        55
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        152
+      ]
+    }
+  ],
+  "note": "The original soft candy fluff subtly breathes; the whole silhouette stays recognizable and the stick stays fixed."
+}

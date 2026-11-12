@@ -1,0 +1,46 @@
+{
+  "id": "cat-litter-box",
+  "name": "cat litter box",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "cat litter box"
+    },
+    "vi": {
+      "text": "khay vệ sinh mèo"
+    },
+    "zh-Hans": {
+      "text": "猫砂盆",
+      "reading": "māo shā pén"
+    },
+    "ja": {
+      "text": "猫のトイレ",
+      "reading": "neko no toire"
+    },
+    "ko": {
+      "text": "고양이 화장실",
+      "reading": "goyangi hwajangsil"
+    },
+    "es": {
+      "text": "el arenero para gatos"
+    },
+    "fr": {
+      "text": "le bac à litière"
+    },
+    "de": {
+      "text": "die Katzentoilette"
+    },
+    "id": {
+      "text": "kotak pasir kucing"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

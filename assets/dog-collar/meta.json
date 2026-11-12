@@ -1,0 +1,46 @@
+{
+  "id": "dog-collar",
+  "name": "dog collar",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "dog collar"
+    },
+    "vi": {
+      "text": "vòng cổ chó"
+    },
+    "zh-Hans": {
+      "text": "狗项圈",
+      "reading": "gǒu xiàng quān"
+    },
+    "ja": {
+      "text": "犬の首輪",
+      "reading": "inu no kubiwa"
+    },
+    "ko": {
+      "text": "개 목걸이",
+      "reading": "gae mokgeori"
+    },
+    "es": {
+      "text": "el collar del perro"
+    },
+    "fr": {
+      "text": "le collier du chien"
+    },
+    "de": {
+      "text": "das Hundehalsband"
+    },
+    "id": {
+      "text": "kalung anjing"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

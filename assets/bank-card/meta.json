@@ -1,0 +1,46 @@
+{
+  "id": "bank-card",
+  "name": "bank card",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "bank card"
+    },
+    "vi": {
+      "text": "thẻ ngân hàng"
+    },
+    "zh-Hans": {
+      "text": "银行卡",
+      "reading": "yín háng kǎ"
+    },
+    "ja": {
+      "text": "銀行カード",
+      "reading": "ginkō kādo"
+    },
+    "ko": {
+      "text": "은행 카드",
+      "reading": "eunhaeng kadeu"
+    },
+    "es": {
+      "text": "la tarjeta bancaria"
+    },
+    "fr": {
+      "text": "la carte bancaire"
+    },
+    "de": {
+      "text": "die Bankkarte"
+    },
+    "id": {
+      "text": "kartu bank"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

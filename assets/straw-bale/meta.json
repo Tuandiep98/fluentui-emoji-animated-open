@@ -1,0 +1,46 @@
+{
+  "id": "straw-bale",
+  "name": "straw bale",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "straw bale"
+    },
+    "vi": {
+      "text": "kiện rơm"
+    },
+    "zh-Hans": {
+      "text": "稻草捆",
+      "reading": "dào cǎo kǔn"
+    },
+    "ja": {
+      "text": "わらの束",
+      "reading": "wara no taba"
+    },
+    "ko": {
+      "text": "짚단",
+      "reading": "jipdan"
+    },
+    "es": {
+      "text": "la bala de paja"
+    },
+    "fr": {
+      "text": "la botte de paille"
+    },
+    "de": {
+      "text": "der Strohballen"
+    },
+    "id": {
+      "text": "bal jerami"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

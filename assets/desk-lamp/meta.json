@@ -1,0 +1,46 @@
+{
+  "id": "desk-lamp",
+  "name": "desk lamp",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "desk lamp"
+    },
+    "vi": {
+      "text": "đèn bàn"
+    },
+    "zh-Hans": {
+      "text": "台灯",
+      "reading": "tái dēng"
+    },
+    "ja": {
+      "text": "電気スタンド",
+      "reading": "denki sutando"
+    },
+    "ko": {
+      "text": "책상 스탠드",
+      "reading": "chaeksang seutaendeu"
+    },
+    "es": {
+      "text": "la lámpara de escritorio"
+    },
+    "fr": {
+      "text": "la lampe de bureau"
+    },
+    "de": {
+      "text": "die Schreibtischlampe"
+    },
+    "id": {
+      "text": "lampu meja"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "soda",
+  "name": "soda",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "soda"
+    },
+    "vi": {
+      "text": "nước ngọt có ga"
+    },
+    "zh-Hans": {
+      "text": "汽水",
+      "reading": "qì shuǐ"
+    },
+    "ja": {
+      "text": "炭酸飲料",
+      "reading": "tansan inryō"
+    },
+    "ko": {
+      "text": "탄산음료",
+      "reading": "tansan eumnyo"
+    },
+    "es": {
+      "text": "el refresco con gas"
+    },
+    "fr": {
+      "text": "le soda"
+    },
+    "de": {
+      "text": "die Brause"
+    },
+    "id": {
+      "text": "minuman bersoda"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

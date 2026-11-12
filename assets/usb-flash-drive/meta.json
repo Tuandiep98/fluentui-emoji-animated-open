@@ -1,0 +1,46 @@
+{
+  "id": "usb-flash-drive",
+  "name": "USB flash drive",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "USB flash drive"
+    },
+    "vi": {
+      "text": "USB lưu trữ"
+    },
+    "zh-Hans": {
+      "text": "U盘",
+      "reading": "yōu pán"
+    },
+    "ja": {
+      "text": "USBメモリー",
+      "reading": "yū esu bī memorī"
+    },
+    "ko": {
+      "text": "USB 메모리",
+      "reading": "yuesseubi memori"
+    },
+    "es": {
+      "text": "la memoria USB"
+    },
+    "fr": {
+      "text": "la clé USB"
+    },
+    "de": {
+      "text": "der USB-Stick"
+    },
+    "id": {
+      "text": "diska lepas USB"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "receipt",
+  "name": "receipt",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "receipt"
+    },
+    "vi": {
+      "text": "hóa đơn"
+    },
+    "zh-Hans": {
+      "text": "收据",
+      "reading": "shōu jù"
+    },
+    "ja": {
+      "text": "レシート",
+      "reading": "reshīto"
+    },
+    "ko": {
+      "text": "영수증",
+      "reading": "yeongsujeung"
+    },
+    "es": {
+      "text": "el recibo"
+    },
+    "fr": {
+      "text": "le reçu"
+    },
+    "de": {
+      "text": "der Kassenbon"
+    },
+    "id": {
+      "text": "struk"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

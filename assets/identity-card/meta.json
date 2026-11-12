@@ -1,0 +1,46 @@
+{
+  "id": "identity-card",
+  "name": "identity card",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "identity card"
+    },
+    "vi": {
+      "text": "thẻ căn cước"
+    },
+    "zh-Hans": {
+      "text": "身份证",
+      "reading": "shēn fèn zhèng"
+    },
+    "ja": {
+      "text": "身分証明書",
+      "reading": "mibun shōmeisho"
+    },
+    "ko": {
+      "text": "신분증",
+      "reading": "sinbunjeung"
+    },
+    "es": {
+      "text": "el documento de identidad"
+    },
+    "fr": {
+      "text": "la carte d'identité"
+    },
+    "de": {
+      "text": "der Personalausweis"
+    },
+    "id": {
+      "text": "kartu identitas"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

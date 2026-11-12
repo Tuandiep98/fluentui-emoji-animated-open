@@ -1,0 +1,46 @@
+{
+  "id": "tunnel",
+  "name": "tunnel",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "tunnel"
+    },
+    "vi": {
+      "text": "đường hầm"
+    },
+    "zh-Hans": {
+      "text": "隧道",
+      "reading": "suì dào"
+    },
+    "ja": {
+      "text": "トンネル",
+      "reading": "tonneru"
+    },
+    "ko": {
+      "text": "터널",
+      "reading": "teoneol"
+    },
+    "es": {
+      "text": "el túnel"
+    },
+    "fr": {
+      "text": "le tunnel"
+    },
+    "de": {
+      "text": "der Tunnel"
+    },
+    "id": {
+      "text": "terowongan"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

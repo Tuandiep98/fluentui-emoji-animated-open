@@ -1,0 +1,46 @@
+{
+  "id": "passport",
+  "name": "passport",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "passport"
+    },
+    "vi": {
+      "text": "hộ chiếu"
+    },
+    "zh-Hans": {
+      "text": "护照",
+      "reading": "hù zhào"
+    },
+    "ja": {
+      "text": "パスポート",
+      "reading": "pasupōto"
+    },
+    "ko": {
+      "text": "여권",
+      "reading": "yeogwon"
+    },
+    "es": {
+      "text": "el pasaporte"
+    },
+    "fr": {
+      "text": "le passeport"
+    },
+    "de": {
+      "text": "der Reisepass"
+    },
+    "id": {
+      "text": "paspor"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

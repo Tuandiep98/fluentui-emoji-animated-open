@@ -1,0 +1,46 @@
+{
+  "id": "fish-tank",
+  "name": "fish tank",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "fish tank"
+    },
+    "vi": {
+      "text": "bể cá"
+    },
+    "zh-Hans": {
+      "text": "鱼缸",
+      "reading": "yú gāng"
+    },
+    "ja": {
+      "text": "水槽",
+      "reading": "suisō"
+    },
+    "ko": {
+      "text": "어항",
+      "reading": "eohang"
+    },
+    "es": {
+      "text": "la pecera"
+    },
+    "fr": {
+      "text": "l'aquarium domestique"
+    },
+    "de": {
+      "text": "das Fischaquarium"
+    },
+    "id": {
+      "text": "akuarium ikan"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

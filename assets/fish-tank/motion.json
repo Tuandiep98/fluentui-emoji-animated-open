@@ -1,0 +1,92 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "a58b2eafb9cdc1171be5279d4b00c89d31fb2db2266b0ddfc0f84361abd47ff3",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          256,
+          77
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          177,
+          256,
+          79
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          101,
+          0,
+          155,
+          256
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-soft-detail",
+      "kind": "wave",
+      "center": [
+        68,
+        124
+      ],
+      "radius": [
+        25,
+        35
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        91,
+        132
+      ]
+    }
+  ],
+  "note": "A small continuous accent on the original fish tail preserves the fish body, face, glass tank, plant and gravel. No cutout swim cycle."
+}

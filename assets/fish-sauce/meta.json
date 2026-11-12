@@ -1,0 +1,46 @@
+{
+  "id": "fish-sauce",
+  "name": "fish sauce",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "fish sauce"
+    },
+    "vi": {
+      "text": "nước mắm"
+    },
+    "zh-Hans": {
+      "text": "鱼露",
+      "reading": "yú lù"
+    },
+    "ja": {
+      "text": "ナンプラー",
+      "reading": "nanpurā"
+    },
+    "ko": {
+      "text": "피시 소스",
+      "reading": "pisi soseu"
+    },
+    "es": {
+      "text": "la salsa de pescado"
+    },
+    "fr": {
+      "text": "la sauce de poisson"
+    },
+    "de": {
+      "text": "die Fischsoße"
+    },
+    "id": {
+      "text": "kecap ikan"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

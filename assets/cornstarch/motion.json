@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "933c68525c2851f1c9f5debd92b57b2efbd2e9797c3ddcb29cf52d20029678a5",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          90,
+          256,
+          166
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-soft-detail",
+      "kind": "wave",
+      "center": [
+        128,
+        44
+      ],
+      "radius": [
+        94,
+        27
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        79
+      ]
+    }
+  ],
+  "note": "Only the soft paper opening flexes; lower bag and corn pictogram remain fixed."
+}

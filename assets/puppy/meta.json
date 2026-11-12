@@ -1,0 +1,46 @@
+{
+  "id": "puppy",
+  "name": "puppy",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "puppy"
+    },
+    "vi": {
+      "text": "chó con"
+    },
+    "zh-Hans": {
+      "text": "小狗",
+      "reading": "xiǎo gǒu"
+    },
+    "ja": {
+      "text": "子犬",
+      "reading": "koinu"
+    },
+    "ko": {
+      "text": "새끼 개",
+      "reading": "saekki gae"
+    },
+    "es": {
+      "text": "el cachorro"
+    },
+    "fr": {
+      "text": "le chiot"
+    },
+    "de": {
+      "text": "der Welpe"
+    },
+    "id": {
+      "text": "anak anjing"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

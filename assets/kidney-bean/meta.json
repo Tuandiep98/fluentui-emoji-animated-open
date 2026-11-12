@@ -1,0 +1,46 @@
+{
+  "id": "kidney-bean",
+  "name": "kidney bean",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "kidney bean"
+    },
+    "vi": {
+      "text": "đậu đỏ tây"
+    },
+    "zh-Hans": {
+      "text": "红腰豆",
+      "reading": "hóng yāo dòu"
+    },
+    "ja": {
+      "text": "赤インゲン豆",
+      "reading": "akaingenmame"
+    },
+    "ko": {
+      "text": "강낭콩",
+      "reading": "gangnangkong"
+    },
+    "es": {
+      "text": "la alubia roja"
+    },
+    "fr": {
+      "text": "le haricot rouge"
+    },
+    "de": {
+      "text": "die Kidneybohne"
+    },
+    "id": {
+      "text": "kacang merah besar"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

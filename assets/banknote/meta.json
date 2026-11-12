@@ -1,0 +1,46 @@
+{
+  "id": "banknote",
+  "name": "banknote",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "banknote"
+    },
+    "vi": {
+      "text": "tiền giấy"
+    },
+    "zh-Hans": {
+      "text": "纸币",
+      "reading": "zhǐ bì"
+    },
+    "ja": {
+      "text": "紙幣",
+      "reading": "shihei"
+    },
+    "ko": {
+      "text": "지폐",
+      "reading": "jipye"
+    },
+    "es": {
+      "text": "el billete de banco"
+    },
+    "fr": {
+      "text": "le billet de banque"
+    },
+    "de": {
+      "text": "der Geldschein"
+    },
+    "id": {
+      "text": "uang kertas"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

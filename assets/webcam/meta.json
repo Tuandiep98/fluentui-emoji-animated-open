@@ -1,0 +1,46 @@
+{
+  "id": "webcam",
+  "name": "webcam",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "webcam"
+    },
+    "vi": {
+      "text": "camera máy tính"
+    },
+    "zh-Hans": {
+      "text": "网络摄像头",
+      "reading": "wǎng luò shè xiàng tóu"
+    },
+    "ja": {
+      "text": "ウェブカメラ",
+      "reading": "webu kamera"
+    },
+    "ko": {
+      "text": "웹캠",
+      "reading": "wepkaem"
+    },
+    "es": {
+      "text": "la cámara web"
+    },
+    "fr": {
+      "text": "la webcam"
+    },
+    "de": {
+      "text": "die Webcam"
+    },
+    "id": {
+      "text": "kamera web"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

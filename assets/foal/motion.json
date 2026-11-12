@@ -1,0 +1,83 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "29293df15f97d3c6bebe096d4aba26ede8dcf8a0f5d51bb45e1a5c58539dcfbd",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          100,
+          256,
+          156
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          0,
+          71,
+          256
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-soft-detail",
+      "kind": "wave",
+      "center": [
+        108,
+        41
+      ],
+      "radius": [
+        34,
+        30
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        105,
+        76
+      ]
+    }
+  ],
+  "note": "Only the original short mane tips sway; face, complete body, four leg connections and hooves stay fixed."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "chicken-wing",
+  "name": "chicken wing",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "chicken wing"
+    },
+    "vi": {
+      "text": "cánh gà"
+    },
+    "zh-Hans": {
+      "text": "鸡翅",
+      "reading": "jī chì"
+    },
+    "ja": {
+      "text": "手羽先",
+      "reading": "tebasaki"
+    },
+    "ko": {
+      "text": "닭 날개",
+      "reading": "dak nalgae"
+    },
+    "es": {
+      "text": "el ala de pollo"
+    },
+    "fr": {
+      "text": "l'aile de poulet"
+    },
+    "de": {
+      "text": "der Hähnchenflügel"
+    },
+    "id": {
+      "text": "sayap ayam"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

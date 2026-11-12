@@ -1,0 +1,45 @@
+{
+  "id": "windshield",
+  "name": "windshield",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "windshield"
+    },
+    "vi": {
+      "text": "kính chắn gió"
+    },
+    "zh-Hans": {
+      "text": "挡风玻璃",
+      "reading": "dǎng fēng bō li"
+    },
+    "ja": {
+      "text": "フロントガラス",
+      "reading": "furonto garasu"
+    },
+    "ko": {
+      "text": "앞유리",
+      "reading": "ap-yuri"
+    },
+    "es": {
+      "text": "el parabrisas"
+    },
+    "fr": {
+      "text": "le pare-brise"
+    },
+    "de": {
+      "text": "die Windschutzscheibe"
+    },
+    "id": {
+      "text": "kaca depan"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "milk-tea",
+  "name": "milk tea",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "milk tea"
+    },
+    "vi": {
+      "text": "trà sữa"
+    },
+    "zh-Hans": {
+      "text": "奶茶",
+      "reading": "nǎi chá"
+    },
+    "ja": {
+      "text": "ミルクティー",
+      "reading": "miruku tī"
+    },
+    "ko": {
+      "text": "밀크티",
+      "reading": "milkeuti"
+    },
+    "es": {
+      "text": "el té con leche"
+    },
+    "fr": {
+      "text": "le thé au lait"
+    },
+    "de": {
+      "text": "der Milchtee"
+    },
+    "id": {
+      "text": "teh susu"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

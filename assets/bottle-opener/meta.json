@@ -1,0 +1,46 @@
+{
+  "id": "bottle-opener",
+  "name": "bottle opener",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "bottle opener"
+    },
+    "vi": {
+      "text": "đồ mở nắp chai"
+    },
+    "zh-Hans": {
+      "text": "开瓶器",
+      "reading": "kāi píng qì"
+    },
+    "ja": {
+      "text": "栓抜き",
+      "reading": "sennuki"
+    },
+    "ko": {
+      "text": "병따개",
+      "reading": "byeongttagae"
+    },
+    "es": {
+      "text": "el abrebotellas"
+    },
+    "fr": {
+      "text": "le décapsuleur"
+    },
+    "de": {
+      "text": "der Flaschenöffner"
+    },
+    "id": {
+      "text": "pembuka botol"
+    }
+  },
+  "tags": [
+    "things",
+    "kitchen"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "55f400c2734763bd0780dd2c4af112801d33e75daa3b565ae75d705d8f077fb4",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          90,
+          256,
+          166
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-soft-detail",
+      "kind": "wave",
+      "center": [
+        165,
+        49
+      ],
+      "radius": [
+        70,
+        33
+      ],
+      "amp": 5.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.5
+        ],
+        [
+          1.4,
+          -1.925
+        ],
+        [
+          2.05,
+          3.575
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        158,
+        83
+      ]
+    }
+  ],
+  "note": "Only exposed upper straw tips softly sway. Both ropes and the bale body remain exactly assembled."
+}

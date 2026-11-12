@@ -1,0 +1,46 @@
+{
+  "id": "milkshake",
+  "name": "milkshake",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "milkshake"
+    },
+    "vi": {
+      "text": "sữa lắc"
+    },
+    "zh-Hans": {
+      "text": "奶昔",
+      "reading": "nǎi xī"
+    },
+    "ja": {
+      "text": "ミルクシェイク",
+      "reading": "miruku sheiku"
+    },
+    "ko": {
+      "text": "밀크셰이크",
+      "reading": "milkeusyeikeu"
+    },
+    "es": {
+      "text": "el batido de leche"
+    },
+    "fr": {
+      "text": "le milk-shake"
+    },
+    "de": {
+      "text": "der Milchshake"
+    },
+    "id": {
+      "text": "susu kocok"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

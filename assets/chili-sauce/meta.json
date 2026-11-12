@@ -1,0 +1,46 @@
+{
+  "id": "chili-sauce",
+  "name": "chili sauce",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "chili sauce"
+    },
+    "vi": {
+      "text": "tương ớt"
+    },
+    "zh-Hans": {
+      "text": "辣椒酱",
+      "reading": "là jiāo jiàng"
+    },
+    "ja": {
+      "text": "チリソース",
+      "reading": "chiri sōsu"
+    },
+    "ko": {
+      "text": "칠리소스",
+      "reading": "chilli soseu"
+    },
+    "es": {
+      "text": "la salsa de chile"
+    },
+    "fr": {
+      "text": "la sauce pimentée"
+    },
+    "de": {
+      "text": "die Chilisoße"
+    },
+    "id": {
+      "text": "saus cabai"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

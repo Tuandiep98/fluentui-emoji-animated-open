@@ -1,0 +1,46 @@
+{
+  "id": "treehouse",
+  "name": "treehouse",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "treehouse"
+    },
+    "vi": {
+      "text": "nhà trên cây"
+    },
+    "zh-Hans": {
+      "text": "树屋",
+      "reading": "shù wū"
+    },
+    "ja": {
+      "text": "ツリーハウス",
+      "reading": "tsurī hausu"
+    },
+    "ko": {
+      "text": "나무 위의 집",
+      "reading": "namu wiui jip"
+    },
+    "es": {
+      "text": "la casa del árbol"
+    },
+    "fr": {
+      "text": "la cabane dans l'arbre"
+    },
+    "de": {
+      "text": "das Baumhaus"
+    },
+    "id": {
+      "text": "rumah pohon"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

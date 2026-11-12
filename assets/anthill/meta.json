@@ -1,0 +1,46 @@
+{
+  "id": "anthill",
+  "name": "anthill",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "anthill"
+    },
+    "vi": {
+      "text": "tổ kiến"
+    },
+    "zh-Hans": {
+      "text": "蚁丘",
+      "reading": "yǐ qiū"
+    },
+    "ja": {
+      "text": "アリ塚",
+      "reading": "arizuka"
+    },
+    "ko": {
+      "text": "개미집",
+      "reading": "gaemijip"
+    },
+    "es": {
+      "text": "el hormiguero"
+    },
+    "fr": {
+      "text": "la fourmilière"
+    },
+    "de": {
+      "text": "der Ameisenhaufen"
+    },
+    "id": {
+      "text": "sarang semut"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

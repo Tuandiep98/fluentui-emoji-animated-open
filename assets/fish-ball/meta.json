@@ -1,0 +1,46 @@
+{
+  "id": "fish-ball",
+  "name": "fish ball",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "fish ball"
+    },
+    "vi": {
+      "text": "cá viên"
+    },
+    "zh-Hans": {
+      "text": "鱼丸",
+      "reading": "yú wán"
+    },
+    "ja": {
+      "text": "魚のつみれ",
+      "reading": "sakana no tsumire"
+    },
+    "ko": {
+      "text": "어묵 완자",
+      "reading": "eomuk wanja"
+    },
+    "es": {
+      "text": "la albóndiga de pescado"
+    },
+    "fr": {
+      "text": "la boulette de poisson"
+    },
+    "de": {
+      "text": "das Fischbällchen"
+    },
+    "id": {
+      "text": "bakso ikan"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

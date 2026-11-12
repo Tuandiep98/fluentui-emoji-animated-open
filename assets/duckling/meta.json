@@ -1,0 +1,46 @@
+{
+  "id": "duckling",
+  "name": "duckling",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "duckling"
+    },
+    "vi": {
+      "text": "vịt con"
+    },
+    "zh-Hans": {
+      "text": "小鸭",
+      "reading": "xiǎo yā"
+    },
+    "ja": {
+      "text": "アヒルのひな",
+      "reading": "ahiru no hina"
+    },
+    "ko": {
+      "text": "새끼 오리",
+      "reading": "saekki ori"
+    },
+    "es": {
+      "text": "el patito"
+    },
+    "fr": {
+      "text": "le caneton"
+    },
+    "de": {
+      "text": "das Entenküken"
+    },
+    "id": {
+      "text": "anak bebek"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

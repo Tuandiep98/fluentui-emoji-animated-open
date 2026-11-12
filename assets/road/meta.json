@@ -1,0 +1,46 @@
+{
+  "id": "road",
+  "name": "road",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "road"
+    },
+    "vi": {
+      "text": "đường bộ"
+    },
+    "zh-Hans": {
+      "text": "公路",
+      "reading": "gōng lù"
+    },
+    "ja": {
+      "text": "道路",
+      "reading": "dōro"
+    },
+    "ko": {
+      "text": "도로",
+      "reading": "doro"
+    },
+    "es": {
+      "text": "la carretera"
+    },
+    "fr": {
+      "text": "la route"
+    },
+    "de": {
+      "text": "die Straße"
+    },
+    "id": {
+      "text": "jalan raya"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

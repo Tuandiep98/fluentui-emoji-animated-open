@@ -1,0 +1,46 @@
+{
+  "id": "beehive",
+  "name": "beehive",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "beehive"
+    },
+    "vi": {
+      "text": "tổ ong"
+    },
+    "zh-Hans": {
+      "text": "蜂巢",
+      "reading": "fēng cháo"
+    },
+    "ja": {
+      "text": "蜂の巣",
+      "reading": "hachi no su"
+    },
+    "ko": {
+      "text": "벌집",
+      "reading": "beoljip"
+    },
+    "es": {
+      "text": "la colmena"
+    },
+    "fr": {
+      "text": "la ruche"
+    },
+    "de": {
+      "text": "der Bienenstock"
+    },
+    "id": {
+      "text": "sarang lebah"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

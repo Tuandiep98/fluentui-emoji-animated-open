@@ -1,0 +1,45 @@
+{
+  "id": "wiper",
+  "name": "wiper",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "wiper"
+    },
+    "vi": {
+      "text": "cần gạt nước"
+    },
+    "zh-Hans": {
+      "text": "雨刷",
+      "reading": "yǔ shuā"
+    },
+    "ja": {
+      "text": "ワイパー",
+      "reading": "waipā"
+    },
+    "ko": {
+      "text": "와이퍼",
+      "reading": "waipeo"
+    },
+    "es": {
+      "text": "el limpiaparabrisas"
+    },
+    "fr": {
+      "text": "l'essuie-glace"
+    },
+    "de": {
+      "text": "der Scheibenwischer"
+    },
+    "id": {
+      "text": "wiper mobil"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

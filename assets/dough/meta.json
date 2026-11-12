@@ -1,0 +1,46 @@
+{
+  "id": "dough",
+  "name": "dough",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "dough"
+    },
+    "vi": {
+      "text": "bột nhào"
+    },
+    "zh-Hans": {
+      "text": "面团",
+      "reading": "miàn tuán"
+    },
+    "ja": {
+      "text": "パン生地",
+      "reading": "pan kiji"
+    },
+    "ko": {
+      "text": "반죽",
+      "reading": "banjuk"
+    },
+    "es": {
+      "text": "la masa de pan"
+    },
+    "fr": {
+      "text": "la pâte à pain"
+    },
+    "de": {
+      "text": "der Brotteig"
+    },
+    "id": {
+      "text": "adonan roti"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

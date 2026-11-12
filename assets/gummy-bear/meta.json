@@ -1,0 +1,46 @@
+{
+  "id": "gummy-bear",
+  "name": "gummy bear",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "gummy bear"
+    },
+    "vi": {
+      "text": "kẹo dẻo hình gấu"
+    },
+    "zh-Hans": {
+      "text": "小熊软糖",
+      "reading": "xiǎo xióng ruǎn táng"
+    },
+    "ja": {
+      "text": "クマのグミ",
+      "reading": "kuma no gumi"
+    },
+    "ko": {
+      "text": "곰 모양 젤리",
+      "reading": "gom moyang jelli"
+    },
+    "es": {
+      "text": "la gominola de osito"
+    },
+    "fr": {
+      "text": "l'ourson gélifié"
+    },
+    "de": {
+      "text": "das Gummibärchen"
+    },
+    "id": {
+      "text": "permen jeli beruang"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

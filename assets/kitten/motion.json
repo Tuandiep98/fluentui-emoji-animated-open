@@ -1,0 +1,83 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "044a944744347f794e2aa885e4588088a9201ef4731fc5d89ebe14678cd21c5a",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          174,
+          256
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          220,
+          256,
+          36
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-tail-tip",
+      "kind": "wave",
+      "center": [
+        209,
+        155
+      ],
+      "radius": [
+        31,
+        46
+      ],
+      "amp": 5.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          5.5
+        ],
+        [
+          1.4,
+          -1.9249999999999998
+        ],
+        [
+          2.05,
+          3.575
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        174,
+        201
+      ]
+    }
+  ],
+  "note": "Original outer tail gently sways; face, torso and all grounded paws stay fixed. No cutout assembly or mirrored limbs."
+}

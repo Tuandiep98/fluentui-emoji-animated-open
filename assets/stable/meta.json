@@ -1,0 +1,46 @@
+{
+  "id": "stable",
+  "name": "stable",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "stable"
+    },
+    "vi": {
+      "text": "chuồng ngựa"
+    },
+    "zh-Hans": {
+      "text": "马厩",
+      "reading": "mǎ jiù"
+    },
+    "ja": {
+      "text": "馬小屋",
+      "reading": "umagoya"
+    },
+    "ko": {
+      "text": "마구간",
+      "reading": "magugan"
+    },
+    "es": {
+      "text": "el establo"
+    },
+    "fr": {
+      "text": "l'écurie"
+    },
+    "de": {
+      "text": "der Pferdestall"
+    },
+    "id": {
+      "text": "kandang kuda"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

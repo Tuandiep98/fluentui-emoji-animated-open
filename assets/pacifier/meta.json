@@ -1,0 +1,46 @@
+{
+  "id": "pacifier",
+  "name": "pacifier",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "pacifier"
+    },
+    "vi": {
+      "text": "núm vú giả"
+    },
+    "zh-Hans": {
+      "text": "安抚奶嘴",
+      "reading": "ān fǔ nǎi zuǐ"
+    },
+    "ja": {
+      "text": "おしゃぶり",
+      "reading": "oshaburi"
+    },
+    "ko": {
+      "text": "공갈젖꼭지",
+      "reading": "gonggaljeotkkokji"
+    },
+    "es": {
+      "text": "el chupete"
+    },
+    "fr": {
+      "text": "la tétine"
+    },
+    "de": {
+      "text": "der Schnuller"
+    },
+    "id": {
+      "text": "dot bayi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

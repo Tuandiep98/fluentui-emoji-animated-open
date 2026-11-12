@@ -1,0 +1,83 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "c5348f962e8d4b61f04f4a165d85c9aa83106c1c74f5de9ba3b51bcb8fd044b5",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          172,
+          256
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          220,
+          256,
+          36
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-tail-tip",
+      "kind": "wave",
+      "center": [
+        205,
+        165
+      ],
+      "radius": [
+        28,
+        40
+      ],
+      "amp": 4.95,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.95
+        ],
+        [
+          1.4,
+          -1.7325
+        ],
+        [
+          2.05,
+          3.2175000000000002
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        177,
+        202
+      ]
+    }
+  ],
+  "note": "Original outer puppy tail gently sways with its base still attached. Face, body and grounded paws stay fixed."
+}

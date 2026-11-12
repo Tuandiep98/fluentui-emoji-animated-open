@@ -1,0 +1,46 @@
+{
+  "id": "syrup",
+  "name": "syrup",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "syrup"
+    },
+    "vi": {
+      "text": "xi rô"
+    },
+    "zh-Hans": {
+      "text": "糖浆",
+      "reading": "táng jiāng"
+    },
+    "ja": {
+      "text": "シロップ",
+      "reading": "shiroppu"
+    },
+    "ko": {
+      "text": "시럽",
+      "reading": "sireop"
+    },
+    "es": {
+      "text": "el sirope"
+    },
+    "fr": {
+      "text": "le sirop"
+    },
+    "de": {
+      "text": "der Sirup"
+    },
+    "id": {
+      "text": "sirop"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

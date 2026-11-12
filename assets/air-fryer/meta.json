@@ -1,0 +1,46 @@
+{
+  "id": "air-fryer",
+  "name": "air fryer",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "air fryer"
+    },
+    "vi": {
+      "text": "nồi chiên không dầu"
+    },
+    "zh-Hans": {
+      "text": "空气炸锅",
+      "reading": "kōng qì zhá guō"
+    },
+    "ja": {
+      "text": "ノンフライヤー",
+      "reading": "non furaiyā"
+    },
+    "ko": {
+      "text": "에어프라이어",
+      "reading": "eeopeuraieo"
+    },
+    "es": {
+      "text": "la freidora de aire"
+    },
+    "fr": {
+      "text": "la friteuse à air"
+    },
+    "de": {
+      "text": "die Heißluftfritteuse"
+    },
+    "id": {
+      "text": "penggoreng udara"
+    }
+  },
+  "tags": [
+    "things",
+    "kitchen"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

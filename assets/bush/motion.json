@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "273bc34760c64868beb7272772ae07c70670ba1cf84e708e55ca1fc8f2b048f3",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          94,
+          256,
+          162
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-leaf-tips",
+      "kind": "wave",
+      "center": [
+        128,
+        49
+      ],
+      "radius": [
+        77,
+        29
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        87
+      ]
+    }
+  ],
+  "note": "Only upper original leaves gently sway; branch structure, flowers and trunk stay attached and lower pixels stay fixed."
+}

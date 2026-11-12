@@ -1,0 +1,46 @@
+{
+  "id": "sausage-roll",
+  "name": "sausage roll",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "sausage roll"
+    },
+    "vi": {
+      "text": "bánh cuộn xúc xích"
+    },
+    "zh-Hans": {
+      "text": "香肠酥卷",
+      "reading": "xiāng cháng sū juǎn"
+    },
+    "ja": {
+      "text": "ソーセージパイ",
+      "reading": "sōsēji pai"
+    },
+    "ko": {
+      "text": "소시지 파이",
+      "reading": "sosiji pai"
+    },
+    "es": {
+      "text": "el hojaldre de salchicha"
+    },
+    "fr": {
+      "text": "le feuilleté à la saucisse"
+    },
+    "de": {
+      "text": "die Blätterteig-Wurstrolle"
+    },
+    "id": {
+      "text": "pastri sosis"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

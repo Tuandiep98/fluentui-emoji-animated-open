@@ -1,0 +1,46 @@
+{
+  "id": "kitten",
+  "name": "kitten",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "kitten"
+    },
+    "vi": {
+      "text": "mèo con"
+    },
+    "zh-Hans": {
+      "text": "小猫",
+      "reading": "xiǎo māo"
+    },
+    "ja": {
+      "text": "子猫",
+      "reading": "koneko"
+    },
+    "ko": {
+      "text": "새끼 고양이",
+      "reading": "saekki goyangi"
+    },
+    "es": {
+      "text": "el gatito"
+    },
+    "fr": {
+      "text": "le chaton"
+    },
+    "de": {
+      "text": "das Kätzchen"
+    },
+    "id": {
+      "text": "anak kucing"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

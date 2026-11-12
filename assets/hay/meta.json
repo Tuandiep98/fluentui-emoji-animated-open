@@ -1,0 +1,46 @@
+{
+  "id": "hay",
+  "name": "hay",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "hay"
+    },
+    "vi": {
+      "text": "cỏ khô"
+    },
+    "zh-Hans": {
+      "text": "干草",
+      "reading": "gān cǎo"
+    },
+    "ja": {
+      "text": "干し草",
+      "reading": "hoshikusa"
+    },
+    "ko": {
+      "text": "건초",
+      "reading": "geoncho"
+    },
+    "es": {
+      "text": "el heno"
+    },
+    "fr": {
+      "text": "le foin"
+    },
+    "de": {
+      "text": "das Heu"
+    },
+    "id": {
+      "text": "rumput kering"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

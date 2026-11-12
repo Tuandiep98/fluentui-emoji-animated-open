@@ -1,0 +1,46 @@
+{
+  "id": "cornstarch",
+  "name": "cornstarch",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "cornstarch"
+    },
+    "vi": {
+      "text": "bột bắp"
+    },
+    "zh-Hans": {
+      "text": "玉米淀粉",
+      "reading": "yù mǐ diàn fěn"
+    },
+    "ja": {
+      "text": "コーンスターチ",
+      "reading": "kōn sutāchi"
+    },
+    "ko": {
+      "text": "옥수수 전분",
+      "reading": "oksusu jeonbun"
+    },
+    "es": {
+      "text": "la maicena"
+    },
+    "fr": {
+      "text": "la fécule de maïs"
+    },
+    "de": {
+      "text": "die Maisstärke"
+    },
+    "id": {
+      "text": "tepung maizena"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

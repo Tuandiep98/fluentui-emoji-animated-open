@@ -1,0 +1,46 @@
+{
+  "id": "popsicle",
+  "name": "popsicle",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "popsicle"
+    },
+    "vi": {
+      "text": "kem que"
+    },
+    "zh-Hans": {
+      "text": "冰棒",
+      "reading": "bīng bàng"
+    },
+    "ja": {
+      "text": "アイスキャンディー",
+      "reading": "aisu kyandī"
+    },
+    "ko": {
+      "text": "아이스바",
+      "reading": "aiseuba"
+    },
+    "es": {
+      "text": "el polo de hielo"
+    },
+    "fr": {
+      "text": "la glace à l'eau"
+    },
+    "de": {
+      "text": "das Eis am Stiel"
+    },
+    "id": {
+      "text": "es loli"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

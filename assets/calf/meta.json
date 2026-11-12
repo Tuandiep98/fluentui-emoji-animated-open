@@ -1,0 +1,46 @@
+{
+  "id": "calf",
+  "name": "calf",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "calf"
+    },
+    "vi": {
+      "text": "bê con"
+    },
+    "zh-Hans": {
+      "text": "小牛",
+      "reading": "xiǎo niú"
+    },
+    "ja": {
+      "text": "子牛",
+      "reading": "koushi"
+    },
+    "ko": {
+      "text": "송아지",
+      "reading": "songaji"
+    },
+    "es": {
+      "text": "el ternero"
+    },
+    "fr": {
+      "text": "le veau"
+    },
+    "de": {
+      "text": "das Kalb"
+    },
+    "id": {
+      "text": "anak sapi"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

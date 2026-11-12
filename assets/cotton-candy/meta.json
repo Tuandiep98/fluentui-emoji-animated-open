@@ -1,0 +1,46 @@
+{
+  "id": "cotton-candy",
+  "name": "cotton candy",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "cotton candy"
+    },
+    "vi": {
+      "text": "kẹo bông"
+    },
+    "zh-Hans": {
+      "text": "棉花糖",
+      "reading": "mián hua táng"
+    },
+    "ja": {
+      "text": "わたあめ",
+      "reading": "wataame"
+    },
+    "ko": {
+      "text": "솜사탕",
+      "reading": "somsatang"
+    },
+    "es": {
+      "text": "el algodón de azúcar"
+    },
+    "fr": {
+      "text": "la barbe à papa"
+    },
+    "de": {
+      "text": "die Zuckerwatte"
+    },
+    "id": {
+      "text": "permen kapas"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

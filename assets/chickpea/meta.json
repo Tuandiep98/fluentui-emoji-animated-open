@@ -1,0 +1,46 @@
+{
+  "id": "chickpea",
+  "name": "chickpea",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "chickpea"
+    },
+    "vi": {
+      "text": "đậu gà"
+    },
+    "zh-Hans": {
+      "text": "鹰嘴豆",
+      "reading": "yīng zuǐ dòu"
+    },
+    "ja": {
+      "text": "ひよこ豆",
+      "reading": "hiyokomame"
+    },
+    "ko": {
+      "text": "병아리콩",
+      "reading": "byeongarikong"
+    },
+    "es": {
+      "text": "el garbanzo"
+    },
+    "fr": {
+      "text": "le pois chiche"
+    },
+    "de": {
+      "text": "die Kichererbse"
+    },
+    "id": {
+      "text": "kacang arab"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

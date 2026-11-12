@@ -1,0 +1,46 @@
+{
+  "id": "chewing-gum",
+  "name": "chewing gum",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "chewing gum"
+    },
+    "vi": {
+      "text": "kẹo cao su"
+    },
+    "zh-Hans": {
+      "text": "口香糖",
+      "reading": "kǒu xiāng táng"
+    },
+    "ja": {
+      "text": "ガム",
+      "reading": "gamu"
+    },
+    "ko": {
+      "text": "껌",
+      "reading": "kkeom"
+    },
+    "es": {
+      "text": "el chicle"
+    },
+    "fr": {
+      "text": "le chewing-gum"
+    },
+    "de": {
+      "text": "der Kaugummi"
+    },
+    "id": {
+      "text": "permen karet"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

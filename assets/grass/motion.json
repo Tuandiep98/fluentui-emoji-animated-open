@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "0f248bd488969033b69c2d78152f63a333220fd2df1c045d17ed2711ae25abf0",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          135,
+          256,
+          121
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-grass-tips",
+      "kind": "wave",
+      "center": [
+        129,
+        65
+      ],
+      "radius": [
+        76,
+        45
+      ],
+      "amp": 3.8,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.8
+        ],
+        [
+          1.4,
+          -1.3299999999999998
+        ],
+        [
+          2.05,
+          2.4699999999999998
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        128,
+        119
+      ]
+    }
+  ],
+  "note": "The original upper grass blades sway gently while the blade bases and soil remain fixed, without cutout seams."
+}

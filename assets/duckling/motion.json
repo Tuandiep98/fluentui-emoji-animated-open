@@ -1,0 +1,92 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "a2d44e43e78bada6df41dc254280fde4e140cfcc24215e9987167b8d8b75887e",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          0,
+          145,
+          256
+        ]
+      },
+      {
+        "name": "fixed-anchor-2",
+        "rect": [
+          0,
+          0,
+          256,
+          117
+        ]
+      },
+      {
+        "name": "fixed-anchor-3",
+        "rect": [
+          0,
+          205,
+          256,
+          51
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-folded-wing-tip",
+      "kind": "press",
+      "center": [
+        191,
+        161
+      ],
+      "radius": [
+        39,
+        40
+      ],
+      "amp": 4.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.5
+        ],
+        [
+          1.4,
+          -1.575
+        ],
+        [
+          2.05,
+          2.9250000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        148,
+        162
+      ]
+    }
+  ],
+  "note": "Only the original folded wing/outer feather tips gently flutter; face, wing root and two webbed feet remain fixed. No full wing-opening cycle."
+}

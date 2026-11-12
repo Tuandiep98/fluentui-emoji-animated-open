@@ -1,0 +1,46 @@
+{
+  "id": "chicken-nugget",
+  "name": "chicken nugget",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "chicken nugget"
+    },
+    "vi": {
+      "text": "gà viên chiên"
+    },
+    "zh-Hans": {
+      "text": "鸡块",
+      "reading": "jī kuài"
+    },
+    "ja": {
+      "text": "チキンナゲット",
+      "reading": "chikin nagetto"
+    },
+    "ko": {
+      "text": "치킨 너겟",
+      "reading": "chikin neoget"
+    },
+    "es": {
+      "text": "el nugget de pollo"
+    },
+    "fr": {
+      "text": "la pépite de poulet"
+    },
+    "de": {
+      "text": "das Chicken-Nugget"
+    },
+    "id": {
+      "text": "nugget ayam"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

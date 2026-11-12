@@ -1,0 +1,45 @@
+{
+  "id": "seat-belt",
+  "name": "seat belt",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "seat belt"
+    },
+    "vi": {
+      "text": "dây an toàn"
+    },
+    "zh-Hans": {
+      "text": "安全带",
+      "reading": "ān quán dài"
+    },
+    "ja": {
+      "text": "シートベルト",
+      "reading": "shīto beruto"
+    },
+    "ko": {
+      "text": "안전벨트",
+      "reading": "anjeonbelteu"
+    },
+    "es": {
+      "text": "el cinturón de seguridad"
+    },
+    "fr": {
+      "text": "la ceinture de sécurité"
+    },
+    "de": {
+      "text": "der Sicherheitsgurt"
+    },
+    "id": {
+      "text": "sabuk pengaman"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

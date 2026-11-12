@@ -1,0 +1,46 @@
+{
+  "id": "twig",
+  "name": "twig",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "twig"
+    },
+    "vi": {
+      "text": "cành cây nhỏ"
+    },
+    "zh-Hans": {
+      "text": "细树枝",
+      "reading": "xì shù zhī"
+    },
+    "ja": {
+      "text": "小枝",
+      "reading": "koeda"
+    },
+    "ko": {
+      "text": "잔가지",
+      "reading": "jangaji"
+    },
+    "es": {
+      "text": "la ramita"
+    },
+    "fr": {
+      "text": "la brindille"
+    },
+    "de": {
+      "text": "der Zweig"
+    },
+    "id": {
+      "text": "ranting"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

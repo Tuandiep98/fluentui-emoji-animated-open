@@ -1,0 +1,46 @@
+{
+  "id": "baking-powder",
+  "name": "baking powder",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "baking powder"
+    },
+    "vi": {
+      "text": "bột nở"
+    },
+    "zh-Hans": {
+      "text": "泡打粉",
+      "reading": "pào dǎ fěn"
+    },
+    "ja": {
+      "text": "ベーキングパウダー",
+      "reading": "bēkingu paudā"
+    },
+    "ko": {
+      "text": "베이킹파우더",
+      "reading": "beiking paudeo"
+    },
+    "es": {
+      "text": "la levadura química"
+    },
+    "fr": {
+      "text": "la levure chimique"
+    },
+    "de": {
+      "text": "das Backpulver"
+    },
+    "id": {
+      "text": "bubuk pengembang"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

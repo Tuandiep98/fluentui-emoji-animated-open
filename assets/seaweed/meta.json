@@ -1,0 +1,46 @@
+{
+  "id": "seaweed",
+  "name": "seaweed",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "seaweed"
+    },
+    "vi": {
+      "text": "rong biển"
+    },
+    "zh-Hans": {
+      "text": "海苔",
+      "reading": "hǎi tái"
+    },
+    "ja": {
+      "text": "海苔",
+      "reading": "nori"
+    },
+    "ko": {
+      "text": "김",
+      "reading": "gim"
+    },
+    "es": {
+      "text": "el alga comestible"
+    },
+    "fr": {
+      "text": "l'algue comestible"
+    },
+    "de": {
+      "text": "die essbare Meeresalge"
+    },
+    "id": {
+      "text": "rumput laut"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

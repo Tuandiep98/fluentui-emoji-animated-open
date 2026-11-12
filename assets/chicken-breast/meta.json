@@ -1,0 +1,46 @@
+{
+  "id": "chicken-breast",
+  "name": "chicken breast",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "chicken breast"
+    },
+    "vi": {
+      "text": "ức gà"
+    },
+    "zh-Hans": {
+      "text": "鸡胸肉",
+      "reading": "jī xiōng ròu"
+    },
+    "ja": {
+      "text": "鶏むね肉",
+      "reading": "tori muneniku"
+    },
+    "ko": {
+      "text": "닭 가슴살",
+      "reading": "dak gaseumsal"
+    },
+    "es": {
+      "text": "la pechuga de pollo"
+    },
+    "fr": {
+      "text": "le blanc de poulet"
+    },
+    "de": {
+      "text": "die Hähnchenbrust"
+    },
+    "id": {
+      "text": "dada ayam"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

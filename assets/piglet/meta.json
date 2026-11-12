@@ -1,0 +1,46 @@
+{
+  "id": "piglet",
+  "name": "piglet",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "piglet"
+    },
+    "vi": {
+      "text": "heo con"
+    },
+    "zh-Hans": {
+      "text": "小猪",
+      "reading": "xiǎo zhū"
+    },
+    "ja": {
+      "text": "子豚",
+      "reading": "kobuta"
+    },
+    "ko": {
+      "text": "새끼 돼지",
+      "reading": "saekki dwaeji"
+    },
+    "es": {
+      "text": "el lechón"
+    },
+    "fr": {
+      "text": "le porcelet"
+    },
+    "de": {
+      "text": "das Ferkel"
+    },
+    "id": {
+      "text": "anak babi"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "wheat",
+  "name": "wheat",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "wheat"
+    },
+    "vi": {
+      "text": "lúa mì"
+    },
+    "zh-Hans": {
+      "text": "小麦",
+      "reading": "xiǎo mài"
+    },
+    "ja": {
+      "text": "小麦",
+      "reading": "komugi"
+    },
+    "ko": {
+      "text": "밀",
+      "reading": "mil"
+    },
+    "es": {
+      "text": "el trigo"
+    },
+    "fr": {
+      "text": "le blé"
+    },
+    "de": {
+      "text": "der Weizen"
+    },
+    "id": {
+      "text": "gandum"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

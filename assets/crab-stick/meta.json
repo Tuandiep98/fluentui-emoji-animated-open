@@ -1,0 +1,46 @@
+{
+  "id": "crab-stick",
+  "name": "crab stick",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "crab stick"
+    },
+    "vi": {
+      "text": "thanh cua"
+    },
+    "zh-Hans": {
+      "text": "蟹棒",
+      "reading": "xiè bàng"
+    },
+    "ja": {
+      "text": "カニカマ",
+      "reading": "kanikama"
+    },
+    "ko": {
+      "text": "게맛살",
+      "reading": "gematsal"
+    },
+    "es": {
+      "text": "el palito de cangrejo"
+    },
+    "fr": {
+      "text": "le bâtonnet de surimi"
+    },
+    "de": {
+      "text": "das Surimi-Stäbchen"
+    },
+    "id": {
+      "text": "stik kepiting"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

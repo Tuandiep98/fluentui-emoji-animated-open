@@ -1,0 +1,46 @@
+{
+  "id": "baby-carrier",
+  "name": "baby carrier",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "baby carrier"
+    },
+    "vi": {
+      "text": "địu em bé"
+    },
+    "zh-Hans": {
+      "text": "婴儿背带",
+      "reading": "yīng ér bēi dài"
+    },
+    "ja": {
+      "text": "抱っこひも",
+      "reading": "dakkohimo"
+    },
+    "ko": {
+      "text": "아기띠",
+      "reading": "agitti"
+    },
+    "es": {
+      "text": "el portabebés"
+    },
+    "fr": {
+      "text": "le porte-bébé"
+    },
+    "de": {
+      "text": "die Babytrage"
+    },
+    "id": {
+      "text": "gendongan bayi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

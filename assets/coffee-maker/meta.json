@@ -1,0 +1,46 @@
+{
+  "id": "coffee-maker",
+  "name": "coffee maker",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "coffee maker"
+    },
+    "vi": {
+      "text": "máy pha cà phê"
+    },
+    "zh-Hans": {
+      "text": "咖啡机",
+      "reading": "kā fēi jī"
+    },
+    "ja": {
+      "text": "コーヒーメーカー",
+      "reading": "kōhī mēkā"
+    },
+    "ko": {
+      "text": "커피 메이커",
+      "reading": "keopi meikeo"
+    },
+    "es": {
+      "text": "la cafetera"
+    },
+    "fr": {
+      "text": "la cafetière"
+    },
+    "de": {
+      "text": "die Kaffeemaschine"
+    },
+    "id": {
+      "text": "mesin kopi"
+    }
+  },
+  "tags": [
+    "things",
+    "kitchen"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

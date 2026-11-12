@@ -1,0 +1,46 @@
+{
+  "id": "bottle-cap",
+  "name": "bottle cap",
+  "category": "kitchen",
+  "terms": {
+    "en": {
+      "text": "bottle cap"
+    },
+    "vi": {
+      "text": "nắp chai"
+    },
+    "zh-Hans": {
+      "text": "瓶盖",
+      "reading": "píng gài"
+    },
+    "ja": {
+      "text": "ボトルキャップ",
+      "reading": "botoru kyappu"
+    },
+    "ko": {
+      "text": "병뚜껑",
+      "reading": "byeongttukkeong"
+    },
+    "es": {
+      "text": "el tapón de botella"
+    },
+    "fr": {
+      "text": "le bouchon de bouteille"
+    },
+    "de": {
+      "text": "der Flaschenverschluss"
+    },
+    "id": {
+      "text": "tutup botol"
+    }
+  },
+  "tags": [
+    "things",
+    "kitchen"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

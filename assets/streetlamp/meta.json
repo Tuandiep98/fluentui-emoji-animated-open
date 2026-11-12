@@ -1,0 +1,46 @@
+{
+  "id": "streetlamp",
+  "name": "streetlamp",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "streetlamp"
+    },
+    "vi": {
+      "text": "đèn đường"
+    },
+    "zh-Hans": {
+      "text": "路灯",
+      "reading": "lù dēng"
+    },
+    "ja": {
+      "text": "街灯",
+      "reading": "gaitō"
+    },
+    "ko": {
+      "text": "가로등",
+      "reading": "garodeung"
+    },
+    "es": {
+      "text": "la farola"
+    },
+    "fr": {
+      "text": "le lampadaire de rue"
+    },
+    "de": {
+      "text": "die Straßenlaterne"
+    },
+    "id": {
+      "text": "lampu jalan"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

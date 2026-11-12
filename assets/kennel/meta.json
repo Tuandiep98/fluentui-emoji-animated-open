@@ -1,0 +1,46 @@
+{
+  "id": "kennel",
+  "name": "kennel",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "kennel"
+    },
+    "vi": {
+      "text": "chuồng chó"
+    },
+    "zh-Hans": {
+      "text": "狗窝",
+      "reading": "gǒu wō"
+    },
+    "ja": {
+      "text": "犬小屋",
+      "reading": "inugoya"
+    },
+    "ko": {
+      "text": "개집",
+      "reading": "gaejip"
+    },
+    "es": {
+      "text": "la caseta del perro"
+    },
+    "fr": {
+      "text": "la niche"
+    },
+    "de": {
+      "text": "die Hundehütte"
+    },
+    "id": {
+      "text": "kandang anjing"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

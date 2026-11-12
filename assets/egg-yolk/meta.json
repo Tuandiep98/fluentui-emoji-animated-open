@@ -1,0 +1,46 @@
+{
+  "id": "egg-yolk",
+  "name": "egg yolk",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "egg yolk"
+    },
+    "vi": {
+      "text": "lòng đỏ trứng"
+    },
+    "zh-Hans": {
+      "text": "蛋黄",
+      "reading": "dàn huáng"
+    },
+    "ja": {
+      "text": "卵黄",
+      "reading": "ran'ō"
+    },
+    "ko": {
+      "text": "노른자",
+      "reading": "noreunja"
+    },
+    "es": {
+      "text": "la yema de huevo"
+    },
+    "fr": {
+      "text": "le jaune d'œuf"
+    },
+    "de": {
+      "text": "das Eigelb"
+    },
+    "id": {
+      "text": "kuning telur"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "car-seat",
+  "name": "car seat",
+  "category": "vehicles",
+  "terms": {
+    "en": {
+      "text": "car seat"
+    },
+    "vi": {
+      "text": "ghế ngồi ô tô cho bé"
+    },
+    "zh-Hans": {
+      "text": "儿童安全座椅",
+      "reading": "ér tóng ān quán zuò yǐ"
+    },
+    "ja": {
+      "text": "チャイルドシート",
+      "reading": "chairudo shīto"
+    },
+    "ko": {
+      "text": "유아용 카시트",
+      "reading": "yuayong kasiteu"
+    },
+    "es": {
+      "text": "la silla infantil de coche"
+    },
+    "fr": {
+      "text": "le siège auto pour enfant"
+    },
+    "de": {
+      "text": "der Kindersitz"
+    },
+    "id": {
+      "text": "kursi mobil anak"
+    }
+  },
+  "tags": [
+    "vehicles"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "898110ba19f54841166cadb3137b52fa5f003a1a55be45bc648a5eb86f5f8876",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          82,
+          256,
+          174
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "soft-folded-ear-edge",
+      "kind": "press",
+      "center": [
+        143,
+        40
+      ],
+      "radius": [
+        38,
+        27
+      ],
+      "amp": 4.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          4.5
+        ],
+        [
+          1.4,
+          -1.575
+        ],
+        [
+          2.05,
+          2.9250000000000003
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        143,
+        77
+      ]
+    }
+  ],
+  "note": "Only the soft upper ear edge receives a gentle continuous accent; face, body, curly tail and all four legs stay fixed."
+}

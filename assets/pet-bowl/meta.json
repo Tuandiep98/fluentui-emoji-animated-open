@@ -1,0 +1,46 @@
+{
+  "id": "pet-bowl",
+  "name": "pet bowl",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "pet bowl"
+    },
+    "vi": {
+      "text": "bát ăn thú cưng"
+    },
+    "zh-Hans": {
+      "text": "宠物食盆",
+      "reading": "chǒng wù shí pén"
+    },
+    "ja": {
+      "text": "ペット用の食器",
+      "reading": "pettoyō no shokki"
+    },
+    "ko": {
+      "text": "반려동물 밥그릇",
+      "reading": "ballyeodongmul bapgeureut"
+    },
+    "es": {
+      "text": "el cuenco de mascota"
+    },
+    "fr": {
+      "text": "la gamelle"
+    },
+    "de": {
+      "text": "der Futternapf"
+    },
+    "id": {
+      "text": "mangkuk hewan peliharaan"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

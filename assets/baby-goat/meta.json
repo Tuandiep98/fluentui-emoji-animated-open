@@ -1,0 +1,46 @@
+{
+  "id": "baby-goat",
+  "name": "baby goat",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "baby goat"
+    },
+    "vi": {
+      "text": "dê con"
+    },
+    "zh-Hans": {
+      "text": "小山羊",
+      "reading": "xiǎo shān yáng"
+    },
+    "ja": {
+      "text": "子ヤギ",
+      "reading": "koyagi"
+    },
+    "ko": {
+      "text": "새끼 염소",
+      "reading": "saekki yeomso"
+    },
+    "es": {
+      "text": "el cabrito"
+    },
+    "fr": {
+      "text": "le chevreau"
+    },
+    "de": {
+      "text": "das Zicklein"
+    },
+    "id": {
+      "text": "anak kambing"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

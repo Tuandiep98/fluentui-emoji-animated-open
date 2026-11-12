@@ -1,0 +1,46 @@
+{
+  "id": "stroller",
+  "name": "stroller",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "stroller"
+    },
+    "vi": {
+      "text": "xe đẩy em bé"
+    },
+    "zh-Hans": {
+      "text": "婴儿推车",
+      "reading": "yīng ér tuī chē"
+    },
+    "ja": {
+      "text": "ベビーカー",
+      "reading": "bebīkā"
+    },
+    "ko": {
+      "text": "유모차",
+      "reading": "yumocha"
+    },
+    "es": {
+      "text": "el cochecito de bebé"
+    },
+    "fr": {
+      "text": "la poussette"
+    },
+    "de": {
+      "text": "der Kinderwagen"
+    },
+    "id": {
+      "text": "kereta bayi"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

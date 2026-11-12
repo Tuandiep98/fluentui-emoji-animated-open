@@ -1,0 +1,46 @@
+{
+  "id": "power-bank",
+  "name": "power bank",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "power bank"
+    },
+    "vi": {
+      "text": "pin sạc dự phòng"
+    },
+    "zh-Hans": {
+      "text": "充电宝",
+      "reading": "chōng diàn bǎo"
+    },
+    "ja": {
+      "text": "モバイルバッテリー",
+      "reading": "mobairu batterī"
+    },
+    "ko": {
+      "text": "보조 배터리",
+      "reading": "bojo baeteori"
+    },
+    "es": {
+      "text": "la batería externa"
+    },
+    "fr": {
+      "text": "la batterie externe"
+    },
+    "de": {
+      "text": "die Powerbank"
+    },
+    "id": {
+      "text": "power bank"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "foal",
+  "name": "foal",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "foal"
+    },
+    "vi": {
+      "text": "ngựa con"
+    },
+    "zh-Hans": {
+      "text": "小马驹",
+      "reading": "xiǎo mǎ jū"
+    },
+    "ja": {
+      "text": "子馬",
+      "reading": "kouma"
+    },
+    "ko": {
+      "text": "망아지",
+      "reading": "mangaji"
+    },
+    "es": {
+      "text": "el potro"
+    },
+    "fr": {
+      "text": "le poulain"
+    },
+    "de": {
+      "text": "das Fohlen"
+    },
+    "id": {
+      "text": "anak kuda"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "fried-egg",
+  "name": "fried egg",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "fried egg"
+    },
+    "vi": {
+      "text": "trứng ốp la"
+    },
+    "zh-Hans": {
+      "text": "煎蛋",
+      "reading": "jiān dàn"
+    },
+    "ja": {
+      "text": "目玉焼き",
+      "reading": "medamayaki"
+    },
+    "ko": {
+      "text": "달걀 프라이",
+      "reading": "dalgyal peurai"
+    },
+    "es": {
+      "text": "el huevo frito"
+    },
+    "fr": {
+      "text": "l'œuf au plat"
+    },
+    "de": {
+      "text": "das Spiegelei"
+    },
+    "id": {
+      "text": "telur ceplok"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

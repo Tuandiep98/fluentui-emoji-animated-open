@@ -1,0 +1,46 @@
+{
+  "id": "menu",
+  "name": "menu",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "menu"
+    },
+    "vi": {
+      "text": "thực đơn"
+    },
+    "zh-Hans": {
+      "text": "菜单",
+      "reading": "cài dān"
+    },
+    "ja": {
+      "text": "メニュー",
+      "reading": "menyū"
+    },
+    "ko": {
+      "text": "메뉴",
+      "reading": "menyu"
+    },
+    "es": {
+      "text": "el menú"
+    },
+    "fr": {
+      "text": "le menu"
+    },
+    "de": {
+      "text": "die Speisekarte"
+    },
+    "id": {
+      "text": "daftar menu"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

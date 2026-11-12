@@ -1,0 +1,46 @@
+{
+  "id": "dog-leash",
+  "name": "dog leash",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "dog leash"
+    },
+    "vi": {
+      "text": "dây dắt chó"
+    },
+    "zh-Hans": {
+      "text": "牵狗绳",
+      "reading": "qiān gǒu shéng"
+    },
+    "ja": {
+      "text": "犬のリード",
+      "reading": "inu no rīdo"
+    },
+    "ko": {
+      "text": "개 목줄",
+      "reading": "gae mokjul"
+    },
+    "es": {
+      "text": "la correa del perro"
+    },
+    "fr": {
+      "text": "la laisse"
+    },
+    "de": {
+      "text": "die Hundeleine"
+    },
+    "id": {
+      "text": "tali anjing"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

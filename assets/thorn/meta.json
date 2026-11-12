@@ -1,0 +1,46 @@
+{
+  "id": "thorn",
+  "name": "thorn",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "thorn"
+    },
+    "vi": {
+      "text": "gai cây"
+    },
+    "zh-Hans": {
+      "text": "刺",
+      "reading": "cì"
+    },
+    "ja": {
+      "text": "とげ",
+      "reading": "toge"
+    },
+    "ko": {
+      "text": "가시",
+      "reading": "gasi"
+    },
+    "es": {
+      "text": "la espina"
+    },
+    "fr": {
+      "text": "l'épine"
+    },
+    "de": {
+      "text": "der Dorn"
+    },
+    "id": {
+      "text": "duri"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -27,7 +27,7 @@ Search names and translations in nine languages, filter categories, preview moti
 ## What's included
 
 <!-- EMOJI-STATS:START -->
-**750 emoji · 16 categories**
+**840 emoji · 16 categories**
 
 | Category | Emoji |
 | --- | ---: |
@@ -35,19 +35,19 @@ Search names and translations in nine languages, filter categories, preview moti
 | Actions | 30 |
 | People & occupations | 10 |
 | Insects | 6 |
-| Home | 155 |
-| Kitchen | 50 |
-| Garden | 50 |
+| Home | 177 |
+| Kitchen | 55 |
+| Garden | 63 |
 | Fruit & vegetables | 50 |
-| Food & drink | 80 |
-| Wildlife | 94 |
+| Food & drink | 110 |
+| Wildlife | 102 |
 | Clothing | 46 |
 | School & art | 47 |
 | Tools & safety | 20 |
-| Vehicles | 25 |
-| Places & community | 43 |
+| Vehicles | 30 |
+| Places & community | 50 |
 | Nature | 30 |
-| **Total** | **750** |
+| **Total** | **840** |
 <!-- EMOJI-STATS:END -->
 
 The initial release combined 130 emoji and a further 100. A further 100 emoji add 20 meals, 30 wildlife, 30 clothing, and 20 school/art objects; their import record is in [`provenance/next-100-2026-11-09.json`](provenance/next-100-2026-11-09.json). The live totals above are generated from the current reviewed assets. Every asset includes:
@@ -420,6 +420,27 @@ playback of every icon. Neutral pixels, loop, bounds, anchors, deformation
 and at least 96% silhouette overlap pass the same gates.
 
 People and Insects join the automatic category counts. `npm run catalog`
+updates totals, categories, README and catalog when approved emoji are added.
+Anyone can ask AI to follow the documented structure and commands, then
+contribute reviewed MIT emoji to enrich this open source collection.
+
+## 90 more easy everyday words in three releases — 2026-11-12
+
+- [Release 1: 30 everyday foods and drinks](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/easy90b1/).
+- [Release 2: 30 words for young animals, pets and plants](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/easy90b2/).
+- [Release 3: 30 words for household items and getting around](https://tuandiep98.github.io/fluentui-emoji-animated-open/motion-lab/easy90b3/).
+
+Each release includes original transparent masters, PNG/WebP stills, 3-second
+24fps AVIFs of at most 60KiB, nine-language metadata, exact prompts, recipes
+and hash-bound reviews. Entire original artwork is frozen before motion;
+connected parts, facing, proportions and recognizable silhouettes remain intact.
+Soft details use continuous fields with fixed anchors; rigid assemblies receive
+small presentation accents rather than invented mechanisms. Seven decoded
+samples per icon are reviewed on light and dark backgrounds, not real-time
+playback of every icon. Neutral pixels, loop, bounds, anchors, deformation
+and at least 96% silhouette overlap pass the same gates.
+
+Counts and categories remain automatic. `npm run catalog`
 updates totals, categories, README and catalog when approved emoji are added.
 Anyone can ask AI to follow the documented structure and commands, then
 contribute reviewed MIT emoji to enrich this open source collection.

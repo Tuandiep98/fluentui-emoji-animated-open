@@ -1,0 +1,46 @@
+{
+  "id": "egg-white",
+  "name": "egg white",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "egg white"
+    },
+    "vi": {
+      "text": "lòng trắng trứng"
+    },
+    "zh-Hans": {
+      "text": "蛋清",
+      "reading": "dàn qīng"
+    },
+    "ja": {
+      "text": "卵白",
+      "reading": "ranpaku"
+    },
+    "ko": {
+      "text": "흰자",
+      "reading": "huinja"
+    },
+    "es": {
+      "text": "la clara de huevo"
+    },
+    "fr": {
+      "text": "le blanc d'œuf"
+    },
+    "de": {
+      "text": "das Eiweiß"
+    },
+    "id": {
+      "text": "putih telur"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "acorn",
+  "name": "acorn",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "acorn"
+    },
+    "vi": {
+      "text": "quả sồi"
+    },
+    "zh-Hans": {
+      "text": "橡子",
+      "reading": "xiàng zi"
+    },
+    "ja": {
+      "text": "どんぐり",
+      "reading": "donguri"
+    },
+    "ko": {
+      "text": "도토리",
+      "reading": "dotori"
+    },
+    "es": {
+      "text": "la bellota"
+    },
+    "fr": {
+      "text": "le gland"
+    },
+    "de": {
+      "text": "die Eichel"
+    },
+    "id": {
+      "text": "biji ek"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

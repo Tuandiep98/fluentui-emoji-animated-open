@@ -1,0 +1,46 @@
+{
+  "id": "pine-cone",
+  "name": "pine cone",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "pine cone"
+    },
+    "vi": {
+      "text": "quả thông"
+    },
+    "zh-Hans": {
+      "text": "松果",
+      "reading": "sōng guǒ"
+    },
+    "ja": {
+      "text": "松ぼっくり",
+      "reading": "matsubokkuri"
+    },
+    "ko": {
+      "text": "솔방울",
+      "reading": "solbangul"
+    },
+    "es": {
+      "text": "la piña de pino"
+    },
+    "fr": {
+      "text": "la pomme de pin"
+    },
+    "de": {
+      "text": "der Kiefernzapfen"
+    },
+    "id": {
+      "text": "runjung pinus"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

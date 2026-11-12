@@ -1,0 +1,46 @@
+{
+  "id": "lentil",
+  "name": "lentil",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "lentil"
+    },
+    "vi": {
+      "text": "đậu lăng"
+    },
+    "zh-Hans": {
+      "text": "小扁豆",
+      "reading": "xiǎo biǎn dòu"
+    },
+    "ja": {
+      "text": "レンズ豆",
+      "reading": "renzumame"
+    },
+    "ko": {
+      "text": "렌틸콩",
+      "reading": "rentilkong"
+    },
+    "es": {
+      "text": "la lenteja"
+    },
+    "fr": {
+      "text": "la lentille"
+    },
+    "de": {
+      "text": "die Linse"
+    },
+    "id": {
+      "text": "kacang lentil"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

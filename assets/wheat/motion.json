@@ -1,0 +1,74 @@
+{
+  "preset": "still",
+  "fps": 24,
+  "fx": [],
+  "sourceLock": {
+    "version": 1,
+    "mode": "continuous",
+    "sha256": "c6f74c142bd05127e271c17d733b371c226f2ba41646d2504ebe1d5e0a7ef1bf",
+    "reference": "original-still",
+    "origin": "new-original-master",
+    "facing": "Preserve exact original facing, complete geometry and attachments; never mirror or reassemble.",
+    "pinnedRegions": [
+      {
+        "name": "fixed-anchor-1",
+        "rect": [
+          0,
+          120,
+          256,
+          136
+        ]
+      }
+    ]
+  },
+  "regions": [
+    {
+      "name": "original-grain-tips",
+      "kind": "wave",
+      "center": [
+        126,
+        59
+      ],
+      "radius": [
+        68,
+        41
+      ],
+      "amp": 3.5,
+      "keyframes": [
+        [
+          0,
+          0
+        ],
+        [
+          0.3,
+          0
+        ],
+        [
+          0.9,
+          3.5
+        ],
+        [
+          1.4,
+          -1.2249999999999999
+        ],
+        [
+          2.05,
+          2.275
+        ],
+        [
+          2.8,
+          0
+        ],
+        [
+          3,
+          0
+        ]
+      ],
+      "pivot": [
+        127,
+        109
+      ]
+    }
+  ],
+  "note": "The original wheat grain tips sway gently with a continuous field; tied stems, leaves and lower anchors stay fixed."
+}

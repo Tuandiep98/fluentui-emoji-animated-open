@@ -1,0 +1,42 @@
+{
+  "count": 30,
+  "ids": [
+    "fish-sauce",
+    "rice-flour",
+    "cornstarch",
+    "baking-powder",
+    "syrup",
+    "chili-sauce",
+    "chickpea",
+    "lentil",
+    "kidney-bean",
+    "chicken-nugget",
+    "chicken-wing",
+    "chicken-breast",
+    "fish-ball",
+    "crab-stick",
+    "fried-egg",
+    "sausage-roll",
+    "rice-cake",
+    "seaweed",
+    "dough",
+    "soda",
+    "milkshake",
+    "milk-tea",
+    "chewing-gum",
+    "cotton-candy",
+    "popsicle",
+    "gummy-bear",
+    "jelly-bean",
+    "candy-cane",
+    "egg-yolk",
+    "egg-white"
+  ],
+  "license": "MIT",
+  "sourceBaseCommit": "3fe5b1db80b87ea4d602eb042aa96588989c74f7",
+  "sourceState": "Committed source; per-file hashes are authoritative",
+  "categories": {
+    "meals": 30
+  },
+  "sourceCommit": "1ac5b15856bf807c5134872a8b05b85ac5a47c11"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "lamb",
+  "name": "lamb",
+  "category": "wildlife",
+  "terms": {
+    "en": {
+      "text": "lamb"
+    },
+    "vi": {
+      "text": "cừu non"
+    },
+    "zh-Hans": {
+      "text": "小羊",
+      "reading": "xiǎo yáng"
+    },
+    "ja": {
+      "text": "子羊",
+      "reading": "kohitsuji"
+    },
+    "ko": {
+      "text": "새끼 양",
+      "reading": "saekki yang"
+    },
+    "es": {
+      "text": "el cordero"
+    },
+    "fr": {
+      "text": "l'agneau"
+    },
+    "de": {
+      "text": "das Lamm"
+    },
+    "id": {
+      "text": "anak domba"
+    }
+  },
+  "tags": [
+    "animals",
+    "wildlife"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

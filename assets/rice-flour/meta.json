@@ -1,0 +1,46 @@
+{
+  "id": "rice-flour",
+  "name": "rice flour",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "rice flour"
+    },
+    "vi": {
+      "text": "bột gạo"
+    },
+    "zh-Hans": {
+      "text": "米粉",
+      "reading": "mǐ fěn"
+    },
+    "ja": {
+      "text": "米粉",
+      "reading": "komeko"
+    },
+    "ko": {
+      "text": "쌀가루",
+      "reading": "ssalgaru"
+    },
+    "es": {
+      "text": "la harina de arroz"
+    },
+    "fr": {
+      "text": "la farine de riz"
+    },
+    "de": {
+      "text": "das Reismehl"
+    },
+    "id": {
+      "text": "tepung beras"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

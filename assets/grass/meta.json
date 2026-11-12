@@ -1,0 +1,46 @@
+{
+  "id": "grass",
+  "name": "grass",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "grass"
+    },
+    "vi": {
+      "text": "cỏ"
+    },
+    "zh-Hans": {
+      "text": "草",
+      "reading": "cǎo"
+    },
+    "ja": {
+      "text": "草",
+      "reading": "kusa"
+    },
+    "ko": {
+      "text": "풀",
+      "reading": "pul"
+    },
+    "es": {
+      "text": "la hierba"
+    },
+    "fr": {
+      "text": "l'herbe"
+    },
+    "de": {
+      "text": "das Gras"
+    },
+    "id": {
+      "text": "rumput"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

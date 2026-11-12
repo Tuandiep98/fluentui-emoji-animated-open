@@ -1,0 +1,46 @@
+{
+  "id": "escalator",
+  "name": "escalator",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "escalator"
+    },
+    "vi": {
+      "text": "thang cuốn"
+    },
+    "zh-Hans": {
+      "text": "自动扶梯",
+      "reading": "zì dòng fú tī"
+    },
+    "ja": {
+      "text": "エスカレーター",
+      "reading": "esukarētā"
+    },
+    "ko": {
+      "text": "에스컬레이터",
+      "reading": "eseukeolleiteo"
+    },
+    "es": {
+      "text": "la escalera mecánica"
+    },
+    "fr": {
+      "text": "l'escalier mécanique"
+    },
+    "de": {
+      "text": "die Rolltreppe"
+    },
+    "id": {
+      "text": "eskalator"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "price-tag",
+  "name": "price tag",
+  "category": "home",
+  "terms": {
+    "en": {
+      "text": "price tag"
+    },
+    "vi": {
+      "text": "thẻ giá"
+    },
+    "zh-Hans": {
+      "text": "价格标签",
+      "reading": "jià gé biāo qiān"
+    },
+    "ja": {
+      "text": "値札",
+      "reading": "nefuda"
+    },
+    "ko": {
+      "text": "가격표",
+      "reading": "gagyeokpyo"
+    },
+    "es": {
+      "text": "la etiqueta de precio"
+    },
+    "fr": {
+      "text": "l'étiquette de prix"
+    },
+    "de": {
+      "text": "das Preisschild"
+    },
+    "id": {
+      "text": "label harga"
+    }
+  },
+  "tags": [
+    "things",
+    "home"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

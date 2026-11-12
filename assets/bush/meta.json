@@ -1,0 +1,46 @@
+{
+  "id": "bush",
+  "name": "bush",
+  "category": "garden",
+  "terms": {
+    "en": {
+      "text": "bush"
+    },
+    "vi": {
+      "text": "bụi cây"
+    },
+    "zh-Hans": {
+      "text": "灌木",
+      "reading": "guàn mù"
+    },
+    "ja": {
+      "text": "低木",
+      "reading": "teiboku"
+    },
+    "ko": {
+      "text": "관목",
+      "reading": "gwanmok"
+    },
+    "es": {
+      "text": "el arbusto"
+    },
+    "fr": {
+      "text": "le buisson"
+    },
+    "de": {
+      "text": "der Busch"
+    },
+    "id": {
+      "text": "semak"
+    }
+  },
+  "tags": [
+    "nature",
+    "garden"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-2-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "vending-machine",
+  "name": "vending machine",
+  "category": "community",
+  "terms": {
+    "en": {
+      "text": "vending machine"
+    },
+    "vi": {
+      "text": "máy bán hàng tự động"
+    },
+    "zh-Hans": {
+      "text": "自动售货机",
+      "reading": "zì dòng shòu huò jī"
+    },
+    "ja": {
+      "text": "自動販売機",
+      "reading": "jidō hanbaiki"
+    },
+    "ko": {
+      "text": "자동판매기",
+      "reading": "jadongpanmaegi"
+    },
+    "es": {
+      "text": "la máquina expendedora"
+    },
+    "fr": {
+      "text": "le distributeur automatique"
+    },
+    "de": {
+      "text": "der Verkaufsautomat"
+    },
+    "id": {
+      "text": "mesin penjual otomatis"
+    }
+  },
+  "tags": [
+    "places",
+    "community"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-3-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}

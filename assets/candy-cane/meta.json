@@ -1,0 +1,46 @@
+{
+  "id": "candy-cane",
+  "name": "candy cane",
+  "category": "meals",
+  "terms": {
+    "en": {
+      "text": "candy cane"
+    },
+    "vi": {
+      "text": "kẹo gậy"
+    },
+    "zh-Hans": {
+      "text": "拐杖糖",
+      "reading": "guǎi zhàng táng"
+    },
+    "ja": {
+      "text": "キャンディケイン",
+      "reading": "kyandi kein"
+    },
+    "ko": {
+      "text": "지팡이 사탕",
+      "reading": "jipangi satang"
+    },
+    "es": {
+      "text": "el bastón de caramelo"
+    },
+    "fr": {
+      "text": "le sucre d'orge"
+    },
+    "de": {
+      "text": "die Zuckerstange"
+    },
+    "id": {
+      "text": "permen tongkat"
+    }
+  },
+  "tags": [
+    "food",
+    "meals"
+  ],
+  "license": "MIT",
+  "origin": "original-ai-generated",
+  "release": "easy-90-b-1-2026-11-12",
+  "addedAt": "2026-11-12",
+  "status": "ready"
+}
